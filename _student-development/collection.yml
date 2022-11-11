@@ -2,7 +2,6 @@ collections:
   student-development:
     output: true
     order:
-      - CCE21.md
       - CCA/.keep
       - CCA/CCA.md
       - CCA/CCA Schedule.md
@@ -10,3 +9,4 @@ collections:
       - CCA/National School Games.md
       - Values in Education Programmes (VIA).md
       - Education & Career Guidance Programmes (ECG).md
+      - CCE21.md
