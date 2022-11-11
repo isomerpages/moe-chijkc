@@ -2,7 +2,6 @@ collections:
   learning:
     output: true
     order:
-      - Departments/Mother Tongue Languages.md
       - Departments/.keep
       - Departments/Arts.md
       - Departments/Drama & Theatre Studies.md
@@ -12,3 +11,4 @@ collections:
       - Departments/Humanities.md
       - Departments/Information & Communications Technology.md
       - Departments/Mathematics.md
+      - Departments/Mother Tongue Languages.md
