@@ -2,6 +2,7 @@ collections:
   the-kc-experience:
     output: true
     order:
+      - Spirituality/Catholic Education.md
       - Spirituality/Spirituality.md
       - Spirituality/.keep
       - The KC Experience.md
