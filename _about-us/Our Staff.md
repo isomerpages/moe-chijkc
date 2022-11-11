@@ -37,10 +37,10 @@ description: ""
 
 | **Senior Teachers** |  |
 |:---:|:---:|
-| **Character and Citizenship Education** | 1930 |
-| **Chemistry** |  |
-| **Educational Support** |  |
-| **Literature** |  |
-| **Physical Education** |  |
-| **History** |  |
+| **Character and Citizenship Education** | Mrs Helen Lie |
+| **Chemistry** | Mr Alex Lim |
+| **Educational Support** | Mdm Zakiah Subahan |
+| **Literature** | Mrs Sukhjeet Singh |
+| **Physical Education** | Mr John D Jegathesan |
+| **History** | Mr Tan Swee Hong |
 |  |  |
