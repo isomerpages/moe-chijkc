@@ -25,3 +25,12 @@ description: ""
 | **Student Development** | Mrs Algena Lim |
 | **Year Head** | Mdm Nurahifah Amran |
 |  |  |
+
+| **Subject Heads** |  |
+|:---:|:---:|
+| **Geography** | Ms Cheryl Anne Lim |
+| **Literature and Drama** |  |
+| **Lower Sec Science** |  |
+| **Malay Language** |  |
+| **Mathematics** |  |
+|  |  |
