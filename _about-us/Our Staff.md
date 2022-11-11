@@ -34,3 +34,13 @@ description: ""
 | **Malay Language** | Ms Norazian Mohamed Yahya |
 | **Mathematics** | Mrs Nooryati Leong |
 |  |  |
+
+| **Senior Teachers** |  |
+|:---:|:---:|
+| **Character and Citizenship Education** | 1930 |
+| **Chemistry** |  |
+| **Educational Support** |  |
+| **Literature** |  |
+| **Physical Education** |  |
+| **History** |  |
+|  |  |
