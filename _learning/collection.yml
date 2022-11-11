@@ -2,5 +2,5 @@ collections:
   learning:
     output: true
     order:
-      - Departments/Art.md
+      - Departments/Arts.md
       - Departments/.keep
