@@ -19,3 +19,13 @@ Design &amp; Technology (D&amp;T) education in KC aims to nurture in our student
 3 \ .  Having a relentless drive to seek out how things work.
 
 4 \ .  Engaging the use of doodling and sketching, and 3D manipulation of resistant materials as a language for visualisation, communication and presentation.
+
+#### Lower Sec Programme
+
+Our lower secondary D&T programme emphasises the following:
+
+1 \ .  Thinking through sketching to generate and to develop design solutions.
+
+2 \ .  Exploration and experimentation of ideas through mock-ups to allow students to seek a practical and appropriate design solutions.
+
+3 \ .  The making of prototypes as a cognitive and hands-on endeavour.
