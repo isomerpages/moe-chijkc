@@ -2,8 +2,8 @@ collections:
   student-development:
     output: true
     order:
-      - CCA/National School Games.md
       - CCA/.keep
       - CCA/CCA.md
       - CCA/CCA Schedule.md
       - CCA/CCA Fair.md
+      - CCA/National School Games.md
