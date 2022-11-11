@@ -2,9 +2,9 @@ collections:
   learning:
     output: true
     order:
-      - Departments/General Music Programme.md
       - Departments/.keep
       - Departments/Arts.md
       - Departments/Drama & Theatre Studies.md
       - Departments/Design & Technology.md
       - Departments/English Language & Literature.md
+      - Departments/General Music Programme.md
