@@ -2,8 +2,8 @@ collections:
   learning:
     output: true
     order:
-      - Departments/English Language & Literature.md
       - Departments/.keep
       - Departments/Arts.md
       - Departments/Drama & Theatre Studies.md
       - Departments/Design & Technology.md
+      - Departments/English Language & Literature.md
