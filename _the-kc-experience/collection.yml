@@ -2,6 +2,7 @@ collections:
   the-kc-experience:
     output: true
     order:
+      - "Communicate, Perform, Visual/BMW 2021: A New Creation.md"
       - Communicate, Perform, Visual/.keep
       - Communicate, Perform, Visual/The Communicative, Performative & Visual
         Arts.md
