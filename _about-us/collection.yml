@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - The KC Graduate.md
       - IJ Mission, KC's Vision & Values.md
       - CHIJ Badge & Motto.md
       - History & Milestones.md
+      - The KC Graduate.md
