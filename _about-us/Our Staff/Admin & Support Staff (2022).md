@@ -38,3 +38,10 @@ third_nav_title: Our Staff
 | **Librarian** | Mdm Cassandra Lee |
 |  |  |
 
+| **Information Technology Support** |  |
+|:---:|---|
+| **ICT Manager** | Mr Kevin Yan |
+| **ICT Executive** | Ms Celine Tan Lian Choo |
+| **Desktop Engineer** | Mr Pravin Rajendran |
+| **Desktop Engineer** | Mr Micky Xu Weiquan |
+|  |  |
