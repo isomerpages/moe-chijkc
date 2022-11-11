@@ -2,12 +2,12 @@ collections:
   the-kc-experience:
     output: true
     order:
-      - "Communicate, Perform, Visual/BMW 2022: At First Light.md"
       - Communicate, Perform, Visual/.keep
       - Communicate, Perform, Visual/The Communicative, Performative & Visual
         Arts.md
       - Communicate, Perform, Visual/Arts & Culture Programme.md
       - Communicate, Perform, Visual/Book and Music Week.md
+      - "Communicate, Perform, Visual/BMW 2022: At First Light.md"
       - The KC Experience.md
       - 90 years of History and Heritage.md
       - Spirituality/.keep
