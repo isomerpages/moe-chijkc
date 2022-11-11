@@ -38,3 +38,8 @@ links:
         url: https://www.chijkatongconvent.moe.edu.sg/qql/slot/u185/VirtualTour2021/tour.html
       - title: Calendar
         url: /the-kc-experience/cal/
+  - title: Learning
+    url: /permalink
+    sublinks:
+      - title: Departments
+        url: /permalink
