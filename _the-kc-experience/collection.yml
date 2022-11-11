@@ -2,12 +2,12 @@ collections:
   the-kc-experience:
     output: true
     order:
-      - National Digital Literacy Prog/DMA Parents Option.md
       - National Digital Literacy Prog/.keep
       - National Digital Literacy Prog/National Digital Literacy Programme
         (NDLP).md
       - National Digital Literacy Prog/Frequently Asked Questions.md
       - National Digital Literacy Prog/Device Support & Insurance Claims.md
+      - National Digital Literacy Prog/DMA Parents Option.md
       - The KC Experience.md
       - 90 years of History and Heritage.md
       - Spirituality/.keep
