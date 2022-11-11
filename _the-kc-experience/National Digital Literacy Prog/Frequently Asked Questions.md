@@ -133,3 +133,18 @@ Students will be reminded to bring their devices as part of her daily learning r
 
 23 \. **Are there plans to avail power outlets for charging in school /during class?**<br>
 Charging facilities will be available in the school library. This is only for emergency use as students are expected to be responsible for charging their PLD the night before and bringing a fully-charged PLD to school the next day.
+
+**Warranty and Repair**
+
+24 \. **If the device becomes faulty or requires change in parts, does the school do the repair or should students/parents resolve that themselves?**<br>
+*   Technical support will be provided to students through:
+*   Service-desk set up in school during breaks and after school
+*   Lenovo Service Center, centrally located at Funan.  
+*   Acer Service Center, located at International Business Park. 
+
+25 \. **Who will bear the cost of repair?**<br>
+If the device is damaged, the parents/student can report it to the school. The school will coordinate with the vendor on the assessment of damage and repairs. If there are additional cost, the vendor will contact the parents/student before proceeding with the repair. All additional cost for repairs will be borne by the parents/students if not covered by insurance.
+
+Edusave funds cannot be used to pay for the cost of repairs.
+
+If the device is damaged beyond economical repair and is not covered by insurance (coverage against damage and loss/theft), the replacement device will have to be paid for by the parents/student.
