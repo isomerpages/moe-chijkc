@@ -2,7 +2,7 @@ collections:
   learning:
     output: true
     order:
-      - Departments/Design & Technology.md
       - Departments/.keep
       - Departments/Arts.md
       - Departments/Drama & Theatre Studies.md
+      - Departments/Design & Technology.md
