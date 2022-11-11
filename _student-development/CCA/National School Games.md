@@ -77,3 +77,21 @@ They participated in these events:
 | JK1 – 500m |
 | JK2 – 500m |
 |  |
+
+We would like to commend Tan Wen Yan from Sec 301 for clinching a place in the finals for the K1-1000m race and coming in 6th place.  
+
+**Bowling**<br>
+Between 4th and 8th April, 16 KC bowlers from Secondary 3, 4 and 5 took part in the bowling championships. Amongst the teams that our bowlers competed against were traditional powerhouses such as Singapore Sports School, Methodist Girls’ School and St Margaret’s Secondary School Throughout the games, our bowlers displayed perseverance, teamwork, and fine bowling skills. Despite the stiff competition, we are pleased to share that KC emerged 6th overall for this year’s Tenpin Bowling 'B' Division Championship. <br>
+In July, it was our C Division bowlers’ turn to compete. Time and again, their skills and grit were tested, and it was very proud to announce that they rose to the challenge, and emerged 4th overall (Team).
+
+**Non-CCA Sports**<br>
+As a caring school that excels, we want to support out students’ sporting aspirations in sports that are not part of the school’s CCAs. <br>
+This year, we sent a total of 5 students across four different sports to the NSG, to compete in golf, rhythmic gymnastics, swimming and wushu. <br>
+Jeryn Wong from Sec 105 was our representative at the golf championships this year. The championship, held at Laguna National Golf Resort Club, had a rainy delayed start that morning. Coupled with the fact that this was the first time Jeryn was competing in the NSG, she was understandably nervous. Our young golfer, however, remained calm and persevered in the rain over the two days, completing all 18 holes, seeing an improvement in her scores by the end of the competition.  
+
+For the first time, KC had a representative at the wushu competition, in Ashley Quek from Sec 405. It was an intense competition, and as no spectators or team managers were allowed into the venue during the competition, Ashley took guidance from her coach and had to steady herself on her own on the competition mat. She learnt a lot from the experience and we are proud of her for taking this on in her graduating year. 
+
+For rhythmic gymnastics, we had Claire Ng from Sec 405 competing in the hoop, ribbon, ball and clubs events, and brought back double Bronze medals for her beautifully graceful and technically challenging routines in the hoop and ribbons categories.  
+
+In swimming, we had competitors in both the B and C Divisions, with Claire Pang from Sec 205 competing in the 200m and 400m freestyle event, and Francesca Lee from Sec 403 competing in the 50m and 100m freestyle events. Both girls held their own and did well against traditional powerhouses at the meet; Claire even brought home a medal when she came in 4th place in the 200m freestyle event!
+
