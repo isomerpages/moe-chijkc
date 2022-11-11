@@ -2,6 +2,7 @@ collections:
   learning:
     output: true
     order:
+      - Departments/Principle of Accounts.md
       - Departments/.keep
       - Departments/Arts.md
       - Departments/Drama & Theatre Studies.md
