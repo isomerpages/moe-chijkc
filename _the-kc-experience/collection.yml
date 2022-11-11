@@ -2,4 +2,5 @@ collections:
   the-kc-experience:
     output: true
     order:
+      - 90 years of History and Heritage.md
       - The KC Experience.md
