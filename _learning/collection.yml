@@ -2,7 +2,6 @@ collections:
   learning:
     output: true
     order:
-      - Departments/Physical Education.md
       - Departments/.keep
       - Departments/Arts.md
       - Departments/Drama & Theatre Studies.md
@@ -14,3 +13,4 @@ collections:
       - Departments/Mathematics.md
       - Departments/Mother Tongue Languages.md
       - Departments/Nutrition & Food Science.md
+      - Departments/Physical Education.md
