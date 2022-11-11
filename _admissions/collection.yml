@@ -2,4 +2,5 @@ collections:
   admissions:
     output: true
     order:
+      - Scholarship & Awards.md
       - Direct School Admissions (DSA).md
