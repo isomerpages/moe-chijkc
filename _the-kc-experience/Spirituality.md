@@ -15,9 +15,9 @@ Blessed Barrè and his reflections provide inspiration to the teachers to embrac
 
 #### Catholic News
 
-In the latest edition of The [Catholic News](https://catholicnews.sg/2020/03/26/making-space-for-contemplation/) Singapore, CHIJ Katong Convent shares how, in this age of busyness and uncertainty, we make space for quiet contemplation as a means to quieten anxious thoughts and emotions to grow in peace with the rest of the KC family.
+In the latest edition of The&nbsp;[Catholic News](https://catholicnews.sg/2020/03/26/making-space-for-contemplation/)&nbsp;Singapore, CHIJ Katong Convent shares how, in this age of busyness and uncertainty, we make space for quiet contemplation as a means to quieten anxious thoughts and emotions to grow in peace with the rest of the KC family.
 
-<img src="/images/Catholic News (2).png" style="width:85%"><br>
+<img style="width:85%" src="/images/Catholic News (2).png"><br>
 [The Catholic News](https://catholicnews.sg/2020/03/26/making-space-for-contemplation/)
 
 #### Spirituality in Katong Convent
@@ -26,15 +26,15 @@ CHIJ (Katong Convent) strives not just for excellence in the academics, sports a
 
 The spirituality programme forms the umbrella for 5 key areas in the school’s spiritual activities:
 
-1)    Religious Education (RE) pull-out sessions for Catholic girls / Reflection sessions for non-Catholic girls
+1)&nbsp;&nbsp; &nbsp;Religious Education (RE) pull-out sessions for Catholic girls / Reflection sessions for non-Catholic girls
 
-2)    Eucharistic Celebrations (Masses)
+2)&nbsp;&nbsp; &nbsp;Eucharistic Celebrations (Masses)
 
-3)    Prayer Services
+3)&nbsp;&nbsp; &nbsp;Prayer Services
 
-4)    Retreats
+4)&nbsp;&nbsp; &nbsp;Retreats
 
-5)    Sec 1 weekly Connect programme (for Sec 1 Catholic students only)
+5)&nbsp;&nbsp; &nbsp;Sec 1 weekly Connect programme (for Sec 1 Catholic students only)
 
 The spirituality programme falls under the main responsibility of the School Chaplaincy Team (SCT). The Catholic teachers play an important role in ensuring that Catholic students receive a holistic spiritual education in the school through its programmes, activities and formal lessons, in alignment with the Catholic churches’ vision for its Catholic mission schools.
 
@@ -43,3 +43,5 @@ The whole school approach towards developing the spiritual dimension of a child 
 Prayers are said daily during morning assembly, in the chapel on Wednesdays before school starts and at noon to help instil in the students a sense of eternity through the need to connect themselves with God. Morning masses are celebrated in the school chapel every term. Having reflections is a culture that is instilled in the students through its formal RE pull-out sessions and its yearly retreat. Through such days of reflection, students listen to sharing of life experiences, reflect on their own actions, take stock of their life journey, assess and realign their goals.
 
 The spirituality programme supports the fundamental Catholic school ethos and the spirituality of the school. It is a process which facilitates the school’s ongoing effort to nurture each student’s unique spirituality, in line with the CHIJ’s school mission of creating a Christ-centred environment.
+
+<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSSwKfSe2VhMtHFefNyCl9BH4TurG69GHjs92ynnZqomh6cfAjzMIB1G1XU_bWkrf6IQKZr_X_Axxi6/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
