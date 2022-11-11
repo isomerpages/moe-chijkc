@@ -84,3 +84,5 @@ The [NDLP FAQ] **LINK TO ISOMER** should be useful in answering most of your que
 | Financial assistance available / Payment related matter | 6448 6433<br>(Mr Tan Wee Hian / Mdm Tan Mui Suan) |
 | DMA / IT equipment related | 6448 6433<br>(Mr Tan Hong Yak/ Mr Kevin Yan) |
 |  |  |
+
+Should there be any further queries or clarification, please email [chijktcs@moe.edu.sg](mailto:chijktcs@moe.edu.sg).
