@@ -2,7 +2,6 @@ collections:
   learning:
     output: true
     order:
-      - SLS Support for HBL.md
       - Departments/.keep
       - Departments/Arts.md
       - Departments/Drama & Theatre Studies.md
@@ -18,3 +17,4 @@ collections:
       - Departments/Principle of Accounts.md
       - Departments/Science.md
       - Full Subject Based Banding.md
+      - SLS Support for HBL.md
