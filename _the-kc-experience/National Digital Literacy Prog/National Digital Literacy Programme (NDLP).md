@@ -61,3 +61,26 @@ The online form will consist of:
 *   Authorisation to collect PLD
 
 If you are unable to submit this form online, please contact the school General Office for a hardcopy version or click this [link](/files/CHIJ%20KC_Letter%20to%20Parents%20for%20PDLP%20Procurement%2010%20Jan%2022%20hardcopy.pdf) to download the files, and submit it to the General Office.
+
+#### Financial Assistance
+
+Subsidies are available to students who require financial assistance.  
+  
+Students who are under the following schemes would automatically qualify for subsidies and do not need to take any action:       
+
+*   Singapore Citizens who are already on MOE FAS or
+*   Singapore Citizens who are already on our school-based FAS Scheme (IJ Bursary) and whose Gross Household Income (GHI) is $4,000 or less, or Per Capita Income (PCI) is $1,000 or less.  
+*   Students who are currently not under the above schemes may approach the school’s General Office or download the Application for Subsidy Form to apply for additional subsidy if their Gross Household Income (GHI) is $4,000 or less, or Per Capita Income (PCI) is $1,000 or less. “PCI” refers to the Gross Household Income divided by the total number of family members in the household.
+
+Application for subsidy should be submitted to the General Office.
+
+#### Further Queries
+
+The [NDLP FAQ] **LINK TO ISOMER** should be useful in answering most of your queries.
+
+| **To access/find out more about...** | **Contact/Helpline** |
+|:---:|---|
+| Edusave Balance | 6260 0777 |
+| Financial assistance available / Payment related matter | 6448 6433<br>(Mr Tan Wee Hian / Mdm Tan Mui Suan) |
+| DMA / IT equipment related | 6448 6433<br>(Mr Tan Hong Yak/ Mr Kevin Yan) |
+|  |  |
