@@ -36,3 +36,14 @@ In 2021, we celebrated 10 years of EAP at our school with an online art exhibiti
 <img src="/images/EAP Exhibition Publicity EDM.png" style="width:100%">
 </a></p>
 
+#### Development Initiative for Visual Art (DIVA)
+
+DIVA is a mentoring approach for our DSA Visual Art students. Through DIVA, we aim to groom leaders in Visual Art through our 3 ‘E’ approach of Expose, Enrich and Extend, where our students get to experience both the depth and the breadth of learning in Visual Art.
+
+For more information on the programme and DSA admission, please refer to our Admissions page.
+
+#### Signature Programmes
+
+*   Enhanced Art Programme (EAP)
+*   Development Initiative for Visual Art (DIVA)
+*   Art Immersion Programme (AiP)
