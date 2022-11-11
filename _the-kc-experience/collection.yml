@@ -2,6 +2,6 @@ collections:
   the-kc-experience:
     output: true
     order:
-      - Spirituality.md
       - The KC Experience.md
       - 90 years of History and Heritage.md
+      - Spirituality.md
