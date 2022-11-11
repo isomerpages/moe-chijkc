@@ -15,3 +15,13 @@ Each student is being developed in relation to the competencies of the KC Gradua
 *   **Discerning Citizen of the World**
 
 The attributes in the KC Grad profile form part of the journey in the development of our students. At some juncture of their school life, our students pause, reflect, self-assess and receive feedback from their teachers.
+
+| **Compassionate Servant Leader** | **Innovative Problem Solver** |
+|:---:|:---:|
+| Noble – others before self | Teamwork – Works effectively in teams and exercises initiative |
+| Compassion – Care and concern; takes an active role to better the lives of others around her | Innovative and strives for excellence |
+| Humility – humble, polite and kind | Shows perseverance and takes calculated risks |
+| Reflective | Independent and critical thinker |
+| Respects self, others and the sanctity of life | Takes responsibility for her own learning and asks questions |
+
+
