@@ -41,3 +41,17 @@ third_nav_title: Our Staff
 | **306 EXP** | Mrs Janice Tan | Mr Winston Chiang |
 | **307 NT** | Ms Esther Tan Kok Kheng | Ms Gena Yang Jie Ting /  <br>Mr Koh Mui Pong Thomas |
 |  |  |  |
+
+| **SECONDARY 4** | **Year Head:** Mrs Algena Lim | **Discipline:** Mdm Zairina Mohamad Zen |
+|:---:|:---:|---|
+| **Class** | **Form Teacher** | **Form Teacher** |
+| **401 NA** |  |  |
+| **402 NA** |  |  |
+| **403 EXP** |  |  |
+| **404 EXP** |  |  |
+| **405 EXP** |  |  |
+| **406 EXP** |  |  |
+| **407 NT** |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
