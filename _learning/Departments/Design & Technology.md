@@ -29,3 +29,7 @@ Our lower secondary D&T programme emphasises the following:
 2 \ .  Exploration and experimentation of ideas through mock-ups to allow students to seek a practical and appropriate design solutions.
 
 3 \ .  The making of prototypes as a cognitive and hands-on endeavour.
+
+#### Signature Programme
+
+*   Design Thinking
