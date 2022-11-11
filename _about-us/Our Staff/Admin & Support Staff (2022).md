@@ -17,4 +17,16 @@ third_nav_title: Our Staff
 | **Corporate Support Officer** | Ms Audrey Ng |
 |  |  |
 
-
+| **Support Officers** |  |
+|:---:|---|
+| **Technical Support Officer** | Ms Goh Cheng Gek |
+| **Technical Support Officer** | Mdm Iryanti Bte Jamil |
+| **Technical Support Officer** | Mr Md Zaaini Bin Hussain |
+| **Operations Support Officer** | Mdm Rashida Bee Abdul Hameed |
+| **Operations Support Officer** | Mr Chan Chin Weng |
+| **Operations Support Officer** | Mdm Chern Kwat Shiang |
+| **Operations Support Officer** | Mdm Christine Koh |
+| **Operations Support Officer** | Mdm Ng Ka Hoon |
+| **Operations Support Officer** | Mr Tan Chew Seng |
+| **Receptionist** | Ms Siti Hawa | 
+| | |
