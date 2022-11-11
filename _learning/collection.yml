@@ -2,7 +2,6 @@ collections:
   learning:
     output: true
     order:
-      - Full Subject Based Banding.md
       - Departments/.keep
       - Departments/Arts.md
       - Departments/Drama & Theatre Studies.md
@@ -17,3 +16,4 @@ collections:
       - Departments/Physical Education.md
       - Departments/Principle of Accounts.md
       - Departments/Science.md
+      - Full Subject Based Banding.md
