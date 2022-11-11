@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - History & Milestones/Naming of the School Blocks.md
       - History & Milestones/History & Milestones.md
       - History & Milestones/.keep
       - IJ Mission, KC's Vision & Values.md
