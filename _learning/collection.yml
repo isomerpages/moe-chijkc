@@ -2,7 +2,6 @@ collections:
   learning:
     output: true
     order:
-      - Departments/Principle of Accounts.md
       - Departments/.keep
       - Departments/Arts.md
       - Departments/Drama & Theatre Studies.md
@@ -15,3 +14,4 @@ collections:
       - Departments/Mother Tongue Languages.md
       - Departments/Nutrition & Food Science.md
       - Departments/Physical Education.md
+      - Departments/Principle of Accounts.md
