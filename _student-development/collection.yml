@@ -2,5 +2,6 @@ collections:
   student-development:
     output: true
     order:
+      - CCA/CCA Schedule.md
       - CCA/CCA.md
       - CCA/.keep
