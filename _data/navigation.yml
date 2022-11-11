@@ -43,3 +43,8 @@ links:
     sublinks:
       - title: Departments
         url: /learning/Departments/art/
+  - title: Student Development
+    url: /permalink
+    sublinks:
+      - title: CCA
+        url: /permalink
