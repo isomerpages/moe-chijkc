@@ -2,6 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - History & Milestones.md
       - IJ Mission, KC's Vision & Values.md
       - CHIJ Badge & Motto.md
+      - History & Milestones.md
