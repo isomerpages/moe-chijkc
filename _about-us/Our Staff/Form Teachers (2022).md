@@ -22,10 +22,10 @@ third_nav_title: Our Staff
 |:---:|:---:|---|
 | **Class** | **Form Teacher** | **Form Teacher** |
 | **201 NA** | Mrs Shanti Lingesh | Mr Richard Leong |
-| **202 NA** |  |  |
-| **203 EXP** |  |  |
-| **204 EXP** |  |  |
-| **205 EXP** |  |  |
-| **206 EXP** |  |  |
-| **207 NT** |  |  |
+| **202 NA** | Mrs Cherylyn Koh | Ms Farah Syazwana Sulaiman |
+| **203 EXP** | Mrs Evelyn Soon | Mr Luke Ezekiel |
+| **204 EXP** | Mr John D. Jegathesan | Ms Mano Mani |
+| **205 EXP** | Ms Cai Hanyun | Mdm Chong Pei Sin |
+| **206 EXP** | Ms Patrine Chua Chee Huang | Mr Tan Yan Zhao |
+| **207 NT** | Ms Nurhana Achmad | Ms Sarah Phua Yiran |
 |  |  |  |
