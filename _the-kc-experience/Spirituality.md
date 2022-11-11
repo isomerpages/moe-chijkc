@@ -45,3 +45,7 @@ Prayers are said daily during morning assembly, in the chapel on Wednesdays befo
 The spirituality programme supports the fundamental Catholic school ethos and the spirituality of the school. It is a process which facilitates the school’s ongoing effort to nurture each student’s unique spirituality, in line with the CHIJ’s school mission of creating a Christ-centred environment.
 
 <iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSSwKfSe2VhMtHFefNyCl9BH4TurG69GHjs92ynnZqomh6cfAjzMIB1G1XU_bWkrf6IQKZr_X_Axxi6/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
+#### Catholic Education Sunday
+
+The Archdiocese designated **15 September** as Catholic Education Sunday. The aim of Catholic Education Sunday was to underscore the importance of School-Church-Home partnerships in delivering a unique Catholic education. During the weekend of 14 and 15 September, at least 25 parishes, Catholic students from Catholic schools served by participating as lectors, as a joint choir singing alongside the church choir, and/or altar servers. Our Catholic students, served as lectors, celebrating CES at the Church of Our Lady Queen of Peace at the Saturday, 5.30 pm mass and Sunday 11 am mass.
