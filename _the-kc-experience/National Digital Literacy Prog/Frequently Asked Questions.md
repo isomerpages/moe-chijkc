@@ -103,3 +103,33 @@ Chromebook can, if necessary, be set up to work without internet access. Using t
 Students from low-income households will continue to be supported for subsidized broadband under IMDA’s digital access schemes. More information on IMDA’s digital access schemes can be found at [https://www.imda.gov.sg/ha](https://www.imda.gov.sg/ha)
 
 15 \. **Will this Chromebook be able to support the use of Zoom app?**<br> As of 21 September 2020, Zoom Video Communications, Inc has updated the Chrome Web Store app to optimize CPU usage for all Chrome devices so that everyone using Zoom on a Chromebook has an easy-to-use, reliable experience.
+
+**Collection of Device**
+
+16 \. **Where do we collect the device after the purchase?**<br>
+The school will make arrangements for students to collect their devices in the school.
+
+17 \. **When will the girls get their PLD?**<br>
+The PLDs are projected to be delivered in March 2022.
+
+18 \. **Will the school let the child know what to look out for when collecting the PLD?**<br>
+A briefing will be conducted for all students on the PLDs. Students will learn more about their PLDs in this briefing.
+
+**Use of Device**
+
+19 \.**Will having a Chromebook replace textbooks?**<br>
+The Chromebook will not replace textbooks, as textbooks are currently designed as curriculum-aligned reference. Students can use the Chromebook to complement learning from textbooks with access to curriculum-aligned resources in the SLS.
+
+20 \. **Are students expected to bring their PLDs to school daily? What is the expected weight of the device?**<br>
+The students should bring a fully charged PLD to school daily.  This is part of school-wide learning routines. Lockers are available for rental if students wish to store their books in school. As we are creating a Blended Learning environment for learning to take place anywhere, anytime, online, offline, the students would need to bring their device to school daily to benefit from this enhanced learning environment.
+
+MOE has considered factors such as size and weight of devices when preparing the tender specifications for the Bulk Tender. The size of our school’s chosen device is 11.6" and its weight is 1.25 kg.
+
+21 \. **Will there be a pool of devices to be loaned to students should there be a situation where their devices malfunction?**<br>
+The school will provide devices for short-term loan due to loss or repairs, subject to the availability of devices available for loan.
+
+22 \. **If my child/ward forgets to bring the PLD to school, can she still catch up with the lesson which may be conducted online in class?**<br>
+Students will be reminded to bring their devices as part of her daily learning routine. For emergency cases, as assessed and recommended by teachers, a device may be loaned to her for that day, subject to the availability of devices available for loan.
+
+23 \. **Are there plans to avail power outlets for charging in school /during class?**<br>
+Charging facilities will be available in the school library. This is only for emergency use as students are expected to be responsible for charging their PLD the night before and bringing a fully-charged PLD to school the next day.
