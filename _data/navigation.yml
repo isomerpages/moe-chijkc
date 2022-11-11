@@ -18,4 +18,9 @@ links:
       - title: Contact Information
         url: /about-us/contact-info/
       - title: FAQ
+        url: /about-us/faq/
+  - title: The KC Experience
+    url: /permalink
+    sublinks:
+      - title: 90 years of History & Heritage
         url: /permalink
