@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - FAQs.md
       - IJ Mission, KC's Vision & Values.md
       - CHIJ Badge & Motto.md
       - History & Milestones.md
@@ -14,3 +13,4 @@ collections:
       - Our Staff/Admin & Support Staff (2022).md
       - School Song.md
       - Contact Information.md
+      - FAQs.md
