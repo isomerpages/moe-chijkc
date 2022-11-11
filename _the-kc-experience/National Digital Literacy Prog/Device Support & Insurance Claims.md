@@ -17,3 +17,12 @@ third_nav_title: National Digital Literacy Prog
 7 \ . Students can loan a device from the school common pool for daily lessons during the period of repair (subject to availability of devices).<br>
 8 \ . If students encounter issues with their devices in school, they may approach their school- based ICT Service Desk for assistance. They will perform basic troubleshooting and assist to log a case with contractor if needed.<br>
 9 \ . Please note that only personal learning devices procured under PDLP device bulk tender are eligible for the fortnightly collection services provided by contractor.
+
+Parents/Students may rely on the following platforms if they need support or insurance claims for their devices:
+
+#### For Lenovo Chromebook 500e (Gen 2)
+
+| **Helpdesk** | **Lenovo Service Center** |
+|:---:|---|
+| Helpdesk Phone: 800 852 8100<br><br>(After selecting your preferred language, please press “2” for standard warranty customer)<br><br>Service Centre Email:<br>[lenovo@smartcares.com](mailto:lenovo@smartcares.com)<br><br>Pre-Registration (For Faster Service / Drop-off): [https://smartcares.com/lenovo](https://smartcares.com/lenovo) | Service Centre: 6871 4838 <br>Address: **Tai Seng Centre SmartCares Solutions** <br>3 Irvin Road, #01-17  <br>Singapore 369522  <br>(Beside Tai Seng MRT Station, Exit A) <br><br> Opening hours: <br>Mon – Sat: 1100 – 1900 <br>Closed on Sun and Public Holidays |
+|  |  |
