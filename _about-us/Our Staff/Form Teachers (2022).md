@@ -33,13 +33,11 @@ third_nav_title: Our Staff
 | **SECONDARY 3** | **Year Head:** Ms Nurahifah Amran | **Discipline:** Mdm Raudah Hussain |
 |:---:|:---:|---|
 | **Class** | **Form Teacher** | **Form Teacher** |
-| **301 NA** |  |  |
-| **302 NA** |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| **301 NA** | Mrs Sukhjeet Singh | Mr Khoo Xuan Wei Eugene |
+| **302 NA** | Mdm Zakiah Subahan | Mr Ho Shi An /<br> Ms Lim Si Ying |
+| **303 EXP** | Mr See Tow Pak Kei | Mdm Raudah Hussain |
+| **304 EXP** | Mr Alex Lim Kheam Soon | Mrs Geraldine Chua |
+| **305 EXP** | Ms Gan Siew Cheng | Mrs Chan Liying |
+| **306 EXP** | Mrs Janice Tan | Mr Winston Chiang |
+| **307 NT** | Ms Esther Tan Kok Kheng | Ms Gena Yang Jie Ting /  <br>Mr Koh Mui Pong Thomas |
 |  |  |  |
