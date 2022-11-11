@@ -41,3 +41,23 @@ If your child/ward is a Singapore citizen, you can use your child’s/ward’s E
 <img src="/images/Acer R752TN.png" style="width:85%">
 
 #### Resources for Parents
+
+The following are useful resources to support our parents in keeping our students safe online:
+* Parent Handbooks on Learning with a Personal Learning Device ([Book 1](/files/Book1.pdf) & [Book2](https://www.chijkatongconvent.moe.edu.sg/qql/slot/u185/The%20KC%20Experience/NDLP/Parent%20Handbook%20II%20on%20Learning%20with%20a%20Personal%20Learning%20Device.pdf) - PDF exceeds 5MB)
+* Parent Kit on Cyber Wellness for Your Child [(https://go.gov.sg/moe-cyber-wellness)](/files/cyber-wellness-for-your-child.pdf)
+* MOE Cyber Wellness Programme ([https://www.moe.gov.sg/programmes/cyber-wellness/](https://www.moe.gov.sg/programmes/cyber-wellness/)) **PAGE NOT FOUND**
+* Media Literacy Council ([https://go.gov.sg/better-internet-sg](https://go.gov.sg/better-internet-sg))
+* National Library’s Learning & Information Literacy Resources ([https://sure.nlb.gov.sg/](https://sure.nlb.gov.sg/))
+* TOUCH Community Services ([https://help123.sg](https://help123.sg/))
+
+#### Purchase of PLD
+
+To proceed with the purchase of PLD, please complete the online form at this [link](https://form.gov.sg/5f8b1a54caf67200118fc719).
+
+The online form will consist of:
+
+*   Intent to Purchase PLD
+*   Edusave Withdrawal (for SC only)
+*   Authorisation to collect PLD
+
+If you are unable to submit this form online, please contact the school General Office for a hardcopy version or click this [link](/files/CHIJ%20KC_Letter%20to%20Parents%20for%20PDLP%20Procurement%2010%20Jan%2022%20hardcopy.pdf) to download the files, and submit it to the General Office.
