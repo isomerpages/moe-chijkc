@@ -41,3 +41,25 @@ CHIJ Katong Convent has a policy which governs the use of mobile phone/ electron
 
 5 \. **Will transport be provided?**<br>
 We do not provide transport services unlike primary school.
+
+#### Curriculum
+
+1 \. **Does my daughter need to buy a laptop/mobile device as part of school programme?**<br>
+Please refer the following link: [https://www.chijkatongconvent.moe.edu.sg/student-development/national-digital-literacy-programme](https://www.chijkatongconvent.moe.edu.sg/student-development/national-digital-literacy-programme) **LINK NOT FOUND**
+
+2 \. **What are some of the special programmes that the school offers?**<br>
+CHIJ Katong Convent offers the following distinctive programmes:<br>
+1) GCE O Level Drama and Lower Sec Drama Programme<br>
+2) Enhanced Art Programme<br>
+3) Art and Culture Programme (pilot phase)
+
+#### CCA
+
+1 \. **What are the available CCAs?** //INPUT ISOMER SITE<br>
+Please refer to the following link: 
+
+2 \. **Is it compulsory for my daughter to join CCA?**<br>
+Yes, it is compulsory for all students in secondary schools.
+
+3 \. **Can my daughter join more than 1 CCA?**<br>
+We do not encourage students to participate in more than one CCA due to the demands of secondary school. Instead students are encouraged to participate actively in the training, practice sessions and contribute positively to their chosen CCA. <br>Students who can cope well academically can appeal to take up a second CCA.
