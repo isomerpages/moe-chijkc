@@ -2,7 +2,6 @@ collections:
   learning:
     output: true
     order:
-      - Departments/Information & Communications Technology.md
       - Departments/.keep
       - Departments/Arts.md
       - Departments/Drama & Theatre Studies.md
@@ -10,3 +9,4 @@ collections:
       - Departments/English Language & Literature.md
       - Departments/General Music Programme.md
       - Departments/Humanities.md
+      - Departments/Information & Communications Technology.md
