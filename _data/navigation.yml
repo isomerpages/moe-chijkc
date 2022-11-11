@@ -62,3 +62,8 @@ links:
         url: /student-development/sex-ed/
       - title: Student Leadership
         url: /student-development/student-ldrship/
+  - title: Admissions
+    url: /permalink
+    sublinks:
+      - title: Direct School Admissions (DSA)
+        url: /permalink
