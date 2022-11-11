@@ -44,9 +44,9 @@ links:
       - title: Departments
         url: /learning/Departments/art/
       - title: Full Subject-Based Banding
-        url: /permalink
+        url: /learning/fsbb/
       - title: SLS Support for HBL
-        url: /permalink
+        url: /learning/sls/
   - title: Student Development
     url: /student-development/CCA/cca/
     sublinks:
