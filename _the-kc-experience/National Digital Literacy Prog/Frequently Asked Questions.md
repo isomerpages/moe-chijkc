@@ -148,3 +148,16 @@ If the device is damaged, the parents/student can report it to the school. The s
 Edusave funds cannot be used to pay for the cost of repairs.
 
 If the device is damaged beyond economical repair and is not covered by insurance (coverage against damage and loss/theft), the replacement device will have to be paid for by the parents/student.
+
+26 \. **What if the student loses the device?**<br>
+The PLD is bundled with 3-year insurance and 3-year warranty, which allows for two repairs or one replacement.
+
+The insurance coverage is only applicable to situations of damage and loss where the student has taken precautions to safeguard the device. A police report will have to be made for the insurance claim. Accidental loss due to negligence is not covered by insurance and a new PLD will have to be purchased by the parents/student. The school will assist in purchasing a replacement PLD.
+
+27 \. **Since the warranty/insurance covers 3 years, what is the arrangement beyond 3 years? Is it possible to pay for extended warranty?**<br>
+The insurance and warranty bundled in the school-purchased device covers 3 years. If the insurance/warranty has expired, or the replacement is not covered under the insurance/warranty (e.g. due to negligence, student has already received a replacement device earlier), school can help to facilitate the second  purchase.  Students can use their Edusave to pay for a new device and lower-income family can apply for subsidy.
+
+Extended warranty beyond 3 years for the computing device is not available in the open market. It would be very costly to incorporate such a requirement and it makes more economical sense to replace the device when it is beyond economical repair after 3 years.
+
+28 \. **What happens to the device ownership upon graduation?**<br>
+The Chromebook bundle deal entitles parents/student the ownership of the device and accessories. Chromebook runs on Chrome OS and will continue to be updated to the latest version of Chrome whenever available if the default auto-update settings are kept. The Chromebook will continue to be updated beyond its warranty of 3 years.
