@@ -2,7 +2,6 @@ collections:
   learning:
     output: true
     order:
-      - Departments/Nutrition & Food Science.md
       - Departments/.keep
       - Departments/Arts.md
       - Departments/Drama & Theatre Studies.md
@@ -13,3 +12,4 @@ collections:
       - Departments/Information & Communications Technology.md
       - Departments/Mathematics.md
       - Departments/Mother Tongue Languages.md
+      - Departments/Nutrition & Food Science.md
