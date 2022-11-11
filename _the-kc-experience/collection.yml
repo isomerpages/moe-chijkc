@@ -1,4 +1,5 @@
 collections:
   the-kc-experience:
     output: true
-    order: []
+    order:
+      - The KC Experience.md
