@@ -1,7 +1,11 @@
 logo: /images/isomer-logo.svg
 links:
   - title: About Us
-    url: /permalink
+    url: /about-us/mvv/
     sublinks:
       - title: IJ Mission, KC's Vision&Values
+        url: /about-us/mvv/
+      - title: CHIJ Badge & Motto
+        url: /permalink
+      - title: Submenu Title
         url: /permalink
