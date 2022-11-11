@@ -10,3 +10,4 @@ description: ""
 | **Principal** | Mrs Hilda Thong |
 | **Vice-Principal (Education Officer)** | Mrs Goh Kok Chan |
 | **Vice-Principal (Education Officer)** | Ms Annie Lim |
+| | |
