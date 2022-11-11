@@ -2,7 +2,6 @@ collections:
   student-development:
     output: true
     order:
-      - Student Leadership.md
       - CCA/.keep
       - CCA/CCA.md
       - CCA/CCA Schedule.md
@@ -12,3 +11,4 @@ collections:
       - Education & Career Guidance Programmes (ECG).md
       - CCE21.md
       - Sexuality Education.md
+      - Student Leadership.md
