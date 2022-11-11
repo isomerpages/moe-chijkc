@@ -24,4 +24,10 @@ The attributes in the KC Grad profile form part of the journey in the developmen
 | Reflective | Independent and critical thinker |
 | Respects self, others and the sanctity of life | Takes responsibility for her own learning and asks questions |
 
-
+| **Effective Communicator** | **Discerning Citizen of the World** |
+|:---:|:---:|
+| Has self-awareness and self-management skills | Moral integrity and justice – strong sense of right and wrong |
+| Has moral courage and confidence | Embraces differences and is discerning in judgement |
+| Has good relationship management and is able to work in a team | Rooted to Singapore; has a strong civic consciousness and is informed |
+| Communicates and collaborates effectively | Pursues lifelong learning, has a global mindset |
+| Appreciates aesthetics (acting / singing / dancing / drawing / painting) | Adaptable and resilient |
