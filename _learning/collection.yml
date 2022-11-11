@@ -2,6 +2,6 @@ collections:
   learning:
     output: true
     order:
-      - Departments/Drama & Theatre Studies.md
       - Departments/.keep
       - Departments/Arts.md
+      - Departments/Drama & Theatre Studies.md
