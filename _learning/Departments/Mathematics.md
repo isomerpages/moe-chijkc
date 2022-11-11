@@ -28,9 +28,22 @@ third_nav_title: Departments
 *   Mathematics Trail
 *   Mathematical Modelling Activities
 
-<iframe width="800height=" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRUyg2xaAVIE8BPWaFv0KQ697nYcDapB_ITtYx35m4ilTMfsZUfAIwuhRksiwPzt410T-TDlqlCqFSo/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRUyg2xaAVIE8BPWaFv0KQ697nYcDapB_ITtYx35m4ilTMfsZUfAIwuhRksiwPzt410T-TDlqlCqFSo/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
-<iframe width="800height=" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ_I_cTNrpI-gCKLDepTN9Ee2R1jfwPsDbX9zRVwTCIFoUWTeaZazMecTCSNt_UXMb_qnPdH1udrbYg/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ_I_cTNrpI-gCKLDepTN9Ee2R1jfwPsDbX9zRVwTCIFoUWTeaZazMecTCSNt_UXMb_qnPdH1udrbYg/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
-<iframe width="800height=" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQsLwY4CiKqvBUQ_WNbComOcCfNmK8g643x_kaXrX50BIli-i9qRvueawVdF_zKhXlmMuy4RRz54KHj/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQsLwY4CiKqvBUQ_WNbComOcCfNmK8g643x_kaXrX50BIli-i9qRvueawVdF_zKhXlmMuy4RRz54KHj/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
+<img style="width:85%" src="/images/SMO 2019 winners.jpg">
+
+#### Sec 3 Mathematical Modelling Task
+
+<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS75Zlkd8jZhvidO5wpIXkB1gAQ1vSjdtHZaDphWZ6sWrEdTbw0Ng3yAvgADNWm5jbTevDhAoPeqw23/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
+#### Math Trail at Gardens by the Bay
+
+<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSeKRRKMZnzeicrTuUAwVsj1EA_k9CyjAxEhJhjZXCXWgLQfRr9mkPdYLDfM_-UwMWkxPy3pAWLyu1s/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
+#### Prize Winners for SMO Competition 2022
+
+<img style="width:85%" src="/images/IMG_2871.jpg">
