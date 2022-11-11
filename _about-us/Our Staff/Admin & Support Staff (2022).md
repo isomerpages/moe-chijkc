@@ -30,3 +30,11 @@ third_nav_title: Our Staff
 | **Operations Support Officer** | Mr Tan Chew Seng |
 | **Receptionist** | Ms Siti Hawa | 
 | | |
+
+| **Curricular & Co-Curricular Support** |  |
+|:---:|---|
+| **AED (Teaching & Learning)** | Ms Esther Tan (Mathematics) |
+| **AED (Learning and Behavioural Support)** | Ms Gursheran Kaur |
+| **Librarian** | Mdm Cassandra Lee |
+|  |  |
+
