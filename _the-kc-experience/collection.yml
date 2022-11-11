@@ -2,6 +2,7 @@ collections:
   the-kc-experience:
     output: true
     order:
+      - Communicate, Perform, Visual/.keep
       - The KC Experience.md
       - 90 years of History and Heritage.md
       - Spirituality/.keep
