@@ -2,6 +2,11 @@ collections:
   the-kc-experience:
     output: true
     order:
+      - The KC Experience.md
+      - 90 years of History and Heritage.md
+      - Spirituality/.keep
+      - Spirituality/Spirituality.md
+      - Spirituality/Catholic Education.md
       - Communicate, Perform, Visual/.keep
       - Communicate, Perform, Visual/The Communicative, Performative & Visual
         Arts.md
@@ -13,8 +18,3 @@ collections:
       - Communicate, Perform, Visual/Book and Music Week 2019.md
       - Communicate, Perform, Visual/Drama Elective Programme.md
       - Communicate, Perform, Visual/Enhanced Art Programme.md
-      - The KC Experience.md
-      - 90 years of History and Heritage.md
-      - Spirituality/.keep
-      - Spirituality/Spirituality.md
-      - Spirituality/Catholic Education.md
