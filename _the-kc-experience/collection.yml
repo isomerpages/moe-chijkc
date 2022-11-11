@@ -2,8 +2,8 @@ collections:
   the-kc-experience:
     output: true
     order:
-      - Spirituality/Catholic Education.md
-      - Spirituality/Spirituality.md
       - Spirituality/.keep
+      - Spirituality/Spirituality.md
+      - Spirituality/Catholic Education.md
       - The KC Experience.md
       - 90 years of History and Heritage.md
