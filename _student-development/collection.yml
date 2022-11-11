@@ -2,7 +2,6 @@ collections:
   student-development:
     output: true
     order:
-      - Sexuality Education.md
       - CCA/.keep
       - CCA/CCA.md
       - CCA/CCA Schedule.md
@@ -11,3 +10,4 @@ collections:
       - Values in Education Programmes (VIA).md
       - Education & Career Guidance Programmes (ECG).md
       - CCE21.md
+      - Sexuality Education.md
