@@ -18,3 +18,12 @@ This is directly opposite the school gate and within a short walking distance. I
 Can’t wait to have more information so you can plan your visit?
 
 Take a peek at the [timings](/files/KC%20Open%20House%20Programme.pdf) of what we have lined up for you and check back at this same webpage later for Navigation map!
+
+<img src="/images/photo1668171200.jpeg" style="width:90%">
+
+Before you go, enjoy a short 3 mins clip on our school’s signature **B**ook and **M**usic **W**eek programme:
+
+**REQUIRE JACKSON'S INPUT VIDEO**
+
+#### Come experience our KC 360 virtual tour of our campus
+
