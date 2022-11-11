@@ -29,3 +29,17 @@ third_nav_title: Our Staff
 | **206 EXP** | Ms Patrine Chua Chee Huang | Mr Tan Yan Zhao |
 | **207 NT** | Ms Nurhana Achmad | Ms Sarah Phua Yiran |
 |  |  |  |
+
+| **SECONDARY 3** | **Year Head:** Ms Nurahifah Amran | **Discipline:** Mdm Raudah Hussain |
+|:---:|:---:|---|
+| **Class** | **Form Teacher** | **Form Teacher** |
+| **301 NA** |  |  |
+| **302 NA** |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
