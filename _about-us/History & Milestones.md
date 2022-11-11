@@ -35,13 +35,13 @@ As an IJ School, CHIJ Katong Convent is a Catholic school which commits itself t
 | **Sr Veronica** | 1954 | * With growing enrolment school became double session |
 | **Sr Finbarr** | 1959 | * CHIJ Opera Estate was established P1 to P4 in CHIJ Opera Estate, P5 & P6 in KC |
 |  | 1966 | * Addition of new wing |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| **Mrs Marie Bong** | 1972 | * 1st Lay Principal Introduced Literature for All, Book Wk & Music Wk, Choral Speaking, Shakespearean productions |
+|  | 1982 | * School Merged with Opera Estate |
+| **Mrs Karen Oei** | 1986 | * School moved to Marine Terrace KC became a Secondary School<br>* Introduced Dance |
+|  | 1990 | * Primary School returned to Martia Road KC becomes single session |
+| **Mrs Lysia Kee** | 1997 | * Expansion & upgrading of school premises Started Chinese Orchestra, Evening of Music, Dance & Drama |
+|  | 1999 | * 1st Academic Value-Added Award IT Master Plan Phase 3 |
+|  | 2001 | * 1st SAA Academic Value-Added Awards |
+|  | 2002 | *   BPA Teaching & Learning |
+|  | 2003 | *   KC attains Autonomous Status<br>*   Introduction of Development Through Drama for NT<br>*   National Arts Education Bronze Award |
 |  |  |  |
