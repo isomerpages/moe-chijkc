@@ -2,6 +2,7 @@ collections:
   the-kc-experience:
     output: true
     order:
+      - Student Journal 2022.md
       - The KC Experience.md
       - 90 years of History and Heritage.md
       - Spirituality/.keep
