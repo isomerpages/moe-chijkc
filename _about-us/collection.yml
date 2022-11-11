@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Staff/Our Staff.md
       - Our Staff/.keep
       - IJ Mission, KC's Vision & Values.md
       - CHIJ Badge & Motto.md
