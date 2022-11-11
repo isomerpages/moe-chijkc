@@ -31,3 +31,17 @@ You are eligible to apply if you have special talent or ability in:
 |  |  |  |  |
 
 Note: Meeting all the criteria does not guarantee the student will be shortlisted/given an offer.
+
+#### Application Procedure
+
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 5 May 2021, 11am to 1 June 2021, 3pm. For more details, please refer to MOE website – [www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).  
+
+Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
+
+#### Contact Details
+
+**HOD PE & CCA**
+
+Ms Priscilla Humphries<br>
+Tel: 6448 6433 Ext 131<br>
+Email: [priscilla_humphries@moe.edu.sg](mailto:priscilla_humphries@moe.edu.sg)
