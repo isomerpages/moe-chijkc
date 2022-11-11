@@ -29,8 +29,8 @@ description: ""
 | **Subject Heads** |  |
 |:---:|:---:|
 | **Geography** | Ms Cheryl Anne Lim |
-| **Literature and Drama** |  |
-| **Lower Sec Science** |  |
-| **Malay Language** |  |
-| **Mathematics** |  |
+| **Literature and Drama** | Ms Yin Mei Lenden |
+| **Lower Sec Science** | Mr Toh Meng Yeow |
+| **Malay Language** | Ms Norazian Mohamed Yahya |
+| **Mathematics** | Mrs Nooryati Leong |
 |  |  |
