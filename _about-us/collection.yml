@@ -2,11 +2,11 @@ collections:
   about-us:
     output: true
     order:
+      - IJ Mission, KC's Vision & Values.md
+      - CHIJ Badge & Motto.md
       - History & Milestones/.keep
       - History & Milestones/History & Milestones.md
       - History & Milestones/Naming of the School Blocks.md
-      - IJ Mission, KC's Vision & Values.md
-      - CHIJ Badge & Motto.md
       - The KC Graduate.md
       - Our Staff/.keep
       - Our Staff/Key Personnel (2022).md
