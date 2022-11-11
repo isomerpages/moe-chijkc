@@ -45,13 +45,17 @@ third_nav_title: Our Staff
 | **SECONDARY 4** | **Year Head:** Mrs Algena Lim | **Discipline:** Mdm Zairina Mohamad Zen |
 |:---:|:---:|---|
 | **Class** | **Form Teacher** | **Form Teacher** |
-| **401 NA** |  |  |
-| **402 NA** |  |  |
-| **403 EXP** |  |  |
-| **404 EXP** |  |  |
-| **405 EXP** |  |  |
-| **406 EXP** |  |  |
-| **407 NT** |  |  |
+| **401 NA** | Mr Wong Li Mian | - |
+| **402 NA** | Mrs Welzl-Loke Xiu Qing | Mr Wang Zhe |
+| **403 EXP** | Mr Tan Swee Hong | Ms Ang Sok Heng, Cheryl |
+| **404 EXP** | Mrs Sandra Ezekiel | Mr Faizal Hussein |
+| **405 EXP** | Ms Nor Sharina Abd Majid | Ms Angelita Tan |
+| **406 EXP** | Mr Leow See Yong | Mdm Wong Poh Yan Teresa |
+| **407 NT** | Mr Michael Ang Zhi Hau | Mdm Zairina Mohamad Zen |
 |  |  |  |
-|  |  |  |
+
+| **SECONDARY 5** | **Year Head:** Mrs Algena Lim | **Discipline:** Mdm Zairina Mohamad Zen |
+|:---:|:---:|---|
+| **Class** | **Form Teacher** | **Form Teacher** |
+| **500** | Ms Sandra Vincent | Mr Goh Wenxian, Ryan |
 |  |  |  |
