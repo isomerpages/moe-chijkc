@@ -60,3 +60,25 @@ Students are responsible for their personal devices. The school will not be held
 5 \ .  School will loan a temporary device from the common pool to students.<br>
 6 \ .  Contractor to send the new replacement device to school and school to pass to student if device is covered under insurance. Parents can opt for doorstep delivery but with delivery charges.<br>
 7 \ .  If the device is without insurance coverage or the loss is due to clause(s) not covered under insurance, parents can seek school’s assistance to procure a replacement device.
+
+**Loss Within School Premises**<br>
+*   Where a PLD is lost within the school premises, student should immediately report the loss to the Form Teacher / Subject Teacher / Staff in the General Office/ICT Service Desk. The school’s DMA Administrator will take action to remote lock the device at the earliest possible time.
+*   A police report has to be made at the earliest possible time by the student/parents if the PLD is not recovered.
+*   A copy of the Police Report must be submitted to the school-based ICT Service Desk at the earliest possible time.
+
+**Loss Outside School Premises**<br>
+*   Where a PLD is lost outside of school, student should inform their parents immediately.
+*   Student should, together with their parents, make a Police Report.
+*   Student should inform their Form Teachers of the loss and provide a copy of the Police Report at the earliest possible time. A copy of the Police Report must be submitted to the school-based ICT Service Desk. The school’s DMA Administrator will take action to remote lock the device at the earliest possible time.
+*   Students are required to replace their lost PLD. Students will not be able to utilize their Edusave  fund for replacement of their device.
+
+3 \ . **REPLACEMENT / CHANGE OF PLD**  <br>
+*   Students are to inform their school-based ICT Service Desk whenever there is a replacement/change of PLD.
+*   Replacement/change of PLDs can be under any of the circumstances listed below:
+-Replacement of PLD covered under insurance by contractor <br>
+-Replacement of PLD by parents for PLD not covered under insurance or insurance period has ended<br>
+-Students who are using their own PLDs which were not procured from NDLP PLD Bulk Tender changing to another PLD. The new PLD must be assessed by the school-based ICT Service Desk for suitability and approval before DMA can be installed.
+
+*   This is to facilitate the installation of the DMA into the new PLD.
+*   School’s DMA administrator will enroll the new PLD to their school’s DMA.
+*   For all new PLD where the DMA enrolment is not done during the PLD handover exercise  in school (including all PLDs collected from contractor’s service centres), the school’s DMA administrator will do a factory reset before enrolling the new PLD into the DMA.
