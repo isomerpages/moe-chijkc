@@ -1,4 +1,5 @@
 collections:
   about-us:
     output: true
-    order: []
+    order:
+      - IJ Mission, KC's Vision & Values.md
