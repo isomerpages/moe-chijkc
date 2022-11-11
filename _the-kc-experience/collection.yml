@@ -2,7 +2,6 @@ collections:
   the-kc-experience:
     output: true
     order:
-      - Communicate, Perform, Visual/Drama Elective Programme.md
       - Communicate, Perform, Visual/.keep
       - Communicate, Perform, Visual/The Communicative, Performative & Visual
         Arts.md
@@ -12,6 +11,7 @@ collections:
       - "Communicate, Perform, Visual/BMW 2021: A New Creation.md"
       - "Communicate, Perform, Visual/BMW 2020: For the Love of Shakespeare.md"
       - Communicate, Perform, Visual/Book and Music Week 2019.md
+      - Communicate, Perform, Visual/Drama Elective Programme.md
       - The KC Experience.md
       - 90 years of History and Heritage.md
       - Spirituality/.keep
