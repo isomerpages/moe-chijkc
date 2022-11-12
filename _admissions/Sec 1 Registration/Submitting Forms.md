@@ -4,7 +4,7 @@ permalink: /admissions/Sec-1-Registration/sub-forms/
 description: ""
 third_nav_title: Sec 1 Registration
 ---
-## 6\. Submitting Forms
+## 6 \. Submitting Forms
 
 #### Mandatory Forms
 
