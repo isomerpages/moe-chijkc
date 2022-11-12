@@ -2,5 +2,6 @@ collections:
   the-kc-village:
     output: true
     order:
+      - Connect With Us.md
       - IJ Board of Management.md
       - Parents.md
