@@ -4,7 +4,7 @@ permalink: /admissions/Sec-1-Registration/choose-cca/
 description: ""
 third_nav_title: Sec 1 Registration
 ---
-## 7\. Choosing a CCA
+## 7 \. Choosing a CCA
 
 Guidelines for Secondary Ones
 -----------------------------
