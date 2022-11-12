@@ -98,9 +98,9 @@ _\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students
 
 **_eTeens_ Programme:**
 
-8 \ .  _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.
+8 \.  _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.
 
-9 \ .  Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
+9 \.  Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
 
 **At CHIJ Katong Convent, the _eTeens_ programme will be implemented as follows in 2022:**
 
@@ -112,12 +112,12 @@ _\*CCE2021 Secondary 5 lessons will be implemented in 2023. Secondary 5 students
 
 #### Information for Parents
 
-10 \ .  Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
+10 \.  Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-11 \ .  Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex%20A.pdf) . The completed form is to be submitted by **19/02/2022**.
+11 \.  Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex%20A.pdf) . The completed form is to be submitted by **19/02/2022**.
 
-12 \ .  Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex%20B.pdf) . The completed form is to be submitted by **19/02/2022**.
+12 \.  Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Annex%20B.pdf) . The completed form is to be submitted by **19/02/2022**.
 
-13 \ .  Parents can contact the school’s Sexuality Education Coordinator, Mdm Zakiah Bte Subahan at either 6448 6433 ext. 252 or via email ([zakiah_subahan@moe.edu.sg](mailto:zakiah_subahan@moe.edu.sg)) or HOD/CCE, Mrs Lena Siau at either 6448 6433 ext. 215 or via email ([keh_lena@moe.edu.sg](mailto:keh_lena@moe.edu.sg)) for discussion or to seek clarification about the school’s sexuality education programme.
+13 \.  Parents can contact the school’s Sexuality Education Coordinator, Mdm Zakiah Bte Subahan at either 6448 6433 ext. 252 or via email ([zakiah_subahan@moe.edu.sg](mailto:zakiah_subahan@moe.edu.sg)) or HOD/CCE, Mrs Lena Siau at either 6448 6433 ext. 215 or via email ([keh_lena@moe.edu.sg](mailto:keh_lena@moe.edu.sg)) for discussion or to seek clarification about the school’s sexuality education programme.
 
-14 \ .  Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrange
+14 \.  Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrange
