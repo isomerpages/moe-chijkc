@@ -38,3 +38,14 @@ description: ""
 | [Semester 2 (Term 3)](/files/Sem%202%20TT%202022_Class_24%20June_1330.pdf) | [EOY Post Exam Timetable](/files/Post%20EOY%20TT%202022_14%20Oct_Class.pdf) |
 | [Term 3 Extended Curriculum (Sec 4 & 5)](/files/2022%20Term%203%20EC%20TT.pdf)<br>[November Academic Programme (Sec 3)](/files/Nov%20AP%202022_27%20Oct%20Class.pdf) | 
 |  |  |
+
+#### Weighted Assessment (2022)
+
+**[WA Calendar](/files/2022%20WA%20Calendar%20Updated%20for%20Term%203.pdf)**
+
+|  |  |  |  |  |
+|:---:|---|---|---|---|
+| **Sec 1** | **Sec 2** | **Sec 3** | **Sec 4** | **Sec 5** |
+| [1E](/files/Sec%201E%20Assessment%20Weighting%202022_updated%2013%20Apr.pdf) | 2E | [3E](/files/Sec%203E%20Assessment%20Weighting%202022_270522.pdf) | 4E | - |
+| [1NA](/files/Sec%201NA%20Assessment%20Weighting%202022_updated%2013%20Apr.pdf) | 2NA | [3NA](/files/Sec%203NA%20Assessment%20Weighting%202022_270522.pdf) | 4NA | 5NA |
+| [1NT](/files/Sec%201NT%20Assessment%20Weighting%202022.pdf) | 2NT | [3NT](/files/Sec%203NT%20Assessment%20Weighting%202022.pdf) | 4NT | - |
