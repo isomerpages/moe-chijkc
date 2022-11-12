@@ -2,6 +2,7 @@ collections:
   the-kc-village:
     output: true
     order:
+      - Alumnae/Stay Connected.md
       - Alumnae/.keep
       - IJ Board of Management.md
       - Parents.md
