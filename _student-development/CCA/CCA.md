@@ -23,12 +23,9 @@ third_nav_title: CCA
 
 LEAPS 2.0 seeks to shape co-curricular experiences that encourage students to develop skills and competencies that would enable them to lead a meaningful and purposeful life, and be prepared for an uncertain and changing world. LEAPS 2.0 recognises students' experiential learning and attainment in the four domains of the co-curriculum as they progress through their secondary school years.
 
-1) Participation - affirms students' sustained development in school-based CCA throughout secondary school
-
-2) Achievement - affirms students' character development and efforts in representing the school/ external organisations in events
-
-3) Leadership - affirms students' development as a leader
-
+1) Participation - affirms students' sustained development in school-based CCA throughout secondary school<br>
+2) Achievement - affirms students' character development and efforts in representing the school/ external organisations in events<br>
+3) Leadership - affirms students' development as a leader<br>
 4) Service - affirms students' contributions to the community and development as responsible and active citizens
 
 There are five levels of attainment in each domain. At the end of the graduating year, students' co-curricular attainment will be recognised. This recognition will be translated into bonus point/s which can be used for admission to Junior Colleges/ Polytechnics/ Institutes of Technical Education (JC/ Poly/ ITE).
