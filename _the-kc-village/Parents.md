@@ -51,3 +51,17 @@ description: ""
 | [1NT](/files/Sec%201NT%20Assessment%20Weighting%202022.pdf) | 2NT | [3NT](/files/Sec%203NT%20Assessment%20Weighting%202022.pdf) | 4NT | - |
 |  | [Sec 2 - WA1](/files/Sec%202%20WA1%20letter%20and%20schedule.pdf)<br>[Letter and Schedule](/files/Sec%202%20WA1%20letter%20and%20schedule%20(1).pdf) |  | [Sec 4 & 5 - WA1](/files/Sec%204%20%205%20WA1%20Letter%20and%20Schedule.pdf)<br>[Letter and Schedule](/files/Sec%204%20%205%20WA1%20Letter%20and%20Schedule%20(1).pdf) |  |
 |  |  |  |  |  |
+
+#### Mid Year Exam (2022)
+
+[4NA & 4NT Preliminary Examinations Schedule](/files/2022%204N%20Prelim%20letter%20and%20schedule%20P%20signed.pdf)<br>
+[4E5N Preliminary Examination Schedule](/files/2022%204E5N%20Prelim%20letter%20and%20schedule.pdf)
+
+|  |  |  |  |  |
+|:---:|---|---|---|---|
+| **Sec 1** | **Sec 2** | **Sec 3** | **Sec 4** | **Sec 5** |
+| - | [2E](/files/2E%20MYE%20coverage%202022.pdf) | - |  | - |
+| - | [2NA](/files/2NA%20MYE%20coverage%202022.pdf) | - |  |  |
+| - | [2NT](/files/2NT%20MYE%20coverage%202022.pdf) | - |  | - |
+|  |  |  |  |  |
+
