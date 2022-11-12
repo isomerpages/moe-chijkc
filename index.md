@@ -24,4 +24,5 @@ sections:
       button: CLICK HERE FOR DETAILS
       url: https://chijkceap.com/
       image: /images/photo1668248602.jpeg
+      alt: Image alt text
 ---
