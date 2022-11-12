@@ -4,3 +4,74 @@ permalink: /admissions/Sec-1-Registration/understand-curr-matters/
 description: ""
 third_nav_title: Sec 1 Registration
 ---
+## 3\. Understanding Curriculum Matters
+
+#### i. Curriculum Structure 2022
+
+The following is an overview of the 2022 curriculum structure for lower secondary levels:
+
+<img src="/images/curriculum structure.jpg" style="width:85%">
+
+\# Academic Programme for identified students will commence in Term 2 for Secondary 1.
+
+#### ii. Subject-Based Banding
+
+Subject-Based Banding (Secondary) \[SBB (Sec)\] is one of many pathways for students to nurture their aptitudes and enhance their access to opportunities throughout their educational journey. SBB (Sec) allows one to take specific subjects at a higher academic level starting from Secondary 1 if she is found suitable to do so. If she is in the N(A) or (T) course, she may be able to take some subjects at Express or N(A) Level to allow her to stretch herself and acquire deeper competencies in her area(s) of strengths.
+
+**How does SBB (Secondary) work?**
+
+Lower Secondary N(A) and N(T) students are eligible to take some subjects (English Language, Mathematics, Science and Mother Tongue Languages) at a higher academic level starting from Secondary 1 if they have performed well in these subjects at the Primary School Leaving Examination (PSLE), or at their Secondary 1 mid-year / end-of-year examinations:  <br>
+Based on PSLE results
+
+*   Students posted to the N(A) or N(T) course who scored AL 5 or better for a PSLE Standard subject can take the subject at the Express level.
+*   Students posted to the N(T) course who scored at least AL 6 for a PSLE Standard subject or A in a PSLE Foundation subject can take it at N(A) level
+
+Based on Secondary 1 First Combined results at mid-year, or Overall results at the end of the year
+
+*   N(A) students who attained 75% or higher in one of the above SBB subjects, and an average of 60% or higher across all subjects, can take the subject at the Express Level;
+*   N(T) students who attained 75% or higher in one of the above SBB subjects, and an average of 60% or higher across all subjects, can take the subject at the N(A) Level
+
+A student can take a **maximum of three subjects** at a higher level.
+
+**What are the benefits of the SBB programme?**
+
+The programme provides eligible students the opportunity to be stretched in subjects which they are strong at. In addition to deepening their mastery in these subjects, the programme will help enable students to become more confident learners.
+
+The programme would also better prepare students to offer subjects at a higher level in upper secondary. This may lead to more options when choosing the subject combination for upper secondary, and post-secondary courses.
+
+**The programme is not meant to increase the chances of a student attaining lateral transfer. In fact, students will have to manage the increased rigour of the SBB subject.**
+
+**What support will the school be providing to the SBB students?**
+
+Our teachers and the student development team will closely monitor students’ progress in their higher-level subjects, and their overall progress too.
+
+Students themselves need to learn to be self-directed in their learning. This means that they have to consistently revisit and revise what they have learned in the lessons, and approach teachers for consultation whenever doubts arise.
+
+Teachers may conduct additional lessons after school to help students catch up.
+
+The various departments will also be conducting bridging programmes.
+
+**Can my child drop out of SBB programme if she is not coping well in the rest of the subjects?**
+
+We will consider this on a case-by-case basis, taking into account not only the grades but teachers’ recommendations as well. However, we encourage students who embark on the programme to remain committed to the programme. This means that if a student is not coping well, she should work with her teachers to improve. Students will also need some time to adjust to the demands of the programme. Leaving the SBB programme should not be the immediate consideration.
+
+**Since my child would be sitting for the higher-stream tests and examinations, how would her scores be computed?**
+
+We recognise that the higher-level assessments would be more demanding for the student. When computing the overall score at the end of the year, there would be a score conversion for the SBB subject. The exact conversion will depend on the difference in difficulty between the higher-level assessments, and the ones taken by her non-SBB peers. Please note that the score conversion does not increase the chances of a lateral transfer.
+
+**Can students embark on the SBB programme at other times of the year?**
+
+Students who perform well in specific subjects may still be offered SBB in Secondary 1. The offer would be made at the middle, or end, of academic year.
+
+Students have to demonstrate a clear strength in the subject, and the ability to cope with all her subjects (in particular, 75% for the subject and 60% overall).
+
+We will also take into account teachers’ observations and recommendations when deciding whether to extend the SBB offer to a student. The student should demonstrate a positive learning attitude to cope with the higher academic demand of the SBB programme.
+
+**How will I know if my child is eligible for SBB?**
+
+Students who are eligible to study a subject at more demanding level in Sec 1 will receive the MOE letter of offer via Parents Gateway (PG) on Registration Day from the school. Parents are to submit the consent via PG.
+
+For those who do not have access to PG, please notify the school via this **[form](https://go.gov.sg/welcome-to-kc-2022)** **FORM NOT AVAILABLE**. The letter will be emailed to you. Please submit your acceptance form found in your letter of offer either by hand or email to the General Office before the stated deadline.
+
+#### iii. Mother Tongue Languages (MTL) - Higher MTL, TL, Third Language\*
+---------------------------------------------------------------------
