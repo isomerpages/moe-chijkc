@@ -64,3 +64,14 @@ description: ""
 | - | [2NA](/files/2NA%20MYE%20coverage%202022.pdf) | - | [4NA](/files/4NA%20MYE%20coverage%202022.pdf) | [5NA](/files/5NA%20MYE%20coverage%202022.pdf) |
 | - | [2NT](/files/2NT%20MYE%20coverage%202022.pdf) | - | [4NT](/files/4NT%20MYE%20coverage%202022.pdf) | - |
 |  |  |  |  |  |
+
+#### End-of-Year Examinations (2022 EOY)
+
+[2022 Sec 1 - 3 EOY Letter & Schedule](/files/2022%20Sec%201-3%20EOY%20letter%20and%20schedule_combined_30aug.pdf)
+
+|  |  |  |  |  |
+|:---:|---|---|---|---|
+| **Sec 1** | **Sec 2** | **Sec 3** | **Sec 4** | **Sec 5** |
+| [1E - NA/NT Coverage](/files/Sec%201%20EOY%20coverage%202022.pdf) | [2E - NA/NT Coverage](/files/Sec%202%20EOY%20coverage%202022.pdf) | [3E - NA/NT Coverage](/files/Sec%203%20EOY%20coverage%202022.pdf) | - | - |
+|  | [POST EOY Time-Table](/files/Post%20EOY%20TT%202022_14%20Oct_Class%20(1).pdf) |  | - | - |
+|  |  |  |  |  |
