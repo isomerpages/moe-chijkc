@@ -2,10 +2,10 @@ collections:
   the-kc-village:
     output: true
     order:
-      - School Suppliers.md
       - IJ Board of Management.md
       - Parents.md
       - Connect With Us.md
       - Alumnae/.keep
       - Alumnae/Stay Connected.md
       - Alumnae/Katong Convent School Alumnae Association.md
+      - School Suppliers.md
