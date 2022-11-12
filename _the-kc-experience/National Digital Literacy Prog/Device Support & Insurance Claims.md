@@ -46,20 +46,20 @@ Parents/Students may rely on the following platforms if they need support or ins
 
 Students can hand their damaged devices to the school-based ICT Service Desk for consolidation and handover to the contractor. The repaired devices will be returned to school via the fortnightly collection service.
 
-1 \ . **WARRANTY**<br>
+1 \. **WARRANTY**<br>
 Warranty from defects in materials and workmanship is for a period of 36 months. This warranty is only valid for the first 36 months from the date of collection of the PLD. This limited warranty covers normal use, mechanical breakdown, or faulty construction and will provide replacement parts necessary to repair or if necessary, replace the PLD. The warranty DOES NOT cover damage caused by misuse, abuse, or accidents. Please report all technical problems to the school-based ICT Service Desk.
 
-2 \ . **LOSS OF PERSONAL LEARNING DEVICE**<br>
+2 \. **LOSS OF PERSONAL LEARNING DEVICE**<br>
 Students are responsible for their personal devices. The school will not be held responsible for any damage, theft or loss of their devices.
 
 **STANDARD OPERATING PROCEDURE**<br>
-1 \ . Parents to make a police report for the lost device.<br>
-2 \ . If the lost device is covered under the circumstances listed in the device’s insurance coverage, parents should contact and inform contractor via their helpdesk or service centre. They will need to furnish contractor with the police report for insurance claim. (Applicable only if the device is still under insurance coverage period).<br>
-3 \ . contractor’s helpdesk/service centre will advise parents on the insurance claim procedure.<br>
-4 \ . Parents should also inform school of the lost device for the school’s Device Management Application (DMA) Administrator to remote lock the device.<br>
-5 \ .  School will loan a temporary device from the common pool to students.<br>
-6 \ .  Contractor to send the new replacement device to school and school to pass to student if device is covered under insurance. Parents can opt for doorstep delivery but with delivery charges.<br>
-7 \ .  If the device is without insurance coverage or the loss is due to clause(s) not covered under insurance, parents can seek school’s assistance to procure a replacement device.
+1 \. Parents to make a police report for the lost device.<br>
+2 \. If the lost device is covered under the circumstances listed in the device’s insurance coverage, parents should contact and inform contractor via their helpdesk or service centre. They will need to furnish contractor with the police report for insurance claim. (Applicable only if the device is still under insurance coverage period).<br>
+3 \. contractor’s helpdesk/service centre will advise parents on the insurance claim procedure.<br>
+4 \. Parents should also inform school of the lost device for the school’s Device Management Application (DMA) Administrator to remote lock the device.<br>
+5 \.  School will loan a temporary device from the common pool to students.<br>
+6 \.  Contractor to send the new replacement device to school and school to pass to student if device is covered under insurance. Parents can opt for doorstep delivery but with delivery charges.<br>
+7 \.  If the device is without insurance coverage or the loss is due to clause(s) not covered under insurance, parents can seek school’s assistance to procure a replacement device.
 
 **Loss Within School Premises**<br>
 *   Where a PLD is lost within the school premises, student should immediately report the loss to the Form Teacher / Subject Teacher / Staff in the General Office/ICT Service Desk. The school’s DMA Administrator will take action to remote lock the device at the earliest possible time.
@@ -72,7 +72,7 @@ Students are responsible for their personal devices. The school will not be held
 *   Student should inform their Form Teachers of the loss and provide a copy of the Police Report at the earliest possible time. A copy of the Police Report must be submitted to the school-based ICT Service Desk. The school’s DMA Administrator will take action to remote lock the device at the earliest possible time.
 *   Students are required to replace their lost PLD. Students will not be able to utilize their Edusave  fund for replacement of their device.
 
-3 \ . **REPLACEMENT / CHANGE OF PLD**  <br>
+3 \. **REPLACEMENT / CHANGE OF PLD**  <br>
 *   Students are to inform their school-based ICT Service Desk whenever there is a replacement/change of PLD.
 *   Replacement/change of PLDs can be under any of the circumstances listed below:
 -Replacement of PLD covered under insurance by contractor <br>
