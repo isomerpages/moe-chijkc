@@ -4,7 +4,7 @@ permalink: /admissions/Sec-1-Registration/understand-curr-matters/
 description: ""
 third_nav_title: Sec 1 Registration
 ---
-## 3\. Understanding Curriculum Matters
+## 3 \. Understanding Curriculum Matters
 
 #### i. Curriculum Structure 2022
 
