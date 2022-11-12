@@ -75,3 +75,16 @@ description: ""
 | [1E - NA/NT Coverage](/files/Sec%201%20EOY%20coverage%202022.pdf) | [2E - NA/NT Coverage](/files/Sec%202%20EOY%20coverage%202022.pdf) | [3E - NA/NT Coverage](/files/Sec%203%20EOY%20coverage%202022.pdf) | - | - |
 |  | [POST EOY Time-Table](/files/Post%20EOY%20TT%202022_14%20Oct_Class%20(1).pdf) |  | - | - |
 |  |  |  |  |  |
+
+#### 2022 Issues of Parent Link
+
+|  |  |
+|:---:|---|
+| [Jan](/files/Parent%20Link%20_Jan%202022.pdf) | [Mar](/files/Parent%20Link%20_Mar%202022.pdf) |
+| [Term 2](/files/Parent%20Link%20_Term%202%202022.pdf) | [Term 3](/files/Parent%20Link%20_Term%203%202022.pdf) |
+|  |  |
+
+#### Resources (Student Vaccination)
+
+[Resource 2 Parent Kit on Student Vaccination Exercise 002.pdf](/files/Resource%202%20Parent%20Kit%20on%20Student%20Vaccination%20Exercise%20002.pdf)<br>
+[Resource 3 One page Infographic on Student Vaccination Exercise.pdf](/files/Resource%203%20One%20page%20Infographic%20on%20Student%20Vaccination%20Exercise.pdf)
