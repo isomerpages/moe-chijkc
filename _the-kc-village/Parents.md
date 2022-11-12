@@ -26,5 +26,6 @@ description: ""
 |  |  |
 |:---:|---|
 | [Term 1](/files/KC%20Term%201%20Letter%20to%20Parents%202022%20updated.pdf) |  [Term 2](/files/KC%202022%20Term%202%20Letter%20to%20Parents.pdf)|
-|  |  |
-|  |  |
+| [Term 3](/files/KC%20Term%203%20Letter%20to%20Parents%202022.pdf) | [Term 4](/files/KC%20Term%204%20Letter%20to%20Parents%202022.pdf) |
+| [Update on COVID-19 Matters](/files/KC%20Letter%20to%20Parents%20on%20COVID-19%20Matters%20-%2030%20March%202022.pdf)<br>[KC EOY Letter to Parents 2022](/files/KC%20EOY%20Letter%20to%20Parents%202022.pdf) | 
+| | |
