@@ -19,6 +19,8 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
+      button: open house 2022
+      url: /the-kc-experience/open-hse/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
