@@ -85,3 +85,15 @@ CCAs offered fall into four core categories:
 *   Clubs & Societies
 
 The availability of Secondary 1 membership in 2022 is indicated next to each CCA:
+
+|  |  |  |  |
+|:---:|---|---|---|
+| **Sports & Games** | **Uniformed Groups** | **Performing Arts Groups** | **Clubs/Societies** |
+| 1 \. Badminton (10) | 1\ . NCDCC (15) | 1 \. Choir (20) | 1 \. Debate Club (8) |
+| 2 \. Floorball (12) | 2 \. Girl Guides (16) | 2 \. Chinese Orchestra (20) | 2 \. MediaComm Club (8) |
+| 3 \. Netball (12) |  | 3 \. Chinese Drama (8) | 3 \. IJ Youth Mission (8) |
+| 4 \. Tenpin Bowling (10) |  | 4 \. Dance (10) | 4 \. Entrepreneur Club (8) |
+| 5 \. Track & Field (10) |  | 5 \. Dramatic Arts Society (14) | 5 \. \*Cabin Club |
+| 6 \. Canoeing (10) |  | 6 \. Concert Band (20) |  |
+| 7 \. Sports Development Club (10) |  |  |  |
+| Total: 74 | Total: 31 | Total: 92 | Total: 32 |
