@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Direct School Admissions (DSA).md
-      - Sec 1 Registration/Submitting Forms.md
       - Sec 1 Registration/.keep
       - Sec 1 Registration/Welcome Letter from Principal.md
       - Sec 1 Registration/Meeting your Form Teachers.md
@@ -11,5 +10,6 @@ collections:
         Information.md
       - Sec 1 Registration/Understanding Curriculum Matters.md
       - Sec 1 Registration/Supporting your Child.md
+      - Sec 1 Registration/Submitting Forms.md
       - Scholarship & Awards.md
       - Seeking A Transfer or Admission to KC.md
