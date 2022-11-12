@@ -97,3 +97,34 @@ The availability of Secondary 1 membership in 2022 is indicated next to each CCA
 | 6 \. Canoeing (10) |  | 6 \. Concert Band (20) |  |
 | 7 \. Sports Development Club (10) |  |  |  |
 | Total: 74 | Total: 31 | Total: 92 | Total: 32 |
+|  |  |  |  |
+
+_\*Cabin Club is a CCA for NT students only._
+
+_For more information on the individual CCAs you may visit our  **INSERT ISOMER LINK**
+
+#### Schedule of CCA Selection in January 2022
+
+|  |  |  |
+|:---:|---|---|
+| **Date** | **Event** | **Remarks** |
+| **5 Jan** | Commencement of CCA for Sec 2-5 and Sec 1 DSA | Various venues |
+| **12,14,21 and 26 Jan** | CCA auditions by CCA teachers, coaches and instructors | Various venues |
+| **27 - 29 Jan** | On-line registration opens on Wednesday, 26 January 2022, at 6:00 p.m. and closes on Friday, 28 January, 11:59 p.m.. |  |
+| **3 - 4 Feb** | CCA allocation exercise |  |
+| **7 Feb** | Release of Sec 1 CCA allocation results |  |
+| **9 Feb** | Commencement of CCA for Sec 1s | Various venues |
+| **9 - 11 Feb**  <br>**7pm** | Appeals for Sec 1 CCA<br>*   Students are strongly advised to attend the 1st session of their assigned CCA before submitting a request for a change. |  |
+|  |  |  |
+
+#### Tips for students in their selection of CCAs
+
+If you have done well in a CCA in primary school, you may consider carrying on with it in secondary school to hone your skills further, especially if it is in the area of sports and the performing arts.
+
+Choose a CCA which interests you; something you will enjoy doing and one which will help you develop as a balanced individual.
+
+If possible, choose a CCA which you have an aptitude for.
+
+Do not be influenced by your friends as you may not enjoy doing what your friends enjoy.
+
+Be open to learning something new and discover your hidden talents if you do not get your first or second choice.
