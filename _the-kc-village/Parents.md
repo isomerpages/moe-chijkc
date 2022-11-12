@@ -60,8 +60,7 @@ description: ""
 |  |  |  |  |  |
 |:---:|---|---|---|---|
 | **Sec 1** | **Sec 2** | **Sec 3** | **Sec 4** | **Sec 5** |
-| - | [2E](/files/2E%20MYE%20coverage%202022.pdf) | - |  | - |
-| - | [2NA](/files/2NA%20MYE%20coverage%202022.pdf) | - |  |  |
-| - | [2NT](/files/2NT%20MYE%20coverage%202022.pdf) | - |  | - |
+| - | [2E](/files/2E%20MYE%20coverage%202022.pdf) | - | [4E](/files/4E%20MYE%20coverage%202022.pdf) | - |
+| - | [2NA](/files/2NA%20MYE%20coverage%202022.pdf) | - | [4NA](/files/4NA%20MYE%20coverage%202022.pdf) | [5NA](/files/5NA%20MYE%20coverage%202022.pdf) |
+| - | [2NT](/files/2NT%20MYE%20coverage%202022.pdf) | - | [4NT](/files/4NT%20MYE%20coverage%202022.pdf) | - |
 |  |  |  |  |  |
-
