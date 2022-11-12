@@ -110,3 +110,10 @@ More information on MOE FAS can be found [**here**](https://www.chttps//www.chi
 
 You may refer to the flowchart below for the application process.
 
+<img src="/images/FAQs for S1 (fas).jpg" style="width:85%">
+
+#### v. Special Needs
+
+The school has a full-time Allied Educator for Learning and Behavioural Support, Ms Gursheran Kaur who supports students with learning needs.   
+
+If you have any queries or concerns related to special needs provision, please contact Ms Gursheran Kaur ([gursheran_kaur@moe.edu.sg](mailto:gursheran_kaur@moe.edu.sg)).
