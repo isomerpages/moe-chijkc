@@ -4,7 +4,7 @@ permalink: /admissions/Sec-1-Registration/preparation/
 description: ""
 third_nav_title: Sec 1 Registration
 ---
-## 2\. Preparing for the First Day and Essential Information
+## 2 \. Preparing for the First Day and Essential Information
 
 #### Essential information to guide you on your first day at Katong Convent:
 
