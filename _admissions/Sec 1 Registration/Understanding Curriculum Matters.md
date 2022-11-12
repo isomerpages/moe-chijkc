@@ -74,4 +74,11 @@ Students who are eligible to study a subject at more demanding level in Sec 1 wi
 For those who do not have access to PG, please notify the school via this **[form](https://go.gov.sg/welcome-to-kc-2022)** **FORM NOT AVAILABLE**. The letter will be emailed to you. Please submit your acceptance form found in your letter of offer either by hand or email to the General Office before the stated deadline.
 
 #### iii. Mother Tongue Languages (MTL) - Higher MTL, TL, Third Language\*
----------------------------------------------------------------------
+
+**a) Higher Mother Tongue (HMTL)**
+
+Students who have been offered to study HMTL will receive an eligibility Form A via Parents Gateway (PG) from the school.
+
+For those who do not have access to PG, please notify the school via this [**form**](https://go.gov.sg/welcome-to-kc-2022) **FORM NOT FOUND**. Form A will be emailed to you.
+
+Please download and complete Form A. You are to submit the hardcopy Form A to the form teacher on **Monday, 4 January 2022**.
