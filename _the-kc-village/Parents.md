@@ -49,3 +49,5 @@ description: ""
 | [1E](/files/Sec%201E%20Assessment%20Weighting%202022_updated%2013%20Apr.pdf) | 2E | [3E](/files/Sec%203E%20Assessment%20Weighting%202022_270522.pdf) | 4E | - |
 | [1NA](/files/Sec%201NA%20Assessment%20Weighting%202022_updated%2013%20Apr.pdf) | 2NA | [3NA](/files/Sec%203NA%20Assessment%20Weighting%202022_270522.pdf) | 4NA | 5NA |
 | [1NT](/files/Sec%201NT%20Assessment%20Weighting%202022.pdf) | 2NT | [3NT](/files/Sec%203NT%20Assessment%20Weighting%202022.pdf) | 4NT | - |
+|  | [Sec 2 - WA1](/files/Sec%202%20WA1%20letter%20and%20schedule.pdf)<br>[Letter and Schedule](/files/Sec%202%20WA1%20letter%20and%20schedule%20(1).pdf) |  | [Sec 4 & 5 - WA1](/files/Sec%204%20%205%20WA1%20Letter%20and%20Schedule.pdf)<br>[Letter and Schedule](/files/Sec%204%20%205%20WA1%20Letter%20and%20Schedule%20(1).pdf) |  |
+|  |  |  |  |  |
