@@ -2,15 +2,15 @@ collections:
   cca-folder:
     output: true
     order:
+      - CCA.md
+      - CCA Schedule.md
+      - CCA Fair.md
       - Clubs & Societies/.keep
       - Clubs & Societies/IJ Youth Mission.md
       - Clubs & Societies/Debate Club.md
       - Clubs & Societies/Media Communications Club.md
       - Clubs & Societies/Entrepreneur Club.md
       - Clubs & Societies/Cabin Club.md
-      - CCA.md
-      - CCA Schedule.md
-      - CCA Fair.md
       - Uniformed Groups.md
       - Performing Arts.md
       - National School Games.md
