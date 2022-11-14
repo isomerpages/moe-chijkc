@@ -2,7 +2,6 @@ collections:
   student-development:
     output: true
     order:
-      - CCA/Clubs & Societies.md
       - CCA/.keep
       - CCA/CCA.md
       - CCA/CCA Schedule.md
