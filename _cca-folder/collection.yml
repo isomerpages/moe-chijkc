@@ -2,6 +2,7 @@ collections:
   cca-folder:
     output: true
     order:
+      - Clubs & Societies/Entrepreneur Club.md
       - Clubs & Societies/Media Communications Club.md
       - Clubs & Societies/Debate Club.md
       - Clubs & Societies/IJ Youth Mission.md
