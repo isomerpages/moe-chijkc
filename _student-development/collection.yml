@@ -2,13 +2,13 @@ collections:
   student-development:
     output: true
     order:
-      - CCA/Performing Arts.md
       - CCA/.keep
       - CCA/CCA.md
       - CCA/CCA Schedule.md
       - CCA/CCA Fair.md
       - CCA/Clubs & Societies.md
       - CCA/Uniformed Groups.md
+      - CCA/Performing Arts.md
       - CCA/National School Games.md
       - Values in Education Programmes (VIA).md
       - Education & Career Guidance Programmes (ECG).md
