@@ -2,6 +2,7 @@ collections:
   cca-folder:
     output: true
     order:
+      - Uniformed Groups/Girl Guides.md
       - Uniformed Groups/National Civil Defence Cadet Corps (NCDCC).md
       - Uniformed Groups/.keep
       - CCA.md
