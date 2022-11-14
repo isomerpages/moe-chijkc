@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - CCA/.keep
-      - CCA/National School Games.md
       - Values in Education Programmes (VIA).md
       - Education & Career Guidance Programmes (ECG).md
       - CCE21.md
