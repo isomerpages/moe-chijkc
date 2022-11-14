@@ -2,12 +2,12 @@ collections:
   cca-folder:
     output: true
     order:
-      - Clubs & Societies/Cabin Club.md
-      - Clubs & Societies/Entrepreneur Club.md
-      - Clubs & Societies/Media Communications Club.md
-      - Clubs & Societies/Debate Club.md
-      - Clubs & Societies/IJ Youth Mission.md
       - Clubs & Societies/.keep
+      - Clubs & Societies/IJ Youth Mission.md
+      - Clubs & Societies/Debate Club.md
+      - Clubs & Societies/Media Communications Club.md
+      - Clubs & Societies/Entrepreneur Club.md
+      - Clubs & Societies/Cabin Club.md
       - CCA.md
       - CCA Schedule.md
       - CCA Fair.md
