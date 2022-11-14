@@ -2,10 +2,6 @@ collections:
   cca-folder:
     output: true
     order:
-      - Performing Arts/Chinese Drama.md
-      - Performing Arts/Chinese Orchestra.md
-      - Performing Arts/Choir.md
-      - Performing Arts/.keep
       - CCA.md
       - CCA Schedule.md
       - CCA Fair.md
@@ -18,4 +14,8 @@ collections:
       - Uniformed Groups/.keep
       - Uniformed Groups/Girl Guides.md
       - Uniformed Groups/National Civil Defence Cadet Corps (NCDCC).md
+      - Performing Arts/.keep
+      - Performing Arts/Chinese Drama.md
+      - Performing Arts/Chinese Orchestra.md
+      - Performing Arts/Choir.md
       - National School Games.md
