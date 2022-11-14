@@ -2,6 +2,7 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - Entrepreneur Club.md
       - IJ Youth Mission.md
       - Debate Club.md
       - Media Communications Club.md
