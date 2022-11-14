@@ -2,7 +2,6 @@ collections:
   clubs-and-societies:
     output: true
     order:
-      - Debate Club.md
       - Media Communications Club.md
       - Entrepreneur Club.md
       - Cabin Club.md
