@@ -2,14 +2,6 @@ collections:
   cca-folder:
     output: true
     order:
-      - Sports/.keep
-      - Sports/Badminton.md
-      - Sports/Canoeing.md
-      - Sports/Floorball.md
-      - Sports/Netball.md
-      - Sports/Bowling.md
-      - Sports/Track & Field.md
-      - Sports/Sports Club.md
       - CCA.md
       - CCA Schedule.md
       - CCA Fair.md
@@ -29,4 +21,12 @@ collections:
       - Performing Arts/Concert Band.md
       - Performing Arts/Dramatic Arts Society.md
       - Performing Arts/Modern Dance.md
+      - Sports/.keep
+      - Sports/Badminton.md
+      - Sports/Canoeing.md
+      - Sports/Floorball.md
+      - Sports/Netball.md
+      - Sports/Bowling.md
+      - Sports/Track & Field.md
+      - Sports/Sports Club.md
       - National School Games.md
