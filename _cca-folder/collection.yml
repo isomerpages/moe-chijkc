@@ -2,10 +2,10 @@ collections:
   cca-folder:
     output: true
     order:
-      - National School Games.md
-      - Performing Arts.md
-      - Uniformed Groups.md
-      - Clubs & Societies.md
-      - CCA Fair.md
-      - CCA Schedule.md
       - CCA.md
+      - CCA Schedule.md
+      - CCA Fair.md
+      - Clubs & Societies.md
+      - Uniformed Groups.md
+      - Performing Arts.md
+      - National School Games.md
