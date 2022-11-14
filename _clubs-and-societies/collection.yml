@@ -2,6 +2,6 @@ collections:
   clubs-and-societies:
     output: true
     order:
-      - Media Communications Club.md
       - IJ Youth Mission.md
       - Debate Club.md
+      - Media Communications Club.md
