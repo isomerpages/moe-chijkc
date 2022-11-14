@@ -2,13 +2,13 @@ collections:
   cca-folder:
     output: true
     order:
-      - Sports/Track & Field.md
       - Sports/.keep
       - Sports/Badminton.md
       - Sports/Canoeing.md
       - Sports/Floorball.md
       - Sports/Netball.md
       - Sports/Bowling.md
+      - Sports/Track & Field.md
       - CCA.md
       - CCA Schedule.md
       - CCA Fair.md
