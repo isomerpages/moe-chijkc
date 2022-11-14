@@ -2,6 +2,7 @@ collections:
   cca-folder:
     output: true
     order:
+      - Uniformed Groups.md
       - Clubs & Societies.md
       - CCA Fair.md
       - CCA Schedule.md
