@@ -2,9 +2,9 @@ collections:
   cca-folder:
     output: true
     order:
-      - Sports/Canoeing.md
-      - Sports/Badminton.md
       - Sports/.keep
+      - Sports/Badminton.md
+      - Sports/Canoeing.md
       - CCA.md
       - CCA Schedule.md
       - CCA Fair.md
