@@ -2,6 +2,7 @@ collections:
   cca-folder:
     output: true
     order:
+      - National School Games.md
       - Performing Arts.md
       - Uniformed Groups.md
       - Clubs & Societies.md
