@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - CCA/Uniformed Groups.md
       - CCA/.keep
       - CCA/CCA.md
       - CCA/CCA Schedule.md
