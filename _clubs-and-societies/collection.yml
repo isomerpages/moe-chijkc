@@ -2,5 +2,4 @@ collections:
   clubs-and-societies:
     output: true
     order:
-      - Entrepreneur Club.md
       - Cabin Club.md
