@@ -2,6 +2,5 @@ collections:
   clubs-and-societies:
     output: true
     order:
-      - Media Communications Club.md
       - Entrepreneur Club.md
       - Cabin Club.md
