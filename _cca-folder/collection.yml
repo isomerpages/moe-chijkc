@@ -2,6 +2,7 @@ collections:
   cca-folder:
     output: true
     order:
+      - Performing Arts.md
       - Uniformed Groups.md
       - Clubs & Societies.md
       - CCA Fair.md
