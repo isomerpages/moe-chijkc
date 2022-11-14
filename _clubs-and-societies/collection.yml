@@ -2,5 +2,5 @@ collections:
   clubs-and-societies:
     output: true
     order:
-      - Debate Club.md
       - IJ Youth Mission.md
+      - Debate Club.md
