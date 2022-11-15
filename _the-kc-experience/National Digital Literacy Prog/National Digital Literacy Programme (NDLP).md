@@ -76,7 +76,7 @@ Application for subsidy should be submitted to the General Office.
 
 #### Further Queries
 
-The [NDLP FAQ] **LINK TO ISOMER** should be useful in answering most of your queries.
+The [NDLP FAQ](/the-kc-experience/National-Digital-Literacy-Prog/faq2/) should be useful in answering most of your queries.
 
 | **To access/find out more about...** | **Contact/Helpline** |
 |:---:|---|
