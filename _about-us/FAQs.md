@@ -56,7 +56,7 @@ CHIJ Katong Convent offers the following distinctive programmes:<br>
 #### CCA
 
 1 \. **What are the available CCAs?** //INPUT ISOMER SITE<br>
-Please refer to the following link: <a href="/palm-view-experience/co-curricular-activities/sports/badminton">Badminton</a>
+Please refer to the following link: [https://chijkatongconvent.moe.edu.sg/student-development/cca](/student-development/CCA/cca/)
 
 2 \. **Is it compulsory for my daughter to join CCA?**<br>
 Yes, it is compulsory for all students in secondary schools.
