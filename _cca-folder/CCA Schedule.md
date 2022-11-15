@@ -3,10 +3,9 @@ title: CCA Schedule
 permalink: /student-development/CCA/cca-schedule/
 description: ""
 ---
-
 ## CCA Schedule
 
-**<p align="center"> CCA TRAINING VENUE AND DAYS 2021 </p>**
+#### CCA TRAINING VENUE AND DAYS 2021 
 
 | **CCA** | **Training venue** | **Training days** |
 |:---:|---|---|
