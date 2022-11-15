@@ -1,4 +1,5 @@
 collections:
   book-and-music-week:
     output: true
-    order: []
+    order:
+      - Book and Music Week 2019.md
