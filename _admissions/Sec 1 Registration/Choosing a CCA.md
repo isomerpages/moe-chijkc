@@ -101,7 +101,7 @@ The availability of Secondary 1 membership in 2022 is indicated next to each CCA
 
 _\*Cabin Club is a CCA for NT students only._
 
-_For more information on the individual CCAs you may visit our  **INSERT ISOMER LINK**
+_For more information on the individual CCAs you may visit our [CCA webpage](/student-development/CCA/cca/)
 
 #### Schedule of CCA Selection in January 2022
 
