@@ -2,5 +2,6 @@ collections:
   communicate-perform-n-arts:
     output: true
     order:
+      - Arts & Culture Programme.md
       - Drama Elective Programme.md
       - Enhanced Art Programme.md
