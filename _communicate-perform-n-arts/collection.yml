@@ -2,6 +2,7 @@ collections:
   communicate-perform-n-arts:
     output: true
     order:
+      - Book and Music Week/Book and Music Week.md
       - "Book and Music Week/BMW 2022: At First Light.md"
       - "Book and Music Week/BMW 2021: A New Creation.md"
       - "Book and Music Week/BMW 2020: For the Love of Shakespeare.md"
