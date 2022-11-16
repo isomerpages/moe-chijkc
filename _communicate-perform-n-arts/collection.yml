@@ -2,6 +2,7 @@ collections:
   communicate-perform-n-arts:
     output: true
     order:
+      - Book and Music Week/Book and Music Week 2019.md
       - Book and Music Week/.keep
       - The Communicative, Performative & Visual Arts.md
       - Arts & Culture Programme.md
