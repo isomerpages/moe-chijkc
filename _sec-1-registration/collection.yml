@@ -2,9 +2,9 @@ collections:
   sec-1-registration:
     output: true
     order:
-      - Purchasing Books and Uniform/Financial Assistance.md
-      - Purchasing Books and Uniform/Purchasing Books and Uniform.md
       - Purchasing Books and Uniform/.keep
+      - Purchasing Books and Uniform/Purchasing Books and Uniform.md
+      - Purchasing Books and Uniform/Financial Assistance.md
       - Welcome Letter from Principal.md
       - Meeting your Form Teachers.md
       - Preparing for the First Day and Essential Information.md
