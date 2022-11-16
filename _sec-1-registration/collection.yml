@@ -2,6 +2,7 @@ collections:
   sec-1-registration:
     output: true
     order:
+      - Preparing for the First Day and Essential Information.md
       - Understanding Curriculum Matters.md
       - Supporting your Child.md
       - Submitting Forms.md
