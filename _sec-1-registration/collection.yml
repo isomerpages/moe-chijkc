@@ -2,6 +2,7 @@ collections:
   sec-1-registration:
     output: true
     order:
+      - Supporting your Child.md
       - Submitting Forms.md
       - Choosing a CCA.md
       - Setting up Parents Gateway.md
