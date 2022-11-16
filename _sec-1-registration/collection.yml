@@ -2,4 +2,5 @@ collections:
   sec-1-registration:
     output: true
     order:
+      - Setting up Parents Gateway.md
       - Needing A Transfer?.md
