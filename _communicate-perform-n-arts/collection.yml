@@ -1,4 +1,5 @@
 collections:
   communicate-perform-n-arts:
     output: true
-    order: []
+    order:
+      - Enhanced Art Programme.md
