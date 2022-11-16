@@ -2,5 +2,6 @@ collections:
   sec-1-registration:
     output: true
     order:
+      - Choosing a CCA.md
       - Setting up Parents Gateway.md
       - Needing A Transfer?.md
