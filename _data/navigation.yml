@@ -3,6 +3,8 @@ links:
   - title: About Us
     url: /about-us/mvv/
     sublinks:
+      - title: Principal's Message
+        url: /permalink
       - title: IJ Mission, KC's Vision&Values
         url: /about-us/mvv/
       - title: CHIJ Badge & Motto
@@ -19,8 +21,6 @@ links:
         url: /about-us/contact-info/
       - title: FAQ
         url: /about-us/faq/
-      - title: Principal's Message
-        url: /permalink
   - title: The KC Experience
     url: /the-kc-experience/kc-experience/
     sublinks:
