@@ -19,6 +19,8 @@ links:
         url: /about-us/contact-info/
       - title: FAQ
         url: /about-us/faq/
+      - title: Principal's Message
+        url: /permalink
   - title: The KC Experience
     url: /the-kc-experience/kc-experience/
     sublinks:
