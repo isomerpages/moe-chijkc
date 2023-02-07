@@ -18,7 +18,7 @@ description: ""
 *   Minnie D’Rozario Sports Award
 *   Special Commendation Award
 
-**Edusave Awards for Secondary Schools**
+**<u>Edusave Awards for Secondary Schools</u>**
 
 *   Edusave Character Award (ECHA)
 *   Edusave Awards for Achievement, Good Leadership and Services (EAGLES)
@@ -26,20 +26,20 @@ description: ""
 *   Edusave Merit Bursary (EMB)
 *   Edusave Good Progress Award (GPA)
 
-**School Colours Awards**
+**<u>School Colours Awards</u>**
 
 *   School Colours (Individual)
 *   School Colours (Team)
 
 Sports Girl of the Year Award
 
-**Leadership Awards**
+**<u>Leadership Awards</u>**
 
 *   Student Leaders
 *   Outstanding Contributions to CCA
 *   Goh Chok Tong NextGen Outstanding Student Leader Award
 
-**Other Awards**
+**<u>Other Awards</u>**
 
 *   NAPFA Champions
 *   School Values Award
