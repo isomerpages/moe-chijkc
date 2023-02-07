@@ -4,7 +4,6 @@ permalink: /clubs-and-societies/cs/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-
 ## IJ Youth Mission
 
 <iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSyfynMbXsrPGz4FBulxxrpUlENkUow6QqqHzRvzXLCNMWK-bwYwQw_mdLYzfz2_D1f5f0lHYMA8LRM/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
@@ -18,7 +17,7 @@ The CHIJ Youth is called to participate in the IJ Mission, symbolized by the Boa
 
 With the courage of youth and the openness to grow, the CHIJ Youth allows herself to be mentored like a young seagull riding on the winds of the waves to give herself to God for others.
 
-Mission
+<u>Mission</u>
 
 It provides an enabling environment for girls to recognize and promote the dignity of human persons especially the disadvantaged.
 
