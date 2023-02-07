@@ -14,14 +14,14 @@ The school has designed a comprehensive leadership training programme for all st
 
 #### Desired Outcomes
 
-<img src="/images/Desired Outcomes.png" style="width:65%">
+<img src="/images/Desired Outcomes.png" style="width:100%">
 
 A caring leader is defined as a values-driven student, who will aim to uphold the values of the KC student leader. She is able to show genuine concern to self-improvement, helping others, consistently exhibiting empathy, and taking into account perceptions of others. As a leader who excels, she will continuously seek to reflect and act in her own growth. She will also build on her strengths, helping others in her sphere of influence to excel positively.
 
 #### Student Leadership Structure in KC
 
-<img src="/images/Student Leadership Structure.png" style="width:85%"><br>
-<img src="/images/Student Leadership Board.png" style="width:85%">
+<img src="/images/Student Leadership Structure.png" style="width:150%"><br>
+<img src="/images/Student Leadership Board.png" style="width:100%">
 
 #### Student Leaders
 
