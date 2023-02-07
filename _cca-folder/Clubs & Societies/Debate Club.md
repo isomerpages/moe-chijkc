@@ -4,7 +4,6 @@ permalink: /clubs-and-societies/dc/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-
 ## Debate Club
 
 #### Objectives
@@ -30,7 +29,7 @@ third_nav_title: Clubs & Societies
 2022<br>
 *   Debate Association Debating Championships 2022 – 1st runner up
 *   Singapore Secondary Schools Debating Championships 2022 – Quarter Finalists  
-    
+
 2020<br>
 *   National Schools Online Debating Championships 2020 – Champions
 *   Thoburn Cup 2020 – Best Speaker
