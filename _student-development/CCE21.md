@@ -26,6 +26,6 @@ The CCE programme in the school is aligned to MOE’s Character and Citizenship 
 
 The school values form the core foundation from which our students achieve the desired outcomes of a KC Graduate. In turn, each KC graduate shall live out the school mission by promoting truth, justice, freedom and love. We envisage this framework will achieve the desired outcomes of education as well as equipping our students with 21st century skills to be prepared citizens of the world.
 
-<img src="/images/CCE Framwork graphics.jpg" style="width:55%">
+<img src="/images/CCE Framwork graphics.jpg" style="width:75%">
 
 Katong Convent believes in the inculcation of strong moral values in all our students. Through the CCE programme the school focuses on developing the moral well-being of the students by helping them acquire and live by the values that guide them to make appropriate choices and determine their behaviour and attitude towards themselves, others and the environment.
