@@ -5,7 +5,7 @@ description: ""
 ---
 ## Scholarship & Awards
 
-**KC Honours Day Awards**
+**<u>KC Honours Day Awards</u>**
 
 1.  Academic Excellence Awards
 2.  Best in Subject
