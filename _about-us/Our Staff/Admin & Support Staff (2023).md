@@ -4,45 +4,33 @@ permalink: /about-us/Our-Staff/admin-support-staff/
 description: ""
 third_nav_title: Our Staff
 ---
+## Admin & Support Staff (2023)
 
-## Admin & Support Staff (2022)
+| General Office Management  | Email  |
+|:-:|---|
+| **Administration Manager**<br>Mr Tan Wee Hian  | [tan\_wee\_hian@moe.edu.sg](mailto:tan\_wee\_hian@moe.edu.sg)  |
+| **Operations Manager**<br>Mr Mohamed Ayub Daud Khan  | [mohamed\_ayub\_daud\_khan@moe.edu.sg](mailto:mohamed\_ayub\_daud\_khan@moe.edu.sg)  |
+| **Administration Executive**<br>Ms Meredith Ng  | [ng\_chiew\_lin@moe.edu.sg](mailto:ng\_chiew\_lin@moe.edu.sg)  |
+| **Corporate Support Officer**<br>Mdm Tan Mui Suan  <br>Ms Audrey Ng  | <br>[tan\_mui\_suan\_a@moe.edu.sg](mailto:tan\_mui\_suan\_a@moe.edu.sg)  |
+|   |   |
 
-| General Office Management |  |
-|:---:|---|
-| **Administration Manager** | Mr Tan Wee Hian |
-| **Operations Manager** | Mr Mohamed Ayub Daud Khan |
-| **Administration Executive** | Ms Meredith Ng |
-| **Administration Executive** | Ms Aqilah Jumaat |
-| **Administration Executive** | Ms Mardiah Jamaludin |
-| **Corporate Support Officer** | Mdm Tan Mui Suan |
-| **Corporate Support Officer** | Ms Audrey Ng |
-|  |  |
+| Support Officers  | Email  |
+|:-:|---|
+| **Technical Support Officer**<br>Mdm Iryanti Bte Jamil  <br>Mr Md Zaaini Bin Hussain  | <br>[iryanti\_jamil@moe.edu.sg](mailto:iryanti\_jamil@moe.edu.sg)<br>[mohamed\_zaaini\_hussain@moe.edu.sg](mailto:mohamed\_zaaini\_hussain@moe.edu.sg)  |
+| **Operations Support Officer**  <br>Mr Chan Chin WengMdm Chern Kwat Shiang  <br>Mdm Christine Koh  <br>Mdm Ng Ka Hoon  <br>Mr Tan Chew Seng  | <br>NA<br>NA<br>NA<br>NA  |
+| **Receptionist**<br>Ms Vanessa  | <br>[cheang\_sok\_kum\_vanessa@moe.edu.sg](mailto:cheang\_sok\_kum\_vanessa@moe.edu.sg)  |
+|   |   |
 
-| **Support Officers** |  |
-|:---:|---|
-| **Technical Support Officer** | Ms Goh Cheng Gek |
-| **Technical Support Officer** | Mdm Iryanti Bte Jamil |
-| **Technical Support Officer** | Mr Md Zaaini Bin Hussain |
-| **Operations Support Officer** | Mdm Rashida Bee Abdul Hameed |
-| **Operations Support Officer** | Mr Chan Chin Weng |
-| **Operations Support Officer** | Mdm Chern Kwat Shiang |
-| **Operations Support Officer** | Mdm Christine Koh |
-| **Operations Support Officer** | Mdm Ng Ka Hoon |
-| **Operations Support Officer** | Mr Tan Chew Seng |
-| **Receptionist** | Ms Siti Hawa | 
-| | |
+| Curricular & Co-Curricular Support  |  Email |
+|:-:|---|
+| **AED (Teaching & Learning)**<br>Ms Esther Tan (Mathematics)  | <br>[esther\_tan\_kok\_kheng@moe.edu.sg](mailto:esther\_tan\_kok\_kheng@moe.edu.sg)  |
+| **AED (Learning and Behavioural Support)**<br>Ms Gursheran Kaur  | <br>[gursheran\_kaur@moe.edu.sg](mailto:gursheran\_kaur@moe.edu.sg)  |
+| **Librarian**<br>Mdm Cassandra Lee  | <br>[lee\_wah\_hing@moe.edu.sg](mailto:lee\_wah\_hing@moe.edu.sg)  |
+|   |   |
 
-| **Curricular & Co-Curricular Support** |  |
-|:---:|---|
-| **AED (Teaching & Learning)** | Ms Esther Tan (Mathematics) |
-| **AED (Learning and Behavioural Support)** | Ms Gursheran Kaur |
-| **Librarian** | Mdm Cassandra Lee |
-|  |  |
-
-| **Information Technology Support** |  |
-|:---:|---|
-| **ICT Manager** | Mr Kevin Yan |
-| **ICT Executive** | Ms Celine Tan Lian Choo |
-| **Desktop Engineer** | Mr Pravin Rajendran |
-| **Desktop Engineer** | Mr Micky Xu Weiquan |
-|  |  |
+| Information Technology Support  | Email  |
+|:-:|---|
+| **ICT Manager**<br>Mr Kevin Yan  | <br>[kevin\_yan@moe.edu.sg](mailto:kevin\_yan@moe.edu.sg)  |
+| **ICT Executive** <br>Mr Ramlan Abd kadir  | <br>[ramlan\_abd\_kadir@moe.edu.sg](mailto:ramlan\_abd\_kadir@moe.edu.sg)  |
+| **Desktop Engineer**<br>Mr Halili Abu Hassan  <br>Mr Li XiaoPeng  | <br>NA  |
+|   |   |
