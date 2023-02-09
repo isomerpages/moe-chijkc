@@ -14,6 +14,12 @@ During school operating hours, students should contact the **School-based Helpl
 *   School-based Helpline: [**http://go.gov.sg/kcslshelpline**](http://go.gov.sg/kcslshelpline)
 *   Mondays - Fridays: 8:00 am - 4:00 pm
 
+**Student Learning Space - [https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login)**
+
+**\*With effect on 01 Dec 2022, students should use the their MIMS account ID and password to login to SLS.**
+
+<img src="/images/SLS_MIMS.jpg" style="width:85%">
+
 **Non-School Operating Hours**
 
 Outside the school operating hours, students should contact the **SLS Helpdesk** for support.  
