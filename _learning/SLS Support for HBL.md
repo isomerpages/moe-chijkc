@@ -18,7 +18,7 @@ During school operating hours, students should contact the **School-based Helpl
 
 **\*With effect on 01 Dec 2022, students should use the their MIMS account ID and password to login to SLS.**
 
-<img src="/images/SLS_MIMS.jpg" style="width:85%">
+<img src="/images/SLS_MIMS(1).jpg" style="width:40%">
 
 **Non-School Operating Hours**
 
