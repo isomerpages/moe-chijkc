@@ -32,17 +32,18 @@ third_nav_title: Our Staff
 | **207**  | Ms Lai Mok Ern Lannie  <br>Mr Koh Mui Pong Thomas  | [lai\_mok\_ern@moe.edu.sg](mailto:lai_mok_ern@moe.edu.sg)<br>[koh\_mui\_pong@moe.edu.sg](mailto:koh_mui_pong@moe.edu.sg)  |
 |   |   |   |
 
-| **SECONDARY 3** | **Year Head:** Ms Nurahifah Amran | **Discipline:** Mdm Raudah Hussain |
-|:---:|:---:|---|
-| **Class** | **Form Teacher** | **Form Teacher** |
-| **301 NA** | Mrs Sukhjeet Singh | Mr Khoo Xuan Wei Eugene |
-| **302 NA** | Mdm Zakiah Subahan | Mr Ho Shi An /<br> Ms Lim Si Ying |
-| **303 EXP** | Mr See Tow Pak Kei | Mdm Raudah Hussain |
-| **304 EXP** | Mr Alex Lim Kheam Soon | Mrs Geraldine Chua |
-| **305 EXP** | Ms Gan Siew Cheng | Mrs Chan Liying |
-| **306 EXP** | Mrs Janice Tan | Mr Winston Chiang |
-| **307 NT** | Ms Esther Tan Kok Kheng | Ms Gena Yang Jie Ting /  <br>Mr Koh Mui Pong Thomas |
-|  |  |  |
+|   |   |   |
+|:-:|---|---|
+| **SECONDARY 3**  | **Year Head:** Ms Nor Sharina Abd Majid  <br>**Discipline:** Ms Lee Oi Leng  | [nor\_sharina\_abd\_majid@moe.edu.sg](mailto:nor_sharina_abd_majid@moe.edu.sg)<br><br>[lee\_oi\_leng@moe.edu.sg](mailto:lee_oi_leng@moe.edu.sg)  |
+| **Class**  | **Form Teacher**  | **Email**  |
+| **301**  | Ms Tan Shuyi Angelita  <br>Mr Goh Wenxian, Ryan  | [angelita\_tan@moe.edu.sg](mailto:angelita_tan@moe.edu.sg)<br>[goh\_wenxian\_ryan@moe.edu.sg](mailto:goh_wenxian_ryan@moe.edu.sg)  |
+| **302**  | Mr Tan Swee Hong  | [tan\_swee\_hong@moe.edu.sg](mailto:tan_swee_hong@moe.edu.sg)  |
+| **303**  | Ms Ang Sok Heng, Cheryl  <br>Ms Mano Mani  | [ang\_sok\_heng\_cheryl@moe.edu.sg](mailto:ang_sok_heng_cheryl@moe.edu.sg)<br>[mano\_mani@moe.edu.sg](mailto:mano_mani@moe.edu.sg)  |
+| **304**  | Mrs Cherylyn Koh  <br>Mr Eugene Khoo Xuan We  | [cherylyn\_poh\_fung\_sze@moe.edu.sg](mailto:cherylyn_poh_fung_sze@moe.edu.sg)<br>[khoo\_xuan\_wei\_eugene@moe.edu.sg](mailto:khoo_xuan_wei_eugene@moe.edu.sg)  |
+| **305**  | Mr John D Jegathesan  <br>Mdm Wong Poh Yan Teresa  | [d\_jegathesan@moe.edu.sg](mailto:d_jegathesan@moe.edu.sg)<br>[wong\_poh\_yan\_teresa@moe.edu.sg](mailto:wong_poh_yan_teresa@moe.edu.sg)  |
+| **306**  | Ms Lee Oi Leng  <br>Mr Leow See Yong  | [lee\_oi\_leng@moe.edu.sg](mailto:lee_oi_leng@moe.edu.sg)<br>[leow\_see\_yong@moe.edu.sg](mailto:leow_see_yong@moe.edu.sg)  |
+| **307**  | Ms Esther Tan Kok Kheng  <br>Ms Nurhana Achmad  <br>Ms Sarah Phua Yiran  | [esther\_tan\_kok\_kheng@moe.edu.sg](mailto:esther_tan_kok_kheng@moe.edu.sg)<br>[nurhana\_achmad@moe.edu.sg](mailto:nurhana_achmad@moe.edu.sg)<br>[sarah\_phua\_yiran@moe.edu.sg](mailto:sarah_phua_yiran@moe.edu.sg)  |
+|   |   |   |
 
 | **SECONDARY 4** | **Year Head:** Mrs Algena Lim | **Discipline:** Mdm Zairina Mohamad Zen |
 |:---:|:---:|---|
