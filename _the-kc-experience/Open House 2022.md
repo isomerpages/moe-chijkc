@@ -10,20 +10,13 @@ Join our KC family on 19 November 2022 for a student-guided tour around our Conv
 
 <img src="/images/Mark the Date W_O QR.png" style="width:85%">
 
-_**Parking arrangement**_: <br>
-Please park at the HDB carpark near Blk 50A Marine Terrace Market, Singapore 441050.
+#### Parking arrangement:
 
-This is directly opposite the school gate and within a short walking distance. In the event of wet weather, do drive into the school to drop off your family members who are attending our Open House before proceeding to park at the carpark opposite the school.
+Please park at the HDB carpark near Blk 50A Marine Terrace Market, Singapore 441050.  <br>This is directly opposite the school gate and within a short walking distance. In the event of wet weather, do drive into the school to drop off your family members who are attending our Open House before proceeding to park at the carpark opposite the school.
 
-Can’t wait to have more information so you can plan your visit?
+#### 2022 Talk by Principal
 
-Take a peek at the [timings](/files/KC%20Open%20House%20Programme.pdf) of what we have lined up for you and check back at this same webpage later for Navigation map!
+If you missed our Open House on 19 Nov, don't worry! You can still view the KC Open House Talk by our Principal to find out more about how KC can be an exciting experience for our girls!
 
-<img src="/images/photo1668171200.jpeg" style="width:90%">
-
-Before you go, enjoy a short 3 mins clip on our school’s signature **B**ook and **M**usic **W**eek programme:
-
-**REQUIRE JACKSON'S INPUT VIDEO**
-
-#### Come experience our KC 360 virtual tour of our campus
+<iframe width="800" height="450" src="https://www.youtube.com/embed/2e3XTr6wZEg" title="KC Open House 2022 Talk by Principal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
