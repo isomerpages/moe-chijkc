@@ -30,14 +30,16 @@ third_nav_title: Our Staff
 | **Year Head**  <br>Mdm Nurahifah Amran  | [nurahifah\_amran@moe.edu.sg](mailto:nurahifah_amran@moe.edu.sg)  |
 |   |   |
 
-| **Subject Heads** |  |
-|:---:|:---:|
-| **Geography** | Ms Cheryl Anne Lim |
-| **Literature and Drama** | Ms Yin Mei Lenden |
-| **Lower Sec Science** | Mr Toh Meng Yeow |
-| **Malay Language** | Ms Norazian Mohamed Yahya |
-| **Mathematics** | Mrs Nooryati Leong |
-|  |  |
+| Subject Heads  | Email  |
+|:-:|---|
+| **Aesthetics (Covering)**<br>Ms Sarah Phua  | [sarah\_phua\_yiran@moe.edu.sg](mailto:sarah_phua_yiran@moe.edu.sg)  |
+| **Art**<br>Ms Heather Teo  | [heather\_teo@moe.edu.sg](mailto:heather_teo@moe.edu.sg)  |
+| **Assistant Year Head**<br>Ms Lee Shu Min  | [lee\_shu\_min@moe.edu.sg](mailto:lee_shu_min@moe.edu.sg)  |
+| **Geography**<br>Ms Cheryl Anne Lim  | [lim\_su\_ying\_cheryl@moe.edu.sg](mailto:lim_su_ying_cheryl@moe.edu.sg)  |
+| **Malay Language**<br>Ms Norazian Mohamed Yahya  | [norazian\_mohamed\_yahya@moe.edu.sg](mailto:norazian_mohamed_yahya@moe.edu.sg)  |
+| **Mathematics**<br>Mrs Nooryati Leong  | [nooryati\_abdul\_talib@moe.edu.sg](mailto:nooryati_abdul_talib@moe.edu.sg)  |
+| **Physical Education/ CCA (Covering)**<br>Mr Ho Shi An  | [ho\_shi\_an@moe.edu.sg](mailto:ho_shi_an@moe.edu.sg)  |
+|   |   |
 
 | **Senior Teachers** |  |
 |:---:|:---:|
