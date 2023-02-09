@@ -21,18 +21,18 @@ third_nav_title: Sports
 2 \.  Regular CCA training sessions.<br>
 3 \.  Participation in annual CCA camp, CCA Fair, and VIA project<br>
 4 \.  Participation in<br>
-1 \.  National Schools Games Canoeing Championships ‘C’ Division<br>
-2 \.  Singapore Canoe Sprint Championships ‘C’ Division<br>
-3 \.  Singapore Canoe Marathon
+* National Schools Games Canoeing Championships ‘C’ Division<br>
+* Singapore Canoe Sprint Championships ‘C’ Division<br>
+* Singapore Canoe Marathon
 
 #### Programme (Upper Sec)
 
 1 \.  Regular CCA training sessions.<br>
 2 \.  Participation and organization of annual CCA camp, CCA Fair, and VIA project<br>
 3 \.  Participation in<br>
-1 \.  National Schools Games Canoeing Championships ‘B’ Division<br>
-2 \.  Singapore Canoe Sprint Championships ‘B’ Division<br>
-3 \.  Singapore Canoe Marathon
+* National Schools Games Canoeing Championships ‘B’ Division<br>
+* Singapore Canoe Sprint Championships ‘B’ Division<br>
+* Singapore Canoe Marathon
 
 #### Achievements (Last 3 years)
 
@@ -41,11 +41,11 @@ third_nav_title: Sports
     
 **2019**<br>
 *   National Junior Canoe Sprint Championships
--U20 K4 500m Semi-Finalist, K2 500m Semi-Finalist, K2 100m Semi-Finalist
+-U20 K4 500m Semi-Finalist, K2 500m Semi-Finalist, K2 100m Semi-Finalist<br>
 -U14 JK2 500m Semi-Finalist, JK1 500m Semi-Finalist
 
 *   National Schools Games Canoeing Championships
--‘C’ Division K4 500m Finalist
+-‘C’ Division K4 500m Finalist<br>
 -‘C’ Division JK1 500m Semi-Finalist
 
 *   Singapore Canoe Marathon Junior Women 18km, U16 12km, &amp; U14 12km Finisher.
@@ -53,14 +53,14 @@ third_nav_title: Sports
 **2018**<br>
 *   National Junior Canoe Sprint Championships Participant
 *   National Schools Games Canoeing Championships
--‘C’ Division Finalists 500m category for JK1, K4, &amp; JK2
+-‘C’ Division Finalists 500m category for JK1, K4, &amp; JK2<br>
 -‘B’ Division Semi-Finalists K4 500m
 
 *   Singapore Canoe Marathon 12km U14 &amp; Open Women Finisher
 
 **2017**<br>
 *   National Junior Canoe Sprint Championships
--U14 JK2 500m Semi-Finalist
+-U14 JK2 500m Semi-Finalist<br>
 -U16 K4 500m Semi-Finalist &amp; K1 500m Semi-Finalist
 
 *   National Schools Games Canoeing Championships
