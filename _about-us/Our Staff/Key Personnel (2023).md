@@ -4,15 +4,15 @@ permalink: /about-us/key-personnel/
 description: ""
 third_nav_title: Our Staff
 ---
-
 ## Key Personnel (2023)
 
-| **Leadership** |  |
-|:---:|:---:|
-| **Principal** | Mrs Hilda Thong |
-| **Vice-Principal (Education Officer)** | Mrs Goh Kok Chan |
-| **Vice-Principal (Education Officer)** | Ms Annie Lim |
-| | |
+| **Leadership**  | Email  |
+|:-:|---|
+| **Principal**  <br>Mrs Tan Mei Chuen  | [chen\_mei\_chuen@schools.gov.sg](mailto:chen_mei_chuen@schools.gov.sg)  |
+| **Vice-Principal (Education Officer)**Mrs Goh Kok Chan  |   |
+|   |   |
+|   |   |
+|   |   |
 
 | **Heads of Department** |  |
 |:---:|:---:|
