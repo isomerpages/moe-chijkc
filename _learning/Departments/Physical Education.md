@@ -34,8 +34,9 @@ For Outdoor Education, they are taught navigational skills using a map and a com
 
 #### Signature Programmes
 
-*   Secondary Two Outdoor Adventure Camp
-*   KC Sports Evening
-*   Inter-Class Games Carnival
+*   Secondary One Outdoor Adventure Camp  
+*   Secondary Three Outdoor Adventure Camp  
+*   KC Sports Day
+*   Inter-Class Sports Competitions
 
 <iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT1OeoSr2Ax8rV2cInuj8rgbAfUK0WQkWzKhRKG09OzHEUVZE-tnyZ7ntz0B6hBTd4gfZExsz1BmpgG/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
