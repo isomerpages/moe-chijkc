@@ -19,17 +19,18 @@ third_nav_title: Our Staff
 | **107**  | Ms Farah Syazwana Binte Sulaiman  <br>Mr Michael Ang Zhi Hau  | [farah\_syazwana\_sulaiman@moe.edu.sg](mailto:farah_syazwana_sulaiman@moe.edu.sg)<br><br>[ang\_zhi\_hau@moe.edu.sg](mailto:ang_zhi_hau@moe.edu.sg)  |
 |   |   |   |		
 
-| **SECONDARY 2** | **Year Head:** Ms Lee Shu Min | **Discipline:** Ms Lee Shu Min |
-|:---:|:---:|---|
-| **Class** | **Form Teacher** | **Form Teacher** |
-| **201 NA** | Mrs Shanti Lingesh | Mr Richard Leong |
-| **202 NA** | Mrs Cherylyn Koh | Ms Farah Syazwana Sulaiman |
-| **203 EXP** | Mrs Evelyn Soon | Mr Luke Ezekiel |
-| **204 EXP** | Mr John D. Jegathesan | Ms Mano Mani |
-| **205 EXP** | Ms Cai Hanyun | Mdm Chong Pei Sin |
-| **206 EXP** | Ms Patrine Chua Chee Huang | Mr Tan Yan Zhao |
-| **207 NT** | Ms Nurhana Achmad | Ms Sarah Phua Yiran |
-|  |  |  |
+|   |   |   |
+|:-:|---|---|
+| **SECONDARY 2**  | **Year Head & Discipline:** Ms Lee Shu Min  <br>**Discipline:** Ms Nuha Binte Jalal  | [lee\_shu\_min@moe.edu.sg](mailto:lee_shu_min@moe.edu.sg)<br>[nuha\_jalal@moe.edu.sg](mailto:nuha_jalal@moe.edu.sg)  |
+| **Class**  | **Form Teacher**  | **Email**  |
+| **201**  | Ms Audrey Lee Jiak Peng  <br>Ms Norhana Mohamad  | [lee\_jiak\_peng\_audrey@moe.edu.sg](mailto:lee_jiak_peng_audrey@moe.edu.sg)<br>[norhana\_mohamad@moe.edu.sg](mailto:norhana_mohamad@moe.edu.sg)  |
+| **202**  | Ms Heng Pei Yan  <br>Ms Patrine Chua  | [heng\_pei\_yan@moe.edu.sg](mailto:heng_pei_yan@moe.edu.sg)<br>[patrine\_chua\_chee\_huang@moe.edu.sg](mailto:patrine_chua_chee_huang@moe.edu.sg)  |
+| **203**  | Ms Nuha Binte Jalal  <br>Mr Richard Leong  | [nuha\_jalal@moe.edu.sg](mailto:nuha_jalal@moe.edu.sg)<br>[leong\_theng\_wei@moe.edu.sg](mailto:leong_theng_wei@moe.edu.sg)  |
+| **204**  | Ms Tan Puay Cher Jessy  <br>Ms SandraEzekiel  | [tan\_puay\_cher@moe.edu.sg](mailto:tan_puay_cher@moe.edu.sg)<br>[liew\_pui\_yen\_sandra@moe.edu.sg](mailto:liew_pui_yen_sandra@moe.edu.sg)  |
+| **205**  |   |   |
+| **206**  |   |   |
+| **207**  |   |   |
+|   |   |   |
 
 | **SECONDARY 3** | **Year Head:** Ms Nurahifah Amran | **Discipline:** Mdm Raudah Hussain |
 |:---:|:---:|---|
