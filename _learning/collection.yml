@@ -2,7 +2,6 @@ collections:
   learning:
     output: true
     order:
-      - Student iCON or Zoom.md
       - Departments/.keep
       - Departments/Arts.md
       - Departments/Drama & Theatre Studies.md
@@ -19,3 +18,4 @@ collections:
       - Departments/Science.md
       - Full Subject Based Banding.md
       - SLS Support for HBL.md
+      - Student iCON or Zoom.md
