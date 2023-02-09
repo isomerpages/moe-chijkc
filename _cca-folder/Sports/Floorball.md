@@ -6,39 +6,30 @@ third_nav_title: Sports
 ---
 ## Floorball
 
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTMMQ4JV2xOumFZxQZCeHk9TocoqamHRbQlhinqEU_Rhr5bPmNlDnXy5ixA3UUkLNG5pTzkFxm7bhmC/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR5b22qWiWytaY9vbQeDBfIdtJGP_LLRB4wRF-EGQ1M314hEamdwWroAmcBfqBf-j34yOJiaVTkSqsg/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 #### Objectives
 
 *   To inculcate good sportsmanship and team spirit.
 *   To give every player an opportunity to represent school in floorball matches.
 *   To develop each child holistically in soft skills such as, independent thinking, teamwork and care for others.
-*   To qualify for National School Games (B Division Girls and C Division Girls)
+*   To win the National School Games (B Division Girls and C Division Girls)
 
-#### Programme (Lower Sec)
+#### Programme 
 
-|  |  |
-|:---:|---|
-| **June** | Floorball Day camp |
-| **July - September** | National School Games C Division Floorball Championships |
-| **October** | Floorball clinic (VIA activity) |
-| **October - November** | Floorball holiday training<br>Floorball camp that includes flippaball and outdoor trekking, Inter-school floorball challenge |
-|  |  |
+|   |   |
+|:-:|---|
+| **January**  | CCA Fair<br>Sec 1 Recruitment  |
+| **January - April**  | National School Games B Division Floorball Championships  |
+| **March**  | Team bonding activities  |
+| **June**  | Floorball Day Camp  |
+| **June - September**  | National School Games C Division Floorball&nbsp;Championships  |
+| **June - December**  | Friendly matches with other secondary schools and&nbsp;Junior Colleges  |
+| **October**  | Floorball clinic (VIA activity)  |
+| **October - November**  | Floorball holiday training  <br>Floorball camp  <br>KC Floorball Challenge  |
+|   |   |
 
-#### Programme (Upper Sec)
-
-|  |  |
-|:---:|---|
-| **January** | CCA Fair<br>Sec 1 Recruitment |
-| **January - April** | National School Games B Division Floorball Championships |
-| **March** | Team bonding activities |
-| **June** | Floorball Day Camp |
-| **June - December** | Friendly matches with other secondary schools and junior colleges |
-| **October** | Floorball clinic (VIA activity) |
-| **October - November** | Floorball holiday training<br>Floorball camp that includes flippaball and outdoor trekking, Inter-school floorball challenge |
-|  |  |
-
-#### Achievements (Last 3 years)
+#### Achievements 
 
 **2021**  <br>
 *   National School Games Floorball Championships (B Division) - Quarter Finalists  
