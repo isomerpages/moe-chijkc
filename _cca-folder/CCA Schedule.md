@@ -5,7 +5,7 @@ description: ""
 ---
 ## CCA Schedule
 
-#### CCA TRAINING VENUE AND DAYS 2021 
+##### <center>CCA TRAINING VENUE AND DAYS 2021 </center>
 
 | **CCA** | **Training venue** | **Training days** |
 |:---:|---|---|
