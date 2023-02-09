@@ -7,10 +7,6 @@ description: ""
 
 [e-Student Journal 2023.pdf](https://www.chijkatongconvent.moe.edu.sg/qql/slot/u185/The%20KC%20Experience/KC%20Student%20Journal%202023.pdf) **PDF EXCEEDS 5MB**
 
-
-
-https://www.chijkatongconvent.moe.edu.sg/qql/slot/u185/The%20KC%20Experience/KC%20Student%20Journal%202023.pdf
-
 <p><a href="https://www.chijkatongconvent.moe.edu.sg/qql/slot/u185/The%20KC%20Experience/KC%20Student%20Journal%202023.pdf">
 <img style="width:100%" src="/images/2023 Journal.jpeg">
 </a></p>
