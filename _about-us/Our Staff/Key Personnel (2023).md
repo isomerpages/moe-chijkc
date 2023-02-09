@@ -41,12 +41,10 @@ third_nav_title: Our Staff
 | **Physical Education/ CCA (Covering)**<br>Mr Ho Shi An  | [ho\_shi\_an@moe.edu.sg](mailto:ho_shi_an@moe.edu.sg)  |
 |   |   |
 
-| **Senior Teachers** |  |
-|:---:|:---:|
-| **Character and Citizenship Education** | Mrs Helen Lie |
-| **Chemistry** | Mr Alex Lim |
-| **Educational Support** | Mdm Zakiah Subahan |
-| **Literature** | Mrs Sukhjeet Singh |
-| **Physical Education** | Mr John D Jegathesan |
-| **History** | Mr Tan Swee Hong |
-|  |  |
+| Senior Teachers  | Email  |
+|:-:|---|
+| **Character and Citizenship Education**<br>Mrs Helen Lie  | [lie\_ai\_lian@moe.edu.sg](mailto:lie_ai_lian@moe.edu.sg)  |
+| **Educational Support**<br>Mdm Zakiah Subahan  | [zakiah\_subahan@moe.edu.sg](mailto:zakiah_subahan@moe.edu.sg)  |
+| **Literature**<br>Mrs Sukhjeet Singh  | [sukhjeet\_kaur@moe.edu.sg](mailto:sukhjeet_kaur@moe.edu.sg)  |
+| **History**<br>Mr Tan Swee Hong  | [tan\_swee\_hong@moe.edu.sg](mailto:tan_swee_hong@moe.edu.sg)  |
+|   |   |
