@@ -17,8 +17,7 @@ The CHIJ Youth is called to participate in the IJ Mission, symbolized by the Boa
 
 With the courage of youth and the openness to grow, the CHIJ Youth allows herself to be mentored like a young seagull riding on the winds of the waves to give herself to God for others.
 
-<u>Mission</u>
-
+<u>Mission</u><br>
 It provides an enabling environment for girls to recognize and promote the dignity of human persons especially the disadvantaged.
 
 #### Programme (all levels)
