@@ -58,8 +58,9 @@ third_nav_title: Our Staff
 | **407**  | Mrs Judy Goh  | [lim\_li\_kiang@moe.edu.sg](mailto:lim_li_kiang@moe.edu.sg)  |
 |   |   |   |
 
-| **SECONDARY 5** | **Year Head:** Mrs Algena Lim | **Discipline:** Mdm Zairina Mohamad Zen |
-|:---:|:---:|---|
-| **Class** | **Form Teacher** | **Form Teacher** |
-| **500** | Ms Sandra Vincent | Mr Goh Wenxian, Ryan |
-|  |  |  |
+|   |   |   |
+|:-:|---|---|
+| **SECONDARY 5**  | **Year Head:** Mdm Nurahifah Amran  <br>**Discipline:** Mdm Raudah Hussain  | [nurahifah\_amran@moe.edu.sg](mailto:nurahifah_amran@moe.edu.sg)<br>[raudah\_hussain@moe.edu.sg](mailto:raudah_hussain@moe.edu.sg)  |
+| **Class**  | **Form Teacher**  | **Email**  |
+| **500**  |  Mr Wang Zhe  <br>Mrs Welzl-Loke Xiu Qing | [wang\_zhe@moe.edu.sg](mailto:wang_zhe@moe.edu.sg)<br>[loke\_xiuqing@moe.edu.sg](mailto:loke_xiuqing@moe.edu.sg)  |
+|   |   |   |
