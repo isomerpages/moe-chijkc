@@ -8,7 +8,7 @@ third_nav_title: National Digital Literacy Prog
 
 The NDLP was launched in March 2020 to make digital learning inclusive by equipping students with the digital literacies to be future-ready. Under the NDLP, MOE announced that every student will own a school-prescribed personal learning device (PLD) by end-2021.
 
-Please find the briefing slides on NDLP during the Sec One Parents Engagement Webinar held on 18 Jan [here ](/files/KC%20PLD%20Briefing%20to%20Parents%2018%20Jan_website.pdf) **(please click)**
+Please find the briefing slides on NDLP during the Sec One Parents Engagement Webinar held on 18 Jan [here](/files/KC%20PLD%20Briefing%20to%20Parents%2018%20Jan_website.pdf)
 
 #### NDLP @ CHIJ Katong Convent
 
@@ -64,15 +64,18 @@ If you are unable to submit this form online, please contact the school General 
 
 #### Financial Assistance
 
-Subsidies are available to students who require financial assistance.  
-  
-Students who are under the following schemes would automatically qualify for subsidies and do not need to take any action:       
+Subsidies are available to students who require financial assistance.
 
-*   Singapore Citizens who are already on MOE FAS or
-*   Singapore Citizens who are already on our school-based FAS Scheme (IJ Bursary) and whose Gross Household Income (GHI) is $4,000 or less, or Per Capita Income (PCI) is $1,000 or less.  
-*   Students who are currently not under the above schemes may approach the school’s General Office or download the Application for Subsidy Form to apply for additional subsidy if their Gross Household Income (GHI) is $4,000 or less, or Per Capita Income (PCI) is $1,000 or less. “PCI” refers to the Gross Household Income divided by the total number of family members in the household.
+| Students eligible for subsidy  | Income criteria  | How to Apply for subsidy  |
+|:-:|---|---|
+| Students under MOE FAS  | **G**ross **H**ousehold **I**ncome ("**GHI**")<br>is $3,000 or less or  <br>**P**er **C**apit **I**ncome ("**PCI**")\* is $750 or less  | No action required.  <br>Automatically subsidised for the PLD.  |
+| Students under School-based FAS  | **GHI** is $4,400 or less, or  <br>**PCI** is $1,100 or less  | Approach the school's General Office to apply for a subsidy.  |
+| Students who are currently not under MOE FAS or School-based FAS  | **GHI** is $4,400 or less, or  <br>**PCI** is $1,100 or less  | Approach the school's General Office to apply for a subsidy.  |
+|   |   |   |
 
-Application for subsidy should be submitted to the General Office.
+\*“**PCI**” refers to the Gross Household Income divided by the total number of family members in the household.
+
+Application for subsidy should be submitted to <u>the General Office.</u>
 
 #### Further Queries
 
