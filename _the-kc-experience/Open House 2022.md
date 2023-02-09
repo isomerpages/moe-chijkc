@@ -36,6 +36,6 @@ Before you go, enjoy a short 3 mins clip on our school’s signature **B**ook a
 
 #### Come experience our KC 360 virtual tour of our campus
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="https://www.chijkatongconvent.moe.edu.sg/qql/slot/u185/VirtualTour2021/tour.html">
 <img style="width:100%" src="/images/KC Experience.jpeg">
 </a></p>
