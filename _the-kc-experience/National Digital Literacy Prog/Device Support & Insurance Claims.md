@@ -31,7 +31,7 @@ Parents/Students may rely on the following platforms if they need support or ins
 
 <img src="/images/Lenovo Service Centre.png" style="width:85%">
 
-#### For Acer Chromebook Spin (R752TN)
+#### For Acer Chromebook Spin (R752TN / R753TN) 
 
 | **Acer Helpdesk** | **Acer Service Center** |
 |:---:|---|
