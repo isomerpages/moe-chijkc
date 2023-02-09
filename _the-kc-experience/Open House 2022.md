@@ -24,7 +24,7 @@ If you missed our Open House on 19 Nov, don't worry! You can still view the KC O
 
 Download the Navigation map and the programme sheet **[here](/files/School%20Map.pdf)** for what we have lined up for you!
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="https://staging.dmkpqrrm2djqs.amplifyapp.com/files/School%20Map.pdf">
 <img style="width:100%" src="/images/Open-House Map_Programme.jpeg">
 </a></p>
 
