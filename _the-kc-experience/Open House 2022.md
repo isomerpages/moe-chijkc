@@ -27,3 +27,15 @@ Download the Navigation map and the programme sheet **[here](/files/School%20Map
 <p><a href="https://www.ezhishi.net/CKPSebook2022/">
 <img style="width:100%" src="/images/Open-House Map_Programme.jpeg">
 </a></p>
+
+#### KC Signature BMW 2022
+
+Before you go, enjoy a short 3 mins clip on our school’s signature **B**ook and **M**usic **W**eek programme:
+
+<iframe width="800" height="450" src="https://www.youtube.com/embed/J9QpmkZ7HwY" title="KC Signature BMW 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+#### Come experience our KC 360 virtual tour of our campus
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:100%" src="/images/KC Experience.jpeg">
+</a></p>
