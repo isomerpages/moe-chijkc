@@ -21,8 +21,8 @@ third_nav_title: Our Staff
 | **English Language**  <br>Mrs Chua May Ling  | [seah\_may\_ling@moe.edu.sg](mailto:seah_may_ling@moe.edu.sg)  |
 | **Humanities**  <br>Mdm Wahidah Ahamad  | [wahidah_ahmad@moe.edu.sg](mailto:wahidah_ahmad@moe.edu.sg)  |
 | **Information and Communication Technology**  <br>Mr Joseph Tan  | [tan\_hong\_yak@moe.edu.sg](mailto:tan_hong_yak@moe.edu.sg)  |
-|   |   |
-|   |   |
+| **Mathematics**  <br>hin Qinning  |   |
+| **Mother Tongue Languages**  <br>ng Meiqing  |   |
 |   |   |
 |   |   |
 |   |   |
