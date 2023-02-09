@@ -4,20 +4,20 @@ permalink: /about-us/Our-Staff/form-teacher/
 description: ""
 third_nav_title: Our Staff
 ---
+## Form Teachers (2023)
 
-## Form Teachers (2022)
-
-| **SECONDARY 1** | **Year Head:** Ms Lim Shi Ying | **Discipline:** Ms Lee Oi Leng /  <br>Ms Nuha Binte Jalal |
-|:---:|:---:|---|
-| **Class** | **Form Teacher** | **Form Teacher** |
-| **101 NA** | Ms Nufail Mahmood | Ms Audrey Lee Jiak Peng |
-| **102 NA** | Ms Heng Pei Yan | Ms Lee Oi Leng |
-| **103 EXP** | Ms Nuha Binte Jalal | Ms Norhana Mohamad |
-| **104 EXP** | Mdm Tan Puay Cher Jessy | Mr Lee Yong Ping Brian |
-| **105 EXP** | Mr Shahren Mansor | Ms Koek Chwee Kim |
-| **106 EXP** | Mrs Helen Lie | Mr Pang Kim Fong |
-| **107 NT** | Mr Tan Tze Wei | Ms Lai Mok Ern Lannie |
-|  |  |  |
+|   |   |   |
+|:-:|---|---|
+| **SECONDARY 1**  | **Year Head:** Mr Loh Jing Hui Jimmy<br>**Discipline:** Mrs Algena Lim  <br>**Discipline:** Mdm Zairina Mohamad Zen  | [loh\_jing\_hui@moe.edu.sg](mailto:loh_jing_hui@moe.edu.sg)<br><br>[koh\_jiun\_algena\_louisa@moe.edu.sg](mailto:koh_jiun_algena\_louisa@moe.edu.sg)<br><br>[zairina\_mohamad\_zen@moe.edu.sg](mailto:zairina_mohamad_zen@moe.edu.sg)  |
+| **Class**  | **Form Teacher**  | **Email**  |
+| **101**  | Ms Pamela K Samales  <br>Mr Shahren Mansor  | [pamela\_samales@moe.edu.sg](mailto:pamela_samales@moe.edu.sg)<br>[shahren\_mansor@moe.edu.sg](mailto:shahren_mansor@moe.edu.sg)  |
+| **102**  | Ms Nufail Mahmood  <br>Mrs Shanthi Lingesh  | [nufail\_mahmood@moe.edu.sg](mailto:nufail_mahmood@moe.edu.sg)<br>[shanthi\_lingesh@moe.edu.sg](mailto:shanthi_lingesh@moe.edu.sg)  |
+| **103**  | Ms Cai Hanyun  <br>Ms Lai Ai Fah  | [cai\_hanyun@moe.edu.sg](mailto:cai_hanyun@moe.edu.sg)<br>[lai\_ai\_fah@moe.edu.sg](mailto:lai_ai_fah@moe.edu.sg)  |
+| **104**  | Mr Luke Saidil Ezekiel  <br>Ms Smitha Srinivas Rao  | [luke\_saidil\_ezekiel@moe.edu.sg](mailto:luke_saidil_ezekiel@moe.edu.sg)<br>[rao\_smitha\_srinivas@moe.edu.sg](mailto:rao_smitha_srinivas@moe.edu.sg)  |
+| **105**  | Ms Hannah Nadhirah  <br>Mr Pang Kim Fong  | [hannah\_nadhirah\_lokman@moe.edu.sg](mailto:hannah_nadhirah_lokman@moe.edu.sg)<br>[pang\_kim\_fong@moe.edu.sg](mailto:pang_kim_fong@moe.edu.sg)  |
+| **106**  | Mr Faizal B Mohd Hussein  <br>Ms Lim Si Ying  | [faizal\_hussein@moe.edu.sg](mailto:faizal_hussein@moe.edu.sg)<br>[lim\_si\_ying@moe.edu.sg](mailto:lim_si_ying@moe.edu.sg)  |
+| **107**  | Ms Farah Syazwana Binte Sulaiman  <br>Mr Michael Ang Zhi Hau  | [farah\_syazwana\_sulaiman@moe.edu.sg](mailto:farah_syazwana_sulaiman@moe.edu.sg)<br><br>[ang\_zhi\_hau@moe.edu.sg](mailto:ang_zhi_hau@moe.edu.sg)  |
+|   |   |   |		
 
 | **SECONDARY 2** | **Year Head:** Ms Lee Shu Min | **Discipline:** Ms Lee Shu Min |
 |:---:|:---:|---|
