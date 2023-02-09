@@ -9,9 +9,8 @@ third_nav_title: Our Staff
 | **Leadership**  | Email  |
 |:-:|---|
 | **Principal**  <br>Mrs Tan Mei Chuen  | [chen\_mei\_chuen@schools.gov.sg](mailto:chen_mei_chuen@schools.gov.sg)  |
-| **Vice-Principal (Education Officer)**Mrs Goh Kok Chan  |   |
-|   |   |
-|   |   |
+| **Vice-Principal (Education Officer)** <br>Mrs Goh Kok Chan  | [goh\_bee\_hoon@schools.gov.sg](mailto:goh_bee_hoon@schools.gov.sg)  |
+| **Vice-Principal (Education Officer)** <br>Ms Annie Lim  | [lim\_ai\_hui@schools.gov.sg](mailto:lim_ai_hui@schools.gov.sg)  |
 |   |   |
 
 | **Heads of Department** |  |
