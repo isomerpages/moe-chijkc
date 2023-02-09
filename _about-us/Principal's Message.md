@@ -3,12 +3,13 @@ title: Principal's Message
 permalink: /about-us/pm/
 description: ""
 ---
+## Principal's Message
 
 As the second oldest IJ school in Singapore, Katong Convent (KC) has provided a holistic education for generations of girls and produced many illustrious alumnae. Today, KC continues to be guided by our founder, Blessed Nicolas Barré’s philosophy that every child is unique and has God-given talents. The school vision of **_A Caring School that Excels_** captures our desire to build a school community where every student feels a sense of belonging, is nurtured to develop her talents, and is inspired to be a lifelong learner. 
 
-  
-
 Fitting of our heritage as a Convent by the Sea, the PIER values of Perseverance, Integrity, Excellence, Respect, and Christian principles are inculcated in KC girls. Just like a pier serves as a docking place for ships, the PIER values and Christian principles anchor and guide KC girls as they navigate life with confidence and optimism. 
+
+<img src="/images/prinmsg.jpg" style="width:49%" align=right>
 
 KC girls’ learning experiences are also greatly enriched by our niche in the Communicative, Performing and Visual Arts. An education infused with arts experiences can bring about positive outcomes in students’ academic, social and emotional learning, and school programmes, such as our signature Book and Music Week, present all students with opportunities to be involved with the arts. 
 
