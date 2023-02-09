@@ -45,17 +45,18 @@ third_nav_title: Our Staff
 | **307**  | Ms Esther Tan Kok Kheng  <br>Ms Nurhana Achmad  <br>Ms Sarah Phua Yiran  | [esther\_tan\_kok\_kheng@moe.edu.sg](mailto:esther_tan_kok_kheng@moe.edu.sg)<br>[nurhana\_achmad@moe.edu.sg](mailto:nurhana_achmad@moe.edu.sg)<br>[sarah\_phua\_yiran@moe.edu.sg](mailto:sarah_phua_yiran@moe.edu.sg)  |
 |   |   |   |
 
-| **SECONDARY 4** | **Year Head:** Mrs Algena Lim | **Discipline:** Mdm Zairina Mohamad Zen |
-|:---:|:---:|---|
-| **Class** | **Form Teacher** | **Form Teacher** |
-| **401 NA** | Mr Wong Li Mian | - |
-| **402 NA** | Mrs Welzl-Loke Xiu Qing | Mr Wang Zhe |
-| **403 EXP** | Mr Tan Swee Hong | Ms Ang Sok Heng, Cheryl |
-| **404 EXP** | Mrs Sandra Ezekiel | Mr Faizal Hussein |
-| **405 EXP** | Ms Nor Sharina Abd Majid | Ms Angelita Tan |
-| **406 EXP** | Mr Leow See Yong | Mdm Wong Poh Yan Teresa |
-| **407 NT** | Mr Michael Ang Zhi Hau | Mdm Zairina Mohamad Zen |
-|  |  |  |
+|   |   |   |
+|:-:|---|---|
+| **SECONDARY 4**  | **Year Head:** Mdm Nurahifah Amran  <br>**Discipline:** Mdm Raudah Hussain  | [nurahifah\_amran@moe.edu.sg](mailto:nurahifah_amran@moe.edu.sg)<br>[raudah\_hussain@moe.edu.sg](mailto:raudah_hussain@moe.edu.sg)  |
+| **Class**  | **Form Teacher**  | **Email**  |
+| **401**  | Mrs Sukhjeet Singh  | [sukhjeet\_kaur@moe.edu.sg](mailto:sukhjeet_kaur@moe.edu.sg)  |
+| **402**  | Mr Ho Shi An  <br>Mdm Zakiah Subahan  | [ho\_shi\_an@moe.edu.sg](mailto:ho_shi_an@moe.edu.sg)<br>[zakiah\_subahan@moe.edu.sg](mailto:zakiah_subahan@moe.edu.sg)  |
+| **403**  | Mdm Raudah Hussain  <br>Mr See Tow Pak Kei  | [raudah\_hussain@moe.edu.sg](mailto:raudah_hussain@moe.edu.sg)<br>[see\_tow\_pak\_kei@moe.edu.sg](mailto:see_tow_pak_kei@moe.edu.sg)  |
+| **404**  | Ms Ang Yen Ling  <br>Ms Wahidah  | [ang\_yen\_ling@moe.edu.sg](mailto:ang_yen_ling@moe.edu.sg)<br>[wahidah\_ahmad@moe.edu.sg](mailto:wahidah_ahmad@moe.edu.sg)  |
+| **405**  | Mdm Chong Pei Sin  <br>Ms Gan Siew Cheng  | [chong\_pei\_sin@moe.edu.sg](mailto:chong_pei_sin@moe.edu.sg)<br>[gan\_siew\_cheng@moe.edu.sg](mailto:gan_siew_cheng@moe.edu.sg)  |
+| **406**  | Mrs Janice Tan  <br>Mr Tan Yan Zhao  | [nah\_chiew\_hong\_janice@moe.edu.sg](mailto:nah_chiew_hong_janice@moe.edu.sg)<br>[tan\_yan\_zhao@moe.edu.sg](mailto:tan_yan_zhao@moe.edu.sg)  |
+| **407**  | Mrs Judy Goh  | [lim\_li\_kiang@moe.edu.sg](mailto:lim_li_kiang@moe.edu.sg)  |
+|   |   |   |
 
 | **SECONDARY 5** | **Year Head:** Mrs Algena Lim | **Discipline:** Mdm Zairina Mohamad Zen |
 |:---:|:---:|---|
