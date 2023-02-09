@@ -4,9 +4,6 @@ permalink: /booknmusic/2022/
 description: ""
 third_nav_title: Book and Music Week
 ---
-
-
-
 ## BMW 2022: At First Light
 
 The school’s much-celebrated annual Book and Music Week (BMW) was proud to be back in full force this year! After two long years of conducting the festival on virtual platforms, Arts and Culture was excited to be able to bring BMW back into our school’s spaces, along with the charged enthusiasm of our students as a live audience. This year, the theme for BMW was “At First Light”. Using this as a springboard, students had to explore the creative possibilities of light as a motif, idea, or element within their different performances and presentations. As one of the most highly anticipated events of the year, students were especially thrilled by the idea of having a night programme on the final day, where they would get to viscerally experience and enjoy the illumination of the school by their torchlights and diversity of light installations. 
@@ -19,4 +16,4 @@ Our scintillating event eventually came to a close with the unique opportunity t
 
 We are truly grateful for the opportunity to resume BMW with live performances this year, and are continuously impressed by the endless creativity and energy of the students. This year’s return to normalcy serves as a shining testament to what our students are capable of achieving, when given the chance. With the close of this year’s festival, we look forward to next year’s iteration of spirited innovation!
 
-**REQUIRE JACKSON'S INPUT VIDEO**
+<iframe width="800" height="450" src="https://www.youtube.com/embed/Pkw7NxiHm0w" title="2022 BMW Highlights" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
