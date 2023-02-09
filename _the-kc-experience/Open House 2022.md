@@ -20,3 +20,10 @@ If you missed our Open House on 19 Nov, don't worry! You can still view the KC O
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/2e3XTr6wZEg" title="KC Open House 2022 Talk by Principal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+#### Open-House Navigation Map & Programme Overview
+
+Download the Navigation map and the programme sheet **[here](/files/School%20Map.pdf)** for what we have lined up for you!
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:100%" src="/images/Open-House Map_Programme.jpeg">
+</a></p>
