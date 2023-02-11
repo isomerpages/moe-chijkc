@@ -50,39 +50,31 @@ description: ""
 | [1NT](/files/Sec%201NT%20Assessment%20Weighting%202022.pdf) | 2NT | [3NT](/files/Sec%203NT%20Assessment%20Weighting%202022.pdf) | 4NT | - |
 |  |  |  |  |  |
 
-#### Mid Year Exam (2022)
+#### Prelim and End-of-Year Examinations
 
-[4NA & 4NT Preliminary Examinations Schedule](/files/2022%204N%20Prelim%20letter%20and%20schedule%20P%20signed.pdf)<br>
-[4E5N Preliminary Examination Schedule](/files/2022%204E5N%20Prelim%20letter%20and%20schedule.pdf)
+<table>
+	<tr>
+		<td>Sec 1 -3 EOY Letter & Schedule</td>
+	</tr>
+	<tr>
+		<td><b>Sec 1</b></td>
+		<td><b>Sec 2</b></td>
+		<td><b>Sec 3</b></td>
+		<td><b>Sec 4</b></td>
+		<td><b>Sec 5</b></td>
+	</tr>
+	<tr>
+		<td>1E - NA/NT  <br>Coverage</td>
+		<td>2E - NA/NT  <br>Coverage</td>
+		<td>3E - NA/NT  <br>Coverage</td>
+	</tr>
+	</table>
+	
+#### 2023 Issues of Parent Link
 
-|  |  |  |  |  |
-|:---:|---|---|---|---|
-| **Sec 1** | **Sec 2** | **Sec 3** | **Sec 4** | **Sec 5** |
-| - | [2E](/files/2E%20MYE%20coverage%202022.pdf) | - | [4E](/files/4E%20MYE%20coverage%202022.pdf) | - |
-| - | [2NA](/files/2NA%20MYE%20coverage%202022.pdf) | - | [4NA](/files/4NA%20MYE%20coverage%202022.pdf) | [5NA](/files/5NA%20MYE%20coverage%202022.pdf) |
-| - | [2NT](/files/2NT%20MYE%20coverage%202022.pdf) | - | [4NT](/files/4NT%20MYE%20coverage%202022.pdf) | - |
-|  |  |  |  |  |
+|   |   |
+|:-:|---|
+| **Term 1**  | **Term 2**  |
+| **Term 3**  | **Term 4**  |
+|   |   |
 
-#### End-of-Year Examinations (2022 EOY)
-
-[2022 Sec 1 - 3 EOY Letter & Schedule](/files/2022%20Sec%201-3%20EOY%20letter%20and%20schedule_combined_30aug.pdf)
-
-|  |  |  |  |  |
-|:---:|---|---|---|---|
-| **Sec 1** | **Sec 2** | **Sec 3** | **Sec 4** | **Sec 5** |
-| [1E - NA/NT Coverage](/files/Sec%201%20EOY%20coverage%202022.pdf) | [2E - NA/NT Coverage](/files/Sec%202%20EOY%20coverage%202022.pdf) | [3E - NA/NT Coverage](/files/Sec%203%20EOY%20coverage%202022.pdf) | - | - |
-|  | [POST EOY Time-Table](/files/Post%20EOY%20TT%202022_14%20Oct_Class%20(1).pdf) |  | - | - |
-|  |  |  |  |  |
-
-#### 2022 Issues of Parent Link
-
-|  |  |
-|:---:|---|
-| [Jan](/files/Parent%20Link%20_Jan%202022.pdf) | [Mar](/files/Parent%20Link%20_Mar%202022.pdf) |
-| [Term 2](/files/Parent%20Link%20_Term%202%202022.pdf) | [Term 3](/files/Parent%20Link%20_Term%203%202022.pdf) |
-|  |  |
-
-#### Resources (Student Vaccination)
-
-[Resource 2 Parent Kit on Student Vaccination Exercise 002.pdf](/files/Resource%202%20Parent%20Kit%20on%20Student%20Vaccination%20Exercise%20002.pdf)<br>
-[Resource 3 One page Infographic on Student Vaccination Exercise.pdf](/files/Resource%203%20One%20page%20Infographic%20on%20Student%20Vaccination%20Exercise.pdf)
