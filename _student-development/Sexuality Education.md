@@ -52,5 +52,9 @@ Please click **[here](/files/2023%20Info%20on%20MOE%20Sexuality%20Education%20to
 
 **At CHIJ Katong Convent, the eTeens programme will be implemented as follows in 2023:**
 
-
+| Topics / Lesson  | Programme Learning Objectives  | Time Period (e.g. Term 3<br>Week 9)  |
+|:-:|---|---|
+| Mass Talk by HPB <br>appointed vendor  | *   Awareness of the different STIs and HIV/AIDS<br>*   Modes of transmission  <br>*   Modes of protection, specifically on how the condom is used<br>*   Consequences and impact of STIs/HIV  | Term 3 Week 6  |
+| Classroom-based <br>Lesson  | *   Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making  | Term 3 Week 8  |
+|   |   |   |
 
