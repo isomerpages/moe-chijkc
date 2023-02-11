@@ -58,3 +58,12 @@ Please click **[here](/files/2023%20Info%20on%20MOE%20Sexuality%20Education%20to
 | Classroom-based <br>Lesson  | *   Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making  | Term 3 Week 8  |
 |   |   |   |
 
+#### INFORMATION FOR PARENTS
+
+10 \. Parents may opt their children out of the Sexuality Education lessons, **_eTeens_** and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+11 \. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable **[here](/files/Annex%20A_27%20Jan.pdf)**. The completed form is to be submitted by **06/02/2023**.
+
+12 \. Parents who wish to opt their children out of the **_eTeens_ programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable **[here](/files/Annex%20B.pdf)**. The completed form is to be submitted by **06/02/2023**.
+
+13 \. Parents can contact the school’s Sexuality Education Coordinator, Mdm Zakiah Bte Subahan at either 6448 6433 ext. 252 or via email [zakiah\_subahan@moe.edu.sg](mailto:zakiah_subahan@moe.edu.sg) or HOD/CCE, Ms Ang Yen Ling at either 6448 6433 ext. 215 or via email [ang\_yen\_ling\_b@moe.edu.sg](mailto:ang_yen_ling_b@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
