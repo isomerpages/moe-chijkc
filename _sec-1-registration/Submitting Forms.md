@@ -23,6 +23,6 @@ Please complete the **[online form](https://go.gov.sg/kccatholicmatters2023)**.
 
 Additional forms for Secondary 1 Registration Day can be found below:
 
-[After School Engagement](https://form.gov.sg/#!/612ddd44f888ba001261ad7b) **FORM NOT AVAILABLE**<br>
+[After School Engagement](https://go.gov.sg/kc-ase-2023)<br>
 [Financial Assistance](/files/MOE%20FAS%20Application%20Form%20(30%20Sep%202020)%20final.pdf)<br>
 [Parents without access to Parents Gateway](https://go.gov.sg/welcome-to-kc) **FORM NOT AVAILABLE**
