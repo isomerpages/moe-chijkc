@@ -99,7 +99,7 @@ The MOE Financial Assistance Scheme is available to students who :
 
 *   Are Singapore Citizens.
 *   Attend government or government-aided schools.
-*   Have a monthly gross household income of $2,750 or less, or a monthly per capita income of $690 or less.
+*   Have a monthly gross household income of $3,000 or less, or a monthly per capita income of $750 or less.
 
 If the current primary school has processed and approved your FAS application, please kindly provide a copy of the approval letter when you come to collect the school uniform and textbooks.
 
