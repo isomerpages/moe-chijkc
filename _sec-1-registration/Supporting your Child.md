@@ -3,7 +3,6 @@ title: Supporting your Child
 permalink: /admissions/Sec-1-Registration/supporting-child/
 description: ""
 ---
-
 ## 5 \. Supporting your Child
 
 #### i. Counselling Needs
@@ -28,13 +27,13 @@ The life of a student can be a stressful one. Students who are facing personal c
 *   School counsellors:
 
 Ms Abigail Tan ([tan_han_ying_abigail@moe.edu.sg](mailto:tan_han_ying_abigail@moe.edu.sg))<br>
-Ms Petrina Seow ([seow_pei_lin_petrina@moe.edu.sg](mailto:seow_pei_lin_petrina@moe.edu.sg))
+Ms Aqilah Binte Sha'aban ([aqilah\_binte\_shaaban@moe.edu.sg](mailto:aqilah_binte_shaaban@moe.edu.sg))
 
 #### ii. Catholic Students
 
-We are pleased that you have chosen CHIJ Katong Convent to provide a Catholic school experience for your daughter/ ward.  Noting that parents are the first catechists of their child’s faith formation, here at CHIJ Katong Convent, we endeavour to support our Catholic parents through offering a Catholic programme for their daughter/ ward.  
+We are pleased that you have chosen CHIJ Katong Convent to provide a Catholic school experience for your daughter/ ward.  Noting that parents are the first catechists of their child’s faith formation, here at CHIJ Katong Convent, we endeavour to support our Catholic parents through offering a Catholic programme for their daughter/ ward. .
 
-Catholic students are to fill in this [**form**](https://go.gov.sg/kccatholicmatters2022) **FORM NOT FOUND**.
+Catholic students are to fill in this **[form](https://go.gov.sg/kccatholicmatters2023)**.
 
 #### iii. After School Engagement
 
@@ -42,23 +41,21 @@ The After School Engagement (ASE) is targeted for students who might not have af
 
 In ASE, students are supervised to complete their homework, engage in meaningful social interactions, learn leadership skills as well as participate in meaningful activities such as sports, craft, community work or even learning journeys.
 
-The ASE will operate on non-CCA days (Mondays, Tuesdays and Thursdays). The operating hours are from 2:45 p.m. – 5:30 p.m.
+The ASE will operate on non-CCA days (Mondays, Tuesdays and Thursdays). The operating hours are from 2:30 p.m. – 5:30 p.m.
 
-As part of the daily ASE schedule, students complete their homework/studies during the first hour. After which, they will be engaged in an activity planned for them by the ASE teachers in charge. Most activities will be held within the school compound. Parents will be informed in advance if activities are to be conducted out of school.
+As part of the daily ASE schedule, students complete their homework/studies during the first hour. After which, they will be engaged in an activity planned for them by the ASE teachers in charge. Most activities will be held within the school compound. Parents will be informed in advance if activities are to be conducted out of school
 
-If you are keen to sign your child/ward up for the ASE please fill in the form using this [link](https://go.gov.sg/kc-ase-2022) **FORM NOT AVAILABLE**.
+If you are keen to sign your child/ward up for the ASE please fill in the form using this [link](https://go.gov.sg/kc-ase-2023).
 
-If you have any other queries about ASE, please contact Mrs Algena Lim ([koh_jiun_algena_louisa@moe.edu.sg](mailto:koh_jiun_algena_louisa@moe.edu.sg)).
+If you have any other queries about ASE, please contact Ms Lee Shu Min ([lee\_shu\_min@moe.edu.sg](mailto:lee_shu_min@moe.edu.sg)).
 
 **What is the participation size of the ASE?**
 
-  
-
-The ASE programme takes in students from different levels.  Hence the capacity for the Sec 1s intake will be limited to an ideal size of about 15 students.  This is a tentative Sec 1 projection subject to the response to this programme.
+The ASE programme takes in students from different levels.  Hence the capacity for the Sec 1s intake will be limited to an ideal size of about 15 students.  This is a tentative Sec 1 projection subject to the response to this programme
 
 **What is the commitment for this programme?**
 
-Once you sign up for this programme, we require a commitment for a year and attendance will be tracked.  You will be notified if your daughter/ ward is absent and we require a doctor’s medical certificate or parental letter if she is unable to attend.  However, if you do wish to pull out of the programme in the course of the year, please indicate your intent in writing to the Principal.  
+Once you sign up for this programme, we require a commitment for a year and attendance will be tracked.  You will be notified if your daughter/ ward is absent and we require a doctor’s medical certificate or parental letter if she is unable to attend.  However, if you do wish to pull out of the programme in the course of the year, please indicate your intent in writing to the Principal.
 
 **Is participation in the ASE free?**
 
