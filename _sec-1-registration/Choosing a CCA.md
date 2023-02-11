@@ -94,22 +94,22 @@ The maximum availability of Secondary 1 membership in 2023 is indicated next to 
 | Total: 78 | Total: 30 | Total: 92 | Total: 40 |
 |  |  |  |  |
 
-_\*Cabin Club is a CCA for NT students only._
+_\*All DSA- Visual Arts students will be allocated MediaComm as their CCA._
 
 _For more information on the individual CCAs you may visit our [CCA webpage](/student-development/CCA/cca/)
 
-#### Schedule of CCA Selection in January 2022
+#### Schedule of CCA Selection in January 2023
 
 |  |  |  |
 |:---:|---|---|
 | **Date** | **Event** | **Remarks** |
-| **5 Jan** | Commencement of CCA for Sec 2-5 and Sec 1 DSA | Various venues |
-| **12,14,21 and 26 Jan** | CCA auditions by CCA teachers, coaches and instructors | Various venues |
-| **27 - 29 Jan** | On-line registration opens on Wednesday, 26 January 2022, at 6:00 p.m. and closes on Friday, 28 January, 11:59 p.m.. |  |
-| **3 - 4 Feb** | CCA allocation exercise |  |
-| **7 Feb** | Release of Sec 1 CCA allocation results |  |
-| **9 Feb** | Commencement of CCA for Sec 1s | Various venues |
-| **9 - 11 Feb**  <br>**7pm** | Appeals for Sec 1 CCA<br>*   Students are strongly advised to attend the 1st session of their assigned CCA before submitting a request for a change. |  |
+| **4 Jan** | Commencement of CCA for Sec 2-5 and Sec 1 DSA | Various venues |
+| **11,13,18 and 25 Jan** | CCA auditions by CCA teachers, coaches and instructors | Various venues |
+| **25 - 27 Jan** | On-line registration opens on Wednesday, 25 January 2023, at 6:00 p.m. and closes on Friday, 27 January, 11:59 p.m.. |  |
+| **30 Jan - 3 Feb** | CCA allocation exercise |  |
+| **6 Feb** | Release of Sec 1 CCA allocation results |  |
+| **8 Feb** | Commencement of CCA for Sec 1s | Various venues |
+| **8 Feb 6pm -  <br>10 Feb 6pm**  | Appeals for Sec 1 CCA<br>*   Students are strongly advised to attend the 1st session of their assigned CCA before submitting a request for a change. |  |
 |  |  |  |
 
 #### Tips for students in their selection of CCAs
