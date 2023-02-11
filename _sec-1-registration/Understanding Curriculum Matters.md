@@ -7,7 +7,7 @@ description: ""
 
 #### i. Curriculum Structure 2023
 
-CHIJ Katong Convent is one of 30+ secondary schools which will implement Full Subject-Based Banding (FSBB) from 2023. For more information on FSBB, refer to this [page](https://www.chijkatongconvent.moe.edu.sg/learning/full-subject-based-banding).
+CHIJ Katong Convent is one of 30+ secondary schools which will implement Full Subject-Based Banding (FSBB) from 2023. For more information on FSBB, refer to this [page](/learning/fsbb/).
 
 #### ii. Subject-Based Banding
 
@@ -15,13 +15,13 @@ Subject-Based Banding (Secondary) \[SBB (Sec)\] is one of many pathways for stud
 
 **How does SBB (Secondary) work?**
 
-Lower Secondary N(A) and N(T) students are eligible to take some subjects (English Language, Mathematics, Science and Mother Tongue Languages) at a higher academic level starting from Secondary 1 if they have performed well in these subjects at the Primary School Leaving Examination (PSLE), or at their Secondary 1 mid-year / end-of-year examinations:  <br>
-Based on PSLE results
+<u>Lower Secondary</u> N(A) and N(T) students are eligible to take some subjects (English Language, Mathematics, Science and Mother Tongue Languages) at a higher academic level starting from Secondary 1 if they have performed well in these subjects at the Primary School Leaving Examination (PSLE), or at their Secondary 1 mid-year / end-of-year examinations:  <br>
+<u>Based on PSLE results</u>
 
 *   Students posted to the N(A) or N(T) course who scored AL 5 or better for a PSLE Standard subject can take the subject at the Express level.
 *   Students posted to the N(T) course who scored at least AL 6 for a PSLE Standard subject or A in a PSLE Foundation subject can take it at N(A) level
 
-Based on Secondary 1 First Combined results at mid-year, or Overall results at the end of the year
+<u>Based on Secondary 1 First Combined results at mid-year, or Overall results at the end of the year</u>
 
 *   N(A) students who attained 75% or higher in one of the above SBB subjects, and an average of 60% or higher across all subjects, can take the subject at the Express Level;
 *   N(T) students who attained 75% or higher in one of the above SBB subjects, and an average of 60% or higher across all subjects, can take the subject at the N(A) Level
