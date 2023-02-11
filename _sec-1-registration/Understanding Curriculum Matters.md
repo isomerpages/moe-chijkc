@@ -3,16 +3,11 @@ title: Understanding Curriculum Matters
 permalink: /admissions/Sec-1-Registration/understand-curr-matters/
 description: ""
 ---
-
 ## 3 \. Understanding Curriculum Matters
 
-#### i. Curriculum Structure 2022
+#### i. Curriculum Structure 2023
 
-The following is an overview of the 2022 curriculum structure for lower secondary levels:
-
-<img src="/images/curriculum structure.jpg" style="width:85%">
-
-\# Academic Programme for identified students will commence in Term 2 for Secondary 1.
+CHIJ Katong Convent is one of 30+ secondary schools which will implement Full Subject-Based Banding (FSBB) from 2023. For more information on FSBB, refer to this [page](https://www.chijkatongconvent.moe.edu.sg/learning/full-subject-based-banding).
 
 #### ii. Subject-Based Banding
 
