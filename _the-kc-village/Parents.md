@@ -27,16 +27,15 @@ description: ""
 |:---:|---|
 | [Term 1](/files/KC%20Term%201%20Letter%20to%20Parents%202022%20updated.pdf) |  [Term 2](/files/KC%202022%20Term%202%20Letter%20to%20Parents.pdf)|
 | [Term 3](/files/KC%20Term%203%20Letter%20to%20Parents%202022.pdf) | [Term 4](/files/KC%20Term%204%20Letter%20to%20Parents%202022.pdf) |
-| [Update on COVID-19 Matters](/files/KC%20Letter%20to%20Parents%20on%20COVID-19%20Matters%20-%2030%20March%202022.pdf)<br>[KC EOY Letter to Parents 2022](/files/KC%20EOY%20Letter%20to%20Parents%202022.pdf) | 
 | | |
+
+<center>KC EOY Letter to Parents</center>
 
 #### Semester Class Timetables
 
 |  |  |
 |:---:|---|
-| [Semester 1 (Term 1)](/files/Sem%201%20TT%202022_Class_0401_merged.pdf) | [Semester 1 (Term 2)](/files/Term%202%20TT%202022_19%20March_Class%201.pdf) |
-| [Semester 2 (Term 3)](/files/Sem%202%20TT%202022_Class_24%20June_1330.pdf) | [EOY Post Exam Timetable](/files/Post%20EOY%20TT%202022_14%20Oct_Class.pdf) |
-| [Term 3 Extended Curriculum (Sec 4 & 5)](/files/2022%20Term%203%20EC%20TT.pdf)<br>[November Academic Programme (Sec 3)](/files/Nov%20AP%202022_27%20Oct%20Class.pdf) | 
+| **[2023 Semester 1](/files/2023%20Sem%201%20Class%20TT_29%20Dec.pdf)** |  |
 |  |  |
 
 #### Weighted Assessment (2022)
