@@ -49,4 +49,10 @@ We strongly encourage parents to purchase online, however if parents can only pu
 The bookshop and uniform shop are open from **Wednesday,** **21 December** till **Friday**,  
 **30 December** 2022 except weekends and public holidays.
 
-Students whose MOE FAS applications have been approved by the primary schools, please kindly provide a copy of the approval letter to collect the books and uniform. If you wish to apply for MOE FAS, please refer [**here**](https://www.chijkatongconvent.moe.edu.sg/the-kc-village/parents) for more information.
+Students whose MOE FAS applications have been approved by the primary schools, please kindly provide a copy of the approval letter to collect the books and uniform. If you wish to apply for MOE FAS, please refer **[here](/the-kc-village/parents/)** for more information.
+
+|   | **Pacific BookStore**  | **Asencio Uniform Supplier**  |
+|:-:|---|---|
+| Payment Mode for Walk-in Purchase  |  PayNow, NETS and Cash | PayNow and Cash  |
+| Operating Hours for 21/12, 22/12, 23/12, 27/12, 28/12, 29/12 and 30/12  | 9:00 a.m. – 3:00 p.m.  | 9:00 a.m. – 3:00 p.m.  |
+|   |   |   |
