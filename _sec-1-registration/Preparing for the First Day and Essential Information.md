@@ -17,3 +17,5 @@ description: ""
 | **Traffic Advisory:** | Drop-off within the school is allowed from 6:30 a.m. to 7:15 a.m., after which the school gate will be closed. If arriving after 7:15 a.m., please alight your daughter(s) promptly outside the school gate. |
 |  |  |
 
+School Premises: Do visit our virtual KC 360 experience [**here**](https://www.chijkatongconvent.moe.edu.sg/qql/slot/u185/VirtualTour2021/tour.html)<br>
+Student Journal: Download a copy of the student journal here.
