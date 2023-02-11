@@ -2,7 +2,7 @@ collections:
   sec-1-registration:
     output: true
     order:
-      - Welcome Letter from Principal.md
+      - Sec 1 Registration.md
       - Meeting your Form Teachers.md
       - Preparing for the First Day and Essential Information.md
       - Understanding Curriculum Matters.md
