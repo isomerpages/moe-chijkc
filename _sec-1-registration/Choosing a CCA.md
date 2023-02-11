@@ -3,13 +3,11 @@ title: Choosing a CCA
 permalink: /admissions/Sec-1-Registration/choose-cca/
 description: ""
 ---
-
 ## 7 \. Choosing a CCA
 
-Guidelines for Secondary Ones
------------------------------
+#### Guidelines for Secondary Ones
 
-KC’s Co-Curricular Programme aims to uncover each student’s talents, develop their potential, build character and help them to cultivate a lifelong interest in recreation.  
+KC’s Co-Curricular Programme aims to uncover each student’s talents, develop their potential, build character and help them to cultivate a lifelong interest in recreation, leading to a balanced life in adulthood.
 
 #### CCA Policy
 
@@ -27,29 +25,27 @@ Details of the grading system and the school’s CCA policy are spelt out clearl
 
 The objective is to help identify the talent in our students and develop their potential to the fullest.
 
-Students are strongly encouraged to attend all four dates reserved for trials/ auditions, on the 12, 14, 21 and 26 January 2022, and they should try out CCAs from at least three of the four different categories (Uniformed Groups, Sports and Games, Performing Arts and Clubs and Societies).
+Students are strongly encouraged to attend all four dates reserved for trials/ auditions, on the 11, 13, 18 and 25 January 2023, and they should try out CCAs from at least three of the four different categories (Uniformed Groups, Sports and Games, Performing Arts and Clubs and Societies).
 
-Details on the trial/auditions for each of the CCAs will be displayed in the foyer by Mon, 10 January 2022.
+Details on the trial/auditions for each of the CCAs will be displayed in the foyer by Mon, 9 January 2023
 
 #### Selection Criteria
 
 **Sports and Games**
 
-Students must be medically fit and have no long-term illnesses or conditions that will prevent them from participating in physical activities.
+*   Passion and commitment for sports.
+*   Medically fit and have no long-term illnesses or conditions that will prevent them from participating in physical activities.
+*   Physically fit to participate fully in the training drills and activities during the trials.
+*   Each Sports CCA has its own distinct guidelines; please clarify with the teachers in charge of the respective CCAs.
 
-Students must be physically fit to participate fully in the training drills and activities during the trials.
+**Performing Arts**<br>
+Passion and commitment for the Arts. Each Performing Arts CCA has its own distinct guidelines; please clarify with the teachers in charge of the respective CCAs.
 
-**Performing Arts**
-
-Passion and commitment for the Arts. Each Performing Arts CCA has its own distinct guidelines; please clarify with the Teachers in charge of the respective CCAs.
-
-**Uniformed Groups**
-
+**Uniformed Groups**<br>
 Medically fit and a passion for the outdoors and adventure. A passion for community service. Students must be able to attend school holiday and/ or weekend activities at certain points of the year.
 
-**Clubs and Societies**
-
-Has a passion for community service. (IJYM) Has an interest in and aptitude for Information Technology and digital media. (MediaComm Club) Confident in public speaking and/ or has a strong interest in current affairs and world issues. (Debate) Possesses good presentation skills, innovative and creative, and has a strong interest in marketing and sales. (Entrepreneur Club) Students must be able to attend school holiday and/ or weekend activities at certain points of the year (all).
+**Clubs and Societies**<br>
+Has a passion for community service (IJYM). Has an interest in and aptitude for Information Technology and digital media (MediaComm Club). Confident in public speaking and/ or has a strong interest in current affairs and world issues (Debate). Possesses good presentation skills, innovative and creative, and has a strong interest in marketing and sales (Entrepreneur Club). Students must be able to attend school holiday and/ or weekend activities at certain points of the year (all).
 
 #### Selection of CCAs
 
@@ -63,7 +59,7 @@ Should there be an instance where a student does not get any of the five choices
 
 #### CCA Attendance
 
-Please note that while CCA in primary school is optional, CCA in secondary school is compulsory and students’ attendance must be regular. The school views absence from CCA without a valid reason as truancy, which is a serious offence. 
+Please note that while CCA in primary school is optional, CCA in secondary school is compulsory and students’ attendance <u>must be regular.</u> The school views absence from CCA without a valid reason as truancy, which is a serious offence. 
 
 Students with attendance less than 75% for each term (without a valid reason) will receive a “Fair” for conduct in their report book.
 
