@@ -68,7 +68,7 @@ Students who are eligible to study a subject at more demanding level in Sec 1 wi
 
 For those who do not have access to PG, please notify the school via this **[form](https://go.gov.sg/welcome-to-kc-2022)** **FORM NOT AVAILABLE**. The letter will be emailed to you. Please submit your acceptance form found in your letter of offer either by hand or email to the General Office before the stated deadline.
 
-#### iii. Mother Tongue Languages (MTL) - Higher MTL, TL, Third Language\*
+#### iii. Mother Tongue Languages (MTL) - Higher MTL, TL, Third Language (including Asian Languages Programme)
 
 **a) Higher Mother Tongue (HMTL)**
 
@@ -76,10 +76,9 @@ Students who have been offered to study HMTL will receive an eligibility Form A 
 
 For those who do not have access to PG, please notify the school via this [**form**](https://go.gov.sg/welcome-to-kc-2022) **FORM NOT FOUND**. Form A will be emailed to you.
 
-Please download and complete Form A. You are to submit the hardcopy Form A to the form teacher on **Monday, 4 January 2022**.
+Please download and complete Form A. You are to submit the hardcopy Form A to the form teacher on **Tuesday, 3 January 2023**.
 
-HMTL Lesson Venues
-
+<u>HMTL Lesson Venues</u><br>
 Higher Chinese Language (HCL) is conducted in our school. Higher Malay Language (HML) and Higher Tamil Language (HTL) are conducted at the respective venues:
 
 *   HML - Tanjong Katong Sec School
@@ -91,20 +90,20 @@ For students who have not been offered HMTL by MOE but wish to apply for HMTL, p
 *   consistent performance in both WAs and Semestral Examinations throughout the academic year;
 *   respective MTL teacher’s recommendation.
 
-HML centre does not accept any recommendations at the end of Sec 1. HTL centre has its own selection criteria. For more information, please check directly with the centre.
+HML centre and HTL centre has its own selection criteria. For more information, please check directly with the centre.
 
 **b) Tamil Language (TL) / Basic Tamil (BTL) / Tamil Language B (TLB) & Higher Tamil Language (HTL)**
 
-All TL / BTL/ TLB/ HTL students are to **register for lessons at their respective designated TL centres (see below) between 2.30 p.m. to 5.30 p.m. from Tuesday, 4 January 2022 to Wednesday, 5 January 2022**.  
+All TL / BTL/ TLB/ HTL students are to **register for lessons at their respective designated TL centres (see below) between 2.30 p.m. to 5.30 p.m. from Tuesday, 3 January 2023 to Wednesday, 4 January 2023**.
 
 *   TL (Express/ Normal Academic) - Bedok View Sec Sch or Umar Pulavar Tamil Language Centre
 *   TL (Normal Technical/ TL-B/ HTL) -  Umar Pulavar Tamil Language Centre
 
-Tamil classes will be conducted at designated Tamil Language centres from **Thursday, 6 January 2022**.
+Tamil classes will be conducted at designated Tamil Language centres from **Thursday, 5 January 2023**.
 
-Tamil lessons will be on Mondays, Tuesdays and Thursdays. They are usually held once a week, starting promptly at 3 p.m. and ending at 6 p.m. with a 10 minutes break. Please check with the respective Tamil centre regarding the Tamil Language timetable.
+Tamil lessons will be on Mondays, Tuesdays and Thursdays. They are usually held once a week, starting promptly at 3 p.m. and ending at 6 p.m. with a 10 minutes break. Please check with the respective Tamil centre regarding the Tamil Language timetable..
 
-**c) Third Language**  
+**c) Third Language (including Asian Languages Programme)** 
 
 You will be informed of the Third Language application outcome via Parents Gateway.
 
@@ -112,7 +111,11 @@ For those who do not have access to PG, please notify the school via this [**fo
 
 Successful candidates posted to:
 
-*   **Malay (Special Programme) and Chinese (Special Programme) Zonal Centers** are to refer to the respective school website for instructions on registration. Please refer to your _Choosing your Secondary Schools 2021_ booklet,pages C-1 and C-2 for a list of these zonal centres.
-*   **MOE Language Centres (Bishan and Newton)** are to confirm the acceptance of the offer and complete the online registration at **[https://www.moelc.moe.edu.sg/](https://www.moelc.moe.edu.sg/)** from **Wednesday, 22 December 2021 to Thursday, 6 January 2022**.
+*   **Malay (Special Programme) and Chinese (Special Programme) Zonal Centers** are to refer to the respective school website for instructions on registration.
+*   **MOE Language Centres (Bishan and Newton)** are to confirm the acceptance of the offer and complete the online registration at [https://www.moelc.moe.edu.sg](https://www.moelc.moe.edu.sg/)/ from **Friday, 23 December 2023 to Thursday, 6 January 2023**.
 
-For students who are eligible for the Third Language but did not apply online previously upon receipt of PSLE result and now wish to apply in December, please collect a form from MOE Language Centre (MOELC). MOELC will only issue application forms to students who are eligible. Any late application will be subjected to availability of vacancy.
+For students who are eligible for the **Third Language\*** but did not apply online previously upon receipt of PSLE result and now wish to apply in December, please collect a form from MOE Language Centre (MOELC). MOELC will only issue application forms to students who are eligible.  
+  
+*For students who are eligible for the **Asian Languages Programme** but did not apply online previously upon receipt of PSLE result and now wish to apply in December, please collect a form from General Office. Completed form must be returned to the General Office by **Tuesday, 10 January 2023**.  
+  
+Any late application will be subjected to availability of vacancy.
