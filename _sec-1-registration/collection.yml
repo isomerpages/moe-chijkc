@@ -2,11 +2,11 @@ collections:
   sec-1-registration:
     output: true
     order:
-      - Purchasing Books and Uniform.md
       - Sec 1 Registration.md
       - Meeting your Form Teachers.md
       - Preparing for the First Day and Essential Information.md
       - Understanding Curriculum Matters.md
+      - Purchasing Books and Uniform.md
       - Supporting your Child.md
       - Submitting Forms.md
       - Choosing a CCA.md
