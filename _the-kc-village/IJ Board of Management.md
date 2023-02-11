@@ -5,7 +5,7 @@ description: ""
 ---
 ## IJ Board of Management
 
-<img src="/images/IJ BOM Members Photo Chart 20220415.jpg" style="width:85%">
+<img src="/images/IJ BOM Members Photo Chart 20230101.png" style="width:85%">
 
 #### Non-Financial Information
 
