@@ -24,3 +24,12 @@ Sec 1 Normal (Technical)<br>
 
 #### Online Purchase
 
+|   | Pacific BookStore  | Asencio Uniform Supplier  |
+|:-:|---|---|
+| **Website**  | **[www.pacificbookstores.com](http://www.pacificbookstores.com/)**  | **[www.asencio.com.sg](http://www.asencio.com.sg/)**  |
+| **Store**  | nil  | 120 Hillview Ave, #05-01 Kewalram Hillview, S(669594)  |
+| **Payment Mode for Online <br>Purchase**  | Paynow, Credit and Debit Card  | PayNow, Credit and Debit Card  |
+| **Home delivery cost**  | $13.80  | $6.00  |
+| **Contact Hotline**  | 6559 2269 / 6929 8012  | 9648 5011 / 6764 3102  |
+| **Collection in school\***  | Limit to 10 slots / hour  | Limit to 10 slots / hour  |
+|   |   |   |
