@@ -33,3 +33,20 @@ Sec 1 Normal (Technical)<br>
 | **Contact Hotline**  | 6559 2269 / 6929 8012  | 9648 5011 / 6764 3102  |
 | **Collection in school\***  | Limit to 10 slots / hour  | Limit to 10 slots / hour  |
 |   |   |   |
+
+**\*For collection in school, parents are to observe the following:**
+
+*   Access to school is limited to <u>one parent and one child only.</u>  
+*   Proof of purchase/ collection date to be shown to security.
+*   For change of collection date, parents are advised to contact respective vendors.
+
+_Students are strongly encouraged to purchase their uniform and books online and have the items delivered to their home. Should parents wish to collect the items from school, please indicate the choice when transacting online, subject to availability of slots._
+
+#### Walk-In Purchase
+
+We strongly encourage parents to purchase online, however if parents can only purchase through walk-in, we seek your understanding that only one parent and child can be allowed into the school premises. Please book your walk-in purchase (for textbooks only) by e-appointment at: **[register.ezy-queue.com](http://register.ezy-queue.com/)**.  
+
+The bookshop and uniform shop are open from **Wednesday,** **21 December** till **Friday**,  
+**30 December** 2022 except weekends and public holidays.
+
+Students whose MOE FAS applications have been approved by the primary schools, please kindly provide a copy of the approval letter to collect the books and uniform. If you wish to apply for MOE FAS, please refer [**here**](https://www.chijkatongconvent.moe.edu.sg/the-kc-village/parents) for more information.
