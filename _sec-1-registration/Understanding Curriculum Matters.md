@@ -34,7 +34,7 @@ The programme provides eligible students the opportunity to be stretched in subj
 
 The programme would also better prepare students to offer subjects at a higher level in upper secondary. This may lead to more options when choosing the subject combination for upper secondary, and post-secondary courses.
 
-**The programme is not meant to increase the chances of a student attaining lateral transfer. In fact, students will have to manage the increased rigour of the SBB subject.**
+_The programme is not meant to increase the chances of a student attaining lateral transfer. In fact, students will have to manage the increased rigour of the SBB subject._
 
 **What support will the school be providing to the SBB students?**
 
