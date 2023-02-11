@@ -40,8 +40,9 @@ Parents and students are encouraged to choose schools wisely based on the studen
 
 #### Contact Details
 
-**HOD PE & CCA**
+**Covering Subject Head PE & CCA**  
+  
 
-Ms Priscilla Humphries<br>
-Tel: 6448 6433 Ext 131<br>
-Email: [priscilla_humphries@moe.edu.sg](mailto:priscilla_humphries@moe.edu.sg)
+Mr Ho Shi An <br>
+Tel: 6448 6433 Ext 14 <br>
+Email: [ho\_shi\_an@moe.edu.sg](mailto:ho_shi_an@moe.edu.sg)
