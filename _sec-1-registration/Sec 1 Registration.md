@@ -3,9 +3,7 @@ title: Sec 1 Registration
 permalink: /admissions/Sec-1-Registration/welcomeletter/
 description: ""
 ---
-
-
-## Welcome Letter from Principal
+## Sec 1 Registration
 
 #### Welcome
 
@@ -21,12 +19,6 @@ Unlike previous years, where we welcomed you and your parents on Registration Da
 
 To help you navigate the information on our website to ensure a smooth start for your 4/5 years with us, the following segments which you and your parents will find in the website are sequenced according to priority of action to be taken:
 
-<img src="/images/S1 Reg Overview Slide.jpg" style="width:85%">
+<img src="/images/Capture.jpeg" style="width:85%">
 
-While we are excited to have you join us, we also understand your anxiety that you might have regarding questions about school given that you and your parents are unable to be physically present to ask these questions. We have posted all information relevant to a new Sec 1 student joining us. If you have further clarifications to make or questions yet unanswered after going through our website, your parents are welcome to contact us at 64486433 or email us at [chijktcs@moe.edu.sg](mailto:chijktcs@moe.edu.sg).  
-
-We wish you and your family a blessed end of year season. We look forward to welcoming you on 4 January 2022!
-
-Yours sincerely,<br>
-Mrs Hilda Tan<br>
-Principal
+While we are excited to have you join us, we also understand the anxiety that you might have regarding questions about school. We have posted all information relevant to a new Sec 1 student joining us. If you have further clarifications to make or questions yet unanswered after going through our website, your parents are welcome to contact us at 64486433 or email us at [chijktcs@moe.edu.sg](mailto:chijktcs@moe.edu.sg).
