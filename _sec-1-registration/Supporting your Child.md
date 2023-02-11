@@ -103,7 +103,7 @@ The MOE Financial Assistance Scheme is available to students who :
 
 If the current primary school has processed and approved your FAS application, please kindly provide a copy of the approval letter when you come to collect the school uniform and textbooks.
 
-More information on MOE FAS can be found [**here**](https://www.chttps//www.chijkatongconvent.moe.edu.sg/admissions/school-fees-n-financial-assistance) **SITE CANT BE REACHED** .
+More information on MOE FAS can be found **[here](/the-kc-village/parents/)**.
 
 You may refer to the flowchart below for the application process.
 
@@ -111,6 +111,6 @@ You may refer to the flowchart below for the application process.
 
 #### v. Special Needs
 
-The school has a full-time Allied Educator for Learning and Behavioural Support, Ms Gursheran Kaur who supports students with learning needs.   
+The school has a full-time Allied Educator for Learning and Behavioural Support, Ms Gursheran Kaur who supports students with learning needs.
 
 If you have any queries or concerns related to special needs provision, please contact Ms Gursheran Kaur ([gursheran_kaur@moe.edu.sg](mailto:gursheran_kaur@moe.edu.sg)).
