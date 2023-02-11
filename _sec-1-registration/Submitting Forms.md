@@ -24,5 +24,10 @@ Please complete the **[online form](https://go.gov.sg/kccatholicmatters2023)**.
 Additional forms for Secondary 1 Registration Day can be found below:
 
 [After School Engagement](https://go.gov.sg/kc-ase-2023)<br>
-[Financial Assistance](/files/MOE%20FAS%20Application%20Form%20(30%20Sep%202020)%20final.pdf)<br>
-[Parents without access to Parents Gateway](https://go.gov.sg/welcome-to-kc) **FORM NOT AVAILABLE**
+[Financial Assistance](/the-kc-village/parents/)<br>
+[Parents without access to Parents Gateway](https://go.gov.sg/welcome-to-kc-2023) **FORM NOT AVAILABLE**
+
+#### Administrative Matter
+
+**Personal Data Protection Act (PDPA)**<br>
+The school documents events and programmes with photographs and videos, which could be published on the school’s official media platforms and publications (both online and hard copy). If you have any concerns about the use of photographs and videos of your child/ ward, please email us at [chijktcs@moe.edu.sg](mailto:chijktcs@moe.edu.sg)
