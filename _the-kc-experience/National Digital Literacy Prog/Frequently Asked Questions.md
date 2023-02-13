@@ -11,7 +11,7 @@ third_nav_title: National Digital Literacy Prog
 1 \. **What is the device bundle selected by the school (2022)?**
 
 |  |  |
-|:---:|---|
+|:---|:---|
 | Chosen device bundle | **Acer R752TN** **Chromebook Spin** includes:<br>- Power Adaptor - Mouse  <br>- Stylus  <br>- Carrier Bag<br> - Combination Cable Lock |
 | Processor | Intel N4120 Processor |
 | RAM | 8GB RAM |
