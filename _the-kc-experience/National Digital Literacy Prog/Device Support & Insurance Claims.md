@@ -23,7 +23,7 @@ Parents/Students may rely on the following platforms if they need support or ins
 #### For Lenovo Chromebook 500e (Gen 2)
 
 | **Helpdesk** | **Lenovo Service Center** |
-|:---:|---|
+|:---|:---|
 | Helpdesk Phone: 800 852 8100<br><br>(After selecting your preferred language, please press “2” for standard warranty customer)<br><br>Service Centre Email:<br>[lenovo@smartcares.com](mailto:lenovo@smartcares.com)<br><br>Pre-Registration (For Faster Service / Drop-off): [https://smartcares.com/lenovo](https://smartcares.com/lenovo) | Service Centre: 6871 4838 <br>Address: **Tai Seng Centre SmartCares Solutions** <br>3 Irvin Road, #01-17  <br>Singapore 369522  <br>(Beside Tai Seng MRT Station, Exit A) <br><br> Opening hours: <br>Mon – Sat: 1100 – 1900 <br>Closed on Sun and Public Holidays |
 |  |  |
 
@@ -34,7 +34,7 @@ Parents/Students may rely on the following platforms if they need support or ins
 #### For Acer Chromebook Spin (R752TN / R753TN) 
 
 | **Acer Helpdesk** | **Acer Service Center** |
-|:---:|---|
+|:---|:---|
 | Helpdesk Phone: 6895 6278<br><br>Helpdesk Operating Hours <br>Mon - Fri (**Except Wed**): 0845 – 1715 <br>Wed : 0845 - 1945 <br>Sat: 0900 – 1200 <br><br>Closed on Sun and Public Holidays<br><br>Email: [acercare.sg@acer.com](mailto:acercare.sg@acer.com)<br>Website: [http://edu.acer.com.sg/pld](http://edu.acer.com.sg/pld) <br>(For buying of accessories)| Helpdesk Phone: 6895 6278<br>Address: **29 International Business Park** <br> **Singapore 609923**<br>(1.1Km from Jurong East MRT Station)<br><br> Opening Hours: <br>Mon - Fri (**Except Wed**): 0845 – 1715  <br>Wed : 0845 - 1945  <br>Sat: 0900 – 1200<br><br>Closed on Sun and Public Holidays |
 |  |  |
 
