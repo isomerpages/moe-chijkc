@@ -67,7 +67,7 @@ If you are unable to submit this form online, please contact the school General 
 Subsidies are available to students who require financial assistance.
 
 | Students eligible for subsidy  | Income criteria  | How to Apply for subsidy  |
-|:-:|---|---|
+|:-|:---|:---|
 | Students under MOE FAS  | **G**ross **H**ousehold **I**ncome ("**GHI**")<br>is $3,000 or less or  <br>**P**er **C**apit **I**ncome ("**PCI**")\* is $750 or less  | No action required.  <br>Automatically subsidised for the PLD.  |
 | Students under School-based FAS  | **GHI** is $4,400 or less, or  <br>**PCI** is $1,100 or less  | Approach the school's General Office to apply for a subsidy.  |
 | Students who are currently not under MOE FAS or School-based FAS  | **GHI** is $4,400 or less, or  <br>**PCI** is $1,100 or less  | Approach the school's General Office to apply for a subsidy.  |
@@ -82,7 +82,7 @@ Application for subsidy should be submitted to <u>the General Office.</u>
 The [NDLP FAQ](/the-kc-experience/National-Digital-Literacy-Prog/faq2/) should be useful in answering most of your queries.
 
 | **To access/find out more about...** | **Contact/Helpline** |
-|:---:|---|
+|:---|:---|
 | Edusave Balance | 6260 0777 |
 | Financial assistance available / Payment related matter | 6448 6433<br>(Mr Tan Wee Hian / Mdm Tan Mui Suan) |
 | DMA / IT equipment related | 6448 6433<br>(Mr Tan Hong Yak/ Mr Kevin Yan) |
