@@ -23,7 +23,7 @@ description: ""
 
 #### Letters to Parents
 
-|  |  |
+| | |
 |:---:|---|
 | [Term 1](/files/KC%20Term%201%20Letter%20to%20Parents%202022%20updated.pdf) |  [Term 2](/files/KC%202022%20Term%202%20Letter%20to%20Parents.pdf)|
 | [Term 3](/files/KC%20Term%203%20Letter%20to%20Parents%202022.pdf) | [Term 4](/files/KC%20Term%204%20Letter%20to%20Parents%202022.pdf) |
@@ -35,7 +35,8 @@ description: ""
 
 |  |  |
 |:---:|---|
-| **[2023 Semester 1](/files/2023%20Sem%201%20Class%20TT_29%20Dec.pdf)** |  |
+| [2023 Semester 1](/files/2023%20Sem%201%20Class%20TT_29%20Dec.pdf) | 2023 Semester 2 |
+| 2023 Semester 3 | 2023 Semester 4 |
 |  |  |
 
 #### Weighted Assessment 
