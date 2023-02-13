@@ -24,12 +24,12 @@ Parents/Students may rely on the following platforms if they need support or ins
 
 | **Helpdesk** | **Lenovo Service Center** |
 |:---|:---|
-| Helpdesk Phone: 800 852 8100<br><br>(After selecting your preferred language, please press “2” for standard warranty customer)<br><br>Service Centre Email:<br>[lenovo@smartcares.com](mailto:lenovo@smartcares.com)<br><br>Pre-Registration (For Faster Service / Drop-off): [https://smartcares.com/lenovo](https://smartcares.com/lenovo) | Service Centre: 6871 4838 <br>Address: **Tai Seng Centre SmartCares Solutions** <br>3 Irvin Road, #01-17  <br>Singapore 369522  <br>(Beside Tai Seng MRT Station, Exit A) <br><br> Opening hours: <br>Mon – Sat: 1100 – 1900 <br>Closed on Sun and Public Holidays |
+| Helpdesk Phone: 800 852 8100<br><br>(After selecting your preferred language, please press “2” for standard warranty customer)<br><br>Service Centre Email:<br>[lenovo@smartcares.com](mailto:lenovo@smartcares.com)<br><br>Pre-Registration (For Faster Service / Drop-off): [https://smartcares.com/lenovo](https://smartcares.com/lenovo) | Service Centre: 6871 4838<br>Address: **Tai Seng Centre SmartCares Solutions**<br>3 Irvin Road, #01-17<br>Singapore 369522<br>(Beside Tai Seng MRT Station, Exit A)<br><br> Opening hours: <br>Mon – Sat: 1100 – 1900 <br>Closed on Sun and Public Holidays |
 |  |  |
 
 #### Acer Service Center location
 
-<img src="/images/Lenovo Service Centre.png" style="width:85%">
+<img src="/images/Lenovo Service Centre.jpg" style="width:85%">
 
 #### For Acer Chromebook Spin (R752TN / R753TN) 
 
