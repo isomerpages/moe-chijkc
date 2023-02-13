@@ -44,7 +44,7 @@ description: ""
 **[WA Calendar](/files/2022%20WA%20Calendar%20Updated%20for%20Term%203.pdf)**
 
 |  |  |  |  |  |
-|:---:|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|
 | **Sec 1** | **Sec 2** | **Sec 3** | **Sec 4** | **Sec 5** |
 | [1E](/files/Sec%201E%20Assessment%20Weighting%202022_updated%2013%20Apr.pdf) | 2E | [3E](/files/Sec%203E%20Assessment%20Weighting%202022_270522.pdf) | 4E | - |
 | [1NA](/files/Sec%201NA%20Assessment%20Weighting%202022_updated%2013%20Apr.pdf) | 2NA | [3NA](/files/Sec%203NA%20Assessment%20Weighting%202022_270522.pdf) | 4NA | 5NA |
