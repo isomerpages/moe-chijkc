@@ -22,6 +22,8 @@ As an IJ School, CHIJ Katong Convent is a Catholic school which commits itself t
 
 #### Video Montage of Our Journey
 
+<iframe width="2562" height="762" src="https://www.youtube.com/embed/qRDxB4ErqvY" title="MTL Fortnight 2016" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 **REQUIRE JACKSON'S TO INPUT VIDEO** 
 
 #### Principals
