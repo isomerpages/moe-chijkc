@@ -4,7 +4,6 @@ permalink: /about-us/history-milestones/
 description: ""
 third_nav_title: History & Milestones
 ---
-
 ## History & Milestones
 
 CHIJ Katong Convent was set up as a private Primary English School in 1930 in a rambling seaside bungalow in Marine Parade. In 1932, under Sr. St. Theodora, the first Principal, it was given grant-in-aid status with the addition of five classrooms. The enrolment was 197 pupils, including 26 boys, who were later transferred to St. Patrick’s School in late 1932. Under Sr. St. Vincent de Paul, the school building was extended in 1939 with 8 new classrooms. By 1941, just before the outbreak of the war, there were 384 pupils. At the outbreak of the war, the school building at Martia Road was taken over by the British and became a military camp. During the Japanese Occupation, the school was used as a military base. During the war years, the school continued to function in Ceylon Road as Ceylon Road Girls’ School.
