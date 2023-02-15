@@ -54,4 +54,5 @@ As an IJ School, CHIJ Katong Convent is a Catholic school which commits itself t
 |  | 2009 | *   KC meets criteria for SAA Sports in 2010<br>*   2nd Schools’ Green Audit Lotus Award<br>*   2nd Model School Tuckshop<br>*   Meritorious Total Defence Partner Award |
 | **Ms Patricia Chan** | 2016 | *   Best Practice in MOE's Revised Masterplan of Awards for Schools - Teaching & Learning, Character & Citizenship Development, Student All-Round Development, Staff Well-Being & Development and Partnerships<br>*   KC's Autonomous School status was re-affirmed<br>*   KC was presented the School Distinction Award, the apex of the Masterplan of Awards |
 |  **Mrs Hilda Thong** | 2021 |  |
+|  **Mrs Tan Mei Chuen** | 2023 |  |
 | | |
