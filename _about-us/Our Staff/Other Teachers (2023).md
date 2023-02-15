@@ -6,8 +6,8 @@ third_nav_title: Our Staff
 ---
 ## Other Teachers (2023)
 
-| Other Teachers  | Email  |
-|:-:|---|
+|<div style="width:290px"></div> Other Teachers  | Email  |
+|-|---|
 | Mrs Agnes Tan  | [agnes\_tan@moe.edu.sg](mailto:agnes_tan@moe.edu.sg)  |
 | Ms Adeline Lee  | [lee\_luo\_yun\_adeline@moe.edu.sg](mailto:lee_luo_yun_adeline@moe.edu.sg)  |
 | Mr Cheong Kwai Seng  | [cheong\_kwai\_seng@moe.edu.sg](mailto:cheong_kwai_seng@moe.edu.sg)  |
