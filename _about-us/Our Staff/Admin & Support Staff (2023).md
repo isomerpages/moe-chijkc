@@ -6,7 +6,7 @@ third_nav_title: Our Staff
 ---
 ## Admin & Support Staff (2023)
 
-|<div style="width:290px"></div> General Office Management  | Email  |
+| General Office Management  | Email  |
 |-|---|
 | **Administration Manager**<br>Mr Tan Wee Hian  | <br>[tan\_wee\_hian@moe.edu.sg](mailto:tan\_wee\_hian@moe.edu.sg)  |
 | **Operations Manager**<br>Mr Mohamed Ayub Daud Khan  | <br>[mohamed\_ayub\_daud\_khan@moe.edu.sg](mailto:mohamed\_ayub\_daud\_khan@moe.edu.sg)  |
@@ -14,7 +14,7 @@ third_nav_title: Our Staff
 | **Corporate Support Officer**<br>Mdm Tan Mui Suan  <br>Ms Audrey Ng  | <br>[tan_mui_suan_a@moe.edu.sg](mailto:tan_mui_suan_a@moe.edu.sg)<br>[audrey_ng_ai_khim@moe.edu.sg](mailto:audrey\_ng\_ai\_khim@moe.edu.sg) |
 |   |   |
 
-|<div style="width:290px"></div> Support Officers  | Email  |
+| Support Officers  | Email  |
 |-|---|
 | **Technical Support Officer**<br>Mdm Iryanti Bte Jamil  <br>Mr Md Zaaini Bin Hussain  | <br>[iryanti\_jamil@moe.edu.sg](mailto:iryanti\_jamil@moe.edu.sg)<br>[mohamed\_zaaini\_hussain@moe.edu.sg](mailto:mohamed\_zaaini\_hussain@moe.edu.sg)  |
 | **Operations Support Officer**  <br>Mr Chan Chin Weng<br>Mdm Chern Kwat Shiang  <br>Mdm Christine Koh  <br>Mdm Ng Ka Hoon  <br>Mr Tan Chew Seng  | <br>NA<br>NA<br>NA<br>NA<br>NA  |
