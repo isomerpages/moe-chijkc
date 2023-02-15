@@ -6,14 +6,14 @@ third_nav_title: Our Staff
 ---
 ## Key Personnel (2023)
 
-| Leadership  | Email  |
+|<div style="width:290px"></div>Leadership  | Email  |
 |-|---|
 | **Principal**  <br>Mrs Tan Mei Chuen  | [chen\_mei\_chuen@schools.gov.sg](mailto:chen_mei_chuen@schools.gov.sg)  |
 | **Vice-Principal (Education Officer)** <br>Mrs Goh Kok Chan  | [goh\_bee\_hoon@schools.gov.sg](mailto:goh_bee_hoon@schools.gov.sg)  |
 | **Vice-Principal (Education Officer)** <br>Ms Annie Lim  | [lim\_ai\_hui@schools.gov.sg](mailto:lim_ai_hui@schools.gov.sg)  |
 |   |   |
 
-| Heads of Department  | Email  |
+|<div style="width:320px"></div>Heads of Department  | Email  |
 |-|---|
 | **Aesthetics (covering)** <br>Ms Yin Mei Lenden  | [yin\_mei\_lenden@moe.edu.sg](mailto:yin_mei_lenden@moe.edu.sg)  |
 | **Art**  <br>Mr Nathanael Tan  | [tan_tak_thye_nathanael@moe.edu.sg](mailto:tan\_tak\_thye\_nathanael@moe.edu.sg)  |
