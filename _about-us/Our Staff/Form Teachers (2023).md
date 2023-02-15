@@ -8,7 +8,7 @@ third_nav_title: Our Staff
 
 |   |   |   |
 |:-:|---|---|
-| **SECONDARY 1**  | **Year Head:** Mr Loh Jing Hui Jimmy<br>**Discipline:** Mrs Algena Lim  <br>**Discipline:** Mdm Zairina Mohamad Zen  | [loh\_jing\_hui@moe.edu.sg](mailto:loh_jing_hui@moe.edu.sg)<br><br>[koh\_jiun\_algena\_louisa@moe.edu.sg](mailto:koh_jiun_algena\_louisa@moe.edu.sg)<br><br>[zairina\_mohamad\_zen@moe.edu.sg](mailto:zairina_mohamad_zen@moe.edu.sg)  |
+|<div style="width:150px"></div> **SECONDARY 1**  |<div style="width:320px"></div> **Year Head:** Mr Loh Jing Hui Jimmy<br>**Discipline:** Mrs Algena Lim  <br>**Discipline:** Mdm Zairina Mohamad Zen  | [loh\_jing\_hui@moe.edu.sg](mailto:loh_jing_hui@moe.edu.sg)<br><br>[koh\_jiun\_algena\_louisa@moe.edu.sg](mailto:koh_jiun_algena\_louisa@moe.edu.sg)<br><br>[zairina\_mohamad\_zen@moe.edu.sg](mailto:zairina_mohamad_zen@moe.edu.sg)  |
 | **Class**  | **Form Teacher**  | **Email**  |
 | **101**  | Ms Pamela K Samales  <br>Mr Shahren Mansor  | [pamela\_samales@moe.edu.sg](mailto:pamela_samales@moe.edu.sg)<br>[shahren\_mansor@moe.edu.sg](mailto:shahren_mansor@moe.edu.sg)  |
 | **102**  | Ms Nufail Mahmood  <br>Mrs Shanthi Lingesh  | [nufail\_mahmood@moe.edu.sg](mailto:nufail_mahmood@moe.edu.sg)<br>[shanthi\_lingesh@moe.edu.sg](mailto:shanthi_lingesh@moe.edu.sg)  |
@@ -21,7 +21,7 @@ third_nav_title: Our Staff
 
 |   |   |   |
 |:-:|---|---|
-| **SECONDARY 2**  | **Year Head & Discipline:** Ms Lee Shu Min  <br>**Discipline:** Ms Nuha Binte Jalal  | [lee\_shu\_min@moe.edu.sg](mailto:lee_shu_min@moe.edu.sg)<br>[nuha\_jalal@moe.edu.sg](mailto:nuha_jalal@moe.edu.sg)  |
+|<div style="width:150px"></div> **SECONDARY 2**  |<div style="width:320px"></div> **Year Head & Discipline:** Ms Lee Shu Min  <br>**Discipline:** Ms Nuha Binte Jalal  | [lee\_shu\_min@moe.edu.sg](mailto:lee_shu_min@moe.edu.sg)<br>[nuha\_jalal@moe.edu.sg](mailto:nuha_jalal@moe.edu.sg)  |
 | **Class**  | **Form Teacher**  | **Email**  |
 | **201**  | Ms Audrey Lee Jiak Peng  <br>Ms Norhana Mohamad  | [lee\_jiak\_peng\_audrey@moe.edu.sg](mailto:lee_jiak_peng_audrey@moe.edu.sg)<br>[norhana\_mohamad@moe.edu.sg](mailto:norhana_mohamad@moe.edu.sg)  |
 | **202**  | Ms Heng Pei Yan  <br>Ms Patrine Chua  | [heng\_pei\_yan@moe.edu.sg](mailto:heng_pei_yan@moe.edu.sg)<br>[patrine\_chua\_chee\_huang@moe.edu.sg](mailto:patrine_chua_chee_huang@moe.edu.sg)  |
@@ -34,7 +34,7 @@ third_nav_title: Our Staff
 
 |   |   |   |
 |:-:|---|---|
-| **SECONDARY 3**  | **Year Head:** Ms Nor Sharina Abd Majid  <br>**Discipline:** Ms Lee Oi Leng  | [nor\_sharina\_abd\_majid@moe.edu.sg](mailto:nor_sharina_abd_majid@moe.edu.sg)<br><br>[lee\_oi\_leng@moe.edu.sg](mailto:lee_oi_leng@moe.edu.sg)  |
+| <div style="width:150px"></div>**SECONDARY 3**  |<div style="width:320px"></div> **Year Head:** Ms Nor Sharina Abd Majid  <br>**Discipline:** Ms Lee Oi Leng  | [nor\_sharina\_abd\_majid@moe.edu.sg](mailto:nor_sharina_abd_majid@moe.edu.sg)<br><br>[lee\_oi\_leng@moe.edu.sg](mailto:lee_oi_leng@moe.edu.sg)  |
 | **Class**  | **Form Teacher**  | **Email**  |
 | **301**  | Ms Tan Shuyi Angelita  <br>Mr Goh Wenxian, Ryan  | [angelita\_tan@moe.edu.sg](mailto:angelita_tan@moe.edu.sg)<br>[goh\_wenxian\_ryan@moe.edu.sg](mailto:goh_wenxian_ryan@moe.edu.sg)  |
 | **302**  | Mr Tan Swee Hong  | [tan\_swee\_hong@moe.edu.sg](mailto:tan_swee_hong@moe.edu.sg)  |
@@ -47,7 +47,7 @@ third_nav_title: Our Staff
 
 |   |   |   |
 |:-:|---|---|
-| **SECONDARY 4**  | **Year Head:** Mdm Nurahifah Amran  <br>**Discipline:** Mdm Raudah Hussain  | [nurahifah\_amran@moe.edu.sg](mailto:nurahifah_amran@moe.edu.sg)<br>[raudah\_hussain@moe.edu.sg](mailto:raudah_hussain@moe.edu.sg)  |
+|<div style="width:150px"></div> **SECONDARY 4**  |<div style="width:320px"></div> **Year Head:** Mdm Nurahifah Amran  <br>**Discipline:** Mdm Raudah Hussain  | [nurahifah\_amran@moe.edu.sg](mailto:nurahifah_amran@moe.edu.sg)<br>[raudah\_hussain@moe.edu.sg](mailto:raudah_hussain@moe.edu.sg)  |
 | **Class**  | **Form Teacher**  | **Email**  |
 | **401**  | Mrs Sukhjeet Singh  | [sukhjeet\_kaur@moe.edu.sg](mailto:sukhjeet_kaur@moe.edu.sg)  |
 | **402**  | Mr Ho Shi An  <br>Mdm Zakiah Subahan  | [ho\_shi\_an@moe.edu.sg](mailto:ho_shi_an@moe.edu.sg)<br>[zakiah\_subahan@moe.edu.sg](mailto:zakiah_subahan@moe.edu.sg)  |
@@ -60,7 +60,7 @@ third_nav_title: Our Staff
 
 |   |   |   |
 |:-:|---|---|
-| **SECONDARY 5**  | **Year Head:** Mdm Nurahifah Amran  <br>**Discipline:** Mdm Raudah Hussain  | [nurahifah\_amran@moe.edu.sg](mailto:nurahifah_amran@moe.edu.sg)<br>[raudah\_hussain@moe.edu.sg](mailto:raudah_hussain@moe.edu.sg)  |
+| <div style="width:150px"></div>**SECONDARY 5**  |<div style="width:320px"></div> **Year Head:** Mdm Nurahifah Amran  <br>**Discipline:** Mdm Raudah Hussain  | [nurahifah\_amran@moe.edu.sg](mailto:nurahifah_amran@moe.edu.sg)<br>[raudah\_hussain@moe.edu.sg](mailto:raudah_hussain@moe.edu.sg)  |
 | **Class**  | **Form Teacher**  | **Email**  |
 | **500**  |  Mr Wang Zhe  <br>Mrs Welzl-Loke Xiu Qing | [wang\_zhe@moe.edu.sg](mailto:wang_zhe@moe.edu.sg)<br>[loke\_xiuqing@moe.edu.sg](mailto:loke_xiuqing@moe.edu.sg)  |
 |   |   |   |
