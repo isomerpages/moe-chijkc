@@ -3,7 +3,6 @@ title: National School Games
 permalink: /student-development/CCA/nsg/
 description: ""
 ---
-
 ## National School Games
 
 #### National School Games 2022 Report
@@ -58,17 +57,17 @@ Our KC girls were not only competing on court and on the track; we also had 19 S
 
 They participated in these events:
 
-**B Division**
+<div align="center"><b>B Division </div></b>
 
 |  |  |
-|:---:|---|
+|:---:|:---:|
 | K1 – 500m | K1 - 1000m |
 | K2 – 500m | K4 - 1000m |
 | K4 – 500m |  |
 | JK1 – 500m |  |
 |  |  |
 
-**C Division**
+<div align="center"><b>C Division </div></b>
 
 |  |
 |:---:|
@@ -94,4 +93,3 @@ For the first time, KC had a representative at the wushu competition, in Ashley 
 For rhythmic gymnastics, we had Claire Ng from Sec 405 competing in the hoop, ribbon, ball and clubs events, and brought back double Bronze medals for her beautifully graceful and technically challenging routines in the hoop and ribbons categories.  
 
 In swimming, we had competitors in both the B and C Divisions, with Claire Pang from Sec 205 competing in the 200m and 400m freestyle event, and Francesca Lee from Sec 403 competing in the 50m and 100m freestyle events. Both girls held their own and did well against traditional powerhouses at the meet; Claire even brought home a medal when she came in 4th place in the 200m freestyle event!
-
