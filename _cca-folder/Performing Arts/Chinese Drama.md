@@ -4,7 +4,6 @@ permalink: /performing-arts/cd/
 description: ""
 third_nav_title: Performing Arts
 ---
-
 ## Chinese Drama
 
 <iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSbNcjMEKrZx30BGV0A2N2lCM6mN-Y7Y-Tqx3qPR4-0GElC2w07flhnrFkqLHwhltDLk2j6fQjRTOoH/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
@@ -12,7 +11,7 @@ third_nav_title: Performing Arts
 #### Introduction
 
 CHIJ Katong Convent is one of the few privileged schools in Singapore with a Chinese Drama&nbsp;CCA, led by our experienced instructor cum drama practitioner who is very active in the drama&nbsp;scene. Under her tutelage, our CCA has grown from strength to strength even during the&nbsp;pandemic. Our students are a close-knit team who has built rapport and fostered great&nbsp;friendship while learning a myriad of drama techniques. At the same time, they are also&nbsp;exposed to backstage technicalities like making of props, designing sound and lighting effects.
-
+	
 Our students may not have the best spoken and written Mandarin, but they definitely have wonderful opportunities afforded to them through SYF presentations, school performances and appreciation of professional plays.
 
 
