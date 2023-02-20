@@ -4,9 +4,6 @@ permalink: /booknmusic/2021/
 description: ""
 third_nav_title: Book and Music Week
 ---
-
-
-
 ## BMW 2021: A New Creation
 
 Book and Music Week is a signature programme of KC and has four key objectives:  
@@ -32,4 +29,4 @@ A new component, staged readings, was initiated, where classes were introduced t
   
 Despite the restrictions of SMM, BMW was nonetheless able to provide KC’s base platform for arts experience in a meaningful and intentional manner, providing opportunities for students and teachers to enjoy CHIJ Katong Convent’s CPVA niche!
 
-**REQUIRE JACKSON'S INPUT VIDEO**
+<iframe width="870.75" height="489.75" src="https://www.youtube.com/embed/7G_qpHOOhmo" title="BMW 2021: A New Creation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
