@@ -22,4 +22,4 @@ Below are 2 files you can refer to for the **Student iCON** and **Zoom** acc
 [Student_iCON_Onboarding_Guide.pdf](/files/Student_iCON_Onboarding_Guide.pdf)<br>
 [Student_Zoom_Onboarding_Guide.pdf](/files/Student_Zoom_Onboarding_Guide.pdf)
 
-\>> For **Google Takeout Guide to Back up Student iCON Data**, click **[here](/files/For_Student_Google_Takeout_Guide_for_Student_iCON_2023.pdf)** to download the guide.
+<mark> >> For **Google Takeout Guide to Back up Student iCON Data**, click **[here](/files/For_Student_Google_Takeout_Guide_for_Student_iCON_2023.pdf)** to download the guide. </mark>
