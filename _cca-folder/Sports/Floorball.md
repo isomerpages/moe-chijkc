@@ -18,7 +18,7 @@ third_nav_title: Sports
 #### Programme 
 
 |   |   |
-|:-:|---|
+|---|---|
 | **January**  | CCA Fair<br>Sec 1 Recruitment  |
 | **January - April**  | National School Games B Division Floorball Championships  |
 | **March**  | Team bonding activities  |
