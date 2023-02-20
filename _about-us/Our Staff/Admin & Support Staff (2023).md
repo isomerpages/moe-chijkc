@@ -18,7 +18,7 @@ third_nav_title: Our Staff
 |-|---|
 | **Technical Support Officer**<br>Mdm Iryanti Bte Jamil  <br>Mr Md Zaaini Bin Hussain  | <br>[iryanti\_jamil@moe.edu.sg](mailto:iryanti\_jamil@moe.edu.sg)<br>[mohamed\_zaaini\_hussain@moe.edu.sg](mailto:mohamed\_zaaini\_hussain@moe.edu.sg)  |
 | **Operations Support Officer**  <br>Mr Chan Chin Weng<br>Mdm Chern Kwat Shiang  <br>Mdm Christine Koh  <br>Mdm Ng Ka Hoon  <br>Mr Tan Chew Seng  | <br>NA<br>NA<br>NA<br>NA<br>NA  |
-| **Receptionist**<br>Ms Vanessa  | <br>[cheang\_sok\_kum\_vanessa@moe.edu.sg](mailto:cheang\_sok\_kum\_vanessa@moe.edu.sg)  |
+| **Receptionist**<br>Ms Jamaliah Binte Ismail  | <br>[jamaliah_ismail_a@moe.edu.sg](mailto:jamaliah_ismail_a@moe.edu.sg)  |
 |   |   |
 
 | Curricular & Co-Curricular Support  |  Email |
