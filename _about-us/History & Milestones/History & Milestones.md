@@ -26,7 +26,7 @@ As an IJ School, CHIJ Katong Convent is a Catholic school which commits itself t
 
 #### Principals
 
-|<div style="width:150px"></div>  |  |  |
+|<div style="width:150px"></div>|  |  |
 |:---:|:---:|---|
 | **Sr Theodora** | 1930 | * Opening of Katong Convent as a private school at Martia Road 1st cohort of 197 pupils, including 25 boys |
 | **Sr St Vincent de Paul** | 1932 | * Became Government-Aided Girls’ School |
