@@ -42,7 +42,7 @@ At the end of the Sec 3 syllabus, students are brought to retail areas in Singap
 Students practice the digital skills through regular classroom routines with the use of Personal Learning Devices in the following areas:
 
 | **Administrative Procedures** | **Instructional Tasks** | **Interactive Routines** |
-|:---:|---|---|
+|:---|---|---|
 | Managing schedule | Managing learning with digital tools | Managing and controlling one's digital footprints |
 | Managing digital files | Managing safe and ethical curation of information | Managing online communication and collaboration ethically and responsibly |
 |  |  |  |
