@@ -36,6 +36,6 @@ third_nav_title: Clubs & Societies
 *   National Schools Online Debating Championships 2020
 
 2019<br>
-*   Singapore Secondary Schools Debating Championships 2019 - Quarter Finalist (team), 1st Best Speaker (Cheryl Chua Xin Miao) and 2nd Best Speaker (Queeshia Pascual) in Division 2
+*   Singapore Secondary Schools Debating Championships 2019 - Quarter Finalist (team), 1st Best Speaker (Queeshia Pascual) and 2nd Best Speaker (Cheryl Chua Xin Miao) in Division 2
 *   Nethelynn Yang & Keris Lim Zhuo Yan- Selected to be part of the National Debate Training programme conducted by MOE
 *   Raffles Debate Academy U-14s Debating Championships- Semi finalists
