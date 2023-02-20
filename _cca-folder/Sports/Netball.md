@@ -40,36 +40,36 @@ To maximise players’ long-term potential, winning should remain a secondary em
 **PARTICIPATION**
 
 **2022**<br>
-*   National School Games Netball Championships B Division Girls (East Zone)<br>
--National School Games Netball Championships C Division Girls (East Zone)<br>
--Pesta Sukan<br>
--Netball Singapore Year End Carnival
+* National School Games Netball Championships B Division Girls (East Zone)<br>
+	* National School Games Netball Championships C Division Girls (East Zone)<br>
+	* Pesta Sukan<br>
+	* Netball Singapore Year End Carnival
 
 **2021**  <br>
-*   National School Games Netball Championships B Division Girls (East Zone)  
+* National School Games Netball Championships B Division Girls (East Zone)  
     
 **2020**<br>
-*   NSG Netball Championships B Division Girls (East Zone)
+* NSG Netball Championships B Division Girls (East Zone)
 
 **2019**<br>
-*   NSG Netball Championships C Division Girls (East Zone)
-*   NSG Netball Championships B Division Girls (East Zone)
-*   Netball ACTive Carnival 2019
-*   Pasir Ris Crest Secondary School Netball Carnival
+* NSG Netball Championships C Division Girls (East Zone)
+* NSG Netball Championships B Division Girls (East Zone)
+* Netball ACTive Carnival 2019
+* Pasir Ris Crest Secondary School Netball Carnival
 
 **2018**<br>
-*   NSG Netball Championships C Division Girls (East Zone)
-*   NSG Netball Championships B Division Girls (East Zone)
-*   Netball ACTive Carnival 2018
+* NSG Netball Championships C Division Girls (East Zone)
+* NSG Netball Championships B Division Girls (East Zone)
+* Netball ACTive Carnival 2018
 
 **ACHIEVEMENTS**  
 
 **2022**<br>
 Pesta Sukan
-*   C Division Girls Team 2: 3rd runner up
+* C Division Girls Team 2: 3rd runner up
 
 **2019**  <br>
 Methodist Girls’ School Netball Carnival  <br>
-*   C Division Girls: 3rd
-*   Secondary 3 category: 2nd
-*   Secondary 4 and 5 category: 1st
+* C Division Girls: 3rd
+* Secondary 3 category: 2nd
+* Secondary 4 and 5 category: 1st
