@@ -8,7 +8,7 @@ third_nav_title: National Digital Literacy Prog
 
 The NDLP was launched in March 2020 to make digital learning inclusive by equipping students with the digital literacies to be future-ready. Under the NDLP, MOE announced that every student will own a school-prescribed personal learning device (PLD) by end-2021.
 
-Please find the briefing slides on NDLP during the Sec One Parents Engagement Webinar held on 18 Jan [here](/files/KC%20PLD%20Briefing%20to%20Parents%2018%20Jan_website.pdf)
+Please find the briefing slides on NDLP during the Sec One Parents Engagement Webinar held on 25 Jan [here]((/files/KC%20PLD%20Briefing%20to%20Parents%20250123_finalp%201.pdf))
 
 #### NDLP @ CHIJ Katong Convent
 
@@ -44,8 +44,8 @@ If your child/ward is a Singapore citizen, you can use your child’s/ward’s E
 
 The following are useful resources to support our parents in keeping our students safe online:
 * Parent Handbooks on Learning with a Personal Learning Device ([Book 1](/files/Book1.pdf) & [Book2](https://www.chijkatongconvent.moe.edu.sg/qql/slot/u185/The%20KC%20Experience/NDLP/Parent%20Handbook%20II%20on%20Learning%20with%20a%20Personal%20Learning%20Device.pdf) - PDF exceeds 5MB)
-* Parent Kit on Cyber Wellness for Your Child [(https://go.gov.sg/moe-cyber-wellness)](/files/cyber-wellness-for-your-child.pdf)
-* MOE Cyber Wellness Programme ([https://www.moe.gov.sg/programmes/cyber-wellness/](https://www.moe.gov.sg/programmes/cyber-wellness/)) **PAGE NOT FOUND**
+* Parent Kit on Cyber Wellness for Your Child [(https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)](/files/cyber-wellness-for-your-child.pdf)
+* MOE Cyber Wellness Programme ([https://www.moe.gov.sg/programmes/cyber-wellness/](https://www.moe.gov.sg/programmes/cyber-wellness/))
 * Media Literacy Council ([https://go.gov.sg/better-internet-sg](https://go.gov.sg/better-internet-sg))
 * National Library’s Learning & Information Literacy Resources ([https://sure.nlb.gov.sg/](https://sure.nlb.gov.sg/))
 * TOUCH Community Services ([https://help123.sg](https://help123.sg/))
@@ -60,7 +60,7 @@ The online form will consist of:
 *   Edusave Withdrawal (for SC only)
 *   Authorisation to collect PLD
 
-If you are unable to submit this form online, please contact the school General Office for a hardcopy version or click this [link](/files/CHIJ%20KC_Letter%20to%20Parents%20for%20PDLP%20Procurement%2010%20Jan%2022%20hardcopy.pdf) to download the files, and submit it to the General Office.
+If you are unable to submit this form online, please contact the school General Office for a hardcopy version or click this [link]([](/files/CHIJ%20KC_Letter%20to%20Parents%20for%20PLD%20Procurement%2026%20Jan%2023%20final.pdf)) to download the files, and submit it to the General Office.
 
 #### Financial Assistance
 
