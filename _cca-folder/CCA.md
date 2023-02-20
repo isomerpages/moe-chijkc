@@ -7,8 +7,6 @@ description: ""
 
 #### Vision
 
-<div align="center"><b><mark> "to uncover each student's talents, develop her potential, build character and help her to cultivate a life long interest in recreation."</mark></b></div>
-
 
 
 #### CCAs in CHIJ Katong Convent
