@@ -3,10 +3,9 @@ title: Arts & Culture Programme
 permalink: /the-kc-experience/Communicate-Perform-Visual/arts-culture/
 description: ""
 ---
-
 ## Arts & Culture Programme
 
-<img src="/images/AC Logo 1.png" style="width:30%">
+<img src="/images/AC Logo 1.png" style="width:20%">
 
 #### Goals
 
@@ -14,9 +13,9 @@ The CHIJ Katong Convent Arts and Culture Programme (A&C) is an exclusive leaders
 
 The programme has three aims 1. Exposure to the arts; 2. Empowerment of Arts Advocates; and 3. Enactment of arts advocacy; through which we develop the arts leader who advocates for the arts and shares her interests and talents with others.
 
-1 \. Exposure: To nurture appreciation through engagement with the arts and exposure to industry professionals.<br>
-2 \. Empowerment: To imbue foundational knowledge and skills, fundamental vocabularies and develop perspectives of the arts and culture industry.<br>
-3 \. Enactment: To provide experiential opportunities that engage others and foster community by capitalising on the new ideas and energies afforded by the arts.
+1 . Exposure: To nurture appreciation through engagement with the arts and exposure to industry professionals.<br>
+2 . Empowerment: To imbue foundational knowledge and skills, fundamental vocabularies and develop perspectives of the arts and culture industry.<br>
+3 . Enactment: To provide experiential opportunities that engage others and foster community by capitalising on the new ideas and energies afforded by the arts.
 
 #### Programme
 
@@ -32,7 +31,7 @@ With A&C, the school’s long-term goal is to create a tradition of strong leade
 
 #### Signature Programmes
 
-Arts Bites<br>
-Arts Experiences and Industry Learning Journeys<br>
-Book and Music Week<br>
-Student-Initiated Arts Festival
+* Arts Bites
+* Arts Experiences and Industry Learning Journeys
+* Book and Music Week
+* Student-Initiated Arts Festival
