@@ -16,15 +16,15 @@ During school operating hours, students should contact the **School-based Helpl
 
 **Student Learning Space - [https://vle.learning.moe.edu.sg/login](https://vle.learning.moe.edu.sg/login)**
 
-**\*With effect on 01 Dec 2022, students should use the their MIMS account ID and password to login to SLS.**
+**<span style="color: red"> * With effect on 01 Dec 2022, students should use the their MIMS account ID and password to login to SLS.</span>**
 
 <img src="/images/SLS_MIMS(1).jpg" style="width:40%">
 
 **Non-School Operating Hours**
 
-Outside the school operating hours, students should contact the **SLS Helpdesk** for support.  
+Outside the school operating hours, students should contact the **<u>SLS Helpdesk</u>** for support.  
 
-*   Call SLS Helpdesk at 6702 6513
+*   Call SLS Helpdesk at <u>6702 6513</u>
 
 Mondays - Fridays: 4:00 pm - 9:00 pm  
 Saturdays: 9:00 am - 3:00 pm  
