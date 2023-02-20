@@ -4,7 +4,6 @@ permalink: /uniformed-groups/ncdcc/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
 ## National Civil Defence Cadet Corps (NCDCC)
 
 <iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ59LKC4R256SA-8FXYHMw-LfzZlo1XL7z_LKla3byOEWnQZAQYlVl5R5z_pGoteiYSFF9mkQUJv8Q1/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
@@ -33,27 +32,25 @@ Others: Foot Drill (Gold), Unit Drill Instructor Course, Basic Cardiac Life Supp
 
 #### Achievements (Last 3 years)
 
-**2021**<br>
-*   SCDF-NCDCC Pinnacle Badge:&nbsp;
--Cadet: WO Chloe Tan Li Lin<br>
--Cadet: WO Tan Yue Lin Michel
-*   Infographic Design Competition (2nd place):
--Cadet: WO Giselle Elizabeth Pinto
+**2021**
+* SCDF-NCDCC Pinnacle Badge:
+	* Cadet: WO Chloe Tan Li Lin
+	* Cadet: WO Tan Yue Lin Michel
+* Infographic Design Competition (2nd place):
+	* Cadet: WO Giselle Elizabeth Pinto
 
-**2020**<br>
-*   SCDF-NCDCC Pinnacle Badge
--Cadet: WO Cheng Ying Charmaine
+**2020**
+* SCDF-NCDCC Pinnacle Badge
+	* Cadet: WO Cheng Ying Charmaine
+	
+**2019**
+* Unit Overall Performance Award
+	* Silver
+* SCDF-NCDCC Pinnacle Badge
+	* Cadet: WO Low Jia Wen Jamie
 
-  
-
-**2019**<br>
-*   Unit Overall Performance Award
--Silver
-*   SCDF-NCDCC Pinnacle Badge&nbsp;
--Cadet: WO Low Jia Wen Jamie
-
-*   15th&nbsp;Uniformed Groups Bowling Championships 2019
--1st&nbsp;in Girls (Team)<br>
--1st&nbsp;and 10th&nbsp;in Girls (Individual)
-*   Female Cadet Mascot Naming Competition
--Cadet: LCP Tan Yue Lin Michel
+* 15thUniformed Groups Bowling Championships 2019
+	* 1st in Girls (Team)
+	* 1st and 10th&nbsp;in Girls (Individual)
+* Female Cadet Mascot Naming Competition
+	* Cadet: LCP Tan Yue Lin Michel
