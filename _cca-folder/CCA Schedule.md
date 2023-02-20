@@ -8,7 +8,7 @@ description: ""
 ##### <center>CCA TRAINING VENUE AND DAYS 2021 </center>
 
 | **CCA** | **Training venue** | **Training days** |
-|:---:|---|---|
+|---|---|---|
 | Bowling | Chinese Swimming Club | Wed, Fri |
 | Badminton | School MPH | Wed, Fri |
 | Canoeing | Bedok Reservoir | Wed, Fri |
@@ -28,5 +28,5 @@ description: ""
 | Entrepreneur | Computer Lab | Fri |
 | Media Comm Club | Computer Lab 4 (A04-04) | Wed |
 | Cabin Club | School | Various Days |
-| Sports Development Club | School (TBC) | Fri |
+| Sports Development Club | School (TBC) | Wed, Fri |
 |  |  |  |
