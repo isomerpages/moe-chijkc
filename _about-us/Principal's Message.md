@@ -7,7 +7,7 @@ description: ""
 
 As the second oldest IJ school in Singapore, Katong Convent (KC) has provided a holistic education for generations of girls and produced many illustrious alumnae. Today, KC continues to be guided by our founder, Blessed Nicolas Barré’s philosophy that every child is unique and has God-given talents. The school vision of **_A Caring School that Excels_** captures our desire to build a school community where every student feels a sense of belonging, is nurtured to develop her talents, and is inspired to be a lifelong learner. 
 
-Fitting of our heritage as a Convent by the Sea, the PIER values of <u>**P**</u>erseverance, <u>**I**</u>ntegrity, <u>**E**</u>xcellence, <u>**R**</u>espect, and Christian principles are inculcated in KC girls. Just like a pier serves as a docking place for ships, the PIER values and Christian principles anchor and guide KC girls as they navigate life with confidence and optimism. 
+Fitting of our heritage as a Convent by the Sea, the PIER values of <b><u>P</u></b>erseverance, <b><u>I</u></b>ntegrity, <b><u>E</u></b>xcellence, <b><u>R</u></b>espect, and Christian principles are inculcated in KC girls. Just like a pier serves as a docking place for ships, the PIER values and Christian principles anchor and guide KC girls as they navigate life with confidence and optimism. 
 
 <img src="/images/prinmsg.jpg" style="width:55%" align=right>
 
