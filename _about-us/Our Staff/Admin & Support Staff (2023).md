@@ -24,7 +24,7 @@ third_nav_title: Our Staff
 | Curricular & Co-Curricular Support  |  Email |
 |-|---|
 | **AED (Teaching & Learning)**<br>Ms Esther Tan (Mathematics)  | <br>[esther\_tan\_kok\_kheng@moe.edu.sg](mailto:esther\_tan\_kok\_kheng@moe.edu.sg)  |
-| **AED (Learning and Behavioural Support)**<br>Ms Gursheran Kaur  | <br>[gursheran\_kaur@moe.edu.sg](mailto:gursheran\_kaur@moe.edu.sg)  |
+| **AED (Special Educational Needs Officer)**<br>Ms Gursheran Kaur  | <br>[gursheran\_kaur@moe.edu.sg](mailto:gursheran\_kaur@moe.edu.sg)  |
 | **Librarian**<br>Mdm Cassandra Lee  | <br>[lee\_wah\_hing@moe.edu.sg](mailto:lee\_wah\_hing@moe.edu.sg)  |
 |   |   |
 
