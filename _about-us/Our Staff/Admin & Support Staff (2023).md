@@ -10,8 +10,8 @@ third_nav_title: Our Staff
 |-|---|
 | **Administration Manager**<br>Mr Tan Wee Hian  | <br>[tan\_wee\_hian@moe.edu.sg](mailto:tan\_wee\_hian@moe.edu.sg)  |
 | **Operations Manager**<br>Mr Mohamed Ayub Daud Khan  | <br>[mohamed\_ayub\_daud\_khan@moe.edu.sg](mailto:mohamed\_ayub\_daud\_khan@moe.edu.sg)  |
-| **Administration Executive**<br>Ms Meredith Ng  | <br> [ng\_chiew\_lin@moe.edu.sg](mailto:ng\_chiew\_lin@moe.edu.sg)  |
-| **Corporate Support Officer**<br>Mdm Tan Mui Suan  <br>Ms Audrey Ng  | <br>[tan_mui_suan_a@moe.edu.sg](mailto:tan_mui_suan_a@moe.edu.sg)<br>[audrey_ng_ai_khim@moe.edu.sg](mailto:audrey\_ng\_ai\_khim@moe.edu.sg) |
+| **Administration Executive**<br>Mdm Tan Mui Suan  | <br> [tan\_mui\_suan\_a@moe.edu.sg](mailto:tan_mui_suan_a@moe.edu.sg)|
+| **Corporate Support Officer** <br>Ms Audrey Ng  | <br>[audrey_ng_ai_khim@moe.edu.sg](mailto:audrey\_ng\_ai\_khim@moe.edu.sg) |
 |   |   |
 
 | Support Officers  | Email  |
