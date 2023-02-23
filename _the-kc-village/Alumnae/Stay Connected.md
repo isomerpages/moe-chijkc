@@ -11,7 +11,7 @@ third_nav_title: Alumnae
 We welcome our alumnae to come back and contribute to the school. If you are interested to join the KC Alumnae network, be kept informed of alumni news and know more about how you can give back to KC, please complete the form below.
 
 <p align="center">
-	<a href="https://form.gov.sg/5c53c3437c7a47001700b386">KC Connect Form</a>
+	<a href="https://form.gov.sg/5c53c3437c7a47001700b386"><b>KC Connect Form</b></a>
 </p>
 
 *   **EDUCATION AND CAREER GUIDANCE**: to share your post secondary educational options/ vocations/ jobs or source speakers from a wide variety of sectors to help students gain insights into job choices and career prospects. This is especially meaningful for the upper secondary students.
