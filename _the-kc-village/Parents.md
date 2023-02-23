@@ -45,9 +45,9 @@ description: ""
 |  |  |  |  |  |
 |:---:|:---:|:---:|:---:|:---:|
 | **Sec 1** | **Sec 2** | **Sec 3** | **Sec 4** | **Sec 5** |
-| [1E](/files/Sec%201E%20Assessment%20Weighting%202022_updated%2013%20Apr.pdf) | 2E | [3E](/files/Sec%203E%20Assessment%20Weighting%202022_270522.pdf) | 4E | - |
-| [1NA](/files/Sec%201NA%20Assessment%20Weighting%202022_updated%2013%20Apr.pdf) | 2NA | [3NA](/files/Sec%203NA%20Assessment%20Weighting%202022_270522.pdf) | 4NA | 5NA |
-| [1NT](/files/Sec%201NT%20Assessment%20Weighting%202022.pdf) | 2NT | [3NT](/files/Sec%203NT%20Assessment%20Weighting%202022.pdf) | 4NT | - |
+| [1E](/files/KC%20Viilage/Parents/Weighted%20Assessment/Sec%201E%20Assessment%20Weighting%202023.pdf) | [2E](/files/KC%20Viilage/Parents/Weighted%20Assessment/Sec%202E%20Assessment%20Weighting%202023.pdf) | [3E](/files/KC%20Viilage/Parents/Weighted%20Assessment/Sec%203E%20Assessment%20Weighting%202023.pdf) | [4E](/files/KC%20Viilage/Parents/Weighted%20Assessment/Sec%204E%20Assessment%20Weighting%202023.pdf) | - |
+| [1NA](/files/KC%20Viilage/Parents/Weighted%20Assessment/Sec%201NA%20Assessment%20Weighting%202023.pdf) | [2NA](/files/KC%20Viilage/Parents/Weighted%20Assessment/Sec%202NA%20Assessment%20Weighting%202023.pdf) | [3NA](/files/KC%20Viilage/Parents/Weighted%20Assessment/Sec%203NA%20Assessment%20Weighting%202023.pdf) | [4NA](/files/KC%20Viilage/Parents/Weighted%20Assessment/Sec%204NA%20Assessment%20Weighting%202023.pdf) | [5NA](/files/KC%20Viilage/Parents/Weighted%20Assessment/Sec%205NA%20Assessment%20Weighting%202023.pdf) |
+| [1NT](/files/KC%20Viilage/Parents/Weighted%20Assessment/Sec%201NT%20Assessment%20Weighting%202023.pdf) | [2NT](/files/KC%20Viilage/Parents/Weighted%20Assessment/Sec%202NT%20Assessment%20Weighting%202023.pdf) | [3NT](/files/KC%20Viilage/Parents/Weighted%20Assessment/Sec%203NT%20Assessment%20Weighting%202023.pdf) | [4NT](/files/KC%20Viilage/Parents/Weighted%20Assessment/Sec%204NT%20Assessment%20Weighting%202023.pdf) | - |
 |  |  |  |  |  |
 
 #### Prelim and End-of-Year Examinations
