@@ -83,7 +83,7 @@ CCAs offered fall into four core categories:
 The maximum availability of Secondary 1 membership in 2023 is indicated next to each CCA:
 
 |  |  |  |  |
-|:---:|---|---|---|
+|---|---|---|---|
 | **Sports & Games** | **Uniformed Groups** | **Performing Arts Groups** | **Clubs/Societies** |
 | 1 \. Badminton (10) | 1 \. NCDCC (15) | 1 \. Choir (20) | 1 \. Debate Club (10) |
 | 2 \. Floorball (14) | 2 \. Girl Guides (15) | 2 \. Chinese Orchestra (20) | 2 \. MediaComm Club (110) |
@@ -91,7 +91,7 @@ The maximum availability of Secondary 1 membership in 2023 is indicated next to 
 | 4 \. Tenpin Bowling (10) |  | 4 \. Dance (10) | 4 \. Entrepreneur Club (10) |
 | 5 \. Track & Field (15) |  | 5 \. Dramatic Arts Society (14) |  |
 | 6 \.Sports Club (15) |  | 6 \. Concert Band (20) |  |
-| Total: 78 | Total: 30 | Total: 92 | Total: 40 |
+| **Total: 78** | **Total: 30** | **Total: 92** | **Total: 40** |
 |  |  |  |  |
 
 _\*All DSA- Visual Arts students will be allocated MediaComm as their CCA._
@@ -101,7 +101,7 @@ _For more information on the individual CCAs you may visit our [CCA webpage](/s
 #### Schedule of CCA Selection in January 2023
 
 |  |  |  |
-|:---:|---|---|
+|---|---|---|
 | **Date** | **Event** | **Remarks** |
 | **4 Jan** | Commencement of CCA for Sec 2-5 and Sec 1 DSA | Various venues |
 | **11,13,18 and 25 Jan** | CCA auditions by CCA teachers, coaches and instructors | Various venues |
@@ -109,7 +109,7 @@ _For more information on the individual CCAs you may visit our [CCA webpage](/s
 | **30 Jan - 3 Feb** | CCA allocation exercise |  |
 | **6 Feb** | Release of Sec 1 CCA allocation results |  |
 | **8 Feb** | Commencement of CCA for Sec 1s | Various venues |
-| **8 Feb 6pm -  <br>10 Feb 6pm**  | Appeals for Sec 1 CCA<br>*   Students are strongly advised to attend the 1st session of their assigned CCA before submitting a request for a change. |  |
+| **8 Feb 6pm -  <br>10 Feb 6pm**  | Appeals for Sec 1 CCA<br> * Students are <u>strongly advised to attend the 1st session</u> of their assigned CCA before submitting a request for a change. |  |
 |  |  |  |
 
 #### Tips for students in their selection of CCAs
