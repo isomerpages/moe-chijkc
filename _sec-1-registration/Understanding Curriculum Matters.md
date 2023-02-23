@@ -107,7 +107,7 @@ Tamil lessons will be on Mondays, Tuesdays and Thursdays. They are usually held 
 
 You will be informed of the Third Language application outcome via Parents Gateway.
 
-For those who do not have access to PG, please notify the school via this [**form**](https://go.gov.sg/welcome-to-kc)**FORM NOT AVAILABLE**. The outcome will be emailed to you.
+For those who do not have access to PG, please notify the school via this [**form**](https://go.gov.sg/welcome-to-kc-2023). The outcome will be emailed to you.
 
 Successful candidates posted to:
 
