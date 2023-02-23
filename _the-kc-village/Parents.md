@@ -40,7 +40,7 @@ description: ""
 
 #### Weighted Assessment 
 
-**[WA Calendar](/files/2022%20WA%20Calendar%20Updated%20for%20Term%203.pdf)**
+**[WA Calendar]([](/files/KC%20Viilage/Parents/Weighted%20Assessment/Weighted%20Assessment%20Calendar%202023_All%20levels_270123.pdf))**
 
 |  |  |  |  |  |
 |:---:|:---:|:---:|:---:|:---:|
