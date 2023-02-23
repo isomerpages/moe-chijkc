@@ -25,7 +25,7 @@ Sec 1 Normal (Technical)<br>
 #### Online Purchase
 
 |   | Pacific BookStore  | Asencio Uniform Supplier  |
-|:-:|---|---|
+|-:|---|---|
 | **Website**  | **[www.pacificbookstores.com](http://www.pacificbookstores.com/)**  | **[www.asencio.com.sg](http://www.asencio.com.sg/)**  |
 | **Store**  | nil  | 120 Hillview Ave, #05-01 Kewalram Hillview, S(669594)  |
 | **Payment Mode for Online <br>Purchase**  | Paynow, Credit and Debit Card  | PayNow, Credit and Debit Card  |
@@ -52,7 +52,7 @@ The bookshop and uniform shop are open from **Wednesday,** **21 December** ti
 Students whose MOE FAS applications have been approved by the primary schools, please kindly provide a copy of the approval letter to collect the books and uniform. If you wish to apply for MOE FAS, please refer **[here](/the-kc-village/parents/)** for more information.
 
 |   | **Pacific BookStore**  | **Asencio Uniform Supplier**  |
-|:-:|---|---|
+|:-|---|---|
 | Payment Mode for Walk-in Purchase  |  PayNow, NETS and Cash | PayNow and Cash  |
 | Operating Hours for 21/12, 22/12, 23/12, 27/12, 28/12, 29/12 and 30/12  | 9:00 a.m. – 3:00 p.m.  | 9:00 a.m. – 3:00 p.m.  |
 |   |   |   |
