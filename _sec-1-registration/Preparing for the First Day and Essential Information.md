@@ -7,7 +7,7 @@ description: ""
 
 #### Essential information to guide you on your first day at Katong Convent:
 
-|  |  |
+|  | <col width="150"> |
 |---:|---|
 | **Reporting Time:** | 7:30 a.m. |
 | **Dismissal:** | 1:15 p.m. |
