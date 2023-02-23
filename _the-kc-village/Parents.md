@@ -73,7 +73,7 @@ description: ""
 #### 2023 Issues of Parent Link
 
 |   |   |
-|:-:|---|
+|:---:|:---:|
 | **Term 1**  | **Term 2**  |
 | **Term 3**  | **Term 4**  |
 |   |   |
