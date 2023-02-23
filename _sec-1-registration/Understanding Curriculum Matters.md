@@ -74,7 +74,7 @@ For those who do not have access to PG, please notify the school via this **[fo
 
 Students who have been offered to study HMTL will receive an eligibility Form A via Parents Gateway (PG) from the school.
 
-For those who do not have access to PG, please notify the school via this [**form**](https://go.gov.sg/welcome-to-kc-2022) **FORM NOT FOUND**. Form A will be emailed to you.
+For those who do not have access to PG, please notify the school via this [**form**](https://go.gov.sg/welcome-to-kc-2023). Form A will be emailed to you.
 
 Please download and complete Form A. You are to submit the hardcopy Form A to the form teacher on **Tuesday, 3 January 2023**.
 
