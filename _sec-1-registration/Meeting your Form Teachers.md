@@ -14,9 +14,9 @@ Nevertheless, we would still like to have the opportunity to connect with you, o
 The details of this session are stated below:
 
 |  |  |
-|:---:|---|
+|---:|---|
 | **Time:** | 10:00 a.m. to 11:15 a.m. (please log in from 9:45 a.m.) |
-| **Instructions:** | Your parents will receive a zoom link and passcode via Parents Gateway on the morning of 23 December 2022.<br>Parents without Parents Gateway, please fill in this [**form**](https://go.gov.sg/welcome-to-kc-2022) **FORM NOT FOUND**. |
+| **Instructions:** | Your parents will receive a zoom link and passcode via Parents Gateway on the morning of 23 December 2022.<br>Parents without Parents Gateway, please fill in this [**form**](https://go.gov.sg/welcome-to-kc-2023). |
 | **Attire:** | You are encouraged to dress in your Primary school PE attire. |
 | **Contact:** | For support, please contact the General Office at 64486433 should you / your parents have difficulties logging in. |
 |  |  |
