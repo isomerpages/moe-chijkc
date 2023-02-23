@@ -40,7 +40,7 @@ description: ""
 
 #### Weighted Assessment 
 
-**[WA Calendar]([](/files/KC%20Viilage/Parents/Weighted%20Assessment/Weighted%20Assessment%20Calendar%202023_All%20levels_270123.pdf))**
+**[WA Calendar](/files/KC%20Viilage/Parents/Weighted%20Assessment/Weighted%20Assessment%20Calendar%202023_All%20levels_270123.pdf)**
 
 |  |  |  |  |  |
 |:---:|:---:|:---:|:---:|:---:|
@@ -52,23 +52,13 @@ description: ""
 
 #### Prelim and End-of-Year Examinations
 
-<table>
-	<tr>
-		<td>Sec 1 -3 EOY Letter & Schedule</td>
-	</tr>
-	<tr>
-		<td><b>Sec 1</b></td>
-		<td><b>Sec 2</b></td>
-		<td><b>Sec 3</b></td>
-		<td><b>Sec 4</b></td>
-		<td><b>Sec 5</b></td>
-	</tr>
-	<tr>
-		<td>1E - NA/NT  <br>Coverage</td>
-		<td>2E - NA/NT  <br>Coverage</td>
-		<td>3E - NA/NT  <br>Coverage</td>
-	</tr>
-	</table>
+**Sec 1-3 EOY Letter & Schedule**
+
+|  |  |  |  |  |
+|:---:|:---:|:---:|:---:|:---:|
+| **Sec 1** | **Sec 2** | **Sec 3** | **Sec 4** | **Sec 5** |
+| - | - | - | - | - |
+
 	
 #### 2023 Issues of Parent Link
 
