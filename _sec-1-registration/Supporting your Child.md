@@ -107,7 +107,7 @@ More information on MOE FAS can be found **[here](/the-kc-village/parents/)**.
 
 You may refer to the flowchart below for the application process.
 
-<img src="/images/FAQs for S1 (fas).jpg" style="width:85%">
+<img src="/images/FAQs for S1 (fas).jpg" style="width:100%">
 
 #### v. Special Needs
 
