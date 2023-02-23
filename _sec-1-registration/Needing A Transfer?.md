@@ -15,17 +15,17 @@ For students who have been accepted by other schools, please email a copy of the
 
 Parents may refer to the flowchart below for the appeal process:
 
-<img src="/images/Appeal for Transfer.png" style="width:85%">
+<img src="/images/Appeal for Transfer.png" style="width:100%">
 
 #### Seeking a Transfer In
 
 If you are seeking a transfer into Katong Convent, please click on the following links **_(links will be enabled by 21 Dec)_**:
 
-[Appeal for CHIJ Katong Convent: S1 Express](https://go.gov.sg/kc-appeal-s1-express-2023) **FORM NOT AVAILABLE**
+[Appeal for CHIJ Katong Convent: S1 Express](https://go.gov.sg/kc-appeal-s1-express-2023)
 
-[Appeal for CHIJ Katong Convent: S1 Normal Academic](https://go.gov.sg/kc-appeal-s1-na-2023) **FORM NOT AVAILABLE**
+[Appeal for CHIJ Katong Convent: S1 Normal Academic](https://go.gov.sg/kc-appeal-s1-na-2023)
 
-[Appeal for CHIJ Katong Convent: S1 Normal Technical](https://go.gov.sg/kc-appeal-s1-nt-2023) **FORM NOT AVAILABLE**
+[Appeal for CHIJ Katong Convent: S1 Normal Technical](https://go.gov.sg/kc-appeal-s1-nt-2023)
 
 Do ensure that your daughter / ward’s PSLE aggregate meets Katong Convent's Cut-off Point for this year’s Secondary 1 Posting.
 
