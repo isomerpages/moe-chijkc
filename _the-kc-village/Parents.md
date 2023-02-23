@@ -26,9 +26,8 @@ description: ""
 | | |
 |:---:|:---:|
 | [Term 1](/files/KC%20Term%201%20Letter%20to%20Parents%202022%20updated.pdf) |  [Term 2](/files/KC%202022%20Term%202%20Letter%20to%20Parents.pdf)|
-| [Term 3](/files/KC%20Term%203%20Letter%20to%20Parents%202022.pdf) | [Term 4](/files/KC%20Term%204%20Letter%20to%20Parents%202022.pdf) |
+| Term 3 | Term 4 |
 | | |
-
 <center>KC EOY Letter to Parents</center>
 
 #### Semester Class Timetables
