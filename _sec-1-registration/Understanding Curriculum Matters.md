@@ -66,7 +66,7 @@ We will also take into account teachers’ observations and recommendations when
 
 Students who are eligible to study a subject at more demanding level in Sec 1 will receive the MOE letter of offer via Parents Gateway (PG) on Registration Day from the school. Parents are to submit the consent via PG.
 
-For those who do not have access to PG, please notify the school via this **[form](https://go.gov.sg/welcome-to-kc-2022)** **FORM NOT AVAILABLE**. The letter will be emailed to you. Please submit your acceptance form found in your letter of offer either by hand or email to the General Office before the stated deadline.
+For those who do not have access to PG, please notify the school via this **[form](https://go.gov.sg/welcome-to-kc-2023)**. The letter will be emailed to you. Please submit your acceptance form found in your letter of offer either by hand or email to the General Office before the stated deadline.
 
 #### iii. Mother Tongue Languages (MTL) - Higher MTL, TL, Third Language (including Asian Languages Programme)
 
