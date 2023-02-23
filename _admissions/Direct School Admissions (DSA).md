@@ -23,18 +23,18 @@ You are eligible to apply if you have special talent or ability in:
 #### Selection Criteria & Process
 
 | **DSA Main Category** | **Sub Category** | **DSA Talent Area** | **Selection Criteria & Process** |
-|:---:|---|---|---|
+|---|---|---|---|
 | Visual Arts, Design and Media | Visual Arts | Visual Arts.<br>Including but not limited to drawing, illustration, painting, sculpture, ceramics, photography, videography, the applied arts such as design and media. | [Selection Criteria & Process for Visual Arts](/files/Direct%20School%20Admission%202022%20_%20criteria%20%20process%20VA.pdf) |
 | Language and Humanities | Debate and Public Speaking | Debate and Public Speaking | [Selection Criteria & Process for Language and Humanities](/files/Direct%20School%20Admission%202022%20_%20criteria%20%20process%20Lang.pdf) |
 | Sports and Games | Track & Field  <br><br>Badminton  <br><br>Bowling  <br><br>Floorball | Track & Field  <br><br>Badminton  <br><br>Bowling  <br><br>Floorball | [Selection Criteria & Process for Sports and Games](/files/Direct%20School%20Admission%202022%20_%20criteria%20%20process%20Sports.pdf) |
-| Performing Arts | Dance  <br><br><br><br><br>Music | Modern Dance  <br><br>English Drama  <br><br>Chinese Drama  <br><br>Choir  <br><br>Chinese Orchestra   <br><br>Concert Band | [Selection Criteria & Process for Performing Arts](/files/Direct%20School%20Admission%202022%20_%20criteria%20%20process%20PA.pdf) |
+| Performing Arts | Dance  <br><br><br><br><br><br>Music | Modern Dance  <br><br>English Drama  <br><br>Chinese Drama  <br><br>Choir  <br><br>Chinese Orchestra   <br><br>Concert Band | [Selection Criteria & Process for Performing Arts](/files/Direct%20School%20Admission%202022%20_%20criteria%20%20process%20PA.pdf) |
 |  |  |  |  |
 
 Note: Meeting all the criteria does not guarantee the student will be shortlisted/given an offer.
 
 #### Application Procedure
 
-Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free-of-charge and will be open from 5 May 2021, 11am to 1 June 2021, 3pm. For more details, please refer to MOE website – [www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).  
+Application for DSA-Sec can be submitted through the online DSA-Sec Portal. The application is free of charge and will be open at the end of semester one. For more details, please refer to MOE website – [www.moe.gov.sg/dsa-sec](http://www.moe.gov.sg/dsa-sec).  
 
 Parents and students are encouraged to choose schools wisely based on the student’s aptitudes and strengths, bearing in mind the schools’ academic and non-academic requirements, and the programmes available to develop the area of talent.
 
