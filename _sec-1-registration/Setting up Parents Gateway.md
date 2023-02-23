@@ -11,7 +11,7 @@ School will disseminate information (e.g. class allocation, consent forms, Princ
 
 To download the Parents Gateway app, please click on this **[link](https://pg.moe.edu.sg/)**. Parents Gateway uses Singpass for MOE to identify parents, legal guardians and authorised caregivers of students in our schools.
 
-Parents who are unable to set-up Parents Gateway, please fill in this **[form](https://go.gov.sg/welcome-to-kc-2023)**. **_(link will be enabled by 21 Dec)_** **FORM NOT AVAILBLE**
+Parents who are unable to set-up Parents Gateway, please fill in this **[form](https://go.gov.sg/welcome-to-kc-2023)**.
 
 _For further enquires and support regarding Parents Gateway or the Virtual Meet with Form Teachers on_ <br>
-_23 December 2022_  **_(link will be enabled by 21 Dec)_**_, please call the General Office at 64486433._
+_23 December 2022_, please call the General Office at 64486433._
