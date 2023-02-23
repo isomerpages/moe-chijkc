@@ -25,7 +25,7 @@ Additional forms for Secondary 1 Registration Day can be found below:
 
 [After School Engagement](https://go.gov.sg/kc-ase-2023)<br>
 [Financial Assistance](/the-kc-village/parents/)<br>
-[Parents without access to Parents Gateway](https://go.gov.sg/welcome-to-kc-2023) **FORM NOT AVAILABLE**
+[Parents without access to Parents Gateway](https://go.gov.sg/welcome-to-kc-2023)
 
 #### Administrative Matter
 
