@@ -75,9 +75,9 @@ Students are responsible for their personal devices. The school will not be held
 3 \. **REPLACEMENT / CHANGE OF PLD**  <br>
 *   Students are to inform their school-based ICT Service Desk whenever there is a replacement/change of PLD.
 *   Replacement/change of PLDs can be under any of the circumstances listed below:
--Replacement of PLD covered under insurance by contractor <br>
--Replacement of PLD by parents for PLD not covered under insurance or insurance period has ended<br>
--Students who are using their own PLDs which were not procured from NDLP PLD Bulk Tender changing to another PLD. The new PLD must be assessed by the school-based ICT Service Desk for suitability and approval before DMA can be installed.
+	- Replacement of PLD covered under insurance by contractor
+	- Replacement of PLD by parents for PLD not covered under insurance or insurance period has ended<br>
+	- Students who are using their own PLDs which were not procured from NDLP PLD Bulk Tender changing to another PLD. The new PLD must be assessed by the school-based ICT Service Desk for suitability and approval before DMA can be installed.
 
 *   This is to facilitate the installation of the DMA into the new PLD.
 *   School’s DMA administrator will enroll the new PLD to their school’s DMA.
