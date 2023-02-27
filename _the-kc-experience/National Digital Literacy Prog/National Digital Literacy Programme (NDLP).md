@@ -60,7 +60,7 @@ The online form will consist of:
 *   Edusave Withdrawal (for SC only)
 *   Authorisation to collect PLD
 
-If you are unable to submit this form online, please contact the school General Office for a hardcopy version or click this [link]([](/files/CHIJ%20KC_Letter%20to%20Parents%20for%20PLD%20Procurement%2026%20Jan%2023%20final.pdf)) to download the files, and submit it to the General Office.
+If you are unable to submit this form online, please contact the school General Office for a hardcopy version  and submit it to the General Office.
 
 #### Financial Assistance
 
