@@ -12,7 +12,7 @@ third_nav_title: National Digital Literacy Prog
 
 |  |  |
 |:---|:---|
-| Chosen device bundle | **Acer R753TN** **Chromebook Spin** includes:<br>- Power Adaptor - Mouse  <br>- Stylus  <br>- Carrier Bag<br> - Combination Cable Lock |
+| Chosen device bundle | **Acer R753TN** **Chromebook Spin** includes:<br>- Power Adaptor - Mouse  <br>- Stylus  <br>- Carrier Bag<br>- Combination Cable Lock |
 | Processor | Intel N5100 Processor |
 | RAM | 8GB RAM |
 | HDD | 64GB eMMC |
