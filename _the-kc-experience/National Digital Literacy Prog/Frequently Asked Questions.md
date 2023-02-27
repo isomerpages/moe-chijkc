@@ -18,11 +18,9 @@ third_nav_title: National Digital Literacy Prog
 | HDD | 64GB eMMC |
 | Screen size | 11.6" Touch screen |
 | Weight | 1.3 kg |
-| Warranty\* and Insurance | 3 Year Carry-In Warranty  <br>3 Year Insurance |
+| Warranty\* and Insurance (does not cover accessories) | 3 Year Carry-In Warranty  <br>3 Year Insurance |
 | Cost of bundle (including GST) | $564.80 |
 |  |  |
-
-*_Warranty does not cover accessories_*
 
 2 \. **What considerations does the school have in selecting the Chromebook as the choice of device? Is there an option to a different device with a top-up?**<br>
 The Chromebook is the prescribed device bundle for the school.
