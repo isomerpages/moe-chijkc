@@ -4,8 +4,8 @@ permalink: /about-us/sch-song/
 description: ""
 ---
 ## School Song
-
-**REQUIRE JACKSON'S TO INPUT VIDEO**
+<p align="center">
+<iframe width="580.5" height="326.5" src="https://www.youtube.com/embed/h_2QvTn1-A0" title="CHIJ Katong School Song" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 <p align="center">
 Forward Katong Convent<br>
