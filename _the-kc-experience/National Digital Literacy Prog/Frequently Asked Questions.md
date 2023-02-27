@@ -12,17 +12,17 @@ third_nav_title: National Digital Literacy Prog
 
 |  |  |
 |:---|:---|
-| Chosen device bundle | **Acer R752TN** **Chromebook Spin** includes:<br>- Power Adaptor - Mouse  <br>- Stylus  <br>- Carrier Bag<br> - Combination Cable Lock |
+| Chosen device bundle | **Acer R753TN** **Chromebook Spin** includes:<br>- Power Adaptor - Mouse  <br>- Stylus  <br>- Carrier Bag<br> - Combination Cable Lock |
 | Processor | Intel N5100 Processor |
 | RAM | 8GB RAM |
 | HDD | 64GB eMMC |
 | Screen size | 11.6" Touch screen |
-| Weight | 1.25 kg |
+| Weight | 1.3 kg |
 | Warranty\* and Insurance | 3 Year Carry-In Warranty  <br>3 Year Insurance |
 | Cost of bundle (including GST) | $564.80 |
 |  |  |
 
-**_Warranty does not cover accessories_**
+*_Warranty does not cover accessories_*
 
 2 \. **What considerations does the school have in selecting the Chromebook as the choice of device? Is there an option to a different device with a top-up?**<br>
 The Chromebook is the prescribed device bundle for the school.
@@ -123,7 +123,7 @@ The Chromebook will not replace textbooks, as textbooks are currently designed a
 20 \. **Are students expected to bring their PLDs to school daily? What is the expected weight of the device?**<br>
 The students should bring a fully charged PLD to school daily.  This is part of school-wide learning routines. Lockers are available for rental if students wish to store their books in school. As we are creating a Blended Learning environment for learning to take place anywhere, anytime, online, offline, the students would need to bring their device to school daily to benefit from this enhanced learning environment.
 
-MOE has considered factors such as size and weight of devices when preparing the tender specifications for the Bulk Tender. The size of our school’s chosen device is 11.6" and its weight is 1.25 kg.
+MOE has considered factors such as size and weight of devices when preparing the tender specifications for the Bulk Tender. The size of our school’s chosen device is 11.6" and its weight is 1.3 kg.
 
 21 \. **Will there be a pool of devices to be loaned to students should there be a situation where their devices malfunction?**<br>
 The school will provide devices for short-term loan due to loss or repairs, subject to the availability of devices available for loan.
