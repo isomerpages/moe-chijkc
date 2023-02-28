@@ -25,4 +25,7 @@ sections:
       url: https://chijkceap.com/
       image: /images/photo1668248602.jpeg
       alt: Image alt text
+  - resources:
+      title: Resources Section Title
+      button: Resources Button Name
 ---
