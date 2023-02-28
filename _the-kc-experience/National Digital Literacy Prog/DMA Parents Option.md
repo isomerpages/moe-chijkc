@@ -12,6 +12,8 @@ third_nav_title: National Digital Literacy Prog
 [DMA Parent Guide v2.0 - Option A Chrome OS.pdf](/files/DMA%20OptionA.pdf)<br>
 [DMA Parent Guide v2.0 - Option B Chrome OS.pdf](/files/DMA%20OptionB.pdf)
 
+<img src="/images/KC%20Experience/NDLP/Slide4.png" style="width:100%">
+
 **Option A**<br>
 For Parents who have chosen **Option A**, when logging into the Mobile Guardian page, please **do not** use the Sign in with Google button, otherwise you will encounter an error.  
   
