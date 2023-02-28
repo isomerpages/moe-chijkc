@@ -24,10 +24,9 @@ During **school hours**, the Chromebook only allows an iCON account to sign int
 
 To avoid activity logging, content filtering protection, and to enable the installation of Chrome  applications/extensions, the child/ward should **sign out of the iCON account after school hours / during holiday period**. 
 
-After school hours / during holiday period, the login screen has an additional option to sign in as a guest user.
+After school hours / during holiday period, the login screen has an additional option to sign.
+Student is to click on "**Add person**" to add their person Google Account and sign in. This will allow usage without the DMA restrictions.
 
-<img src="/images/tnchromebook-browse-as-a-guest.jpg" style="width:85%">
+<img src="/images/KC%20Experience/NDLP/Add%20Person.png" style="width:85%">
 
 **Note: This login option is only available for Option B Chromebooks.**
-
-Upon clicking on the “Browse as Guest” option, you are now able to enter any personal Google  email address to sign in.
