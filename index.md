@@ -11,6 +11,9 @@ sections:
       background: /images/09cca0b8b_972.jpg
       button: open house 2023
       url: /the-kc-experience/open-hse/
+  - resources:
+      title: Resources Section Title
+      button: Resources Button Name
   - infopic:
       title: ANNOUNCEMENTS
       description: For graduating students!!! 2022 Please backup Student iCON data to
@@ -25,7 +28,4 @@ sections:
       url: https://chijkceap.com/
       image: /images/photo1668248602.jpeg
       alt: Image alt text
-  - resources:
-      title: Resources Section Title
-      button: Resources Button Name
 ---
