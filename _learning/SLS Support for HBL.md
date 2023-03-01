@@ -3,13 +3,13 @@ title: SLS Support for HBL
 permalink: /learning/sls/
 description: ""
 ---
-## SLS Support for HBL
+## Support for HBL
 
 [Parent Kit - Supporting your child during Full HBL](/files/Parent%20Kit%20-%20Supporting%20your%20child%20during%20Full%20HBL.pdf)
 
 **School Operating Hours**
 
-During school operating hours, students should contact the **School-based Helpline** for SLS queries including all SLS access matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.
+During school operating hours, students should contact the **<u>School-based Helpline</u>** for SLS / Google Classroom queries including all SLS / iCON account / Google Classroom access* matters such as password reset and unlocking of accounts, as well as queries about lesson assignments.
 
 *   School-based Helpline: [**http://go.gov.sg/kcslshelpline**](http://go.gov.sg/kcslshelpline)
 *   Mondays - Fridays: 8:00 am - 4:00 pm
