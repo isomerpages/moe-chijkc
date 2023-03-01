@@ -8,9 +8,9 @@ third_nav_title: National Digital Literacy Prog
 
 #### DMA Parents Option Guide for Chromebook
 
-[DMA Parent Guide v2.0 - Default Chrome OS.pdf](/files/DMA-Default.pdf)<br>
-[DMA Parent Guide v2.0 - Option A Chrome OS.pdf](/files/DMA%20OptionA.pdf)<br>
-[DMA Parent Guide v2.0 - Option B Chrome OS.pdf](/files/DMA%20OptionB.pdf)
+[DMA Parent Guide v2.0 - **Default** Chrome OS.pdf](/files/DMA-Default.pdf)<br>
+[DMA Parent Guide v2.0 - **Option A** Chrome OS.pdf](/files/DMA%20OptionA.pdf)<br>
+[DMA Parent Guide v2.0 - **Option B** Chrome OS.pdf](/files/DMA%20OptionB.pdf)
 
 <img src="/images/KC%20Experience/NDLP/Slide4.png" style="width:100%">
 
