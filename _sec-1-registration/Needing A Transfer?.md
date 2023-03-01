@@ -15,7 +15,7 @@ For students who have been accepted by other schools, please email a copy of the
 
 Parents may refer to the flowchart below for the appeal process:
 
-<img src="/images/Appeal for Transfer.png" style="width:100%">
+<img src="/images/Admissions/Appeal%20for%20Transfer.jpg" style="width:100%">
 
 #### Seeking a Transfer In
 
