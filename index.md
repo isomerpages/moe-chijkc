@@ -9,7 +9,7 @@ sections:
   - hero:
       title: The Convent by the Sea
       background: /images/09cca0b8b_972.jpg
-      button: open house 2023
+      button: Announcements
       url: /the-kc-experience/open-hse/
   - resources:
       title: Resources Section Title
