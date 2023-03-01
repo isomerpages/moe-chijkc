@@ -13,6 +13,7 @@ sections:
       url: /media/announcements/
   - resources:
       title: Latest Updates
+      button: More
   - infopic:
       title: ANNOUNCEMENTS
       description: For graduating students!!! 2022 Please backup Student iCON data to
