@@ -14,6 +14,4 @@ sections:
   - resources:
       title: Latest Updates
       button: More
-  - infobar:
-      title: Testing
 ---
