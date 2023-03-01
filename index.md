@@ -12,8 +12,8 @@ sections:
       button: Announcements
       url: /media/announcements/
       key_highlights:
-        - title: Key Highlight Title
-          description: Key Highlight description
+        - title: Title
+          description: Description
           url: ""
   - resources:
       title: Latest Updates
