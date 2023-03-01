@@ -3,7 +3,7 @@ url: https://chijkatongconvent.moe.edu.sg
 favicon: /images/CHIJOLGC Crest (Mini).png
 colors:
   primary-color: "#a3cbea"
-  secondary-color: "#2e0099"
+  secondary-color: "#000000"
   media-colors:
     - title: media-color-one
       color: "#49759a"
