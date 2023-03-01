@@ -11,6 +11,10 @@ sections:
       background: /images/09cca0b8b_972.jpg
       button: Announcements
       url: /media/announcements/
+      key_highlights:
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
   - resources:
       title: Latest Updates
       button: More
