@@ -11,7 +11,8 @@ sections:
       background: /images/09cca0b8b_972.jpg
       button: Announcements
       url: /media/announcements/
-  - resources: {}
+  - resources:
+      subtitle: Latest Upates
   - infopic:
       title: ANNOUNCEMENTS
       description: For graduating students!!! 2022 Please backup Student iCON data to
