@@ -13,7 +13,7 @@ third_nav_title: Our Staff
 | **Vice-Principal (Education Officer)** <br>Ms Annie Lim  | [lim\_ai\_hui@schools.gov.sg](mailto:lim_ai_hui@schools.gov.sg)  |
 |   |   |
 
-|<div style="width:320px">Heads of Department </div>| Email  |
+|<div style="width:320px">Heads of Department</div>| Email  |
 |-|---|
 | **Aesthetics (covering)** <br>Ms Yin Mei Lenden  | [yin\_mei\_lenden@moe.edu.sg](mailto:yin_mei_lenden@moe.edu.sg)  |
 | **Art**  <br>Mr Nathanael Tan  | [tan_tak_thye_nathanael@moe.edu.sg](mailto:tan\_tak\_thye\_nathanael@moe.edu.sg)  |
@@ -30,7 +30,7 @@ third_nav_title: Our Staff
 | **Year Head**  <br>Mdm Nurahifah Amran  | [nurahifah\_amran@moe.edu.sg](mailto:nurahifah_amran@moe.edu.sg)  |
 |   |   |
 
-|<div style="width:320px"></div> Subject Heads  | Email  |
+|<div style="width:320px">Subject Heads</div> | Email  |
 |-|---|
 | **Aesthetics (Covering)**<br>Ms Sarah Phua  | [sarah\_phua\_yiran@moe.edu.sg](mailto:sarah_phua_yiran@moe.edu.sg)  |
 | **Art**<br>Ms Heather Teo  | [heather\_teo@moe.edu.sg](mailto:heather_teo@moe.edu.sg)  |
@@ -41,7 +41,7 @@ third_nav_title: Our Staff
 | **Physical Education/ CCA (Covering)**<br>Mr Ho Shi An  | [ho\_shi\_an@moe.edu.sg](mailto:ho_shi_an@moe.edu.sg)  |
 |   |   |
 
-|<div style="width:320px"></div> Senior Teachers  | Email  |
+|<div style="width:320px">Senior Teachers</div> | Email  |
 |-|---|
 | **Character and Citizenship Education**<br>Mrs Helen Lie  | [lie\_ai\_lian@moe.edu.sg](mailto:lie_ai_lian@moe.edu.sg)  |
 | **Educational Support**<br>Mdm Zakiah Subahan  | [zakiah\_subahan@moe.edu.sg](mailto:zakiah_subahan@moe.edu.sg)  |
