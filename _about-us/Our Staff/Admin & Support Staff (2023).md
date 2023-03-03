@@ -25,7 +25,8 @@ third_nav_title: Our Staff
 |-|---|
 | **AED (Teaching & Learning)**<br>Ms Esther Tan (Mathematics)  | <br>[esther\_tan\_kok\_kheng@moe.edu.sg](mailto:esther\_tan\_kok\_kheng@moe.edu.sg)  |
 | **Special Educational Needs Officer**<br>Ms Gursheran Kaur  | <br>[gursheran\_kaur@moe.edu.sg](mailto:gursheran\_kaur@moe.edu.sg)  |
-| **Librarian**<br>Mdm Cassandra Lee  | <br>[lee\_wah\_hing@moe.edu.sg](mailto:lee\_wah\_hing@moe.edu.sg)  |
+| **Librarian**<br>Mdm Cassandra Lee  | <br>[lee\_wah\_hing@moe.edu.sg](mailto:lee\_wah\_hing@moe.edu.sg) |
+| **Counsellor**<br>Aqilah Sha'aban <br> Tan Han Ying Abigail | <br>[aqilah_shaaban@moe.edu.sg](mailto:aqilah_shaaban@moe.edu.sg) <br> [tan_han_ying_abigail@moe.edu.sg](mailto:tan_han_ying_abigail@moe.edu.sg)
 |   |   |
 
 | Information Technology Support  | Email  |
