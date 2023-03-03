@@ -6,7 +6,7 @@ third_nav_title: Our Staff
 ---
 ## Key Personnel (2023)
 
-|<div style="width:320px"></div>Leadership  | Email  |
+|<div style="width:320px">Leadership</div>  | Email  |
 |---|---|
 | **Principal**  <br>Mrs Tan Mei Chuen  | [chen_mei_chuen@schools.gov.sg](mailto:chen_mei_chuen@schools.gov.sg)  |
 | **Vice-Principal (Education Officer)** <br>Mrs Goh Kok Chan  | [goh\_bee\_hoon@schools.gov.sg](mailto:goh_bee_hoon@schools.gov.sg)  |
