@@ -14,7 +14,7 @@ third_nav_title: Our Staff
 |   |   |
 
 |<div style="width:320px">Heads of Department</div>| Email  |
-|-|---|
+|---|---|
 | **Aesthetics (covering)** <br>Ms Yin Mei Lenden  | [yin\_mei\_lenden@moe.edu.sg](mailto:yin_mei_lenden@moe.edu.sg)  |
 | **Art**  <br>Mr Nathanael Tan  | [tan_tak_thye_nathanael@moe.edu.sg](mailto:tan\_tak\_thye\_nathanael@moe.edu.sg)  |
 | **Character and Citizenship Education**  <br>Ms Ang Yen Ling  | [ang\_yen\_ling@moe.edu.sg](mailto:ang_yen_ling@moe.edu.sg)  |
@@ -31,7 +31,7 @@ third_nav_title: Our Staff
 |   |   |
 
 |<div style="width:320px">Subject Heads</div> | Email  |
-|-|---|
+|---|---|
 | **Aesthetics (Covering)**<br>Ms Sarah Phua  | [sarah\_phua\_yiran@moe.edu.sg](mailto:sarah_phua_yiran@moe.edu.sg)  |
 | **Art**<br>Ms Heather Teo  | [heather\_teo@moe.edu.sg](mailto:heather_teo@moe.edu.sg)  |
 | **Assistant Year Head**<br>Ms Lee Shu Min  | [lee\_shu\_min@moe.edu.sg](mailto:lee_shu_min@moe.edu.sg)  |
@@ -42,7 +42,7 @@ third_nav_title: Our Staff
 |   |   |
 
 |<div style="width:320px">Senior Teachers</div> | Email  |
-|-|---|
+|---|---|
 | **Character and Citizenship Education**<br>Mrs Helen Lie  | [lie\_ai\_lian@moe.edu.sg](mailto:lie_ai_lian@moe.edu.sg)  |
 | **Educational Support**<br>Mdm Zakiah Subahan  | [zakiah\_subahan@moe.edu.sg](mailto:zakiah_subahan@moe.edu.sg)  |
 | **Literature**<br>Mrs Sukhjeet Singh  | [sukhjeet\_kaur@moe.edu.sg](mailto:sukhjeet_kaur@moe.edu.sg)  |
