@@ -13,7 +13,7 @@ third_nav_title: Our Staff
 | **Vice-Principal (Education Officer)** <br>Ms Annie Lim  | [lim\_ai\_hui@schools.gov.sg](mailto:lim_ai_hui@schools.gov.sg)  |
 |   |   |
 
-|<div style="width:320px"></div>Heads of Department  | Email  |
+|<div style="width:320px">Heads of Department </div>| Email  |
 |-|---|
 | **Aesthetics (covering)** <br>Ms Yin Mei Lenden  | [yin\_mei\_lenden@moe.edu.sg](mailto:yin_mei_lenden@moe.edu.sg)  |
 | **Art**  <br>Mr Nathanael Tan  | [tan_tak_thye_nathanael@moe.edu.sg](mailto:tan\_tak\_thye\_nathanael@moe.edu.sg)  |
