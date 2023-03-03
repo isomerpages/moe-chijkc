@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: The Convent by the Sea
-      background: /images/09cca0b8b_972.jpg
+      background: /images/banner.gif
       button: Announcements
       url: /media/announcements/
       key_highlights:
