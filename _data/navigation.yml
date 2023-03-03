@@ -82,10 +82,12 @@ links:
         url: /the-kc-village/management/
       - title: Parents
         url: /the-kc-village/parents/
-      - title: Announcements
-        url: /media/announcements/
       - title: Alumnae
         url: /the-kc-village/Alumnae/stay-connected/
+      - title: Announcements
+        url: /media/announcements/
+      - title: Connect With Us
+        url: /the-kc-village/cwu/
       - title: School Suppliers
         url: /the-kc-village/ss/
       - title: Useful Links
