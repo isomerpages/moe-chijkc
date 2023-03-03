@@ -4,7 +4,6 @@ permalink: /the-kc-experience/spirituality/
 description: ""
 third_nav_title: Spirituality
 ---
-
 ## Spirituality
 
 CHIJ Katong Convent’s spirituality programme offers a suite of contemplative practices as a means to ground and centre each individual regardless of his or her faith. To develop communion, connection, and awareness with ourselves, each other, and God, the school makes room for contemplative practice: moments where all may focus on either stillness or generative practice as a means to grow in peace with the rest of the KC family so that we may be aware of where we are and what we’re doing, and not be overwhelmed by the volatile, uncertain, complex, and ambiguous world.
@@ -28,15 +27,11 @@ CHIJ (Katong Convent) strives not just for excellence in the academics, sports a
 
 The spirituality programme forms the umbrella for 5 key areas in the school’s spiritual activities:
 
-1)&nbsp;&nbsp; &nbsp;Religious Education (RE) pull-out sessions for Catholic girls / Reflection sessions for non-Catholic girls
-
-2)&nbsp;&nbsp; &nbsp;Eucharistic Celebrations (Masses)
-
-3)&nbsp;&nbsp; &nbsp;Prayer Services
-
-4)&nbsp;&nbsp; &nbsp;Retreats
-
-5)&nbsp;&nbsp; &nbsp;Sec 1 weekly Connect programme (for Sec 1 Catholic students only)
+(1) Religious Education (RE) pull-out sessions for Catholic girls / Reflection sessions for non-Catholic girls<br>
+(2) Eucharistic Celebrations (Masses)<br>
+(3) Prayer Services<br>
+(4) Retreats<br>
+(5) Sec 1 weekly Connect programme (for Sec 1 Catholic students only)
 
 The spirituality programme falls under the main responsibility of the School Chaplaincy Team (SCT). The Catholic teachers play an important role in ensuring that Catholic students receive a holistic spiritual education in the school through its programmes, activities and formal lessons, in alignment with the Catholic churches’ vision for its Catholic mission schools.
 
