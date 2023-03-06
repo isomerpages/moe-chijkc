@@ -57,25 +57,15 @@ Our KC girls were not only competing on court and on the track; we also had 19 S
 
 They participated in these events:
 
-<p align=center><b>B Division</b></p>
+|  |  |  |
+|---:|:---:|:---|
+| **B Division** | **B Division** | **C Division** |
+| K1 – 500m | K1 - 1000m | K1 - 500m |
+| K2 – 500m | K4 - 1000m | K4 - 500m |
+| K4 – 500m | | JK1 - 500m |
+| JK1 – 500m | | JK2 - 500m |
+|  |  |  |
 
-|  |  |
-|:---:|:---:|
-| K1 – 500m | K1 - 1000m |
-| K2 – 500m | K4 - 1000m |
-| K4 – 500m |  |
-| JK1 – 500m |  |
-|  |  |
-
-<p align=center><b>C Division</b></p>
-
-|  |
-|:---:|
-| K1 – 500m |
-| K4 – 500m |
-| JK1 – 500m |
-| JK2 – 500m |
-|  |
 
 We would like to commend Tan Wen Yan from Sec 301 for clinching a place in the finals for the K1-1000m race and coming in 6th place.  
 
