@@ -28,6 +28,7 @@ description: ""
 | [Term 1](/files/KC%20Viilage/Parents/Letters%20To%20Parents/01%20KC%20Term%201%20Letter%20to%20Parents%202023%20issued%206%20Jan.pdf) | Term 2 |
 | Term 3 | Term 4 |
 | | |
+
 <center>KC EOY Letter to Parents</center>
 
 #### Semester Class Timetables
