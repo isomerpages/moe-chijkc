@@ -26,7 +26,7 @@ description: ""
 | Debate | Library & Computer Lab | Wed & Fri |
 | IJYM | NE Heritage Centre & Humanities Room | Wed |
 | Entrepreneur | Computer Lab | Fri |
-| Media Comm Club | Computer Lab 4 (A04-04) | Wed |
+| Media Comm Club | Computer Lab | Wed |
 | Cabin Club | School | Various Days |
-| Sports Development Club | School (TBC) | Wed, Fri |
+| Sports Development Club | School | Wed, Fri |
 |  |  |  |
