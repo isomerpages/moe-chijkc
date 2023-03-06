@@ -2,6 +2,7 @@ collections:
   communicate-perform-n-arts:
     output: true
     order:
+      - The Communicative, Performative & Visual Arts.md
       - Book and Music Week/.keep
       - Book and Music Week/Book and Music Week.md
       - "Book and Music Week/BMW 2022: At First Light.md"
