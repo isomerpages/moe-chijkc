@@ -2,6 +2,7 @@ collections:
   aesthetics:
     output: true
     order:
+      - Book and Music Week.md
       - Arts & Culture Programme.md
       - The Communicative, Performative & Visual Arts.md
       - Book and Music Week/.keep
