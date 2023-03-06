@@ -20,7 +20,7 @@ Offers various sport modules which are planned and facilitated by our teachers a
 Twice a week Wed and Friday, 3.00 to 5.30 pm. Venue: Field<br>
 **_ACHIEVEMENTS 2019-2022_**
 
-| **Year**<div style="width:100px"></div> | **Event**<div style="width:150px"></div> | **Results**<div style="width:200px"></div> |
+| <div style="width:100px"><b>Year</b></div> | <div style="width:150px"><b>Event</b></div> | <div style="width:200px"><b>Results</b></div> |
 |---|---|---|
 | 2019 | Inter School Pentangular (ISP) Sports Carnival 2019 (organized at St Hilda’s Secondary School) | Badminton (2nd)  <br>Floorball (3rd)  <br>Netball (2nd) |
 | 2021 | ISP 2021 | **Badminton**<br>B Division (1st &amp; 4th)<br>C Division (3rd)<br><br>**Basketball**<br>B Division (3rd)<br><br>**Frisbee**<br>C Division (1st &amp; 3rd)<br><br>**Volleyball**<br>B Division (1st) |
