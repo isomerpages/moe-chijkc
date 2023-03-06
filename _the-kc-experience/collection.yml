@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - The KC Experience.md
-      - Aesthetics/.keep
       - 90 years of History and Heritage.md
+      - Aesthetics/.keep
       - Spirituality/.keep
       - Spirituality/Spirituality.md
       - Spirituality/Catholic Education.md
