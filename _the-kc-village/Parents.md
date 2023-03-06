@@ -17,7 +17,7 @@ description: ""
 
 |  |  |
 |:---:|:---:|
-| [PG One-Time Onboarding](/files/PG%20One-Time%20Onboarding.pdf) | [Travel Declaration]([](/files/Travel%20Declaration%202023.pdf) |
+| [PG One-Time Onboarding](/files/PG%20One-Time%20Onboarding.pdf) | [Travel Declaration](/files/Travel%20Declaration%202023.pdf) |
 | [Meetings Feature - User Guide (April 2022)](/files/Meetings%20Feature%20-%20User%20Guide%20April%202022.pdf) | [Update Contact Details](/files/Update%20Contact%20Details.pdf) |
 |  |  |
 
@@ -25,7 +25,7 @@ description: ""
 
 | | |
 |:---:|:---:|
-| [Term 1]((/files/KC%20Viilage/Parents/Letters%20To%20Parents/01%20KC%20Term%201%20Letter%20to%20Parents%202023%20issued%206%20Jan.pdf)) |  Term 2 |
+| [Term 1](/files/KC%20Viilage/Parents/Letters%20To%20Parents/01%20KC%20Term%201%20Letter%20to%20Parents%202023%20issued%206%20Jan.pdf) |  Term 2 |
 | Term 3 | Term 4 |
 | | |
 <center>KC EOY Letter to Parents</center>
