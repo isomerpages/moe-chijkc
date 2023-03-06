@@ -28,7 +28,7 @@ For Outdoor Education, they are taught how to identify potential hazards in an e
 
 #### Upper Sec Programme
 
-Our upper secondary school students are taught the games of softball (Secondary 3), volleyball (Secondary 4) and touch rugby (Secondary 5) in Term 2 and 3, culminating in an Inter-Class Games Carnival with classes of the same level, in Term 4 after the End-of-Year Examinations.
+Our upper secondary school students are taught the games of softball (Secondary 3), volleyball (Secondary 4) and badminton (Secondary 5) in Term 2 and 3, culminating in an Inter-Class Games Carnival with classes of the same level, in Term 4 after the End-of-Year Examinations.
 
 For Outdoor Education, they are taught navigational skills using a map and a compass. More components of basic first aid are also taught to the students, including reinforcement of how to carry out CPR and the usage of the AED.
 
