@@ -3,10 +3,9 @@ title: CCA Fair
 permalink: /student-development/CCA/cca-fair/
 description: ""
 ---
-
 ## CCA Fair
 
-CCA Fair &amp; Secondary One Meet-The-Parents-Session
+CCA Fair & Secondary One Meet-The-Parents-Session
 
 CCA Fair and Meet-the-Parents session for the parents of Secondary One students were conducted on Saturday, 4 January. The programme started with a rousing performance by KC’s very own Concert Band, followed by the Principal, Ms Chan’s address.
 
