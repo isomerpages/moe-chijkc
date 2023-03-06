@@ -57,7 +57,7 @@ Our KC girls were not only competing on court and on the track; we also had 19 S
 
 They participated in these events:
 
-<div align="center"><b>B Division </div></b>
+<p align=center><b>B Division</b></p>
 
 |  |  |
 |:---:|:---:|
@@ -67,7 +67,7 @@ They participated in these events:
 | JK1 – 500m |  |
 |  |  |
 
-<div align="center"><b>C Division </div></b>
+<p align=center><b>C Division</b></p>
 
 |  |
 |:---:|
