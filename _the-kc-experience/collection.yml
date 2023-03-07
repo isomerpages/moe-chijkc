@@ -2,7 +2,6 @@ collections:
   the-kc-experience:
     output: true
     order:
-      - Book and Music Week/.keep
       - Spirituality/.keep
       - Spirituality/Spirituality.md
       - Spirituality/Catholic Education.md
