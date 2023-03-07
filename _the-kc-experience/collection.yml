@@ -2,6 +2,7 @@ collections:
   the-kc-experience:
     output: true
     order:
+      - Aesthetics/.keep
       - The KC Experience.md
       - Spirituality/.keep
       - Spirituality/Spirituality.md
