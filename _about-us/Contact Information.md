@@ -31,6 +31,7 @@ Email: [chijktcs@moe.edu.sg](mailto:chijktcs@moe.edu.sg)
 | Bedok Station | Bus 196, 197, 16 (Bedok Interchange)  <br>Bus 31 (Bus stop near Exit A) |
 | Eunos Station | Bus 150 (Eunos Interchange) |
 | Paya Lebar Station | Bus 134 (Bus stop near Exit B) |
+| Marine Terrace | (Opening 2024)
 |  |  |
 
 #### Email Us
