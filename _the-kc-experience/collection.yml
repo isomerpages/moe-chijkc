@@ -2,11 +2,11 @@ collections:
   the-kc-experience:
     output: true
     order:
-      - Aesthetics/.keep
       - The KC Experience.md
       - Spirituality/.keep
       - Spirituality/Spirituality.md
       - Spirituality/Catholic Education.md
+      - Aesthetics/.keep
       - National Digital Literacy Prog/.keep
       - National Digital Literacy Prog/National Digital Literacy Programme
         (NDLP).md
