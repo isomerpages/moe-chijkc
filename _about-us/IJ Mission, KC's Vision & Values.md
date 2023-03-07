@@ -43,14 +43,14 @@ CHIJ Katong Convent is a caring school that excels Katong Convent is â€˜caringâ€
 
 ![image](/images/About%20Us/Values.png#center)
 
-**Perseverance**
+* **Perseverance**
 The drive to overcome difficulties and remain steadfast to reach desired goals
 
-**Integrity**
+* **Integrity**
 Having the moral compass to do what is right and being accountable for your thoughts, words and deeds
 
-**Excellence**
+* **Excellence**
 Striving to do your best in everything that you do
 
-**Respect**
+* **Respect**
 Treating self and others with honour and dignity
