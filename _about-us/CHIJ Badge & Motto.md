@@ -3,7 +3,7 @@ title: CHIJ Badge & Motto
 permalink: /about-us/badge-motto/
 description: ""
 ---
-## CHIJ Badge & Motto
+## Crest & Motto
 
 #### History of the Badge
 
