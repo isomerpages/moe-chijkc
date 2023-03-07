@@ -25,7 +25,7 @@ You are eligible to apply if you have special talent or ability in:
 | Visual Arts, Design and Media | Visual Arts | Visual Arts.<br>Including but not limited to drawing, illustration, painting, sculpture, ceramics, photography, videography, the applied arts such as design and media. |
 | Language and Humanities | Debate and Public Speaking | Debate and Public Speaking |
 | Sports and Games | Track & Field  <br>Badminton  <br>Bowling  <br>Floorball | Track & Field  <br>Badminton  <br>Bowling  <br>Floorball |
-| Performing Arts | Dance  <br><br><br><br><br><br>Music | Modern Dance  <br><br>English Drama  <br>Chinese Drama  <br>Choir  <br>Chinese Orchestra   <br>Concert Band |
+| Performing Arts | Dance  <br><br><br>Music | Modern Dance  <br>English Drama  <br>Chinese Drama  <br>Choir  <br>Chinese Orchestra   <br>Concert Band |
 |  |  |  |
 
 Note: Meeting all the criteria does not guarantee the student will be shortlisted/given an offer.
