@@ -3,8 +3,6 @@ title: 90 years of History and Heritage
 permalink: /the-kc-experience/history-heritage/
 description: ""
 ---
-
-# To Archieve
 ## 90 years of History and Heritage
 
 Katong Convent started out of a seaside bungalow with a few outhouses on the East Coast beach in Katong that was used by the Infant Jesus Sisters during weekends and holidays. The setting was idyllic, and memories of past students and Sisters of those times were often of the gentle sea breeze, coconut trees, the beach and a slower pace of life by the sea. Even after the school was set up, the Infant Jesus Sisters staying at the Town Convent continued to use the school premises on weekends or school holidays for rest or retreats by the sea and students were forbidden from visiting the school during those times.
