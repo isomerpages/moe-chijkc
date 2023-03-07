@@ -4,8 +4,7 @@ permalink: /about-us/mvv/
 description: ""
 ---
 ## Mission
-
-A Christ-centred school community where all work together for the promotion of truth, justice, freedom and love, with special reference to the needs of the persons who are disadvantaged in any way. (Image)
+![image](/images/About%20Us/Mission.png#center)
 
 #### With special reference to the needs of students who are disadvantaged in any way:
 
