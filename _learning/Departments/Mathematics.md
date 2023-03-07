@@ -27,6 +27,7 @@ third_nav_title: Departments
 *   Singapore Mathematics Olympiad
 *   Mathematics Trail
 *   Mathematical Modelling Activities
+*   Sec 1 Math Bites
 
 #### Mathematics Groupwork
 
