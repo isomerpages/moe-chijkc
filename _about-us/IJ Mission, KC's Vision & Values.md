@@ -5,7 +5,7 @@ description: ""
 ---
 ## Mission
 
-A Christ-centred school community where all work together for the promotion of truth, justice, freedom and love, with special reference to the needs of the persons who are disadvantaged in any way.
+A Christ-centred school community where all work together for the promotion of truth, justice, freedom and love, with special reference to the needs of the persons who are disadvantaged in any way. (Image)
 
 #### With special reference to the needs of students who are disadvantaged in any way:
 
@@ -37,9 +37,13 @@ It is the all-embracing virtue which binds and integrates everything – the ult
 
 ## Vision
 
+A Caring School that Excels. (Image)
+
 CHIJ Katong Convent is a caring school that excels Katong Convent is ‘caring’ because she takes care of the well-being of all within the school and sees to the needs of the community. Staff and pupils display compassion in their daily acts of kindness, consideration and respect. Katong Convent ‘excels’ in bringing out the best in the individual to bring out the best in others.
 
 ## Values
+
+PIER (Image)
 
 **Perseverance**
 The drive to overcome difficulties and remain steadfast to reach desired goals
