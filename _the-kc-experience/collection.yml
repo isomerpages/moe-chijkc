@@ -2,6 +2,7 @@ collections:
   the-kc-experience:
     output: true
     order:
+      - Book and Music Week/The KC Experience.md
       - Book and Music Week/.keep
       - Spirituality/.keep
       - Spirituality/Spirituality.md
