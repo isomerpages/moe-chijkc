@@ -7,7 +7,7 @@ links:
         url: /about-us/pm/
       - title: IJ Mission, KC's Vision&Values
         url: /about-us/mvv/
-      - title: CHIJ Badge & Motto
+      - title: Crest & Motto
         url: /about-us/badge-motto/
       - title: History & Milestones
         url: /about-us/history-milestones/
@@ -22,8 +22,6 @@ links:
   - title: The KC Experience
     url: /the-kc-experience/kcexperience/
     sublinks:
-      - title: 90 years of History & Heritage
-        url: /the-kc-experience/history-heritage/
       - title: Spirituality
         url: /the-kc-experience/spirituality/
       - title: Aesthetics
