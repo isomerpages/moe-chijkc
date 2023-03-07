@@ -3,9 +3,7 @@ title: Sec 1 Registration
 permalink: /admissions/Sec-1-Registration/welcomeletter/
 description: ""
 ---
-## Sec 1 Registration
-
-#### Welcome
+## Welcome
 
 Welcome to CHIJ Katong Convent. We are pleased that you have chosen us for your secondary school education.
 
