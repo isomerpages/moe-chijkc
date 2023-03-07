@@ -35,7 +35,7 @@ It is the ‘freeing of oneself’ from self-interest, from selfishness, from ca
 It is the all-embracing virtue which binds and integrates everything – the ultimate glue! It is the underlying inspiration that prompts students and the school community to rise above themselves and to reach out in compassion to the wider community. St Paul – “Love is patient. Love is kind. Love is not jealous, it does not put on airs. Love is never rude, it is not self-seeking, it is not prone to anger, neither does it brood over injuries. Love does not rejoice in what is wrong, but rejoices with the truth. There is no limit to Love’s forbearance, to its trust, its hope, its power to endure. Love never fails” {St Paul’s Letter to the Corinthians 13:4-8}
 
 ## Vision
-
+![](/images/About%20Us/Vision.png)
 A Caring School that Excels. (Image)
 
 CHIJ Katong Convent is a caring school that excels Katong Convent is ‘caring’ because she takes care of the well-being of all within the school and sees to the needs of the community. Staff and pupils display compassion in their daily acts of kindness, consideration and respect. Katong Convent ‘excels’ in bringing out the best in the individual to bring out the best in others.
