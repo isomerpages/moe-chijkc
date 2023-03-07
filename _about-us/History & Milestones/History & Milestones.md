@@ -26,7 +26,7 @@ As an IJ School, CHIJ Katong Convent is a Catholic school which commits itself t
 
 #### Principals
 
-|<div style="width:150px"></div>|  |  |
+|  |  |  |
 |:---:|:---:|---|
 | **Sr Theodora** | 1930 | * Opening of Katong Convent as a private school at Martia Road 1st cohort of 197 pupils, including 25 boys |
 | **Sr St Vincent de Paul** | 1932 | * Became Government-Aided Girls’ School |
@@ -53,6 +53,6 @@ As an IJ School, CHIJ Katong Convent is a Catholic school which commits itself t
 |  | 2008 | *   1st SAA Aesthetics<br>*   2nd CHERISH Silver Award<br>*   Schools’ Green Audit Lotus Award |
 |  | 2009 | *   KC meets criteria for SAA Sports in 2010<br>*   2nd Schools’ Green Audit Lotus Award<br>*   2nd Model School Tuckshop<br>*   Meritorious Total Defence Partner Award |
 | **Ms Patricia Chan** | 2016 | *   Best Practice in MOE's Revised Masterplan of Awards for Schools - Teaching & Learning, Character & Citizenship Development, Student All-Round Development, Staff Well-Being & Development and Partnerships<br>*   KC's Autonomous School status was re-affirmed<br>*   KC was presented the School Distinction Award, the apex of the Masterplan of Awards |
-|  **Mrs Hilda Thong** | 2021 |  |
+|  **Mrs Hilda Thong** | 2022 |  |
 |  **Mrs Tan Mei Chuen** | 2023 |  |
 | | |
