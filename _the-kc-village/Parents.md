@@ -3,8 +3,6 @@ title: Parents
 permalink: /the-kc-village/parents/
 description: ""
 ---
-## Parents
-
 #### Financial Assistance Scheme (FAS)
 
 |  |  |
