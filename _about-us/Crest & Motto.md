@@ -13,7 +13,6 @@ This badge is a symbol of the international unity binding together pupils from e
 
 <img src="/images/About%20Us/Crest.png" style="width:100%">
 
-
 ## Motto
 
 <img src="/images/About%20Us/CHIJ%20Motto.png" align="center">
