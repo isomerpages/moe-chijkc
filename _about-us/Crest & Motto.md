@@ -3,7 +3,6 @@ title: Crest & Motto
 permalink: /about-us/badge-motto/
 description: ""
 ---
-
 ## Crest & Motto
 
 #### History of the Badge
@@ -28,7 +27,7 @@ The shield – red in colour symbolizes the all-embracing message of love.
 
 #### The CHIJ Motto
 
-<img src="/images/photo1668159484.jpeg" style="width:85%">
+<img src="/images/About%20Us/CHIJ%20Motto.png" align="center">
 
 This motto is easy to remember but requires a lifetime of practice.
 
