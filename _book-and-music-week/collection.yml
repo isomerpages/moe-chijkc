@@ -2,7 +2,6 @@ collections:
   book-and-music-week:
     output: true
     order:
-      - Book and Music Week 2019.md
       - "BMW 2020: For the Love of Shakespeare.md"
       - "BMW 2021: A New Creation.md"
       - "BMW 2022: At First Light.md"
