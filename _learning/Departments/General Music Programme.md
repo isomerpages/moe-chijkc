@@ -4,9 +4,7 @@ permalink: /learning/Departments/gmp/
 description: ""
 third_nav_title: Departments
 ---
-## General Music Programme
-
-**(Lower Secondary)**
+**Lower Secondary**
 
 The GMP offered to lower secondary students provides opportunities for students to listen, sing, play and express themselves musically. The objectives of the GMP are:  
   
