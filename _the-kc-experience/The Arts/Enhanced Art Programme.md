@@ -4,11 +4,7 @@ permalink: /the-kc-experience/the-arts/eap/
 description: ""
 third_nav_title: The Arts
 ---
-
-
-
-
-## Enhanced Art Programme (EAP)
+## EAP
 
 The Enhanced Art Programme is an MOE-supported special Art programme conducted within Katong Convent for students offering Art at upper secondary levels. Beyond the regular general art programme for upper secondary, students are provided unique enrichment opportunities such as artist workshops and learning journeys. There may also be opportunities to participate in activities with other EAP schools in Singapore to enrich their passion and learning in visual art.
 
