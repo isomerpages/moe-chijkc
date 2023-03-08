@@ -2,6 +2,5 @@ collections:
   book-and-music-week:
     output: true
     order:
-      - "BMW 2021: A New Creation.md"
       - "BMW 2022: At First Light.md"
       - Book and Music Week.md
