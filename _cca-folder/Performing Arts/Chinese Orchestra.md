@@ -4,9 +4,7 @@ permalink: /performing-arts/co/
 description: ""
 third_nav_title: Performing Arts
 ---
-## Chinese Orchestra
-
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS-w7mreG8hsp8gjdCE07o2w64a_H5z6S7z_o4qe5uSfA2EsE7Uu2XBrQAEv41E7wSacKyP2Rr7-iX6/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="450" width="735" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS-w7mreG8hsp8gjdCE07o2w64a_H5z6S7z_o4qe5uSfA2EsE7Uu2XBrQAEv41E7wSacKyP2Rr7-iX6/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 #### Objectives
 
