@@ -4,9 +4,7 @@ permalink: /performing-arts/choir/
 description: ""
 third_nav_title: Performing Arts
 ---
-## Choir
-
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSDLK664e9GnH5vac_xt1v1wn3ELsjXV50g_gqVfHfFb14CTyUdzBcXuk6GJd6DDSD_kn95aQf0P_mM/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="450" width="735" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSDLK664e9GnH5vac_xt1v1wn3ELsjXV50g_gqVfHfFb14CTyUdzBcXuk6GJd6DDSD_kn95aQf0P_mM/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 #### Objectives
 
