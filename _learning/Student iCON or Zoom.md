@@ -3,8 +3,6 @@ title: Student iCON or Zoom
 permalink: /learning/iconnzoom/
 description: ""
 ---
-## Student iCON / Zoom
-
 **What is Student iCON?**
 
 * **Student iCON is an extension of iCON 2.0**
