@@ -4,8 +4,6 @@ permalink: /the-kc-experience/National-Digital-Literacy-Prog/DMA/
 description: ""
 third_nav_title: National Digital Literacy Prog
 ---
-## DMA Parents Option
-
 #### DMA Parents Option Guide for Chromebook
 
 [DMA Parent Guide v2.0 - **Default** Chrome OS.pdf](/files/DMA-Default.pdf)<br>
