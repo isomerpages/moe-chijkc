@@ -2,7 +2,6 @@ collections:
   the-kc-experience:
     output: true
     order:
-      - Book and Music Week/.keep
       - The KC Experience.md
       - Spirituality/.keep
       - Spirituality/Spirituality.md
@@ -12,6 +11,7 @@ collections:
       - The Arts/Arts & Culture Programme.md
       - The Arts/Drama Elective Programme.md
       - The Arts/Enhanced Art Programme.md
+      - Book and Music Week/.keep
       - National Digital Literacy Prog/.keep
       - National Digital Literacy Prog/National Digital Literacy Programme
         (NDLP).md
