@@ -4,18 +4,6 @@ permalink: /the-kc-experience/the-arts/arts-culture/
 description: ""
 third_nav_title: The Arts
 ---
-
-
-
-
-
-
-
-
-
-
-## Arts & Culture Programme
-
 <img src="/images/AC Logo 1.png" style="width:20%">
 
 #### Goals
