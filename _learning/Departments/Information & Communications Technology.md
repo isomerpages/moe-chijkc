@@ -4,8 +4,6 @@ permalink: /learning/Departments/ict/
 description: ""
 third_nav_title: Departments
 ---
-## Information & Communications Technology
-
 #### Goals
 
 1 \.  Harness Technology for Curriculum, Pedagogy and Assessment to develop Future-Ready Learners  
