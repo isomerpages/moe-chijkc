@@ -4,8 +4,6 @@ permalink: /about-us/Our-Staff/other-teachers/
 description: ""
 third_nav_title: Our Staff
 ---
-## Other Teachers (2023)
-
 | Other Teachers  | Email  |
 |-|---|
 | Mrs Agnes Tan  | [agnes\_tan@moe.edu.sg](mailto:agnes_tan@moe.edu.sg)  |
