@@ -4,32 +4,7 @@ permalink: /learning/Departments/el-literature/
 description: ""
 third_nav_title: Departments
 ---
-## English Language &amp; Literature
-
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQT8oIod91qsnOkxCB6_tAfuc2yZor6iEbslPmpHo2NRbDQ9c41odAR7Aj6UponJM97b59GlnbSCKex/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
-
-#### Goals
-
-The KC English Language Programme aims to nurture students to become:
-
-*   Discerning &amp; Critical Readers
-*   Inquirers &amp; Meaning Makers
-*   Empathetic &amp; Convincing Communicators
-
-#### Lower Sec Programme
-
-The lower secondary programme is designed to deepen student’s speaking, writing, reading and listening skills in the English language, through a critical exploration and appreciation of a wide variety of multi-modal, literary and informational texts. Students are also guided to understand and respond to purposes, audiences, contexts and cultures.
-
-#### Upper Sec Programme
-
-The upper secondary programme further deepens students’ affective and effective language use and sharpen critically their receptive and productive language skills, so that they are able to communicate with self-expression, sense of socio-responsibility and socio-cultural sensitivity.
-
-#### Signature Programmes
-
-*   Book and Music Week
-*   Library Speaking Programme
-*   Library Reading Programme
+<iframe allowfullscreen="true" height="450" width="730" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQT8oIod91qsnOkxCB6_tAfuc2yZor6iEbslPmpHo2NRbDQ9c41odAR7Aj6UponJM97b59GlnbSCKex/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 #### Overview of the English Language Programme
 
