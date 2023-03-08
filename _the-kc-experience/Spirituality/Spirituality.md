@@ -4,8 +4,6 @@ permalink: /the-kc-experience/spirituality/
 description: ""
 third_nav_title: Spirituality
 ---
-## Spirituality
-
 CHIJ Katong Convent’s spirituality programme offers a suite of contemplative practices as a means to ground and centre each individual regardless of his or her faith. To develop communion, connection, and awareness with ourselves, each other, and God, the school makes room for contemplative practice: moments where all may focus on either stillness or generative practice as a means to grow in peace with the rest of the KC family so that we may be aware of where we are and what we’re doing, and not be overwhelmed by the volatile, uncertain, complex, and ambiguous world.
 
 Morning reflection is a daily occurrence in KC, with students and teachers, regardless of faith, coming forward to share their experience and learning with the rest of the school. Teachers and school leaders share personal stories and struggles, students unearth insights and frustrations. Sharing reflections not only cultivates compassion but also teaches our students to be discerning citizens of the world, guided by what is morally and ethically right.
