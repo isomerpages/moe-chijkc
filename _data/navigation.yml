@@ -67,6 +67,8 @@ links:
     sublinks:
       - title: Schedule
         url: /CCA/cca-schedule
+      - title: Fair
+        url: /CCA/cca-fair
   - title: Admissions
     url: /admissions/dsa/
     sublinks:
