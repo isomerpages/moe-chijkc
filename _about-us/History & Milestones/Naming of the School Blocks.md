@@ -4,9 +4,7 @@ permalink: /about-us/History-and-Milestones/naming/
 description: ""
 third_nav_title: History & Milestones
 ---
-## Naming of the School Blocks
-
-(As part of the 165th Anniversary Of CHIJ in Singapore celebrations.)
+**(As part of the 165th Anniversary Of CHIJ in Singapore celebrations.)**
 
 #### Finbarr Block
 
@@ -43,4 +41,3 @@ Mother Mathilde was our **founding mother**, responsible for starting the IJ sc
 As the **founder** of the first free ‘little schools’ for girls and the group now known worldwide as the Infant Jesus Sisters, we honour Father Barré’s invaluable contribution to all our lives by re-naming the **hall block** where all convent girls, past and present gather to commemorate Founder’s Day and other major school events as Barré Block.
 
 <img src="/images/Barre01 (640x427).jpg" style="width:85%">
-
