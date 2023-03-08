@@ -4,10 +4,7 @@ permalink: /uniformed-groups/gg/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
-## Girl Guides
-
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQPBphqljdxEi0UpZwSI-cJ9Cu_H9vzqcNOoJ_ep8fppsXM3JGTGRXScNc47Vxq2noUhvkclpUxApXS/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="450" width="735" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQPBphqljdxEi0UpZwSI-cJ9Cu_H9vzqcNOoJ_ep8fppsXM3JGTGRXScNc47Vxq2noUhvkclpUxApXS/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 #### Objectives
 
@@ -40,6 +37,7 @@ third_nav_title: Uniformed Groups
 *   Baden Powell Award  
 *   East Division Day Toymaking Competition - Silver
 *   East Division Day Mixed Media Art - Bronze
+*   She Can! - International Camp (organised by Girl Guides Singapore)
 
 **2021**<br>
 *   Puan Noor Aishah Gold Award
