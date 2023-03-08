@@ -4,8 +4,6 @@ permalink: /learning/Departments/poa/
 description: ""
 third_nav_title: Departments
 ---
-## Principles of Accounts
-
 #### Goals
 
 *   To develop in students the knowledge and skills to prepare, communicate and use both accounting and non-accounting information related to the business for decision-making.
