@@ -4,10 +4,6 @@ permalink: /admissions/Sec-1-Registration/meetingft/
 description: ""
 third_nav_title: Sec 1 Registration
 ---
-
-
-## 1 \. Meeting your Form Teachers
-
 #### A Virtual Meet on 23 Dec 2022
 
 You are not required to physically report to your posted secondary school on the next working day following the release of the Secondary 1 Posting Results.
