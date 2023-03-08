@@ -4,8 +4,6 @@ permalink: /about-us/Our-Staff/form-teacher/
 description: ""
 third_nav_title: Our Staff
 ---
-## Form Teachers (2023)
-
 |   |   |   |
 |:-:|---|---|
 |**SECONDARY 1**  | **Year Head:** Mr Loh Jing Hui Jimmy<br>**Discipline:** Mrs Algena Lim  <br>**Discipline:** Mdm Zairina Mohamad Zen  | [loh\_jing\_hui@moe.edu.sg](mailto:loh_jing_hui@moe.edu.sg)<br>[koh\_jiun\_algena\_louisa@moe.edu.sg](mailto:koh_jiun_algena\_louisa@moe.edu.sg)<br>[zairina\_mohamad\_zen@moe.edu.sg](mailto:zairina_mohamad_zen@moe.edu.sg)  |
