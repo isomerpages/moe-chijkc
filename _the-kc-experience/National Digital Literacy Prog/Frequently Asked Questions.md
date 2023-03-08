@@ -64,9 +64,9 @@ Yes, each child/ward would need to have her own learning device in school daily 
 10 \. **What is DMA and how does it provide a safe learning experience for my child to prevent misuse of the device?**<br>
 The DMA can:
 
-1) Remotely deploy teaching and learning applications as well as security patches<br>
-2) Enable teachers to monitor and control the students’ screens during lessons<br>
-3) Restrict apps and websites accessibility, as well as screen time during specified hours
+1 . Remotely deploy teaching and learning applications as well as security patches<br>
+2 . Enable teachers to monitor and control the students’ screens during lessons<br>
+3 . Restrict apps and websites accessibility, as well as screen time during specified hours
 
 There will be default setting on web content filtering decided by the school for students to focus on learning in a safe and conducive online environment. Certain Chrome apps or extensions will also be installed to support teaching and learning.
 
