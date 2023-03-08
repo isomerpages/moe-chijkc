@@ -25,4 +25,4 @@ third_nav_title: Departments
 *   MTL Publication
 *   Internal and External Competitions
 
-<iframe allowfullscreen="true" height="525" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSBXzeC4utAzwgtEB2_wZBiH7lsPSIGRO_oepuVQL_fkLoc2NjQLrHvtChGZJdHoZrPRPUHMnrV2KeF/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="749" width="1280" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vStl9Xs7tsOoKEFJJCI10RenOq6KErmQMPbOUKYXRIPDriAudWbStv0C-AzHJg5RdI4OrwiClYVa-nq/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
