@@ -4,8 +4,6 @@ permalink: /cca-folder/Sports/canoeing/
 description: ""
 third_nav_title: Sports
 ---
-## Canoeing
-
 <iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ7wJ5JgxPbASch0EprnaO9t9HPjtsOUBljid-PJXvkzYfzYxDJQsf0nr-KPLvwTw976coQTw0Uj8zP/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 #### Objectives
@@ -17,10 +15,10 @@ third_nav_title: Sports
 
 #### Programme (Lower Sec)
 
-1 \.  Canoeing One Star Certification course<br>
-2 \.  Regular CCA training sessions.<br>
-3 \.  Participation in annual CCA camp, CCA Fair, and VIA project<br>
-4 \.  Participation in<br>
+1 .  Canoeing One Star Certification course<br>
+2 .  Regular CCA training sessions.<br>
+3 .  Participation in annual VIA project<br>
+4 .  Participation in<br>
 * National Schools Games Canoeing Championships ‘C’ Division<br>
 * Singapore Canoe Sprint Championships ‘C’ Division<br>
 * Singapore Canoe Marathon
@@ -28,7 +26,7 @@ third_nav_title: Sports
 #### Programme (Upper Sec)
 
 1 \.  Regular CCA training sessions.<br>
-2 \.  Participation and organization of annual CCA camp, CCA Fair, and VIA project<br>
+2 \.  Participation and organization of annual VIA project<br>
 3 \.  Participation in<br>
 * National Schools Games Canoeing Championships ‘B’ Division<br>
 * Singapore Canoe Sprint Championships ‘B’ Division<br>
