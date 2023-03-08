@@ -16,7 +16,7 @@ The attributes in the KC Grad profile form part of the journey in the developmen
 
 ***Create image file***
 
-|<span style="display: inline-block; width:380px">Compassionate Servant Leader</span>| <span style="display: inline-block; width:250px">Innovative Problem Solver</span>|
+|<span style="display: inline-block; width:200px">Compassionate Servant Leader</span>| <span style="display: inline-block; width:250px">Innovative Problem Solver</span>|
 |---|---|
 | Noble – others before self | Teamwork – Works effectively in teams and exercises initiative |
 | Compassion – Care and concern; takes an active role to better the lives of others around her | Innovative and strives for excellence |
