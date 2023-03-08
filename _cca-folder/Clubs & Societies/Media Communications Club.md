@@ -4,9 +4,7 @@ permalink: /clubs-and-societies/mcc/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-## Media Communications Club
-
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT920NK1Pd7J5qsC0mOwMRD7aV7sGIK-RSG06PjH1VWQIv79LqCoAX7KjHhHjHjOCKAc3dvx1xmO0Ks/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="450" width="735" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT920NK1Pd7J5qsC0mOwMRD7aV7sGIK-RSG06PjH1VWQIv79LqCoAX7KjHhHjHjOCKAc3dvx1xmO0Ks/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 #### Objectives
 
@@ -16,8 +14,8 @@ To empower Media Communications Club members with opportunities to showcase skil
 
 *   In-house photography training
 *   External animation training
-*   Photography &amp; videography services
-*   Photography &amp; videography competitions
+*   Photography & videography services
+*   Photography &  videography competitions
 
 The Media Communications Club is a core CCA offered to students interested in digital media. It aims to engage students in specialised mediums by allowing them to learn and further develop their skills. The Media Communications Club collaborates with our school's Corporate Communications committee in capturing and managing visuals and aesthetics for school events.
 
