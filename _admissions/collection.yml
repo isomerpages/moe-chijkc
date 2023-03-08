@@ -3,8 +3,9 @@ collections:
     output: true
     order:
       - Direct School Admissions (DSA).md
-      - Sec 1 Registration/Meeting your Form Teachers.md
+      - Sec 1 Registration/.keep
       - Sec 1 Registration/Sec 1 Registration.md
+      - Sec 1 Registration/Meeting your Form Teachers.md
       - Sec 1 Registration/Preparing for the First Day and Essential
         Information.md
       - Sec 1 Registration/Understanding Curriculum Matters.md
@@ -14,5 +15,4 @@ collections:
       - Sec 1 Registration/Choosing a CCA.md
       - Sec 1 Registration/Setting up Parents Gateway.md
       - Sec 1 Registration/Needing A Transfer?.md
-      - Sec 1 Registration/.keep
       - Seeking A Transfer or Admission to KC.md
