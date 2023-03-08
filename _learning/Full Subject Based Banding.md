@@ -3,8 +3,6 @@ title: Full Subject Based Banding
 permalink: /learning/fsbb/
 description: ""
 ---
-## Full Subject-Based Banding
-
 CHIJ Katong Convent is one of 30+ secondary schools which has implemented Full Subject-Based Banding (Full SBB) from 2023.
 
 #### Purpose of Full SBB
