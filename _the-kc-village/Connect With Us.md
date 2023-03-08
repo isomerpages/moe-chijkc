@@ -3,9 +3,6 @@ title: Connect With Us
 permalink: /the-kc-village/cwu/
 description: ""
 ---
-
-## Connect With Us
-
 | Social Media | Link |
 |---|---|
 |<img src="/images/f_logo_RGB-Blue_72.png" style="width:50px; height:50px" align=left>| [Katong Convent](https://www.facebook.com/CHIJKatongConventSG)|
