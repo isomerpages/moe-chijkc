@@ -2,7 +2,7 @@ collections:
   cca-folder:
     output: true
     order:
-      - Co Curricular Activities.md
+      - CCA Vision.md
       - CCA Schedule.md
       - CCA Fair.md
       - Clubs & Societies/.keep
