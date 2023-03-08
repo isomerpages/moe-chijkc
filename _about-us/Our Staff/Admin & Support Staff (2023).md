@@ -4,8 +4,6 @@ permalink: /about-us/Our-Staff/admin-support-staff/
 description: ""
 third_nav_title: Our Staff
 ---
-## Admin & Support Staff (2023)
-
 | General Office Management  | Email  |
 |-|---|
 | **Administration Manager**<br>Mr Tan Wee Hian  | <br>[tan\_wee\_hian@moe.edu.sg](mailto:tan\_wee\_hian@moe.edu.sg)  |
