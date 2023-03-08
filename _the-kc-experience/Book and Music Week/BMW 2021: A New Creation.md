@@ -4,10 +4,6 @@ permalink: /booknmusic/2021/
 description: ""
 third_nav_title: Book and Music Week
 ---
-
-
-## BMW 2021: A New Creation
-
 Book and Music Week is a signature programme of KC and has four key objectives:  
   
 *   To introduce new genres, art forms, and concepts to students.
