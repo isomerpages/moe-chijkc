@@ -4,7 +4,7 @@ permalink: /learning/Departments/art/
 description: ""
 third_nav_title: Departments
 ---
-<iframe allowfullscreen="true" height="450" width="730" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRGHvkH5WLXM_SS39x-8XmRdiwwrfVVZCQ5BS1H5-ntvIfiKT3GjNhYB6M84EPJug9dHr_0CPJa1M1X/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="450" width="735" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRGHvkH5WLXM_SS39x-8XmRdiwwrfVVZCQ5BS1H5-ntvIfiKT3GjNhYB6M84EPJug9dHr_0CPJa1M1X/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 #### Our Goals
 
