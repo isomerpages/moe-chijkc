@@ -3,8 +3,6 @@ title: CCE21
 permalink: /student-development/cce21/
 description: ""
 ---
-## CCE21
-
 #### Our Goal
 
 CHIJ (Katong Convent) is committed to providing each student with a holistic education and in nurturing values-driven, principled and caring KC girls who are active contributors of our society.
