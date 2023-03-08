@@ -4,8 +4,6 @@ permalink: /about-us/history-milestones/
 description: ""
 third_nav_title: History & Milestones
 ---
-## History & Milestones
-
 CHIJ Katong Convent was set up as a private Primary English School in 1930 in a rambling seaside bungalow in Marine Parade. In 1932, under Sr. St. Theodora, the first Principal, it was given grant-in-aid status with the addition of five classrooms. The enrolment was 197 pupils, including 26 boys, who were later transferred to St. Patrick’s School in late 1932. Under Sr. St. Vincent de Paul, the school building was extended in 1939 with 8 new classrooms. By 1941, just before the outbreak of the war, there were 384 pupils. At the outbreak of the war, the school building at Martia Road was taken over by the British and became a military camp. During the Japanese Occupation, the school was used as a military base. During the war years, the school continued to function in Ceylon Road as Ceylon Road Girls’ School.
 
 After the war, when the premises were returned in 1946, Sr. Finbarr undertook the difficult task of re-organising and upgrading the school. In 1950, the school fielded its first senior Cambridge candidates and in that same year, five new classrooms were built. In 1954, Sr. Finbarr was transferred to the Kuala Lumpur Convent after 8 years of devoted services. Sr. Veronica took over as Principal from May 1954 till December 1958 and under her leadership, a new building comprising five classrooms, a hall and two science laboratories were added. To cope with the growing enrolment, CHIJ Opera Estate was established in 1959 to accommodate the primary classes. Meanwhile, Sr. Finbarr was reassigned as Principal of Katong Convent and during her second term of office from 1959 to 1971, the school continued to expand and in 1966, a new wing, comprising a proper tuckshop, library, sewing room, art room, and 6 classrooms were completed. After Sr. Finbarr’s retirement, Mrs. Marie Bong, who was a member of the teaching staff since 1951, became the first lay Principal in 1972. Under her guidance, the school became well-known for choral speaking, creative writing and Shakespearean productions.
@@ -23,38 +21,3 @@ As an IJ School, CHIJ Katong Convent is a Catholic school which commits itself t
 #### Video Montage of Our Journey
 
 <iframe width="812.7" height="457.1" src="https://www.youtube.com/embed/REVs5QfPSpU" title="Our Journey" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-#### Principals
-
-Remove and archieve in Word doc.
-
-|  |  |  |
-|:---:|:---:|---|
-| **Sr Theodora** | 1930 | * Opening of Katong Convent as a private school at Martia Road 1st cohort of 197 pupils, including 25 boys |
-| **Sr St Vincent de Paul** | 1932 | * Became Government-Aided Girls’ School |
-|  | 1933 | * Boys transferred to St Patrick’s School |
-|  | 1941 | * Before outbreak of war, 384 pupils |
-|  | 1942 | * Japanese took over as military camp Operated as Ceylon Road Girls’ School in Joo Chiat during the Japanese Occupation |
-| **Sr Finbarr** | 1946 | * Return to Martia Road Facilities upgraded after the war and in her 2nd term of office from 1959 to 1971 |
-|  | 1950 | * First senior Cambridge candidate |
-| **Sr Veronica** | 1954 | * With growing enrolment school became double session |
-| **Sr Finbarr** | 1959 | * CHIJ Opera Estate was established P1 to P4 in CHIJ Opera Estate, P5 & P6 in KC |
-|  | 1966 | * Addition of new wing |
-| **Mrs Marie Bong** | 1972 | * 1st Lay Principal Introduced Literature for All, Book Wk & Music Wk, Choral Speaking, Shakespearean productions |
-|  | 1982 | * School Merged with Opera Estate |
-| **Mrs Karen Oei** | 1986 | * School moved to Marine Terrace KC became a Secondary School<br>* Introduced Dance |
-|  | 1990 | * Primary School returned to Martia Road KC becomes single session |
-| **Mrs Lysia Kee** | 1997 | * Expansion & upgrading of school premises Started Chinese Orchestra, Evening of Music, Dance & Drama |
-|  | 1999 | * 1st Academic Value-Added Award IT Master Plan Phase 3 |
-|  | 2001 | * 1st SAA Academic Value-Added Awards |
-|  | 2002 | *   BPA Teaching & Learning |
-|  | 2003 | *   KC attains Autonomous Status<br>*   Introduction of Development Through Drama for NT<br>*   National Arts Education Bronze Award |
-| **Ms Lam Ai-Leen** | 2005 | *   75th Anniversary |
-|  | 2006 | *   Introduction of GCE O Level Music<br>*   CDA & NE Development Awards<br>*   1st CHERISH Silver Award<br>*   Schools’ Green Audit Hibiscus Award |
-|  | 2007 | *   Introduction of GCE O Level Drama<br>*   Schools’ Green Audit Orchid Award<br>*   Model School Tuckshop Award<br>*   Water Efficient Building 7th SAA Academic Value-Added (Express) |
-|  | 2008 | *   1st SAA Aesthetics<br>*   2nd CHERISH Silver Award<br>*   Schools’ Green Audit Lotus Award |
-|  | 2009 | *   KC meets criteria for SAA Sports in 2010<br>*   2nd Schools’ Green Audit Lotus Award<br>*   2nd Model School Tuckshop<br>*   Meritorious Total Defence Partner Award |
-| **Ms Patricia Chan** | 2016 | *   Best Practice in MOE's Revised Masterplan of Awards for Schools - Teaching & Learning, Character & Citizenship Development, Student All-Round Development, Staff Well-Being & Development and Partnerships<br>*   KC's Autonomous School status was re-affirmed<br>*   KC was presented the School Distinction Award, the apex of the Masterplan of Awards |
-|  **Mrs Hilda Thong** | 2022 |  |
-|  **Mrs Tan Mei Chuen** | 2023 |  |
-| | |
