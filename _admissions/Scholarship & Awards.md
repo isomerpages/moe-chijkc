@@ -3,8 +3,6 @@ title: Scholarship & Awards
 permalink: /admissions/sa/
 description: ""
 ---
-## Archive
-
 ## Scholarship & Awards
 
 **<u>KC Honours Day Awards</u>**
