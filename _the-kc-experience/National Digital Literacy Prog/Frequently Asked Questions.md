@@ -6,7 +6,7 @@ third_nav_title: National Digital Literacy Prog
 ---
 **Choice of Device**
 
-1 \. **What is the device bundle selected by the school (2023)?**
+1 . **What is the device bundle selected by the school (2023)?**
 
 |  |  |
 |:---|:---|
