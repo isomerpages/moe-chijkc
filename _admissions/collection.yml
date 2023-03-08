@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Direct School Admissions (DSA).md
+      - Sec 1 Registration/Setting up Parents Gateway.md
       - Sec 1 Registration/Needing A Transfer?.md
       - Sec 1 Registration/.keep
       - Seeking A Transfer or Admission to KC.md
