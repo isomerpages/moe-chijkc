@@ -4,9 +4,6 @@ permalink: /admissions/Sec-1-Registration/understand-curr-matters/
 description: ""
 third_nav_title: Sec 1 Registration
 ---
-
-## 3 \. Understanding Curriculum Matters
-
 #### i. Curriculum Structure 2023
 
 CHIJ Katong Convent is one of 30+ secondary schools which will implement Full Subject-Based Banding (FSBB) from 2023. For more information on FSBB, refer to this [page](/learning/fsbb/).
