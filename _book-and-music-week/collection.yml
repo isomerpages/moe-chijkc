@@ -2,5 +2,4 @@ collections:
   book-and-music-week:
     output: true
     order:
-      - "BMW 2022: At First Light.md"
       - Book and Music Week.md
