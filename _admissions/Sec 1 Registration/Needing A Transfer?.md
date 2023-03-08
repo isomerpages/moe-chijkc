@@ -4,9 +4,6 @@ permalink: /admissions/Sec-1-Registration/transfer/
 description: ""
 third_nav_title: Sec 1 Registration
 ---
-
-## 9 \. Needing A Transfer?
-
 #### Seeking a Transfer Out
 
 Parents / Guardians who wish to transfer their daughter / ward out of CHIJ Katong Convent based on medical ground may appeal under Medical Appeal Exercise. All applications must be accompanied with the relevant supporting documents.
