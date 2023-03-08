@@ -4,20 +4,6 @@ permalink: /the-kc-experience/the-arts/cpva/
 description: ""
 third_nav_title: The Arts
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-## The‌ ‌Communicative,‌ ‌Performing,‌ ‌and‌ ‌Visual‌ ‌Arts‌
-
 The Communicative, Performing, and Visual Arts (CPVA) programme is the niche of CHIJ Katong Convent.
 
 As early as the 1950s, the Infant Jesus Sisters saw the arts as a creative outlet for their students. Since then, every principal in KC has built on the same vision, adding their mark, expanding and affirming the school’s commitment to the arts as a means to foster creativity, empathy and reflection, as well as to develop strong language and communication skills. The arts and its ethos is a special grace given to Katong Convent and her students to enable each individual to grow in her God-given uniqueness to live out our motto of “Simple in Virtue and Steadfast in Duty”. KC’s evolving arts education and pedagogy has been encapsulated in her robust arts heritage and strengths in communication, performance, and the visual arts.
