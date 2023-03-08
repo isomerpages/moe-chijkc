@@ -4,9 +4,6 @@ permalink: /admissions/Sec-1-Registration/supporting-child/
 description: ""
 third_nav_title: Sec 1 Registration
 ---
-
-## 5 \. Supporting your Child
-
 #### i. Counselling Needs
 
 **a. What is counselling?**
