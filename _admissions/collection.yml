@@ -2,7 +2,6 @@ collections:
   admissions:
     output: true
     order:
-      - Meeting your Form Teachers.md
       - Direct School Admissions (DSA).md
       - Sec 1 Registration/Sec 1 Registration.md
       - Sec 1 Registration/Preparing for the First Day and Essential
