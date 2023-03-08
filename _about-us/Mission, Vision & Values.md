@@ -37,7 +37,7 @@ This requires a sensitive alertness to identify students who are not coping with
 ## Vision
 ![image](/images/About%20Us/Vision.png#center)
 
-CHIJ Katong Convent is a caring school that excels Katong Convent is ‘caring’ because she takes care of the well-being of all within the school and sees to the needs of the community. Staff and pupils display compassion in their daily acts of kindness, consideration and respect. Katong Convent ‘excels’ in bringing out the best in the individual to bring out the best in others.
+CHIJ Katong Convent is a caring school that excels. Katong Convent is ‘caring’ because she takes care of the well-being of all within the school and sees to the needs of the community. Staff and pupils display compassion in their daily acts of kindness, consideration and respect. Katong Convent ‘excels’ in bringing out the best in the individual to bring out the best in others.
 
 ## Values
 
