@@ -4,7 +4,7 @@ permalink: /cca-folder/Sports/canoeing/
 description: ""
 third_nav_title: Sports
 ---
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ7wJ5JgxPbASch0EprnaO9t9HPjtsOUBljid-PJXvkzYfzYxDJQsf0nr-KPLvwTw976coQTw0Uj8zP/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="450" width="735" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ7wJ5JgxPbASch0EprnaO9t9HPjtsOUBljid-PJXvkzYfzYxDJQsf0nr-KPLvwTw976coQTw0Uj8zP/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 #### Objectives
 
