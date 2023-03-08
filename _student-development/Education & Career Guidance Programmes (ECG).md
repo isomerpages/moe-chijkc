@@ -3,7 +3,6 @@ title: Education & Career Guidance Programmes (ECG)
 permalink: /student-development/ecg/
 description: ""
 ---
-## Education & Career Guidance Programmes (ECG)
 
 The Education and Career Guidance (ECG) programme at CHIJ Katong Convent centres on exposure and experience in order to link the secondary school experience with post-secondary school experiences as well as the world of work.
 
