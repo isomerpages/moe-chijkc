@@ -64,6 +64,9 @@ links:
         url: /student-development/sex-ed/
       - title: Student Leadership
         url: /student-development/student-ldrship/
+  - title: CCA
+    url: /cca
+    sublinks: []
   - title: Admissions
     url: /admissions/dsa/
     sublinks:
@@ -90,6 +93,3 @@ links:
         url: /the-kc-village/ss/
       - title: Useful Links
         url: /the-kc-village/useful-links/
-  - title: CCA
-    url: /cca
-    sublinks: []
