@@ -23,7 +23,7 @@ The attributes in the KC Grad profile form part of the journey in the developmen
 | Reflective | Independent and critical thinker |
 | Respects self, others and the sanctity of life | Takes responsibility for her own learning and asks questions |
 
-|<span style="display: inline-block; width:380px">Effective Communicator</span>| <span style="display: inline-block; width:250px">Discerning Citizen of the World</span>|
+|<span style="display: inline-block; width:390px">Effective Communicator</span>| <span style="display: inline-block; width:250px">Discerning Citizen of the World</span>|
 |---|---|
 | Has self-awareness and self-management skills | Moral integrity and justice – strong sense of right and wrong |
 | Has moral courage and confidence | Embraces differences and is discerning in judgement |
