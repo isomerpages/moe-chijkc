@@ -35,7 +35,9 @@ The selected Chromebook suits the learning needs of our students as it is not ov
 Parents with Singpass can indicate your consent for the purchase of the device through the school at this link: [https://go.gov.sg/pdlpadmin](https://go.gov.sg/pdlpadmin)<br>
 A copy of the letter for procurement is available to parents without Singpass. Kindly make your request to the General Office.
 
-4 \. **How do we check the amount of Edusave fund available in our child’s/ward’s (for Singapore Citizen) account?**<br>
+4 . **How do we check the amount of Edusave fund available in our child's/ward's (for Singapore Citizen) account?** <br>
+
+**How do we check the amount of Edusave fund available in our child’s/ward’s (for Singapore Citizen) account?**<br>
 You can call 6260 0777 (24-hour automated hotline) to check your child's/ward's Edusave balance.
 
 5 \.  **Can we use Edusave to purchase a different laptop model on our own?**<br>
