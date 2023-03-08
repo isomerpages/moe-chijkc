@@ -64,7 +64,9 @@ links:
         url: /student-development/student-ldrship/
   - title: CCA
     url: /CCA/cca/
-    sublinks: []
+    sublinks:
+      - title: Schedule
+        url: /CCA/cca-schedule
   - title: Admissions
     url: /admissions/dsa/
     sublinks:
