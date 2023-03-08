@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Direct School Admissions (DSA).md
-      - Sec 1 Registration/Sec 1 Registration.md
       - Sec 1 Registration/.keep
       - Seeking A Transfer or Admission to KC.md
