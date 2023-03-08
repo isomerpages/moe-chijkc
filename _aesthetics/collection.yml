@@ -1,5 +1,4 @@
 collections:
   aesthetics:
     output: true
-    order:
-      - Enhanced Art Programme.md
+    order: []
