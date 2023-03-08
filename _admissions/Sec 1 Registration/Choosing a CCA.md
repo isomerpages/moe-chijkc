@@ -4,9 +4,6 @@ permalink: /admissions/Sec-1-Registration/choose-cca/
 description: ""
 third_nav_title: Sec 1 Registration
 ---
-
-## 7 \. Choosing a CCA
-
 #### Guidelines for Secondary Ones
 
 KC’s Co-Curricular Programme aims to uncover each student’s talents, develop their potential, build character and help them to cultivate a lifelong interest in recreation, leading to a balanced life in adulthood.
