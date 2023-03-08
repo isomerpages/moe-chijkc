@@ -3,8 +3,6 @@ title: Values in Education Programmes (VIA)
 permalink: /student-development/via/
 description: ""
 ---
-## Values in Education Programmes (VIA)
-
 VIA focusses on developing character and acquiring values through service to the school and the community. VIA experiences enables KC students to live out core values such as empathy, compassion, service and resilience; hone skills such as organisation and communication and strengthen civic responsibility and emotional connection to the community.
 
 In CHIJ Katong Convent, the VIA focus, experience and development for Sec 1 to 5 is progressive:
