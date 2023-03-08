@@ -2,5 +2,4 @@ collections:
   aesthetics:
     output: true
     order:
-      - Drama Elective Programme.md
       - Enhanced Art Programme.md
