@@ -4,8 +4,6 @@ permalink: /the-kc-village/Alumnae/association/
 description: ""
 third_nav_title: Alumnae
 ---
-## Katong Convent School Alumnae Association
-
 #### Katong Convent School Alumnae Association (KCSAA)
 
 The KCSAA is a registered association started in 1980. KCSAA serves both the primary and secondary schools. It is managed by alumnae volunteers of both schools.
