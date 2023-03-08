@@ -4,9 +4,7 @@ permalink: /cca-folder/Sports/sports-club/
 description: ""
 third_nav_title: Sports
 ---
-## Sports Club
-
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTzwBl9o6Rf7RXUMw1N8AYtxr7JapevbrfpwVZmgdfLVAQS_D2emHA3L5Br-I_gy06BxcuwZWH0Hbuq/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="450" width="735" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTzwBl9o6Rf7RXUMw1N8AYtxr7JapevbrfpwVZmgdfLVAQS_D2emHA3L5Br-I_gy06BxcuwZWH0Hbuq/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 Offers various sport modules which are planned and facilitated by our teachers and coaches. The list of sports may include Ultimate Frisbee, floorball, football, touch rugby, netball pickleball, badminton, and other modified games.&nbsp; Students will be able to learn and apply skills to actual and modified versions of the games on a weekly basis. Studies and research have shown that playing multi sports has more beneficial effects for the long term development of a female athlete in comparison to early specialisation.
 
