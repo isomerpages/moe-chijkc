@@ -4,8 +4,6 @@ permalink: /the-kc-experience/National-Digital-Literacy-Prog/faq2/
 description: ""
 third_nav_title: National Digital Literacy Prog
 ---
-## Frequently Asked Questions
-
 **Choice of Device**
 
 1 \. **What is the device bundle selected by the school (2023)?**
