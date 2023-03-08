@@ -4,9 +4,7 @@ permalink: /cca-folder/Performing-Arts/cb/
 description: ""
 third_nav_title: Performing Arts
 ---
-## Concert Band
-
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT59IGT6Cvnykxb-LJT_No6uhaMiWCaBbJY216bHMDvftBjZ3-zmAg3zaa1Z95--ZJXFeBaMaTZvOmw/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="450" width="735" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT59IGT6Cvnykxb-LJT_No6uhaMiWCaBbJY216bHMDvftBjZ3-zmAg3zaa1Z95--ZJXFeBaMaTZvOmw/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 #### Objectives
 
