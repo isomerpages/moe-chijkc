@@ -4,9 +4,7 @@ permalink: /learning/Departments/humanities/
 description: ""
 third_nav_title: Departments
 ---
-## Humanities
-
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSROA9dZj7LtoP9SoYjg0Idb5GP3W6kVBkLmVBuSHelSK1_lUQkGICtzf1yKki-8C73CXbVU5zMeYbN/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="450" width="735" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSROA9dZj7LtoP9SoYjg0Idb5GP3W6kVBkLmVBuSHelSK1_lUQkGICtzf1yKki-8C73CXbVU5zMeYbN/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 #### Goals
 
