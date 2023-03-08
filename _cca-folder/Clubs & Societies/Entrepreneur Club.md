@@ -4,10 +4,7 @@ permalink: /clubs-and-societies/ec/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-
-## Entrepreneur Club
-
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vShcuBu70dS1owRghV8ITsST39pGB9Qt9qEkbA1CFbjzc2aidXaK1OnqDPCXoOaiNpSsGIPSs_wvYsY/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="450" width="735" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vShcuBu70dS1owRghV8ITsST39pGB9Qt9qEkbA1CFbjzc2aidXaK1OnqDPCXoOaiNpSsGIPSs_wvYsY/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 #### Objectives
 
