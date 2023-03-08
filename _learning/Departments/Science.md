@@ -4,8 +4,6 @@ permalink: /learning/Departments/sci/
 description: ""
 third_nav_title: Departments
 ---
-## Science
-
 #### Goals
 
 *   To enthuse and nurture all students to be scientifically literate to help&nbsp;them make informed decisions and take responsible actions in their&nbsp;daily lives.
@@ -31,4 +29,4 @@ third_nav_title: Departments
 *   KC Talent Management Programme&nbsp;
 *   Lab internship with external organisations
 
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTCiKgvsIRsp5fEjh_kWctCVbJNFjKNWYow81t5rtkS8M50hdheA5tu0bpuU9Zz1C7rxcAfMYqrCk_P/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="450" width="735" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTCiKgvsIRsp5fEjh_kWctCVbJNFjKNWYow81t5rtkS8M50hdheA5tu0bpuU9Zz1C7rxcAfMYqrCk_P/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
