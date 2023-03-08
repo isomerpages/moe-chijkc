@@ -3,8 +3,6 @@ title: School Suppliers
 permalink: /the-kc-village/ss/
 description: ""
 ---
-## School Suppliers
-
 **Uniform Shop:**<br>
 **Asencio Pte Ltd**<br>
 Sales Hours: Monday - Friday 8.00AM - 2.30PM<br>
