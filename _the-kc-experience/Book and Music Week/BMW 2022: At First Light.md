@@ -4,10 +4,6 @@ permalink: /booknmusic/2022/
 description: ""
 third_nav_title: Book and Music Week
 ---
-
-
-## BMW 2022: At First Light
-
 The school’s much-celebrated annual Book and Music Week (BMW) was proud to be back in full force this year! After two long years of conducting the festival on virtual platforms, Arts and Culture was excited to be able to bring BMW back into our school’s spaces, along with the charged enthusiasm of our students as a live audience. This year, the theme for BMW was “At First Light”. Using this as a springboard, students had to explore the creative possibilities of light as a motif, idea, or element within their different performances and presentations. As one of the most highly anticipated events of the year, students were especially thrilled by the idea of having a night programme on the final day, where they would get to viscerally experience and enjoy the illumination of the school by their torchlights and diversity of light installations. 
 
 Across the three days of festivities, each class took ownership over the event through presenting different arts-based presentations and performances, based on different creative prompts assigned. Certain activities ranged across the entire school, such as the busking event, where each level presented a performance of their choice based on an inspirational story or character. Furthermore, each class also had an opportunity to integrate an “#OotD” (#Outfit of the Day) aspect in their presentations as well, where many also explored creative ways to use different recycled materials in the creation of their dazzling costumes. Beyond the school-wide performances, there were also activities that were specifically designed for each level, with each level exploring a different sub-theme. For example, the Secondary 1 students performed adaptations of literary classics around the theme of “Light as Reflection” on stage, complete with dazzling outfits and a backdrop of photography, while the Secondary 3 students innovatively transformed their classrooms into immersive settings based on a variety of prompts surrounding “Light as Space”.
