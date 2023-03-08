@@ -4,8 +4,6 @@ permalink: /the-kc-experience/National-Digital-Literacy-Prog/support-insurance/
 description: ""
 third_nav_title: National Digital Literacy Prog
 ---
-## Device Support & Insurance Claims
-
 #### Reporting of Device Issues (hardware issues and damages)
 
 1 \. Parents/students to contact contractor’s helpdesk for device issues. Parents/students will need the following information such as their device serial number, brand and model of the device, their name and contact number to log a case with the helpdesk.<br>
