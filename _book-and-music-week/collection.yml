@@ -1,0 +1,4 @@
+collections:
+  book-and-music-week:
+    output: true
+    order: []
