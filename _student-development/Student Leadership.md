@@ -3,10 +3,8 @@ title: Student Leadership
 permalink: /student-development/student-ldrship/
 description: ""
 ---
-## Student Leadership
-
-Vision : Caring leaders who excel<br>
-Mission : To nurture values-driven leaders who influence and leave a positive impact in their community
+**Vision** : Caring leaders who excel<br>
+**Mission** : To nurture values-driven leaders who influence and leave a positive impact in their community
 
 The Student Leadership Programme in KC aims to nurture values-driven leaders who influence and leave a positive impact in their community. Aligned with the drive for Holistic Pupil Development and 21st Century Competencies, all students are given the training opportunities and service platforms to develop her leadership potential.
 
