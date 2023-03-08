@@ -3,8 +3,6 @@ title: CCA Schedule
 permalink: /student-development/CCA/cca-schedule/
 description: ""
 ---
-## CCA Schedule
-
 ##### <center>CCA TRAINING VENUE AND DAYS 2023 </center>
 
 | **CCA** | **Training venue** | **Training days** |
