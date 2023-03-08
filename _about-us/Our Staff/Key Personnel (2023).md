@@ -4,8 +4,6 @@ permalink: /about-us/key-personnel/
 description: ""
 third_nav_title: Our Staff
 ---
-## Key Personnel (2023)
-
 | Leadership | Email  |
 |---|---|
 | **Principal**  <br>Mrs Tan Mei Chuen  | <br>[chen_mei_chuen@schools.gov.sg](mailto:chen_mei_chuen@schools.gov.sg)  |
