@@ -3,9 +3,6 @@ title: Open House 2023
 permalink: /the-kc-experience/open-hse/
 description: ""
 ---
-
-## Open House 2023
-
 **Mark the Open House date for CHIJ Katong Convent!**<br>
 Join our KC family on 19 November 2022 for a student-guided tour around our Convent by the Sea. <br>On that day, explore the possibilities within our school grounds with a self-navigation map. Immerse yourself in our Arts and Culture Festival, experience our CCA showcase and journey with us as we share how we grow our students holistically – both in and outside of the classroom.
 
