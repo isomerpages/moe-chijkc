@@ -4,7 +4,7 @@ permalink: /learning/Departments/el-literature/
 description: ""
 third_nav_title: Departments
 ---
-<iframe allowfullscreen="true" height="450" width="730" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQT8oIod91qsnOkxCB6_tAfuc2yZor6iEbslPmpHo2NRbDQ9c41odAR7Aj6UponJM97b59GlnbSCKex/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="450" width="735" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQT8oIod91qsnOkxCB6_tAfuc2yZor6iEbslPmpHo2NRbDQ9c41odAR7Aj6UponJM97b59GlnbSCKex/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 #### Overview of the English Language Programme
 
