@@ -4,9 +4,7 @@ permalink: /performing-arts/cd/
 description: ""
 third_nav_title: Performing Arts
 ---
-## Chinese Drama
-
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSbNcjMEKrZx30BGV0A2N2lCM6mN-Y7Y-Tqx3qPR4-0GElC2w07flhnrFkqLHwhltDLk2j6fQjRTOoH/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="450" width="735" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSbNcjMEKrZx30BGV0A2N2lCM6mN-Y7Y-Tqx3qPR4-0GElC2w07flhnrFkqLHwhltDLk2j6fQjRTOoH/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 #### Introduction
 
@@ -49,11 +47,11 @@ They are also given opportunities to take on acting roles on stage and backstage
 
 #### 2022 CNY Performance
 
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vShtlHhi1VaOtBQqRAWhnloTrmpo1PCCvd_EtxFD8XKNpaZeOzCq3wJdS3kWc24jMD_hF0f29W9L30M/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="450" width="735" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vShtlHhi1VaOtBQqRAWhnloTrmpo1PCCvd_EtxFD8XKNpaZeOzCq3wJdS3kWc24jMD_hF0f29W9L30M/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 #### VIA Project
 
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ79bDXV8vpCG208uF3yNd3NkTQYyQX1Roctd9TN5gDCh0WqxKMuqNdCJQm63qv9de5XMDkYFOSM_V2/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="450" width="735" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ79bDXV8vpCG208uF3yNd3NkTQYyQX1Roctd9TN5gDCh0WqxKMuqNdCJQm63qv9de5XMDkYFOSM_V2/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 #### 2022 BMW Show
 
