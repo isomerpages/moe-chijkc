@@ -6,7 +6,7 @@ third_nav_title: Sports
 ---
 ## Badminton
 
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS42U7W4zq0PtpH6RqLvuNHLILc8N6YpWQ_MZcMuoN_oObRCeiTnmQg8ewMqnptTPxkypBKrNrUsloP/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR7hpx3Ryfi3twjTEaWlX-zn8MaXhDHNLbXH3YoyCita3RjASakucXTURUCjDpiX6eluHUdFnC7tgpG/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
 
 #### Objectives
 
