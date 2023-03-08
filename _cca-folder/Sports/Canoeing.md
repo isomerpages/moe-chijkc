@@ -13,6 +13,8 @@ third_nav_title: Sports
 *   Instilling positive character traits, sportsmanship, and an intrinsic motivation to excel within every member.
 *   Development of a love for canoeing and good water confidence.
 
+**The Canoeing CCA will not be recruiting any Sec 1s. It is due for closure in 2025.**
+
 #### Programme (Lower Sec)
 
 1 .  Canoeing One Star Certification course<br>
