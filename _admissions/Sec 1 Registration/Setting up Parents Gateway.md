@@ -4,9 +4,6 @@ permalink: /admissions/Sec-1-Registration/settingup/
 description: ""
 third_nav_title: Sec 1 Registration
 ---
-
-## 8 \. Setting up Parents Gateway
-
 #### Parents Gateway
 
 School will disseminate information (e.g. class allocation, consent forms, Principal's memo, school circulars, etc.) via the Parents Gateway mobile application.
