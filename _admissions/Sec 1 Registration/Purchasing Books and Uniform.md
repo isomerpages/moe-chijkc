@@ -4,9 +4,6 @@ permalink: /sec-1-registration/purchasebooksnuuni/
 description: ""
 third_nav_title: Sec 1 Registration
 ---
-
-#### 4. Purchasing Books and Uniform
-
 #### Books and Uniform Sale
 
 Purchase of uniform and textbooks can be done online via the respective websites (links below) with the relevant instructions on how to purchase the required items indicated there.
