@@ -3,8 +3,6 @@ title: The KC Graduate
 permalink: /about-us/kc-graduate/
 description: ""
 ---
-## The KC Graduate
-
 As part of the school’s character development focus, Katong Convent is committed in developing the all-round KC girl.
 
 Each student is being developed in relation to the competencies of the KC Graduate Profile comprising 4 main domains:
