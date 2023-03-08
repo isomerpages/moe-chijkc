@@ -16,9 +16,7 @@ The attributes in the KC Grad profile form part of the journey in the developmen
 
 ***Create image file***
 
-| **Compassionate Servant Leader** | **Innovative Problem Solver** |
-
-|<span style="display: inline-block; width:500px">Compassionate Servant Leader</span>| <span style="display: inline-block; width:500px">Innovative Problem Solver</span>|
+|<span style="display: inline-block; width:250px">Compassionate Servant Leader</span>| <span style="display: inline-block; width:250px">Innovative Problem Solver</span>|
 |---|---|
 | Noble – others before self | Teamwork – Works effectively in teams and exercises initiative |
 | Compassion – Care and concern; takes an active role to better the lives of others around her | Innovative and strives for excellence |
@@ -26,9 +24,7 @@ The attributes in the KC Grad profile form part of the journey in the developmen
 | Reflective | Independent and critical thinker |
 | Respects self, others and the sanctity of life | Takes responsibility for her own learning and asks questions |
 
-| **Effective Communicator** | **Discerning Citizen of the World** |
-
-|<span style="display: inline-block; width:500px">Effective Communicator</span>| <span style="display: inline-block; width:500px">Discerning Citizen of the World</span>|
+|<span style="display: inline-block; width:250px">Effective Communicator</span>| <span style="display: inline-block; width:250px">Discerning Citizen of the World</span>|
 |---|---|
 | Has self-awareness and self-management skills | Moral integrity and justice – strong sense of right and wrong |
 | Has moral courage and confidence | Embraces differences and is discerning in judgement |
