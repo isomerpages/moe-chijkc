@@ -4,9 +4,7 @@ permalink: /clubs-and-societies/cs/
 description: ""
 third_nav_title: Clubs & Societies
 ---
-## IJ Youth Mission
-
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSyfynMbXsrPGz4FBulxxrpUlENkUow6QqqHzRvzXLCNMWK-bwYwQw_mdLYzfz2_D1f5f0lHYMA8LRM/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="450" width="735" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSyfynMbXsrPGz4FBulxxrpUlENkUow6QqqHzRvzXLCNMWK-bwYwQw_mdLYzfz2_D1f5f0lHYMA8LRM/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 #### Objectives
 
