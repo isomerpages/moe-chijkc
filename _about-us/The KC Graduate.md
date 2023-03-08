@@ -14,9 +14,8 @@ Each student is being developed in relation to the competencies of the KC Gradua
 
 The attributes in the KC Grad profile form part of the journey in the development of our students. At some juncture of their school life, our students pause, reflect, self-assess and receive feedback from their teachers.
 
-***Create image file***
 
-|<span style="display: inline-block; width:200px">Compassionate Servant Leader</span>| <span style="display: inline-block; width:250px">Innovative Problem Solver</span>|
+|<span style="display: inline-block; width:230px">Compassionate Servant Leader</span>| <span style="display: inline-block; width:250px">Innovative Problem Solver</span>|
 |---|---|
 | Noble – others before self | Teamwork – Works effectively in teams and exercises initiative |
 | Compassion – Care and concern; takes an active role to better the lives of others around her | Innovative and strives for excellence |
