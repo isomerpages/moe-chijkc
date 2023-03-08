@@ -3,7 +3,7 @@ title: Scholarship & Awards
 permalink: /admissions/sa/
 description: ""
 ---
-## Archieve
+## Archive
 
 ## Scholarship & Awards
 
