@@ -24,7 +24,7 @@ third_nav_title: Our Staff
 | **201**  | Ms Audrey Lee Jiak Peng  <br>Ms Norhana Mohamad  | [lee\_jiak\_peng\_audrey@moe.edu.sg](mailto:lee_jiak_peng_audrey@moe.edu.sg)<br>[norhana\_mohamad@moe.edu.sg](mailto:norhana_mohamad@moe.edu.sg)  |
 | **202**  | Ms Heng Pei Yan  <br>Ms Patrine Chua  | [heng\_pei\_yan@moe.edu.sg](mailto:heng_pei_yan@moe.edu.sg)<br>[patrine\_chua\_chee\_huang@moe.edu.sg](mailto:patrine_chua_chee_huang@moe.edu.sg)  |
 | **203**  | Ms Nuha Binte Jalal  <br>Mr Richard Leong  | [nuha\_jalal@moe.edu.sg](mailto:nuha_jalal@moe.edu.sg)<br>[leong\_theng\_wei@moe.edu.sg](mailto:leong_theng_wei@moe.edu.sg)  |
-| **204**  | Ms Tan Puay Cher Jessy  <br>Ms SandraEzekiel  | [tan\_puay\_cher@moe.edu.sg](mailto:tan_puay_cher@moe.edu.sg)<br>[liew\_pui\_yen\_sandra@moe.edu.sg](mailto:liew_pui_yen_sandra@moe.edu.sg)  |
+| **204**  | Ms Tan Puay Cher Jessy  <br>Ms Sandra Ezekiel  | [tan\_puay\_cher@moe.edu.sg](mailto:tan_puay_cher@moe.edu.sg)<br>[liew\_pui\_yen\_sandra@moe.edu.sg](mailto:liew_pui_yen_sandra@moe.edu.sg)  |
 | **205**  | Ms Koek Chwee Kim  <br>Mr Wong Li Mian  | [koek\_chwee\_kim@moe.edu.sg](mailto:koek_chwee_kim@moe.edu.sg)<br>[wong\_li\_mian@moe.edu.sg](mailto:wong_li_mian@moe.edu.sg)  |
 | **206**  | Ms Helen Lie  <br>Mr Prabhu S/O Gobi Nathan  | [lie\_ai\_lian@moe.edu.sg](mailto:lie_ai_lian@moe.edu.sg)<br>[prabhu\_gobi\_nathan@moe.edu.sg](mailto:prabhu_gobi_nathan@moe.edu.sg)  |
 | **207**  | Ms Lai Mok Ern Lannie  <br>Mr Koh Mui Pong Thomas  | [lai\_mok\_ern@moe.edu.sg](mailto:lai_mok_ern@moe.edu.sg)<br>[koh\_mui\_pong@moe.edu.sg](mailto:koh_mui_pong@moe.edu.sg)  |
