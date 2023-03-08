@@ -4,9 +4,7 @@ permalink: /cca-folder/Sports/bowling/
 description: ""
 third_nav_title: Sports
 ---
-## Bowling
-
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSAirImaP5uI18P5LLd9HwWjXLUAYIABAy75OLBngA-4_JaZ8XOLS91JrZtcHgNrsSPRrpt9hi0Z48_/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="450" width="735" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSAirImaP5uI18P5LLd9HwWjXLUAYIABAy75OLBngA-4_JaZ8XOLS91JrZtcHgNrsSPRrpt9hi0Z48_/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 #### Objectives
 
