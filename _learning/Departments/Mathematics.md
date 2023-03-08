@@ -4,8 +4,6 @@ permalink: /learning/Departments/math/
 description: ""
 third_nav_title: Departments
 ---
-## Mathematics
-
 #### Goals
 
 *   To develop passion for Mathematics in our students and see its relevance with their surroundings.
