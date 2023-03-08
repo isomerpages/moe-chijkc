@@ -26,6 +26,8 @@ links:
         url: /the-kc-experience/spirituality/
       - title: The Arts
         url: /the-kc-experience/the-arts/cpva/
+      - title: Book and Music Week
+        url: /booknmusic/bnm/
       - title: NDLP
         url: /the-kc-experience/National-Digital-Literacy-Prog/ndlp/
       - title: Open House 2023
@@ -36,8 +38,6 @@ links:
         url: https://www.chijkatongconvent.moe.edu.sg/qql/slot/u185/VirtualTour2021/tour.html
       - title: Calendar
         url: /the-kc-experience/cal/
-      - title: Book and Music Week
-        url: /booknmusic/bnm/
   - title: Learning
     url: /learning/Departments/art/
     sublinks:
