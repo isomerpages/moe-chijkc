@@ -3,13 +3,8 @@ title: Mission, Vision & Values
 permalink: /about-us/mvv/
 description: ""
 ---
-
 ## Mission
 ![image](/images/About%20Us/Mission.png#center)
-
-#### With special reference to the needs of students who are disadvantaged in any way:
-
-This requires a sensitive alertness to identify students who are not coping with school life and to offer or seek out the assistance that will help each better handle the situations which burden them. This sensitive helping disposition is not meant to be restricted to the school situation but to be extended to the wider community, wherever one encounters the weak or the burdened.
 
 #### Christ-centred Community
 
@@ -34,6 +29,10 @@ It is the ‘freeing of oneself’ from self-interest, from selfishness, from ca
 #### Love
 
 It is the all-embracing virtue which binds and integrates everything – the ultimate glue! It is the underlying inspiration that prompts students and the school community to rise above themselves and to reach out in compassion to the wider community. St Paul – “Love is patient. Love is kind. Love is not jealous, it does not put on airs. Love is never rude, it is not self-seeking, it is not prone to anger, neither does it brood over injuries. Love does not rejoice in what is wrong, but rejoices with the truth. There is no limit to Love’s forbearance, to its trust, its hope, its power to endure. Love never fails” {St Paul’s Letter to the Corinthians 13:4-8}
+
+#### With special reference to the needs of students who are disadvantaged in any way:
+
+This requires a sensitive alertness to identify students who are not coping with school life and to offer or seek out the assistance that will help each better handle the situations which burden them. This sensitive helping disposition is not meant to be restricted to the school situation but to be extended to the wider community, wherever one encounters the weak or the burdened.
 
 ## Vision
 ![image](/images/About%20Us/Vision.png#center)
