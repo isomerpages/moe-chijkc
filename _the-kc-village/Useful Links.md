@@ -3,8 +3,6 @@ title: Useful Links
 permalink: /the-kc-village/useful-links/
 description: ""
 ---
-## Useful Links
-
 *   [HRP](https://www.hrp.gov.sg/hrp/#/)
 *   [Humanities Scholarship and Programme](https://www.moe.gov.sg/education-in-sg/our-programmes/humanities-talent-development/humanities-scholarship-and-programme)
 *   [iCON](https://icon.moe.edu.sg/)
