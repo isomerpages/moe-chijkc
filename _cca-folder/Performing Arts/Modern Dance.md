@@ -4,9 +4,7 @@ permalink: /cca-folder/Performing-Arts/md/
 description: ""
 third_nav_title: Performing Arts
 ---
-## Modern Dance
-
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR-JLJXWvtvX55UXzF4VnsFnPikhs48W3VSUrh0gNurH4CPD6HlWELOJGlXjcAoUmNG6b-AfW4vCgts/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="450" width="735" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR-JLJXWvtvX55UXzF4VnsFnPikhs48W3VSUrh0gNurH4CPD6HlWELOJGlXjcAoUmNG6b-AfW4vCgts/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 #### Objectives
 
