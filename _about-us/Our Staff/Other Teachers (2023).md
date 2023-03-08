@@ -22,17 +22,12 @@ third_nav_title: Our Staff
 | Ms Iris Lim | [lim_kia_eng_iris@moe.edu.sg](mailto:lim_kia_eng_iris@moe.edu.sg) |
 | Ms Josephine Ng  | [ng\_poh\_leng@moe.edu.sg](mailto:ng_poh_leng@moe.edu.sg) |
 | Mrs Kanta Wadhwani | [kanta_ramchand_vaswani@moe.edu.sg](mailto:kanta_ramchand_vaswani@moe.edu.sg) |
-| Ms Li Shuwen | [
-
-
-| Mrs Agnes Tan  | [agnes\_tan@moe.edu.sg](mailto:agnes_tan@moe.edu.sg) |
-| Ms Adeline Lee  | [lee\_luo\_yun\_adeline@moe.edu.sg](mailto:lee_luo_yun_adeline@moe.edu.sg) |
-| Ms Josephine Ng  | [ng\_poh\_leng@moe.edu.sg](mailto:ng_poh_leng@moe.edu.sg) |
-
+| Ms Li Shuwen | [li_shuwen@moe.edu.sg](mailto:li_shuwen@moe.edu.sg) |
+| Ms Noordiyana Bte Mohd Shariff  | [noordiyana\_mohamed\_shariff@moe.edu.sg](mailto:noordiyana_mohamed_shariff@moe.edu.sg) |
+| Mdm Nur Fazelinda Mohd Noor | [nur_fazelinda_mohamed_noor@moe.edu.sg](mailto:nur_fazelinda_mohamed_noor@moe.edu.sg) |
 | Mrs Sng Wan Ying  | [sng\_wan\_ying@moe.edu.sg](mailto:sng_wan_ying@moe.edu.sg) |
 | Mr Tham Boon Khai  | [tham\_boon\_khai@moe.edu.sg](mailto:tham_boon_khai@moe.edu.sg) |
-| Mdm Wu Hongqin  | [wu\_hongqin@moe.edu.sg](mailto:wu_hongqin@moe.edu.sg) |
-| Mr Zhang Gang  | [zhang\_gang@moe.edu.sg](mailto:zhang_gang@moe.edu.sg) |
 | Ms Wai Lai Quin | [wai\_lai\_quin@moe.edu.sg](mailto:wai_lai_quin@moe.edu.sg) |
-| Ms Noordiyana Bte Mohd Shariff  | [noordiyana\_mohamed\_shariff@moe.edu.sg](mailto:noordiyana_mohamed_shariff@moe.edu.sg) |
+| Mr Zhang Gang  | [zhang\_gang@moe.edu.sg](mailto:zhang_gang@moe.edu.sg) |
+| Ms Jasmine Kang | [kang_yen_yen_jasmine@moe.edu.sg](mailto:kang_yen_yen_jasmine@moe.edu.sg) |
 |   |   |
