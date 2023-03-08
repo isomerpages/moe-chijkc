@@ -3,18 +3,16 @@ title: Direct School Admissions (DSA)
 permalink: /admissions/dsa/
 description: ""
 ---
-## DSA into CHIJ Katong Convent
-
 CHIJ Katong Convent (KC) welcomes students currently studying in Primary 6 to apply for admission into KC via the Direct School Admission (DSA) Exercise.
 
 We are looking for girls with special talents who will contribute to the dynamic and vibrant community at KC.
 
 You are eligible to apply if you have special talent or ability in:
 
-1.  Performing Arts; or
-2.  Sports and Games; or
-3.  Language and Humanities; or
-4.  Visual Arts, Design and Media
+1 .  Performing Arts; or <br>
+2 .  Sports and Games; or <br>
+3 .  Language and Humanities; or <br>
+4 .  Visual Arts, Design and Media <br>
 
 #### Selection Criteria & Process
 
