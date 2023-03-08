@@ -3,8 +3,6 @@ title: National School Games
 permalink: /student-development/CCA/nsg/
 description: ""
 ---
-## National School Games
-
 #### National School Games 2022 Report
 
 After a two-year hiatus, the National School Games (NSG) was finally back in full swing in March 2022. Six of KC’s sports and games CCAs took part in the NSG, and we also supported students in four other sports that are not official school CCAs. The following is a report of the games that took place this year.
