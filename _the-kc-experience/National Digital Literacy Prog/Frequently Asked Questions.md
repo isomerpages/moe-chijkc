@@ -58,10 +58,7 @@ Every student is encouraged to purchase a device through the school via the MOE 
 
 All Singaporean students are supported by MOE in purchasing a device. Students may approach the school if they require financial assistance.
 
-9 . 
-
-
-**Do I need to purchase 2 devices if I have 2 children/wards studying in the school?**<br>
+9 . **Do I need to purchase 2 devices if I have 2 children/wards studying in the school?** <br>
 Yes, each child/ward would need to have her own learning device in school daily and for learning after school, hence it might not be practical to share the device with their siblings.
 
 10 \. **What is DMA and how does it provide a safe learning experience for my child to prevent misuse of the device?**<br>
