@@ -37,7 +37,7 @@ To maximise players’ long-term potential, winning should remain a secondary em
 
 **PARTICIPATION**
 
-**2023**
+**2023** <br>
 * National School Games Netball Championships B Division Girls (East Zone)<br>
 
 **2022**<br>
@@ -46,7 +46,7 @@ To maximise players’ long-term potential, winning should remain a secondary em
 * Pesta Sukan<br>
 * Netball Singapore Year End Carnival
 
-**2021**  <br>
+**2021** <br>
 * National School Games Netball Championships B Division Girls (East Zone)  
     
 **2020**<br>
