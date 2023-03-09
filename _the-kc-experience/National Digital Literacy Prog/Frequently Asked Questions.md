@@ -32,16 +32,14 @@ The selected Chromebook suits the learning needs of our students as it is not ov
 **Purchase of Device**
 
 3 \. **How do we purchase the device through the school?**<br>
-Parents with Singpass can indicate your consent for the purchase of the device through the school at this link: [https://go.gov.sg/pdlpadmin](https://go.gov.sg/pdlpadmin)<br>
-A copy of the letter for procurement is available to parents without Singpass. Kindly make your request to the General Office.
+Parents with Singpass can indicate your consent for the purchase of the device through the school at this link: [https://go.gov.sg/pdlpadmin](https://go.gov.sg/pdlpadmin) <br>
+A copy of the letter for procurement is available to parents without SingPass. Kindly make your request to the General Office.
 
 4 . **How do we check the amount of Edusave fund available in our child's/ward's (for Singapore Citizen) account?** <br>
-You can call 6260 0777 (24-hour automated hotline) to check your child's/ward's Edusave balance.
+You can call 6260 0777 (24-hours automated hotline) to check your child's/ward's Edusave balance.
 
 5 . **Can we use Edusave to purchase a different laptop model on our own?** <br>
-
-**Can we use Edusave to purchase a different laptop model on our own?**<br>
-No, Edusave funds can only be used for the chosen model facilitated by the school through MOE's bulk tender.
+No, Edusave funds can only be used for the chosen model facilitated by the school through MOE's bulk tender.
 
 6 \. **How can I apply for financial assistance for the purchase of the PLD?**<br>
 Each student will receive a personalised bill which reflects the subsidy that matches her financial situation, if applicable. MOE FAS and School-Based FAS students do not need to apply for subsidy.
@@ -50,7 +48,7 @@ Other Singapore Citizens, Permanent Residents and International Students who req
 
 If you are recently retrenched, please produce a “Letter of Retrenchment” from your company. When assessing GHI and PCI of needy International Students, parent’s income refers to the income of parents who may be residing overseas, not the local guardian’s income. Electronic signatures are acceptable in the application if the parents are residing overseas.
 
-7 \. **Can my child/ward not purchase the device? Can we use our existing device or purchase our own?**<br>
+7 . **Can my child/ward not purchase the device? Can we use our existing device or purchase our own?** <br> 
 Every student is required to have a device for teaching and learning purposes and is encouraged to purchase one through the school via MOE’s bulk tender. Students are encouraged to use the device model prescribed  by the school, as the uniformity of systems and software would ensure a smooth learning experience for all. The device purchased through the school will come with the necessary warranty and insurance as well.
 
 Parents who choose to opt out of this bulk purchase will be informed to have your child/ward bring the existing device to school for an assessment on the suitability on a designated day. They must agree to allow the school to install a Device Management Application (DMA) software to provide a safe learning experience for the child/ward and to prevent misuse of the devices. We would like to highlight that if the student-owned device is assessed to be unsuitable, parents/guardians are strongly encouraged to give their consent at this link [https://go.gov.sg/pdlpadmin](https://go.gov.sg/pdlpadmin) to procure the school chosen device.
@@ -60,7 +58,10 @@ Every student is encouraged to purchase a device through the school via the MOE 
 
 All Singaporean students are supported by MOE in purchasing a device. Students may approach the school if they require financial assistance.
 
-9 \. **Do I need to purchase 2 devices if I have 2 children/wards studying in the school?**<br>
+9 . 
+
+
+**Do I need to purchase 2 devices if I have 2 children/wards studying in the school?**<br>
 Yes, each child/ward would need to have her own learning device in school daily and for learning after school, hence it might not be practical to share the device with their siblings.
 
 10 \. **What is DMA and how does it provide a safe learning experience for my child to prevent misuse of the device?**<br>
@@ -103,7 +104,7 @@ Students from low-income households will continue to be supported for subsidized
 **Collection of Device**
 
 16 \. **Where do we collect the device after the purchase?**<br>
-The school will make arrangements for students to collect their devices in the school.
+The school will make arrangement for students to collect their devices in the school.
 
 17 \. **When will the girls get their PLD?**<br>
 The PLDs are projected to be delivered in March 2023.
@@ -150,7 +151,7 @@ The PLD is bundled with 3-year insurance and 3-year warranty, which allows for t
 
 The insurance coverage is only applicable to situations of damage and loss where the student has taken precautions to safeguard the device. A police report will have to be made for the insurance claim. Accidental loss due to negligence is not covered by insurance and a new PLD will have to be purchased by the parents/student. The school will assist in purchasing a replacement PLD.
 
-27 \. **Since the warranty/insurance covers 3 years, what is the arrangement beyond 3 years? Is it possible to pay for extended warranty?**<br>
+27 . **Since the warranty/insurance covers 3 years, what is the arrangement beyond 3 years? Is it possible to pay for extended warranty?**<br>
 The insurance and warranty bundled in the school-purchased device covers 3 years. If the insurance/warranty has expired, or the replacement is not covered under the insurance/warranty (e.g. due to negligence, student has already received a replacement device earlier), school can help to facilitate the second  purchase.  Students can use their Edusave to pay for a new device and lower-income family can apply for subsidy.
 
 Extended warranty beyond 3 years for the computing device is not available in the open market. It would be very costly to incorporate such a requirement and it makes more economical sense to replace the device when it is beyond economical repair after 3 years.
