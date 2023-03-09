@@ -37,7 +37,7 @@ These are presented to promote IJ Values and Spirit.
 (iii) Minnie D’Rozario Sports Award – Awarded to the most balanced all-rounder athlete in the school who excels in ability, effort, attendance, sportsmanship and leadership. (For Sec and Pri schools)
 
 <figure>
-<img src="/images/KCSAA_WINNERS_OPTIMIZED.jpg" style="width:90%">
+<img src="/images/KC%20Village/KCSAA_HonoursDay2023.jpeg" style="width:70%">
 <figcaption> KCSAA award winners
  </figcaption>
 </figure>
