@@ -2,7 +2,7 @@
 layout: homepage
 title: CHIJ Katong Convent
 description: An Isomer site of the Singapore Government
-image: /images/photo1668247779.jpeg
+image: /images/CHIJKC Logo Website Banner_2.png
 permalink: /
 notification: ""
 sections:
@@ -28,3 +28,4 @@ sections:
       title: Latest Updates
       button: More
 ---
+
