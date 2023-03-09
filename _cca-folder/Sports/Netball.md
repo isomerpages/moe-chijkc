@@ -6,7 +6,7 @@ third_nav_title: Sports
 ---
 <iframe allowfullscreen="true" height="450" width="735" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSLMSr14XRiYswtMFm3NwSzZQKPiib2dbGgxIXX4-ZxuyMQtfVCDkzeuB1nR-w-dV3p_eNXx0qvYdMc/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
-#### Objectives
+#### Objectives<img src="/images/CCA/KC%20Netball%20Poster.png" style="width:40%" align=right>
 
 *   To develop the child holistically in skills, discipline, teamwork and values.
 *   To inculcate good sportsmanship and leadership qualities.
