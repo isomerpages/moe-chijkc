@@ -4,6 +4,8 @@ permalink: /clubs-and-societies/dc/
 description: ""
 third_nav_title: Clubs & Societies
 ---
+<img src="/images/CCA/KC%20DEBATE.png" style="width:35%" align=center>
+
 #### Objectives
 
 *   To challenge students to think critically about world issues, gain knowledge about world organisations and strengthen their general knowledge.
