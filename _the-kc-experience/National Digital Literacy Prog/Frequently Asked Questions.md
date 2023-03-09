@@ -148,7 +148,7 @@ The PLD is bundled with 3-year insurance and 3-year warranty, which allows for t
 
 The insurance coverage is only applicable to situations of damage and loss where the student has taken precautions to safeguard the device. A police report will have to be made for the insurance claim. Accidental loss due to negligence is not covered by insurance and a new PLD will have to be purchased by the parents/student. The school will assist in purchasing a replacement PLD.
 
-27 . **Since the warranty/insurance covers 3 years, what is the arrangement beyond 3 years? Is it possible to pay for extended warranty?**<br>
+27 . **Since the warranty/insurance covers 3 years, what is the arrangment beyong 3 years? Is it possible to pay for extended warranty** <br>
 The insurance and warranty bundled in the school-purchased device covers 3 years. If the insurance/warranty has expired, or the replacement is not covered under the insurance/warranty (e.g. due to negligence, student has already received a replacement device earlier), school can help to facilitate the second  purchase.  Students can use their Edusave to pay for a new device and lower-income family can apply for subsidy.
 
 Extended warranty beyond 3 years for the computing device is not available in the open market. It would be very costly to incorporate such a requirement and it makes more economical sense to replace the device when it is beyond economical repair after 3 years.
