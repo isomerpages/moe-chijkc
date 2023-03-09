@@ -40,7 +40,6 @@ To maximise players’ long-term potential, winning should remain a secondary em
 **2023**
 * National School Games Netball Championships B Division Girls (East Zone)<br>
 
-
 **2022**<br>
 * National School Games Netball Championships B Division Girls (East Zone)<br>
 * National School Games Netball Championships C Division Girls (East Zone)<br>
