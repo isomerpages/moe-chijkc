@@ -11,21 +11,7 @@ sections:
       background: /images/banner.gif
       button: Announcements
       url: /media/announcements/
-      key_highlights:
-        - title: Title 1
-          description: Description 1
-          url: ""
-        - title: Title 2
-          description: Description 2
-          url: ""
-        - title: Title 3
-          description: Description 3
-          url: ""
-        - title: Title 4
-          description: Description 4
-          url: ""
   - resources:
       title: Latest Updates
       button: More
 ---
-
