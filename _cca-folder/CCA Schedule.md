@@ -3,7 +3,6 @@ title: CCA Schedule
 permalink: /CCA/cca-schedule/
 description: ""
 ---
-
 ##### <center>CCA TRAINING VENUE AND DAYS 2023 </center>
 
 | **CCA** | **Training venue** | **Training days** |
@@ -27,5 +26,5 @@ description: ""
 | Entrepreneur | Computer Lab | Fri |
 | Media Comm Club | Computer Lab | Wed |
 | Cabin Club | School | Various Days |
-| Sports Development Club | School | Wed, Fri |
+| Sports Club | School | Wed, Fri |
 |  |  |  |
