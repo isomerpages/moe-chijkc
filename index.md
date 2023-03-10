@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/banner_v2.gif
+      background: /images/banner.gif
       button: Announcements
       url: /media/announcements/
   - resources:
