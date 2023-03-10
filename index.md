@@ -10,6 +10,7 @@ sections:
       background: /images/banner.gif
       button: Announcements
       url: /media/announcements/
+      title: A Convent by the sea
   - resources:
       title: Latest Updates
       button: More
