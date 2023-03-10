@@ -8,25 +8,23 @@ third_nav_title: Sports
 
 #### Objectives
 
-To enhance student development in character and potential in sports.
+To provide the sporting platform for the athletes to find their potential and stretch their track and field abilities.
 
 #### Programme (Lower Sec)
 
-Secondary One students are introduced to the different events and to allow the coach to identify potential talents. The training programme will cover the following aspects:
+Students are gradually prepared and conditioned to prepare for their respective event(s) and to develop and stretch their athletic potential. The development program will cover the following:
 
-*   Warm Ups &amp; Safety
-*   General Conditioning
-*   Stretching
-*   Cardiovascular Fitness
-*   Events &amp; time trials
-*   Injuries &amp; treatment management
-*   Muscular Fitness (lower body)
-*   Preparation for Time trial for new athletes (track work)
-*   Target Setting
+* Physical Conditioning (Strength, Endurance, Speed, Power and Flexibility)
+* Psychological preparation (Visualization and breathing techniques)
+* Techniques (Sprints, Jumps, Throws and Distance running)
+* National School Games & Other Sports Meet
+* Leadership
+* Nutrition as well as injury management
+
 
 #### Programme (Upper Sec)
 
-In addition to the above programme components, our upper secondary students are expected to exercise leadership skills and lead in cool down and stretching, as well as guide and mentor the lower secondary members.
+In addition to the above program components, our upper secondary students are expected to exercise leadership skills to guide and mentor the lower secondary members..
 
 #### Achievements (Last 3 years)
 
