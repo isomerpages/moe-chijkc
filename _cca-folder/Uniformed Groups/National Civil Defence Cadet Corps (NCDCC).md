@@ -31,23 +31,23 @@ Others: Foot Drill (Gold), Unit Drill Instructor Course, Basic Cardiac Life Supp
 #### Achievements (Last 3 years)
 
 **2022**
-* Unit Overall Performance Award
+* **Unit Overall Performance Award**
 	* Distinction
-* SCDF-NCDCC Pinnacle Badge:
+* **SCDF-NCDCC Pinnacle Badge**:
 	* Cadet: WO Ervaline Loh Jia Ling (nominated)
 	* Cadet: WO Cayleigh Chong Mun Kae (nominated)
 
 **2021**
-* Unit Overall Performance Award
+* **Unit Overall Performance Award**
 	* Gold
-* SCDF-NCDCC Pinnacle Badge:
+* **SCDF-NCDCC Pinnacle Badge**:
 	* Cadet: WO Chloe Tan Li Lin
 	* Cadet: WO Tan Yue Lin Michel
-* Infographic Design Competition (2nd place):
+* **Infographic Design Competition (2nd place)**:
 	* Cadet: WO Giselle Elizabeth Pinto
 
 **2020**
-* Unit Overall Performance Award
+* **Unit Overall Performance Award**
 	* Silver
-* SCDF-NCDCC Pinnacle Badge
+* **SCDF-NCDCC Pinnacle Badge**
 	* Cadet: WO Cheng Ying Charmaine
