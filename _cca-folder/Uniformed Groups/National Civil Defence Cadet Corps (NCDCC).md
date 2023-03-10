@@ -30,7 +30,16 @@ Others: Foot Drill (Gold), Unit Drill Instructor Course, Basic Cardiac Life Supp
 
 #### Achievements (Last 3 years)
 
+**2022**
+* Unit Overall Performance Award
+	* Distinction
+* SCDF-NCDCC Pinnacle Badge:
+	* Cadet: WO Ervaline Loh Jia Ling (nominated)
+	* Cadet: WO Cayleigh Chong Mun Kae (nominated)
+
 **2021**
+* Unit Overall Performance Award
+	* Gold
 * SCDF-NCDCC Pinnacle Badge:
 	* Cadet: WO Chloe Tan Li Lin
 	* Cadet: WO Tan Yue Lin Michel
@@ -38,17 +47,7 @@ Others: Foot Drill (Gold), Unit Drill Instructor Course, Basic Cardiac Life Supp
 	* Cadet: WO Giselle Elizabeth Pinto
 
 **2020**
-* SCDF-NCDCC Pinnacle Badge
-	* Cadet: WO Cheng Ying Charmaine
-	
-**2019**
 * Unit Overall Performance Award
 	* Silver
 * SCDF-NCDCC Pinnacle Badge
-	* Cadet: WO Low Jia Wen Jamie
-
-* 15thUniformed Groups Bowling Championships 2019
-	* 1st in Girls (Team)
-	* 1st and 10th&nbsp;in Girls (Individual)
-* Female Cadet Mascot Naming Competition
-	* Cadet: LCP Tan Yue Lin Michel
+	* Cadet: WO Cheng Ying Charmaine
