@@ -4,7 +4,7 @@ permalink: /Sports/tf/
 description: ""
 third_nav_title: Sports
 ---
-<iframe allowfullscreen="true" height="749" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSfVEofg5ILZSJndwh5_LYrgSbE7zr6z4JKkErFPB7NQw-sbzbh-RJDXk4N2Y59TM__v8eYnQczNC3H/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="599" width="750" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSfVEofg5ILZSJndwh5_LYrgSbE7zr6z4JKkErFPB7NQw-sbzbh-RJDXk4N2Y59TM__v8eYnQczNC3H/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
 
 #### Objectives
 
