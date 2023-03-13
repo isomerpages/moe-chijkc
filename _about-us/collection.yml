@@ -1,0 +1,18 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal's Message.md
+      - Mission, Vision & Values.md
+      - Crest & Motto.md
+      - History & Milestones/.keep
+      - History & Milestones/History & Milestones.md
+      - History & Milestones/Naming of the School Blocks.md
+      - The KC Graduate.md
+      - Our Staff/.keep
+      - Our Staff/Key Personnel (2023).md
+      - Our Staff/Form Teachers (2023).md
+      - Our Staff/Other Teachers (2023).md
+      - Our Staff/Admin & Support Staff (2023).md
+      - School Song.md
+      - Contact Information.md

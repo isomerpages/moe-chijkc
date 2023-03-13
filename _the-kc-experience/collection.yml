@@ -1,0 +1,28 @@
+collections:
+  the-kc-experience:
+    output: true
+    order:
+      - The KC Experience.md
+      - Spirituality/.keep
+      - Spirituality/Spirituality.md
+      - Spirituality/Catholic Education.md
+      - The Art/.keep
+      - The Art/The Communicative, Performative & Visual Arts.md
+      - The Art/Arts & Culture Programme.md
+      - The Art/Drama Elective Programme.md
+      - The Art/Enhanced Art Programme.md
+      - Book and Music Week/Book and Music Week.md
+      - "Book and Music Week/BMW 2022: At First Light.md"
+      - "Book and Music Week/BMW 2021: A New Creation.md"
+      - "Book and Music Week/BMW 2020: For the Love of Shakespeare.md"
+      - Book and Music Week/Book and Music Week 2019.md
+      - Book and Music Week/.keep
+      - National Digital Literacy Prog/.keep
+      - National Digital Literacy Prog/National Digital Literacy Programme
+        (NDLP).md
+      - National Digital Literacy Prog/Frequently Asked Questions.md
+      - National Digital Literacy Prog/Device Support & Insurance Claims.md
+      - National Digital Literacy Prog/DMA Parents Option.md
+      - Open House.md
+      - Student Journal 2023.md
+      - Calendar.md

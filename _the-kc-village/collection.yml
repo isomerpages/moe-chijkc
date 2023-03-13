@@ -1,0 +1,12 @@
+collections:
+  the-kc-village:
+    output: true
+    order:
+      - IJ Board of Management.md
+      - Parents.md
+      - Alumnae/.keep
+      - Alumnae/Stay Connected.md
+      - Alumnae/Katong Convent School Alumnae Association.md
+      - School Suppliers.md
+      - Connect With Us.md
+      - Useful Links.md
