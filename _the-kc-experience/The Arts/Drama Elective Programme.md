@@ -2,8 +2,9 @@
 title: Drama Elective Programme
 permalink: /the-kc-experience/the-arts/drama/
 description: ""
-third_nav_title: The Art
+third_nav_title: The Arts
 ---
+
 
 One of the three pioneer schools in the East Zone to offer GCE O level Drama since 2008, the Drama Elective Programme affords students the opportunity to pursue their passion and strength in the art form as an O level subject.
 

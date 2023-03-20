@@ -2,8 +2,9 @@
 title: Arts & Culture Programme
 permalink: /the-kc-experience/the-arts/arts-culture/
 description: ""
-third_nav_title: The Art
+third_nav_title: The Arts
 ---
+
 
 <img src="/images/AC Logo 1.png" style="width:20%">
 

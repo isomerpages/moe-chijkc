@@ -2,8 +2,9 @@
 title: The Communicative, Performative & Visual Arts
 permalink: /the-kc-experience/the-arts/cpva/
 description: ""
-third_nav_title: The Art
+third_nav_title: The Arts
 ---
+
 
 The Communicative, Performing, and Visual Arts (CPVA) programme is the niche of CHIJ Katong Convent.
 
