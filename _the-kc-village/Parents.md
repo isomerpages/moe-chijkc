@@ -25,7 +25,7 @@ KC EOY Letter to Parents
 
 | | |
 |:---:|:---:|
-| [Term 1](/files/KC%20Viilage/Parents/Letters%20To%20Parents/01%20KC%20Term%201%20Letter%20to%20Parents%202023%20issued%206%20Jan.pdf) | Term 2 |
+| [Term 1](/files/KC%20Viilage/Parents/Letters%20To%20Parents/01%20KC%20Term%201%20Letter%20to%20Parents%202023%20issued%206%20Jan.pdf) | [Term 2](/files/KC%20Viilage/Parents/Letters%20To%20Parents/KC%20Term%202%20Letter%20to%20Parents%202023%20(issued%20on%2021%20Mar).pdf) |
 | Term 3 | Term 4 |
 | | |
 
