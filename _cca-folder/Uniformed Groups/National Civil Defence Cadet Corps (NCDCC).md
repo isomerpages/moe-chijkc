@@ -34,7 +34,7 @@ Others: Foot Drill (Gold), Unit Drill Instructor Course, Basic Cardiac Life Supp
 * **Unit Overall Performance Award**
 	* Distinction
 * **SCDF-NCDCC Pinnacle Badge**:
-	* Cadet: WO Ervaline Loh Jia Ling (nominated)
+	* Cadet: WO Ervaline Loh Jia Ling
 	* Cadet: WO Cayleigh Chong Mun Kae (nominated)
 
 **2021**
