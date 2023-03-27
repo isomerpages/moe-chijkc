@@ -39,7 +39,7 @@ KC EOY Letter to Parents
 
 #### Weighted Assessment 
 
-**[WA Calendar](/files/KC%20Viilage/Parents/Weighted%20Assessment/Weighted%20Assessment%20Calendar%202023_All%20levels_270123.pdf)**
+**[WA Calendar]([](/files/KC%20Viilage/Parents/Weighted%20Assessment/Weighted%20Assessment%20Schedule%202023_WA%202.pdf))**
 
 |  |  |  |  |  |
 |:---:|:---:|:---:|:---:|:---:|
