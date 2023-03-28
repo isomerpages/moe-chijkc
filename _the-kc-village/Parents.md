@@ -31,10 +31,9 @@ KC EOY Letter to Parents
 
 #### Semester Class Timetables
 
-|  |  |
+|  |   |
 |:---:|:---:|
-| [2023 Semester 1](/files/2023%20Sem%201%20Class%20TT_29%20Dec.pdf) | 2023 Semester 2 |
-| 2023 Semester 3 | 2023 Semester 4 |
+| [2023 Semester 1 (Updated)]([](/files/KC%20Viilage/Parents/2023%20Term%202%20Class%20TT_27%20Mar.pdf)) | 2023 Semester 2 |
 |  |  |
 
 #### Weighted Assessment 
