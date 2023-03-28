@@ -33,7 +33,7 @@ KC EOY Letter to Parents
 
 |  |   |
 |:---:|:---:|
-| [2023 Semester 1 - Updated](/files/KC%20Viilage/Parents/2023%20Term%202%20Class%20TT_27%20Mar.pdf) | 2023 Semester 2 |
+| [2023 Semester 1  (Updated)](/files/KC%20Viilage/Parents/2023%20Term%202%20Class%20TT_27%20Mar.pdf) | 2023 Semester 2 |
 |  |  |
 
 #### Weighted Assessment 
