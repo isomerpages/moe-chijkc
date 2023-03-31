@@ -31,7 +31,7 @@ third_nav_title: Our Staff
 | Subject Heads | Email  |
 |---|---|
 | **Aesthetics (Covering)**<br>Ms Sarah Phua  | <br>[sarah\_phua\_yiran@moe.edu.sg](mailto:sarah_phua_yiran@moe.edu.sg)  |
-| **Art**<br>Ms Heather Teo  | <br>[heather\_teo@moe.edu.sg](mailto:heather_teo@moe.edu.sg)  |
+| **Art**<br>Ms Heather Teo  | <br>[teo_wei_yi_heather@moe.edu.sg](mailto:teo_wei_yi_heather@moe.edu.sg)  |
 | **Assistant Year Head**<br>Ms Lee Shu Min  | <br>[lee\_shu\_min@moe.edu.sg](mailto:lee_shu_min@moe.edu.sg)  |
 | **Geography**<br>Ms Cheryl Anne Lim  | <br>[lim\_su\_ying\_cheryl@moe.edu.sg](mailto:lim_su_ying_cheryl@moe.edu.sg)  |
 | **Malay Language**<br>Ms Norazian Mohamed Yahya  | <br>[norazian\_mohamed\_yahya@moe.edu.sg](mailto:norazian_mohamed_yahya@moe.edu.sg)  |
