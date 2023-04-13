@@ -76,7 +76,7 @@ Students are responsible for their personal devices. The school will not be held
 *   Where a PLD is lost outside of school, student should inform their parents immediately.
 *   Student should, together with their parents, make a Police Report.
 *   Student should inform their Form Teachers of the loss and provide a copy of the Police Report at the earliest possible time. A copy of the Police Report must be submitted to the school-based ICT Service Desk. The school’s DMA Administrator will take action to remote lock the device at the earliest possible time.
-*   Students are required to replace their lost PLD. Students will not be able to utilize their Edusave fund for replacement of their device.
+*   Students, who are Singapore Citizens, will be able to utilize their Edusave fund for the **replacement** of their device (2nd purchase).
 
 3 \. **REPLACEMENT / CHANGE OF PLD**  <br>
 *   Students are to inform their school-based ICT Service Desk whenever there is a replacement/change of PLD.
