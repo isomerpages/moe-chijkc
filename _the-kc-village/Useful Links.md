@@ -4,7 +4,6 @@ permalink: /the-kc-village/useful-links/
 description: ""
 ---
 *   [HRP](https://www.hrp.gov.sg/hrp/#/)
-*   [Humanities Scholarship and Programme](https://www.moe.gov.sg/education-in-sg/our-programmes/humanities-talent-development/humanities-scholarship-and-programme)
 *   [iCON](https://icon.moe.edu.sg/)
 *   [IFAAS2](https://ifaas2.moe.gov.sg/)
 *   [MIMS](https://idp.mims.moe.gov.sg/nidp/saml2/sso)  
