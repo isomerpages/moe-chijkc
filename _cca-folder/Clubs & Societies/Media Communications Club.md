@@ -2,7 +2,7 @@
 title: Media Communications Club
 permalink: /clubs-and-societies/mcc/
 description: ""
-third_nav_title: Clubs &amp; Societies
+third_nav_title: Clubs & Societies
 ---
 <img src="/images/CCA/mcc%20logo.jpg" style="width:100%" align="center"><br>
 
