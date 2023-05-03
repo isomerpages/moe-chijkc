@@ -16,23 +16,6 @@ You are eligible to apply if you have special talent or ability in:
 
 #### Selection Criteria &amp; Process
 
-| **DSA Main Category** | **Sub Category** | **DSA Talent Area** |
-|---|---|---|
-| Visual Arts, Design and Media | Visual Arts | Visual Arts.<br>Including but not limited to drawing, illustration, painting, sculpture, ceramics, photography, videography, the applied arts such as design and media. |
-| Language and Humanities | Debate and Public Speaking | Debate and Public Speaking |
-| Sports and Games | Track &amp; Field  <br>Badminton  <br>Bowling  <br>Floorball | Track &amp; Field  <br>Badminton  <br>Bowling  <br>Floorball |
-| Performing Arts | Dance  <br><br><br>Music | Modern Dance  <br>English Drama  <br>Chinese Drama  <br>Choir  <br>Chinese Orchestra   <br>Concert Band |
-|  |  |  |
-
-Note: Meeting all the criteria does not guarantee the student will be shortlisted/given an offer.
-
-<sup>1</sup> **Instructions on e-portfolio submission for Visual Arts**: <br>
-•	These should be a collection of well curated works done by the applicant that would display their progress, ability, and creativity in visual art over the last 2-3 years (2021 - 2023). Applicants can also include any other items they deem relevant to the success of their application.<br>
-•	Can be in PowerPoint or PDF format with the following file-naming convention:<br>
-Student’s Current School Name Student’s Name Visual Arts<br>
-•	Email the file (&lt;20MB) to chijktcs@moe.edu.sg<br>
-•	E-portfolios submitted will only be used for DSA selection purpose and will be deleted after selection is completed<br>
-•	Applications would be considered only if the e-portfolios are submitted by 31 May.*
 
 
 #### Application Procedure
