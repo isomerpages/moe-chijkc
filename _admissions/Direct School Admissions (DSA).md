@@ -14,6 +14,15 @@ You are eligible to apply if you have special talent or ability in:
 3 .  Language and Humanities; or <br>
 4 .  Visual Arts, Design and Media <br>
 
+| **DSA Main Category** | **Sub Category** | **DSA Talent Area** |
+|---|---|---|
+| Visual Arts, Design and Media | Visual Arts | Visual Arts.<br>Including but not limited to drawing, illustration, painting, sculpture, ceramics, photography, videography, the applied arts such as design and media. |
+| Language and Humanities | Debate and Public Speaking | Debate and Public Speaking |
+| Sports and Games | Track &amp; Field  <br>Badminton  <br>Bowling  <br>Floorball | Track &amp; Field  <br>Badminton  <br>Bowling  <br>Floorball |
+| Performing Arts | Dance  <br><br><br>Music | Modern Dance  <br>English Drama  <br>Chinese Drama  <br>Choir  <br>Chinese Orchestra   <br>Concert Band |
+|  |  |  |
+
+
 #### Selection Criteria &amp; Process
 
 [Download - DSA Selection Criteria &amp; Process](/files/Admissions/Direct%20School%20Admissions%20(DSA)/dsa%20selection%20criteria%20n%20process.pdf)
