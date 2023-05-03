@@ -16,7 +16,7 @@ You are eligible to apply if you have special talent or ability in:
 
 #### Selection Criteria &amp; Process
 
-
+[Download - DSA Selection Criteria &amp; Process](/files/Admissions/Direct%20School%20Admissions%20(DSA)/dsa%20selection%20criteria%20n%20process.pdf)
 
 #### Application Procedure
 
