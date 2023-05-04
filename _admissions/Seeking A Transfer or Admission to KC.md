@@ -14,4 +14,4 @@ Please note that only short-listed applicants will be notified to submit documen
 
 
 **For clarification**<br>
-Should you have any general queries, please contact the General Office at Tel: 6448 6433 during office hours or email to chijktcs@moe.edu.sg (indicate in the subject header “School Transfer”).
+Should you have any general queries, please contact the General Office at Tel: 6448 6433 during office hours or email to [chijktcs@moe.edu.sg](mailto:chijktcs@moe.edu.sg) (indicate in the subject header “School Transfer”).
