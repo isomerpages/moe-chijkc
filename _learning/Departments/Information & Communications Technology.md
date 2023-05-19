@@ -12,8 +12,7 @@ third_nav_title: Departments
          
 3 \.  Creating Conducive Learning Environments that support Personalised and Seamless Learning
 
-<img src="/images/ICT Dept 1.jpg" style="width:49%" align="left">
-<img src="/images/ICT Dept 2.jpg" style="width:49%" align="right">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQIC8jJgGvHsRr6VXo4bZm15i8cVYdpRHEQ5R8v6525V4llUA4C88ZDHCvUhM51-DZoUmWpuDCJzjSb/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="950" height="569" allowfullscreen="true"></iframe>
 
 #### Computer Applications (CPA)
 
