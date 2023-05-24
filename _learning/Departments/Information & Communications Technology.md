@@ -12,7 +12,8 @@ third_nav_title: Departments
          
 3 \.  Creating Conducive Learning Environments that support Personalised and Seamless Learning
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQIC8jJgGvHsRr6VXo4bZm15i8cVYdpRHEQ5R8v6525V4llUA4C88ZDHCvUhM51-DZoUmWpuDCJzjSb/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="950" height="569" allowfullscreen="true"></iframe>
+<img align="left" style="width:49%" src="/images/ICT Dept 1.jpg">
+<img align="right" style="width:49%" src="/images/ICT Dept 2.jpg">
 
 #### Computer Applications (CPA)
 
@@ -23,6 +24,8 @@ CPA enables students
 * To acquire skills in using a variety of application software and associated computer hardware, to accomplish tasks, develop an awareness of how computing technology is used in the home and society.
 * The course covers the use of a wide range of application software such as document processing, spreadsheet, presentations, graphics and animation.
 * Selected animations produced by Sec 2 and 3 students during their lessons on coding may be submitted for competitions at inter-school level.
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQIC8jJgGvHsRr6VXo4bZm15i8cVYdpRHEQ5R8v6525V4llUA4C88ZDHCvUhM51-DZoUmWpuDCJzjSb/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="950" height="569" allowfullscreen="true"></iframe>
 
 #### Elements of Business Skills (EBS)
 
