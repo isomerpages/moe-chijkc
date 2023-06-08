@@ -1,5 +1,5 @@
 collections:
-  sec-1-registration-archives:
+  archives-sec-1-registration:
     output: true
     order:
       - 1) Sec 1 Registration.md
