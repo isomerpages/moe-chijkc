@@ -1,8 +1,7 @@
 ---
-title: Choosing a CCA
-permalink: /admissions/Sec-1-Registration/choose-cca/
+title: 8) Choosing a CCA
+permalink: /admissions/sec-1-registration/choose-cca/
 description: ""
-third_nav_title: Sec 1 Registration
 ---
 #### Guidelines for Secondary Ones
 
@@ -20,7 +19,7 @@ Under the LEAPS (2.0) grading system, points are awarded for leadership, achieve
 
 Details of the grading system and the school’s CCA policy are spelt out clearly in the Student Journal.
 
-#### CCAs Trials & Auditions
+#### CCAs Trials &amp; Auditions
 
 The objective is to help identify the talent in our students and develop their potential to the fullest.
 
@@ -48,7 +47,7 @@ Has a passion for community service (IJYM). Has an interest in and aptitude for 
 
 #### Selection of CCAs
 
-All Secondary One students will be required to go online to select a CCA of their choice. They will be asked to make five choices and the school will allocate students according to their talents as well as their preferences.  Please take note that the school will endeavour to allocate a student to one of her five choices.
+All Secondary One students will be required to go online to select a CCA of their choice. They will be asked to make five choices and the school will allocate students according to their talents as well as their preferences.&nbsp; Please take note that the school will endeavour to allocate a student to one of her five choices.
 
 Once a Secondary One student has been allocated a particular CCA, she must participate in that CCA for the whole of her first year. She can only request for a change of CCA in the first month of Secondary Two.
 
@@ -58,7 +57,7 @@ Should there be an instance where a student does not get any of the five choices
 
 #### CCA Attendance
 
-Please note that while CCA in primary school is optional, CCA in secondary school is compulsory and students’ attendance <u>must be regular.</u> The school views absence from CCA without a valid reason as truancy, which is a serious offence. 
+Please note that while CCA in primary school is optional, CCA in secondary school is compulsory and students’ attendance&nbsp;<u>must be regular.</u> The school views absence from CCA without a valid reason as truancy, which is a serious offence.&nbsp;
 
 Students with attendance less than 75% for each term (without a valid reason) will receive a “Fair” for conduct in their report book.
 
@@ -66,7 +65,7 @@ Students with attendance less than 75% for each term (without a valid reason) wi
 
 CCAs are held on Wednesdays and Fridays after school. All CCAs will end by 6:00 p.m.
 
-Sports & Games and Performing Arts CCAs will generally hold sessions twice a week while Uniformed Groups, Clubs and Societies (except for Debate), once a week.
+Sports &amp; Games and Performing Arts CCAs will generally hold sessions twice a week while Uniformed Groups, Clubs and Societies (except for Debate), once a week.
 
 Please note that students taking some Higher Mother Tongue classes will have their language lessons in another school and these may clash with the designated CCA days. They are thus advised to select a CCA that does not clash with these lessons.
 
@@ -74,28 +73,28 @@ Please note that students taking some Higher Mother Tongue classes will have the
 
 CCAs offered fall into four core categories:
 
-*   Sports & Games
+*   Sports &amp; Games
 *   Uniformed Groups
 *   Performing Arts Groups
-*   Clubs & Societies
+*   Clubs &amp; Societies
 
 The maximum availability of Secondary 1 membership in 2023 is indicated next to each CCA:
 
 |  |  |  |  |
 |---|---|---|---|
-| **Sports & Games** | **Uniformed Groups** | **Performing Arts Groups** | **Clubs/Societies** |
+| **Sports &amp; Games** | **Uniformed Groups** | **Performing Arts Groups** | **Clubs/Societies** |
 | 1 \. Badminton (10) | 1 \. NCDCC (15) | 1 \. Choir (20) | 1 \. Debate Club (10) |
 | 2 \. Floorball (14) | 2 \. Girl Guides (15) | 2 \. Chinese Orchestra (20) | 2 \. MediaComm Club (110) |
 | 3 \. Netball (14) |  | 3 \. Chinese Drama (10) | 3 \. IJ Youth Mission (10) |
 | 4 \. Tenpin Bowling (10) |  | 4 \. Dance (10) | 4 \. Entrepreneur Club (10) |
-| 5 \. Track & Field (15) |  | 5 \. Dramatic Arts Society (14) |  |
+| 5 \. Track &amp; Field (15) |  | 5 \. Dramatic Arts Society (14) |  |
 | 6 \.Sports Club (15) |  | 6 \. Concert Band (20) |  |
 | **Total: 78** | **Total: 30** | **Total: 92** | **Total: 40** |
 |  |  |  |  |
 
 _\*All DSA- Visual Arts students will be allocated MediaComm as their CCA._
 
-_For more information on the individual CCAs you may visit our [CCA webpage](/student-development/CCA/cca/)
+_For more information on the individual CCAs you may visit our&nbsp;[CCA webpage](/student-development/CCA/cca/)
 
 #### Schedule of CCA Selection in January 2023
 

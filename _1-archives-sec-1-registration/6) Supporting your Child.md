@@ -1,8 +1,7 @@
 ---
-title: Supporting your Child
-permalink: /admissions/Sec-1-Registration/supporting-child/
+title: 6) Supporting your Child
+permalink: /admissions/sec-1-registration/supporting-child/
 description: ""
-third_nav_title: Sec 1 Registration
 ---
 #### i. Counselling Needs
 
@@ -12,12 +11,12 @@ Counselling is a collaborative helping process where the school counsellor and s
 
 **b. Who is counselling for?**
 
-The life of a student can be a stressful one. Students who are facing personal challenges and issues such as these can choose to approach the school counsellor for help: 
+The life of a student can be a stressful one. Students who are facing personal challenges and issues such as these can choose to approach the school counsellor for help:&nbsp;
 
 *   Relationship and interpersonal issues
 *   Academic stress
-*   Personal issues 
-*   Coping and problem-solving 
+*   Personal issues&nbsp;
+*   Coping and problem-solving&nbsp;
 *   Decision-making
 
 **c. Who do I approach if I have queries or concerns related to counselling for my child/ ward?**
@@ -30,13 +29,13 @@ Ms Aqilah Binte Sha'aban ([aqilah\_binte\_shaaban@moe.edu.sg](mailto:aqilah_bint
 
 #### ii. Catholic Students
 
-We are pleased that you have chosen CHIJ Katong Convent to provide a Catholic school experience for your daughter/ ward.  Noting that parents are the first catechists of their child’s faith formation, here at CHIJ Katong Convent, we endeavour to support our Catholic parents through offering a Catholic programme for their daughter/ ward. .
+We are pleased that you have chosen CHIJ Katong Convent to provide a Catholic school experience for your daughter/ ward.&nbsp; Noting that parents are the first catechists of their child’s faith formation, here at CHIJ Katong Convent, we endeavour to support our Catholic parents through offering a Catholic programme for their daughter/ ward.&nbsp;.
 
-Catholic students are to fill in this **[form](https://go.gov.sg/kccatholicmatters2023)**.
+Catholic students are to fill in this&nbsp;**[form](https://go.gov.sg/kccatholicmatters2023)**.
 
 #### iii. After School Engagement
 
-The After School Engagement (ASE) is targeted for students who might not have after school supervision (i.e., both working parents without extended support in caring for the child). The ASE is a student-centred hub where students engage in a structured after-school programme within the school environment, extending the culture of care beyond school hours. 
+The After School Engagement (ASE) is targeted for students who might not have after school supervision (i.e., both working parents without extended support in caring for the child). The ASE is a student-centred hub where students engage in a structured after-school programme within the school environment, extending the culture of care beyond school hours.&nbsp;
 
 In ASE, students are supervised to complete their homework, engage in meaningful social interactions, learn leadership skills as well as participate in meaningful activities such as sports, craft, community work or even learning journeys.
 
@@ -44,17 +43,17 @@ The ASE will operate on non-CCA days (Mondays, Tuesdays and Thursdays). The oper
 
 As part of the daily ASE schedule, students complete their homework/studies during the first hour. After which, they will be engaged in an activity planned for them by the ASE teachers in charge. Most activities will be held within the school compound. Parents will be informed in advance if activities are to be conducted out of school
 
-If you are keen to sign your child/ward up for the ASE please fill in the form using this [link](https://go.gov.sg/kc-ase-2023).
+If you are keen to sign your child/ward up for the ASE please fill in the form using this&nbsp;[link](https://go.gov.sg/kc-ase-2023).
 
 If you have any other queries about ASE, please contact Ms Lee Shu Min ([lee\_shu\_min@moe.edu.sg](mailto:lee_shu_min@moe.edu.sg)).
 
 **What is the participation size of the ASE?**
 
-The ASE programme takes in students from different levels.  Hence the capacity for the Sec 1s intake will be limited to an ideal size of about 15 students.  This is a tentative Sec 1 projection subject to the response to this programme
+The ASE programme takes in students from different levels.&nbsp; Hence the capacity for the Sec 1s intake will be limited to an ideal size of about 15 students.&nbsp; This is a tentative Sec 1 projection subject to the response to this programme
 
 **What is the commitment for this programme?**
 
-Once you sign up for this programme, we require a commitment for a year and attendance will be tracked.  You will be notified if your daughter/ ward is absent and we require a doctor’s medical certificate or parental letter if she is unable to attend.  However, if you do wish to pull out of the programme in the course of the year, please indicate your intent in writing to the Principal.
+Once you sign up for this programme, we require a commitment for a year and attendance will be tracked.&nbsp; You will be notified if your daughter/ ward is absent and we require a doctor’s medical certificate or parental letter if she is unable to attend.&nbsp; However, if you do wish to pull out of the programme in the course of the year, please indicate your intent in writing to the Principal.
 
 **Is participation in the ASE free?**
 
@@ -82,7 +81,7 @@ Students will have to take their own lunch in the canteen before reporting to th
 
 **What extra items must they have for ASE?**
 
-They are not required to bring any extra items. Students will be informed to bring their PE attire if games or Art & craft sessions are organised. They must also have their study materials (e.g., daily homework) to be used during the study period.
+They are not required to bring any extra items. Students will be informed to bring their PE attire if games or Art &amp; craft sessions are organised. They must also have their study materials (e.g., daily homework) to be used during the study period.
 
 **Does the ASE operate during the mid-year and end-of-year examination period?**
 
@@ -102,7 +101,7 @@ The MOE Financial Assistance Scheme is available to students who :
 
 If the current primary school has processed and approved your FAS application, please kindly provide a copy of the approval letter when you come to collect the school uniform and textbooks.
 
-More information on MOE FAS can be found **[here](/the-kc-village/parents/)**.
+More information on MOE FAS can be found&nbsp;**[here](/the-kc-village/parents/)**.
 
 You may refer to the flowchart below for the application process.
 

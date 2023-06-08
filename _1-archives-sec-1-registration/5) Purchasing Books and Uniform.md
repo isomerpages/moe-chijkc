@@ -1,8 +1,7 @@
 ---
-title: Purchasing Books and Uniform
-permalink: /sec-1-registration/purchasebooksnuuni/
+title: 5) Purchasing Books and Uniform
+permalink: /admissions/sec-1-registration/purchasebooksnuuni/
 description: ""
-third_nav_title: Sec 1 Registration
 ---
 #### Books and Uniform Sale
 
@@ -35,7 +34,7 @@ Sec 1 Normal (Technical)<br>
 
 **\*For collection in school, parents are to observe the following:**
 
-*   Access to school is limited to <u>one parent and one child only.</u>  
+*   Access to school is limited to&nbsp;<u>one parent and one child only.</u>  
 *   Proof of purchase/ collection date to be shown to security.
 *   For change of collection date, parents are advised to contact respective vendors.
 
@@ -43,12 +42,12 @@ _Students are strongly encouraged to purchase their uniform and books online and
 
 #### Walk-In Purchase
 
-We strongly encourage parents to purchase online, however if parents can only purchase through walk-in, we seek your understanding that only one parent and child can be allowed into the school premises. Please book your walk-in purchase (for textbooks only) by e-appointment at: **[register.ezy-queue.com](http://register.ezy-queue.com/)**.  
+We strongly encourage parents to purchase online, however if parents can only purchase through walk-in, we seek your understanding that only one parent and child can be allowed into the school premises. Please book your walk-in purchase (for textbooks only) by e-appointment at:&nbsp;**[register.ezy-queue.com](http://register.ezy-queue.com/)**.  
 
-The bookshop and uniform shop are open from **Wednesday,** **21 December** till **Friday**,  
-**30 December** 2022 except weekends and public holidays.
+The bookshop and uniform shop are open from&nbsp;**Wednesday,**&nbsp;**21 December**&nbsp;till&nbsp;**Friday**,  
+**30 December**&nbsp;2022 except weekends and public holidays.
 
-Students whose MOE FAS applications have been approved by the primary schools, please kindly provide a copy of the approval letter to collect the books and uniform. If you wish to apply for MOE FAS, please refer **[here](/the-kc-village/parents/)** for more information.
+Students whose MOE FAS applications have been approved by the primary schools, please kindly provide a copy of the approval letter to collect the books and uniform. If you wish to apply for MOE FAS, please&nbsp;refer&nbsp;**[here](/the-kc-village/parents/)**&nbsp;for more information.
 
 |   | **Pacific BookStore**  | **Asencio Uniform Supplier**  |
 |:-|---|---|
