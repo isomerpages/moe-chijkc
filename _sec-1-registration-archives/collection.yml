@@ -2,6 +2,7 @@ collections:
   sec-1-registration-archives:
     output: true
     order:
+      - 2) Meeting your Form Teachers.md
       - 3) Preparing for the First Day and Essential Information.md
       - 4) Understanding Curriculum Matters.md
       - 5) Purchasing Books and Uniform.md
