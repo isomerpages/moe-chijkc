@@ -2,6 +2,7 @@ collections:
   sec-1-registration-archives:
     output: true
     order:
+      - 4) Understanding Curriculum Matters.md
       - 5) Purchasing Books and Uniform.md
       - 6) Supporting your Child.md
       - 7) Submitting Forms.md
