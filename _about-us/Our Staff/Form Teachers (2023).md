@@ -10,7 +10,7 @@ third_nav_title: Our Staff
 | **Class**  | **Form Teacher**  | **Email**  |
 | **101**  | Ms Pamela K Samales  <br>Mr Shahren Mansor  | [pamela\_samales@moe.edu.sg](mailto:pamela_samales@moe.edu.sg)<br>[shahren\_mansor@moe.edu.sg](mailto:shahren_mansor@moe.edu.sg)  |
 | **102**  | Ms Nufail Mahmood  <br>Mrs Shanthi Lingesh  | [nufail\_mahmood@moe.edu.sg](mailto:nufail_mahmood@moe.edu.sg)<br>[shanthi\_lingesh@moe.edu.sg](mailto:shanthi_lingesh@moe.edu.sg)  |
-| **103**  | Ms Cai Hanyun  <br>Ms Lai Ai Fah  | [cai\_hanyun@moe.edu.sg](mailto:cai_hanyun@moe.edu.sg)<br>[lai\_ai\_fah@moe.edu.sg](mailto:lai_ai_fah@moe.edu.sg)  |
+| **103**  | Ms Cai Hanyun  <br>Ms Lai Ai Fah | [cai\_hanyun@moe.edu.sg](mailto:cai_hanyun@moe.edu.sg)<br>[lai\_ai\_fah@moe.edu.sg](mailto:lai_ai_fah@moe.edu.sg) |
 | **104**  | Mr Luke Saidil Ezekiel  <br>Ms Smitha Srinivas Rao  | [luke\_saidil\_ezekiel@moe.edu.sg](mailto:luke_saidil_ezekiel@moe.edu.sg)<br>[rao\_smitha\_srinivas@moe.edu.sg](mailto:rao_smitha_srinivas@moe.edu.sg)  |
 | **105**  | Ms Hannah Nadhirah  <br>Mr Pang Kim Fong  | [hannah\_nadhirah\_lokman@moe.edu.sg](mailto:hannah_nadhirah_lokman@moe.edu.sg)<br>[pang\_kim\_fong@moe.edu.sg](mailto:pang_kim_fong@moe.edu.sg)  |
 | **106**  | Mr Faizal B Mohd Hussein  <br>Ms Lim Si Ying  | [faizal\_hussein@moe.edu.sg](mailto:faizal_hussein@moe.edu.sg)<br>[lim\_si\_ying@moe.edu.sg](mailto:lim_si_ying@moe.edu.sg)  |
@@ -34,8 +34,8 @@ third_nav_title: Our Staff
 |:-:|---|---|
 | **SECONDARY 3**  | **Year Head:** Ms Nor Sharina Abd Majid  <br>**Discipline:** Ms Lee Oi Leng  | [nor\_sharina\_abd\_majid@moe.edu.sg](mailto:nor_sharina_abd_majid@moe.edu.sg)<br>[lee\_oi\_leng@moe.edu.sg](mailto:lee_oi_leng@moe.edu.sg)  |
 | **Class**  | **Form Teacher**  | **Email**  |
-| **301**  | Ms Tan Shuyi Angelita  <br>Mr Goh Wenxian, Ryan  | [angelita\_tan@moe.edu.sg](mailto:angelita_tan@moe.edu.sg)<br>[goh\_wenxian\_ryan@moe.edu.sg](mailto:goh_wenxian_ryan@moe.edu.sg)  |
-| **302**  | Mr Tan Swee Hong  | [tan\_swee\_hong@moe.edu.sg](mailto:tan_swee_hong@moe.edu.sg)  |
+| **301**  | Ms Tan Shuyi Angelita  <br>Ms Xu Sihui  | [angelita\_tan@moe.edu.sg](mailto:angelita_tan@moe.edu.sg)<br> [xu_sihui@moe.edu.sg](mailto:xu_sihui@moe.edu.sg)  |
+| **302**  | Mr Tan Swee Hong <br> Ms Phoebe Toh Cui Yan | [tan\_swee\_hong@moe.edu.sg](mailto:tan_swee_hong@moe.edu.sg) <br> [phoebe_toh_cui_yan@moe.edu.sg](mailto:phoebe_toh_cui_yan@moe.edu.sg)  |
 | **303**  | Ms Ang Sok Heng, Cheryl  <br>Ms Mano Mani  | [ang\_sok\_heng\_cheryl@moe.edu.sg](mailto:ang_sok_heng_cheryl@moe.edu.sg)<br>[mano\_mani@moe.edu.sg](mailto:mano_mani@moe.edu.sg)  |
 | **304**  | Mrs Cherylyn Koh  <br>Mr Eugene Khoo Xuan We  | [cherylyn\_poh\_fung\_sze@moe.edu.sg](mailto:cherylyn_poh_fung_sze@moe.edu.sg)<br>[khoo\_xuan\_wei\_eugene@moe.edu.sg](mailto:khoo_xuan_wei_eugene@moe.edu.sg)  |
 | **305**  | Mr John D Jegathesan  <br>Mdm Wong Poh Yan Teresa  | [d\_jegathesan@moe.edu.sg](mailto:d_jegathesan@moe.edu.sg)<br>[wong\_poh\_yan\_teresa@moe.edu.sg](mailto:wong_poh_yan_teresa@moe.edu.sg)  |
@@ -51,7 +51,7 @@ third_nav_title: Our Staff
 | **402**  | Mr Ho Shi An  <br>Mdm Zakiah Subahan  | [ho\_shi\_an@moe.edu.sg](mailto:ho_shi_an@moe.edu.sg)<br>[zakiah\_subahan@moe.edu.sg](mailto:zakiah_subahan@moe.edu.sg)  |
 | **403**  | Mdm Raudah Hussain  <br>Mr See Tow Pak Kei  | [raudah\_hussain@moe.edu.sg](mailto:raudah_hussain@moe.edu.sg)<br>[see\_tow\_pak\_kei@moe.edu.sg](mailto:see_tow_pak_kei@moe.edu.sg)  |
 | **404**  | Ms Ang Yen Ling  <br>Ms Wahidah  | [ang_yen_ling_b@moe.edu.sg](mailto:ang_yen_ling@moe.edu.sg)<br>[wahidah\_ahmad@moe.edu.sg](mailto:wahidah_ahmad@moe.edu.sg)  |
-| **405**  | Mdm Chong Pei Sin  <br>Ms Gan Siew Cheng  | [chong\_pei\_sin@moe.edu.sg](mailto:chong_pei_sin@moe.edu.sg)<br>[gan\_siew\_cheng@moe.edu.sg](mailto:gan_siew_cheng@moe.edu.sg)  |
+| **405**  | Mdm Chong Pei Sin  <br>Ms Gan Siew Cheng <br> Ms Zhang Fang  | [chong\_pei\_sin@moe.edu.sg](mailto:chong_pei_sin@moe.edu.sg)<br>[gan\_siew\_cheng@moe.edu.sg](mailto:gan_siew_cheng@moe.edu.sg)  <br> [zhang_fang@moe.edu.sg](mailto:zhang_fang@moe.edu.sg)|
 | **406**  | Mrs Janice Tan  <br>Mr Tan Yan Zhao  | [nah\_chiew\_hong\_janice@moe.edu.sg](mailto:nah_chiew_hong_janice@moe.edu.sg)<br>[tan\_yan\_zhao@moe.edu.sg](mailto:tan_yan_zhao@moe.edu.sg)  |
 | **407**  | Mrs Judy Goh  | [lim\_li\_kiang@moe.edu.sg](mailto:lim_li_kiang@moe.edu.sg)  |
 |   |   |   |
