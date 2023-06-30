@@ -34,7 +34,7 @@ third_nav_title: Our Staff
 |:-:|---|---|
 | **SECONDARY 3**  | **Year Head:** Ms Nor Sharina Abd Majid  <br>**Discipline:** Ms Lee Oi Leng  | [nor\_sharina\_abd\_majid@moe.edu.sg](mailto:nor_sharina_abd_majid@moe.edu.sg)<br>[lee\_oi\_leng@moe.edu.sg](mailto:lee_oi_leng@moe.edu.sg)  |
 | **Class**  | **Form Teacher**  | **Email**  |
-| **301**  | Ms Tan Shuyi Angelita  <br>Mr Goh Wenxian, Ryan  | [angelita\_tan@moe.edu.sg](mailto:angelita_tan@moe.edu.sg)<br>[goh\_wenxian\_ryan@moe.edu.sg](mailto:goh_wenxian_ryan@moe.edu.sg)  |
+| **301**  | Ms Tan Shuyi Angelita  <br>Ms Wee Por Hua Joann  | [angelita\_tan@moe.edu.sg](mailto:angelita_tan@moe.edu.sg)<br>[wee_por_hua@moe.edu.sg](mailto:wee_por_hua@@moe.edu.sg)  |
 | **302**  | Mr Tan Swee Hong  | [tan\_swee\_hong@moe.edu.sg](mailto:tan_swee_hong@moe.edu.sg)  |
 | **303**  | Ms Ang Sok Heng, Cheryl  <br>Ms Mano Mani  | [ang\_sok\_heng\_cheryl@moe.edu.sg](mailto:ang_sok_heng_cheryl@moe.edu.sg)<br>[mano\_mani@moe.edu.sg](mailto:mano_mani@moe.edu.sg)  |
 | **304**  | Mrs Cherylyn Koh  <br>Mr Eugene Khoo Xuan We  | [cherylyn\_poh\_fung\_sze@moe.edu.sg](mailto:cherylyn_poh_fung_sze@moe.edu.sg)<br>[khoo\_xuan\_wei\_eugene@moe.edu.sg](mailto:khoo_xuan_wei_eugene@moe.edu.sg)  |
