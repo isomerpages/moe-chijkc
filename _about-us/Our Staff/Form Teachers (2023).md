@@ -10,7 +10,7 @@ third_nav_title: Our Staff
 | **Class**  | **Form Teacher**  | **Email**  |
 | **101**  | Ms Pamela K Samales  <br>Mr Shahren Mansor  | [pamela\_samales@moe.edu.sg](mailto:pamela_samales@moe.edu.sg)<br>[shahren\_mansor@moe.edu.sg](mailto:shahren_mansor@moe.edu.sg)  |
 | **102**  | Ms Nufail Mahmood  <br>Mrs Shanthi Lingesh  | [nufail\_mahmood@moe.edu.sg](mailto:nufail_mahmood@moe.edu.sg)<br>[shanthi\_lingesh@moe.edu.sg](mailto:shanthi_lingesh@moe.edu.sg)  |
-| **103**  | Ms Cai Hanyun  <br>Ms Lai Ai Fah  | [cai\_hanyun@moe.edu.sg](mailto:cai_hanyun@moe.edu.sg)<br>[lai\_ai\_fah@moe.edu.sg](mailto:lai_ai_fah@moe.edu.sg)  |
+| **103**  | Ms Cai Hanyun  <br>Ms Lai Ai Fah  <br> Ms Xu Sihui| [cai\_hanyun@moe.edu.sg](mailto:cai_hanyun@moe.edu.sg)<br>[lai\_ai\_fah@moe.edu.sg](mailto:lai_ai_fah@moe.edu.sg) <br> [xu_sihui@moe.edu.sg](mailto:xu_sihui@moe.edu.sg) |
 | **104**  | Mr Luke Saidil Ezekiel  <br>Ms Smitha Srinivas Rao  | [luke\_saidil\_ezekiel@moe.edu.sg](mailto:luke_saidil_ezekiel@moe.edu.sg)<br>[rao\_smitha\_srinivas@moe.edu.sg](mailto:rao_smitha_srinivas@moe.edu.sg)  |
 | **105**  | Ms Hannah Nadhirah  <br>Mr Pang Kim Fong  | [hannah\_nadhirah\_lokman@moe.edu.sg](mailto:hannah_nadhirah_lokman@moe.edu.sg)<br>[pang\_kim\_fong@moe.edu.sg](mailto:pang_kim_fong@moe.edu.sg)  |
 | **106**  | Mr Faizal B Mohd Hussein  <br>Ms Lim Si Ying  | [faizal\_hussein@moe.edu.sg](mailto:faizal_hussein@moe.edu.sg)<br>[lim\_si\_ying@moe.edu.sg](mailto:lim_si_ying@moe.edu.sg)  |
