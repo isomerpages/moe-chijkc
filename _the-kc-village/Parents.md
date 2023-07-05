@@ -38,7 +38,7 @@ KC EOY Letter to Parents
 
 #### Weighted Assessment 
 
-**[WA Calendar](/files/KC%20Viilage/Parents/Weighted%20Assessment/Weighted%20Assessment%20Schedule%202023_WA%202.pdf)**
+**[WA 3 Calendar](/files/KC%20Viilage/Parents/Weighted%20Assessment/Weighted%20Assessment%20Schedule%202023_WA%202.pdf)[](/files/KC%20Viilage/Parents/Weighted%20Assessment/weighted%20assessment%20schedule%202023%20_wa%203.pdf)**
 
 |  |  |  |  |  |
 |:---:|:---:|:---:|:---:|:---:|
@@ -55,13 +55,15 @@ KC EOY Letter to Parents
 |  |  |  |  |  |
 |:---:|:---:|:---:|:---:|:---:|
 | **Sec 1** | **Sec 2** | **Sec 3** | **Sec 4** | **Sec 5** |
-| - | - | - | - | - |
-
+| 1E | 2E | 3E | 4E | - |
+| 1NA | 2NA | 3NA | [4NA](/files/KC%20Viilage/Parents/TimeTables/2023_4nant%20prelim%20tt_final_student.pdf) | 5NA |
+| 1NT | 2NT | 3NT | [4NT](/files/KC%20Viilage/Parents/TimeTables/2023_4nant%20prelim%20tt_final_student.pdf) | - |
+|  |  |  |  |  |
 	
 #### 2023 Issues of Parent Link
 
 |   |   |
 |:---:|:---:|
-| [**Term 1**](/files/KC%20Viilage/Parents/Parent%20Link/Parent%20Link%20_Term%201%202023.pdf) | [**Term 2**](/files/KC%20Viilage/Parents/Parent%20Link/parent%20link%20_term%202%202023.pdf)  |
-| [**Term 3**](/files/KC%20Viilage/Parents/Letters%20To%20Parents/term%203%20letter%20to%20parents%202023%20(issued%20on%2028%20jun).pdf)  | **Term 4**  |
+| [Term 1](/files/KC%20Viilage/Parents/Parent%20Link/Parent%20Link%20_Term%201%202023.pdf) | [Term 2](/files/KC%20Viilage/Parents/Parent%20Link/parent%20link%20_term%202%202023.pdf)  |
+| [Term 3](/files/KC%20Viilage/Parents/Letters%20To%20Parents/term%203%20letter%20to%20parents%202023%20(issued%20on%2028%20jun).pdf)  | Term 4  |
 |   |   |
