@@ -55,9 +55,9 @@ KC EOY Letter to Parents
 |  |  |  |  |  |
 |:---:|:---:|:---:|:---:|:---:|
 | **Sec 1** | **Sec 2** | **Sec 3** | **Sec 4** | **Sec 5** |
-| - | - | - | - | - |
-| - | - | - | [4NA](/files/KC%20Viilage/Parents/TimeTables/2023_4nant%20prelim%20tt_final_student.pdf) | - |
-| - | - | - | [4NT](/files/KC%20Viilage/Parents/TimeTables/2023_4nant%20prelim%20tt_final_student.pdf) | - |
+| 1E | 2E | 3E | 4E | - |
+| 1NA | 2NA | 3NA | [4NA](/files/KC%20Viilage/Parents/TimeTables/2023_4nant%20prelim%20tt_final_student.pdf) | 5NA |
+| 1NT | 2NT | 3NT | [4NT](/files/KC%20Viilage/Parents/TimeTables/2023_4nant%20prelim%20tt_final_student.pdf) | - |
 |  |  |  |  |  |
 	
 #### 2023 Issues of Parent Link
