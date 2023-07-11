@@ -33,7 +33,7 @@ KC EOY Letter to Parents
 
 |  |   |
 |:---:|:---:|
-| [2023 Semester 1 ](/files/KC%20Viilage/Parents/TimeTables/2023%20term%202%20class%20tt_3%20apr.pdf) | [2023 Semester 2](/files/KC%20Viilage/Parents/TimeTables/2023%20sem%202%20class%20tt_22%20june%20(with%20aftn%20lessons).pdf)  |
+| [2023 Semester 1 ](/files/KC%20Viilage/Parents/TimeTables/2023%20term%202%20class%20tt_3%20apr.pdf) | [2023 Semester 2 <br>(Updated @ 11 July 2023)](/files/KC%20Viilage/Parents/TimeTables/2023%20sem%202%20class%20tt_11%20july%20(with%20aftn%20lessons).pdf) |
 |  |  |
 
 #### Weighted Assessment 
@@ -50,7 +50,7 @@ KC EOY Letter to Parents
 
 #### Prelim and End-of-Year Examinations
 
-**Sec 1-3 EOY Letter & Schedule**
+**Sec 1-3 EOY Letter &amp; Schedule**
 
 |  |  |  |  |  |
 |:---:|:---:|:---:|:---:|:---:|
