@@ -14,6 +14,8 @@ Students will be required to perform a one-time set up of answers to challenge q
 Please refer to this file for the steps to set up the ***one-time*** of answers to challenge questions in the MIMS Portal.<br>
 [Setup your challenge questions](/files/Learning/SLS%20Support%20for%20HBL/posters_mims_sspr_guide.pdf)
 
+[MIMS: MOE IDENTITY MANAGEMENT SYSTEM Student Self Service Password Reset (SSPR) Guide](/files/Learning/SLS%20Support%20for%20HBL/mims_sspr_guide.pdf)
+
 On **20 July 2023**, student can visit [https://mims.move.gov.sg/sspr](https://mims.move.gov.sg/sspr) to reset their MIMS account password.
 
 ![](/images/Learning/SLS%20Support%20for%20HBL/posters_mims_sspr_guide-2.png)
