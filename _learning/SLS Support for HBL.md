@@ -5,7 +5,7 @@ description: ""
 ---
 [Parent Kit - Supporting your child during Full HBL](/files/Parent%20Kit%20-%20Supporting%20your%20child%20during%20Full%20HBL.pdf)
 
-**Lastest Update (12 July 2023)**
+**<span style="color:red">Lastest Update (12 July 2023)</span>**
 
 With effect from **20 July 2023**, students will be able to perform a password reset on their own with the Student Self-Service Password Reset function in the MOE Identity Management System (**MIMS**) Portal.
 
