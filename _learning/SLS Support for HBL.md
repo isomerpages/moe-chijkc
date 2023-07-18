@@ -11,7 +11,7 @@ With effect from **20 July 2023**, students will be able to perform a password r
 
 Students will be required to perform a one-time set up of answers to challenge questions in their MIMS Portal to enable student self-service password reset when required.
 
-Please refer to this file for the steps to set up the ***one-time*** of answers to challenge questions in the MIMS Portal.<br>
+Please refer to this file to set up the answers to your challenge questions in the MIMS Portal.<br>
 [Setup your challenge questions](/files/Learning/SLS%20Support%20for%20HBL/posters_mims_sspr_guide.pdf)
 
 [MIMS: MOE IDENTITY MANAGEMENT SYSTEM Student Self Service Password Reset (SSPR) Guide](/files/Learning/SLS%20Support%20for%20HBL/mims_sspr_guide.pdf)
