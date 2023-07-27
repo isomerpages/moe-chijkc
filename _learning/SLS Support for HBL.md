@@ -16,7 +16,7 @@ Please refer to this file to set up the answers to your challenge questions in t
 
 [MIMS: MOE IDENTITY MANAGEMENT SYSTEM Student Self Service Password Reset (SSPR) Guide](/files/Learning/SLS%20Support%20for%20HBL/mims_sspr_guide.pdf)
 
-On **20 July 2023**, student can visit [https://mims.move.gov.sg/sspr](https://mims.move.gov.sg/sspr) to reset their MIMS account password.
+On **20 July 2023**, student can visit [https://mims.moe.gov.sg/sspr](https://mims.moe.gov.sg/sspr) to reset their MIMS account password.
 
 ![](/images/Learning/SLS%20Support%20for%20HBL/posters_mims_sspr_guide-2.png)
 
