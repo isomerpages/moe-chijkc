@@ -55,8 +55,8 @@ KC EOY Letter to Parents
 |  |  |  |  |  |
 |:---:|:---:|:---:|:---:|:---:|
 | **Sec 1** | **Sec 2** | **Sec 3** | **Sec 4** | **Sec 5** |
-| 1E | 2E | 3E | [4E](/files/KC%20Viilage/Parents/TimeTables/2023%204e5n%20prelim%20letter%20for%20parents%20&amp;%20timetable.pdf) | - |
-| 1NA | 2NA | 3NA | [4NA](/files/KC%20Viilage/Parents/TimeTables/2023_4nant%20prelim%20tt_final_student.pdf) | [5NA](/files/KC%20Viilage/Parents/TimeTables/2023%204e5n%20prelim%20letter%20for%20parents%20&amp;%20timetable.pdf) |
+| 1E | 2E | 3E | [4E](/files/KC%20Viilage/Parents/TimeTables/2023%204e5n%20prelim%20exam%20timetable_final_parents_140823.pdf) | - |
+| 1NA | 2NA | 3NA | [4NA](/files/KC%20Viilage/Parents/TimeTables/2023%204e5n%20prelim%20exam%20timetable_final_parents_140823.pdf) | [5NA](/files/KC%20Viilage/Parents/TimeTables/2023%204e5n%20prelim%20exam%20timetable_final_parents_140823.pdf) |
 | 1NT | 2NT | 3NT | [4NT](/files/KC%20Viilage/Parents/TimeTables/2023_4nant%20prelim%20tt_final_student.pdf) | - |
 |  |  |  |  |  |
 	
