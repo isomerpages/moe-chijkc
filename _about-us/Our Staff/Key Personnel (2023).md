@@ -14,7 +14,6 @@ third_nav_title: Our Staff
 | Heads of Department| Email  |
 |---|---|
 | **Aesthetics (covering)** <br>Ms Yin Mei Lenden  | <br>[yin\_mei\_lenden@moe.edu.sg](mailto:yin_mei_lenden@moe.edu.sg)  |
-| **Art**  <br>Mr Nathanael Tan  | <br>[tan_tak_thye_nathanael@moe.edu.sg](mailto:tan\_tak\_thye\_nathanael@moe.edu.sg)  |
 | **Character and Citizenship Education**  <br>Ms Ang Yen Ling  | <br>[ang_yen_ling_b@moe.edu.sg](mailto:ang_yen_ling@moe.edu.sg)  |
 | **English Language**  <br>Mrs Chua May Ling  | <br>[seah\_may\_ling@moe.edu.sg](mailto:seah_may_ling@moe.edu.sg)  |
 | **Humanities**  <br>Mdm Wahidah Ahamad  | <br>[wahidah_ahmad@moe.edu.sg](mailto:wahidah_ahmad@moe.edu.sg)  |
