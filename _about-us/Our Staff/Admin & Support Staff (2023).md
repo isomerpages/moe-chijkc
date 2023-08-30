@@ -10,7 +10,7 @@ third_nav_title: Our Staff
 | **Operations Manager**<br> Mr Puah Teck Chye  | <br> [puah_teck_chye@moe.edu.sg](mailto:puah_teck_chye@moe.edu.sg) |
 | **Administrative Executive**<br>Mdm Tan Mui Suan  | <br> [tan\_mui\_suan\_a@moe.edu.sg](mailto:tan_mui_suan_a@moe.edu.sg)|
 | **Administrative Executive**<br>Ms Jalilah Bibi Haniffa Kunju  | <br> [jalilah_bibi_haniffa_kunju@moe.edu.sg](mailto:jalilah_bibi_haniffa_kunju@moe.edu.sg)|
-| **Corporate Support Officer** <br>Ms Audrey Ng  | <br>[audrey_ng_ai_khim@moe.edu.sg](mailto:audrey\_ng\_ai\_khim@moe.edu.sg) |
+| **Corporate Support Officer** <br>Ms Audrey Ng <br>Mrs Rohaiyah Binte Sharif  | <br>[audrey_ng_ai_khim@moe.edu.sg](mailto:audrey\_ng\_ai\_khim@moe.edu.sg) <br>[rohaiyah_sharif@moe.edu.sg](mailto:rohaiyah_sharif@moe.edu.sg) |
 |   |   |
 
 | Support Officers  | Email  |
