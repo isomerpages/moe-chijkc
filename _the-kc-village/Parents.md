@@ -21,13 +21,21 @@ description: ""
 
 #### Letters to Parents
 
-KC EOY Letter to Parents
-
 | | |
 |:---:|:---:|
 | [Term 1](/files/KC%20Viilage/Parents/Letters%20To%20Parents/01%20KC%20Term%201%20Letter%20to%20Parents%202023%20issued%206%20Jan.pdf) | [Term 2](/files/KC%20Viilage/Parents/Letters%20To%20Parents/KC%20Term%202%20Letter%20to%20Parents%202023%20(issued%20on%2021%20Mar).pdf) |
 | Term 3 | Term 4 |
 | | |
+
+#### End-Of-Year Letter to Parents
+
+| | | |
+|:---:|:---:|:---:|
+| **Sec 1** | **Sec 2** | **Sec 3** |
+| [1E](/files/KC%20Viilage/Parents/EOY%20Letter/2023/sec%201e%20eoy%20letter%20for%20parents%20&amp;%20exam%20timetable%20&amp;%20coverage%202023.pdf) | [2E](/files/KC%20Viilage/Parents/EOY%20Letter/2023/sec%202e%20eoy%20letter%20for%20parents%20&amp;%20exam%20timetable%20&amp;%20covergae%202023.pdf) | [3E](/files/KC%20Viilage/Parents/EOY%20Letter/2023/sec%203e%20eoy%20letter%20for%20parents%20&amp;%20exam%20timetable%20&amp;%20coverage%202023.pdf) | 
+| [1NA](/files/KC%20Viilage/Parents/EOY%20Letter/2023/sec%201na%20eoy%20letter%20for%20parents%20&amp;%20exam%20timetable%20&amp;%20coverage%202023.pdf) | [2NA](/files/KC%20Viilage/Parents/EOY%20Letter/2023/sec%202na%20eoy%20letter%20for%20parents%20&amp;%20exam%20timetable%20&amp;%20covergae%202023.pdf) | [3NA](/files/KC%20Viilage/Parents/EOY%20Letter/2023/sec%203na%20eoy%20letter%20for%20parents%20&amp;%20exam%20timetable%20&amp;%20coverage%202023.pdf) |
+| [1NT](/files/KC%20Viilage/Parents/EOY%20Letter/2023/sec%201nt%20eoy%20letter%20for%20parents%20&amp;%20exam%20timetable%20&amp;%20coverage%202023.pdf) | [2NT](/files/KC%20Viilage/Parents/EOY%20Letter/2023/sec%202nt%20eoy%20letter%20for%20parents%20&amp;%20exam%20timetable%20&amp;%20covergae%202023.pdf) | [3NT](/files/KC%20Viilage/Parents/EOY%20Letter/2023/sec%203nt%20eoy%20letter%20for%20parents%20&amp;%20exam%20timetable%20&amp;%20coverage%202023.pdf) |
+|  |  |  | 
 
 #### Semester Class Timetables
 
