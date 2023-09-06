@@ -24,7 +24,7 @@ description: ""
 | | |
 |:---:|:---:|
 | [Term 1](/files/KC%20Viilage/Parents/Letters%20To%20Parents/01%20KC%20Term%201%20Letter%20to%20Parents%202023%20issued%206%20Jan.pdf) | [Term 2](/files/KC%20Viilage/Parents/Letters%20To%20Parents/KC%20Term%202%20Letter%20to%20Parents%202023%20(issued%20on%2021%20Mar).pdf) |
-| Term 3 | Term 4 |
+| [Term 3](/files/KC%20Viilage/Parents/Letters%20To%20Parents/term%203%20letter%20to%20parents%202023%20(issued%20on%2028%20jun).pdf) | Term 4 |
 | | |
 
 #### End-Of-Year Letter to Parents
@@ -73,5 +73,5 @@ description: ""
 |   |   |
 |:---:|:---:|
 | [Term 1](/files/KC%20Viilage/Parents/Parent%20Link/Parent%20Link%20_Term%201%202023.pdf) | [Term 2](/files/KC%20Viilage/Parents/Parent%20Link/parent%20link%20_term%202%202023.pdf)  |
-| [Term 3](/files/KC%20Viilage/Parents/Letters%20To%20Parents/term%203%20letter%20to%20parents%202023%20(issued%20on%2028%20jun).pdf)  | Term 4  |
+| [Term 3](/files/KC%20Viilage/Parents/Parent%20Link/parent%20link%20_term%203%202023.pdf) | Term 4  |
 |   |   |
