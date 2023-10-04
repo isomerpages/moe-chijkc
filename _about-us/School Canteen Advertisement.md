@@ -1,6 +1,6 @@
 ---
 title: School Canteen Advertisement
-permalink: /the-kc-village/canteen-ads/
+permalink: /about-us/canteen-ads/
 description: ""
 ---
 ##### Stall Vacancy:
