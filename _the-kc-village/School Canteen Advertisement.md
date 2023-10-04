@@ -5,12 +5,15 @@ description: ""
 ---
 ##### Stall Vacancy:
 
+| Type of Stall | Closing Date |
+| -------- | -------- |
+| Halal Crusine (Noodles or Rice) | 16 Oct 2023 |
 
-### **Application Procedure**
+#### **Application Procedure**
 
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 
-[Application Form](https://www.haiggirls.moe.edu.sg/files/2023%20canteen%20application%20form.pdf)
+[Application Form](/files/KC%20Viilage/2023%20canteen%20application%20form.pdf)
 
 2. Attached the following documents together with the application form:
 
@@ -22,21 +25,22 @@ description: ""
 
 3. Submit the completed application form and documents by closing date via email OR to the School’s General Office.
 
-* Address: 51 Koon Seng Road Singapore 427072
+* Address: 346 Marine Terrace, Singapore 449150
 
-* Contact No: 6344 0293
+* Contact No:  6448 6433
 
-* Email: haiggirlssch@moe.edu.sg
+* Email: chijktcs@moe.edu.sg
 
-* Contact Person: Mr Melvyn D Oliveiro
+* Contact Person: Mr Puah
 
 ##### **How to get here?**
 
-* Bus Services: 33 (from Bedok Interchange to Kent Ridge Terminal)
+* Bus Services: 
 
-* Nearest MRT Station: Eunos
-
-* Bus Stop No. nearest to the school: 82149 (Bef Koon Seng Rd)
+* Bus Stops nearest to the school: 
+<br>**Bus Stop ID: 92089 (CHIJ Katong Convent)**
+<br>**Bus Stop ID: 92081 (St. Patrick's Sch)**
+<br>Bus No. 13, 16, 16M, 31, 36, 36B, 43, 47, 48, 55, 196, 196e &amp; 197<br>
 
 ##### **Interest applicants must meet the following criteria:**
 
@@ -60,4 +64,4 @@ https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-progra
 
 * Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).
 
-* Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.\\
+* Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant’s own expense.
