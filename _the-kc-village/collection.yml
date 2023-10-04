@@ -2,7 +2,6 @@ collections:
   the-kc-village:
     output: true
     order:
-      - School Canteen Advertisement.md
       - IJ Board of Management.md
       - Parents.md
       - Alumnae/.keep
@@ -11,3 +10,4 @@ collections:
       - School Suppliers.md
       - Connect With Us.md
       - Useful Links.md
+      - School Canteen Advertisement.md
