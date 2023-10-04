@@ -5,9 +5,9 @@ description: ""
 ---
 ##### Stall Vacancy:
 
-| Type of Stall | Closing Date |
-| -------- | -------- |
-| Halal Crusine (Noodles or Rice) | 16 Oct 2023 |
+| Type of Stall | Closing Date | Requirements |
+| -------- | -------- | -------- |
+| Malay Food Stall | 16 Oct 2023 | Rice or noodles stalls are acceptable |
 
 #### **Application Procedure**
 
@@ -35,8 +35,6 @@ description: ""
 
 ##### **How to get here?**
 
-* Bus Services: 
-
 * Bus Stops nearest to the school: 
 <br>**Bus Stop ID: 92089 (CHIJ Katong Convent)**
 <br>**Bus Stop ID: 92081 (St. Patrick's Sch)**
@@ -48,15 +46,13 @@ description: ""
 
 * Able to provide good service and quality food with prices determined in consultation with the school.
 
-* Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools Programme (HMSP)” guidelines
-
-https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme
+* Able to provide cooked food that meets the health / nutritional standards set by the Health Promotion Board (HPB) under the “Healthy Meals in Schools Programme (HMSP)” guidelines (see [link](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme)).
 
 * Able to maintain high standard of food safety and personal hygiene.
 
 * Healthy and fit to operate the stall.
 
-**Applicants should preferably fulfil the following criteria:\*\*
+**Applicants should preferably fulfil the following criteria:**
 
 * Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.
 
