@@ -4,10 +4,15 @@ permalink: /about-us/canteen-ads/
 description: ""
 ---
 ##### Stall Vacancy:
-
+<style>
+    table {
+        font-size: 18px;
+    }
+</style>
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Malay Food Stall | 16 Oct 2023 | Rice or noodles stalls are acceptable |
+| Halal Crusine (Noodle/Rice) | 16 Oct 2023 | Rice or noodles stalls are acceptable |
+
 
 #### **Application Procedure**
 
