@@ -3,7 +3,7 @@ title: Parents
 permalink: /the-kc-village/parents/
 description: ""
 ---
-[](/files/KC%20Viilage/Parents/kc%20travel%20declaration%20website.pdf)#### Parents Gateway
+#### Parents Gateway
 
 |  |  |
 |:---:|:---:|
@@ -17,7 +17,6 @@ description: ""
 |:---:|:---:|
 | [Term 1](/files/KC%20Viilage/Parents/Letters%20To%20Parents/01%20KC%20Term%201%20Letter%20to%20Parents%202023%20issued%206%20Jan.pdf) | [Term 2](/files/KC%20Viilage/Parents/Letters%20To%20Parents/KC%20Term%202%20Letter%20to%20Parents%202023%20(issued%20on%2021%20Mar).pdf) |
 | [Term 3](/files/KC%20Viilage/Parents/Letters%20To%20Parents/term%203%20letter%20to%20parents%202023%20(issued%20on%2028%20jun).pdf) | [Term 4](/files/KC%20Viilage/Parents/Letters%20To%20Parents/kc%20term%204%20letter%20to%20parents%202023%20(issued%20on%2025%20sep).pdf) |
-EOY Letter to Parents |
 | | |
 
 
@@ -25,8 +24,8 @@ EOY Letter to Parents |
 
 |  |  |
 |:---:|:---:|
-| [2023 Semester 1 ](/files/KC%20Viilage/Parents/TimeTables/2023%20term%202%20class%20tt_3%20apr.pdf) | [2023 Semester 2 <br>(Updated @ 13 July 2023)](/files/KC%20Viilage/Parents/TimeTables/2023%20sem%202%20class%20tt_13%20july%20(with%20aftn%20lessons).pdf) |
-[Post EOY Exam Timetable](/files/KC%20Viilage/Parents/TimeTables/post%20eoy%20tt%202023%209_oct_class.pdf) |
+| [2023 Semester 1 ](/files/KC%20Viilage/Parents/TimeTables/2023%20term%202%20class%20tt_3%20apr.pdf) | [2023 Semester 2](/files/KC%20Viilage/Parents/TimeTables/2023%20sem%202%20class%20tt_13%20july%20(with%20aftn%20lessons).pdf) |
+[Post EOY Exam Timetable](/files/KC%20Viilage/Parents/TimeTables/post%20eoy%20tt%202023%209_oct_class.pdf) | [Sec 3 Nov&nbsp;AP](/files/KC%20Viilage/Parents/TimeTables/nov%20ap%20tt_23%20oct_class.pdf)
 |  |  |
 
 #### Weighted Assessment 
