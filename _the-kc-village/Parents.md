@@ -58,5 +58,5 @@ EOY Letter to Parents |
 |   |   |
 |:---:|:---:|
 | [Term 1](/files/KC%20Viilage/Parents/Parent%20Link/Parent%20Link%20_Term%201%202023.pdf) | [Term 2](/files/KC%20Viilage/Parents/Parent%20Link/parent%20link%20_term%202%202023.pdf)  |
-| [Term 3](/files/KC%20Viilage/Parents/Parent%20Link/parent%20link%20_term%203%202023.pdf) | Term 4  |
+| [Term 3](/files/KC%20Viilage/Parents/Parent%20Link/parent%20link%20_term%203%202023.pdf) | [Term 4](/files/KC%20Viilage/Parents/Letters%20To%20Parents/kc%20term%204%20letter%20to%20parents%202023%20(issued%20on%2025%20sep).pdf)  |
 |   |   |
