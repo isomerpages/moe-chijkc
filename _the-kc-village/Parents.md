@@ -3,11 +3,11 @@ title: Parents
 permalink: /the-kc-village/parents/
 description: ""
 ---
-#### Parents Gateway
+[](/files/KC%20Viilage/Parents/kc%20travel%20declaration%20website.pdf)#### Parents Gateway
 
 |  |  |
 |:---:|:---:|
-| [PG One-Time Onboarding](/files/PG%20One-Time%20Onboarding.pdf) | [Travel Declaration](/files/KC%20Viilage/Parents/kc%20travel%20declaration%20for%20nonpg%20-%20may%202023.pdf) |
+| [PG One-Time Onboarding](/files/PG%20One-Time%20Onboarding.pdf) | [Travel Declaration](/files/KC%20Viilage/Parents/kc%20travel%20declaration%20website.pdf) |
 | [Meetings Feature - User Guide (April 2022)](/files/Meetings%20Feature%20-%20User%20Guide%20April%202022.pdf) | [Update Contact Details](/files/Update%20Contact%20Details.pdf) |
 |  |  |
 
