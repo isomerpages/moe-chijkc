@@ -26,7 +26,7 @@ EOY Letter to Parents |
 |  |  |
 |:---:|:---:|
 | [2023 Semester 1 ](/files/KC%20Viilage/Parents/TimeTables/2023%20term%202%20class%20tt_3%20apr.pdf) | [2023 Semester 2 <br>(Updated @ 13 July 2023)](/files/KC%20Viilage/Parents/TimeTables/2023%20sem%202%20class%20tt_13%20july%20(with%20aftn%20lessons).pdf) |
-[Post EOY Exam Timetable](/files/KC%20Viilage/Parents/TimeTables/post%20eoy%20tt%202023%209_oct_class.pdf) | [Sec 3 Nov&nbsp;AP](/files/nov%20ap%20tt_23%20oct_class.pdf)
+[Post EOY Exam Timetable](/files/KC%20Viilage/Parents/TimeTables/post%20eoy%20tt%202023%209_oct_class.pdf) | [Sec 3 Nov&nbsp;AP](/files/KC%20Viilage/Parents/TimeTables/nov%20ap%20tt_23%20oct_class.pdf)
 |  |  |
 
 #### Weighted Assessment 
