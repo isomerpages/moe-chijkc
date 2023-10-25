@@ -3,7 +3,7 @@ title: Parents
 permalink: /the-kc-village/parents/
 description: ""
 ---
-[](/files/KC%20Viilage/Parents/kc%20travel%20declaration%20website.pdf)#### Parents Gateway
+#### Parents Gateway
 
 |  |  |
 |:---:|:---:|
