@@ -6,6 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+### DMA Uninstallation and De-Enrolment
+
 Students from 2023 graduating cohort will have their PLDs' (Chromebooks) DMA from Mobile Guardian uninstalled and their device will be no longer be managed by MOE. 
 
 The date for the DMA uninstallation and de-enrolment will be announced at a later date via email to your student's iCON email and Parent Gateway announcement.
