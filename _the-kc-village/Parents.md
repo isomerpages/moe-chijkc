@@ -13,11 +13,13 @@ description: ""
 
 #### Letters to Parents
 
-| | |
+**[EOY Letter (2023)](/files/KC%20Viilage/Parents/EOY%20Letter/2023/kc%20end%20of%20year%20letter%20to%20parents%202023%20(issued%20on%2026%20oct).pdf)**
+
+|  |  |
 |:---:|:---:|
 | [Term 1](/files/KC%20Viilage/Parents/Letters%20To%20Parents/01%20KC%20Term%201%20Letter%20to%20Parents%202023%20issued%206%20Jan.pdf) | [Term 2](/files/KC%20Viilage/Parents/Letters%20To%20Parents/KC%20Term%202%20Letter%20to%20Parents%202023%20(issued%20on%2021%20Mar).pdf) |
 | [Term 3](/files/KC%20Viilage/Parents/Letters%20To%20Parents/term%203%20letter%20to%20parents%202023%20(issued%20on%2028%20jun).pdf) | [Term 4](/files/KC%20Viilage/Parents/Letters%20To%20Parents/kc%20term%204%20letter%20to%20parents%202023%20(issued%20on%2025%20sep).pdf) |
-| | |
+|  |  |
 
 
 #### Semester Class Timetables
@@ -30,7 +32,7 @@ description: ""
 
 #### Weighted Assessment 
 
-**[WA 3 Calendar](/files/KC%20Viilage/Parents/Weighted%20Assessment/Weighted%20Assessment%20Schedule%202023_WA%202.pdf)[](/files/KC%20Viilage/Parents/Weighted%20Assessment/weighted%20assessment%20schedule%202023%20_wa%203.pdf)**
+**[WA 3 Calendar](/files/KC%20Viilage/Parents/Weighted%20Assessment/weighted%20assessment%20schedule%202023%20_wa%203.pdf)**
 
 |  |  |  |  |  |
 |:---:|:---:|:---:|:---:|:---:|
@@ -41,8 +43,6 @@ description: ""
 |  |  |  |  |  |
 
 #### Prelim and End-of-Year Examinations
-
-**Sec 1-3 EOY Letter &amp; Schedule**
 
 |  |  |  |  |  |
 |:---:|:---:|:---:|:---:|:---:|
