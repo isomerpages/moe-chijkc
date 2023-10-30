@@ -6,4 +6,5 @@ layout: post
 description: ""
 image: ""
 ---
+####  [2023 Open House](https://go.gov.sg/chijkc-oh2023-info)
 ![](/images/open%20house%202023.png)
