@@ -19,6 +19,7 @@ sections:
       button: More Info
       url: https://go.gov.sg/chijkc-oh2023-info
       image: /images/oh2023_websitevisual.png
+      alt: KC 2023 Open House
   - resources:
       title: Latest Updates
       button: More
