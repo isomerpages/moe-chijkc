@@ -11,6 +11,15 @@ sections:
       button: Announcements
       url: /media/announcements/
       title: A Convent by the Sea
+  - infopic:
+      title: 2023 Open House
+      id: infopic
+      description: Come meet the KC family and find out more about school life, from
+        the way we learn, to the way we play. See you there!
+      button: More Info
+      url: https://go.gov.sg/chijkc-oh2023-info
+      image: /images/oh2023_websitevisual.png
+      alt: KC 2023 Open House
   - resources:
       title: Latest Updates
       button: More
