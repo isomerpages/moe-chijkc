@@ -6,3 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
+![](/images/open%20house%202023.png)
