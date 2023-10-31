@@ -9,7 +9,7 @@ As vacancies are limited, the school will contact you via phone or email when th
 
 
 **How do I apply?**<br>
-Application is to be done strictly via this link - [Transfer Request](https://go.gov.sg/transferrequest-202) . <br>
+Application is to be done strictly via this link - [Transfer Request](https://go.gov.sg/transferrequest-2024) . <br>
 Please note that only short-listed applicants will be notified to submit documents (for eg. applicant's BC, parents'/guardian's NRICs etc) for verification.
 
 
