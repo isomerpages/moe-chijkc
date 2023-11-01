@@ -6,3 +6,13 @@ layout: post
 description: ""
 image: ""
 ---
+### DMA Unistallation and De-enrolement
+
+Students from 2023 graduating cohort will have their PLDs' (Chromebook) DMA from Mobile Guardian uninstalled and their device will be no longer be managed by MOE.
+
+**Date:<br>
+17 Nov 2023 -- Sec 4 Exp/NA &amp; Sec 5 NA<br>
+22 Dec 2023 -- Sec 4NA**
+
+What should you expect and check for after the DMA unistallation and de-enroment?<br>
+[Instructions for DMA Uninstallation and de-enrolment](/files/Announcements/instructions%20for%20dma%20uninstallation%20-%20chromebook.pdf)
