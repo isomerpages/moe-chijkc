@@ -19,7 +19,7 @@ Students from 2023 graduating cohort will have their PLDs' (Chromebook) DMA from
 
 **IMPORTANT: Students should backup their local data to an extenal storage media or personal cloud storage prior to the dates above.**
 
-Commencement of the de-enrolment will start at 6pm on the stated date above.
+Commencement of the de-enrolment will start at 6pm on the dates stated above.
 
 ##### What should you expect and check for after the DMA unistallation and de-enroment?<br>
 [Instructions for DMA Uninstallation and de-enrolment](/files/Announcements/instructions%20for%20dma%20uninstallation%20-%20chromebook.pdf)
