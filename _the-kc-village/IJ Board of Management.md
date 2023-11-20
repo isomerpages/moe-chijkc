@@ -10,6 +10,6 @@ variant: markdown
 
 [Non-Financial Information.pdf](/files/Non-Financial%20Information.pdf)
 
-#### 2023 Year-End Message from Chairperson/IJ Board of Management
+#### 2023 Year-End Message from Chairperson / IJ Board of Management
 
 [Year End Message](/files/8_KC___2023_Year_End_Message_from_IJBOM_Chairperson.pdf)
