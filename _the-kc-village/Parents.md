@@ -2,6 +2,7 @@
 title: Parents
 permalink: /the-kc-village/parents/
 description: ""
+variant: markdown
 ---
 #### Parents Gateway
 
@@ -57,5 +58,5 @@ description: ""
 |   |   |
 |:---:|:---:|
 | [Term 1](/files/KC%20Viilage/Parents/Parent%20Link/Parent%20Link%20_Term%201%202023.pdf) | [Term 2](/files/KC%20Viilage/Parents/Parent%20Link/parent%20link%20_term%202%202023.pdf)  |
-| [Term 3](/files/KC%20Viilage/Parents/Parent%20Link/parent%20link%20_term%203%202023.pdf) | Term 4  |
+| [Term 3](/files/KC%20Viilage/Parents/Parent%20Link/parent%20link%20_term%203%202023.pdf) | [Term 4](/files/KC%20Viilage/Parents/Parent%20Link/Parent_Link__Term_4_2023.pdf)  |
 |   |   |
