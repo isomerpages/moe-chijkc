@@ -2,6 +2,7 @@
 title: Direct School Admissions (DSA)
 permalink: /admissions/dsa/
 description: ""
+variant: markdown
 ---
 CHIJ Katong Convent (KC) welcomes students currently studying in Primary 6 to apply for admission into KC via the Direct School Admission (DSA) Exercise.
 
