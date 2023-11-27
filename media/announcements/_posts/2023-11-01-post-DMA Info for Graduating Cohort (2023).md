@@ -5,6 +5,7 @@ date: 2023-11-01
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 ### DMA Uninstallation and De-enrolement
 
@@ -14,7 +15,7 @@ Students from 2023 graduating cohort will have their PLDs' (Chromebook) DMA from
 
 | Date | Cohort | 
 | -------- | -------- |
-| 17 Nov 2023 | Sec 4 Exp/NA &amp; Sec 5 NA |
+| 17 Nov 2023 | Sec 4 Exp/NT &amp; Sec 5 NA |
 | 22 Dec 2023 | Sec 4 NA |
 
 **IMPORTANT: Students should backup their local data to an extenal storage media or personal cloud storage prior to the dates above.**
