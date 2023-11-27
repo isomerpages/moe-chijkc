@@ -32,6 +32,5 @@ variant: markdown
 | Information Technology Support  | Email  |
 |-|---|
 | **ICT Manager**<br>Mr Kevin Yan  | <br>[kevin\_yan@moe.edu.sg](mailto:kevin\_yan@moe.edu.sg)  |
-| **ICT Executive**&nbsp;<br>Mr Ramlan Abd kadir  | <br>[ramlan\_abd\_kadir@moe.edu.sg](mailto:ramlan\_abd\_kadir@moe.edu.sg)  |
 | **Desktop Engineer**<br>Mr&nbsp;Halili Abu Hassan  <br>Mr Li XiaoPeng  | <br>NA<br>NA  |
 |   |   |
