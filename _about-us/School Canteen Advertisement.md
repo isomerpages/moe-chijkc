@@ -2,6 +2,7 @@
 title: School Canteen Advertisement
 permalink: /about-us/canteen-ads/
 description: ""
+variant: markdown
 ---
 ##### Stall Vacancy:
 <style>
@@ -11,7 +12,7 @@ description: ""
 </style>
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Halal Cuisine (Noodle/Rice) | 31 Oct 2023 | Halal Rice or noodles stalls are acceptable |
+| Halal Cuisine (Noodle/Rice) | 08 Dec 2023 | Halal Rice or noodles stalls are acceptable |
 
 
 #### **Application Procedure**
