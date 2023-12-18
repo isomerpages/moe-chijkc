@@ -2,7 +2,6 @@ collections:
   1-archives-s1-reg:
     output: true
     order:
-      - 3) Preparing for the First Day and Essential Information.md
       - 4) Understanding Curriculum Matters.md
       - 5) Purchasing Books and Uniform.md
       - 6) Supporting your Child.md
