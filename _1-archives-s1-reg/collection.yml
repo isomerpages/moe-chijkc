@@ -2,7 +2,6 @@ collections:
   1-archives-s1-reg:
     output: true
     order:
-      - 6) Supporting your Child.md
       - 7) Submitting Forms.md
       - 8) Choosing a CCA.md
       - 9) Setting up Parents Gateway.md
