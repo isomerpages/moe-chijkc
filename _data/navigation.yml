@@ -84,6 +84,8 @@ links:
   - title: Admissions
     url: /admissions/dsa/
     sublinks:
+      - title: Sec 1 Info
+        url: https://go.gov.sg/kcsec1info
       - title: Direct School Admissions (DSA)
         url: /admissions/dsa/
       - title: Transfer/Admission to KC
