@@ -2,6 +2,7 @@
 title: 1) Sec 1 Registration
 permalink: /admissions/sec-1-registration/welcomeletter/
 description: ""
+variant: tiptap
 ---
 ## Welcome
 
