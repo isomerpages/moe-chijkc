@@ -2,7 +2,6 @@ collections:
   1-archives-s1-reg:
     output: true
     order:
-      - 7) Submitting Forms.md
       - 8) Choosing a CCA.md
       - 9) Setting up Parents Gateway.md
       - 10) Needing A Transfer?.md
