@@ -2,5 +2,4 @@ collections:
   1-archives-s1-reg:
     output: true
     order:
-      - 9) Setting up Parents Gateway.md
       - 10) Needing A Transfer?.md
