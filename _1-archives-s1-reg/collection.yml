@@ -1,5 +1,4 @@
 collections:
   1-archives-s1-reg:
     output: true
-    order:
-      - 10) Needing A Transfer?.md
+    order: []
