@@ -2,7 +2,6 @@ collections:
   1-archives-s1-reg:
     output: true
     order:
-      - 1) Sec 1 Registration.md
       - 2) Meeting your Form Teachers.md
       - 3) Preparing for the First Day and Essential Information.md
       - 4) Understanding Curriculum Matters.md
