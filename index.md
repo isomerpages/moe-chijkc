@@ -14,10 +14,10 @@ sections:
   - infopic:
       title: Welcome to KC
       id: infopic
-      description: Click on the image for more Sec 1 info >>
       url: https://go.gov.sg/kcsec1info
       image: /images/Announcements/Welcome_to_KC.png
       alt: Welcome to KC
+      button: Click for more sec 1 info
   - resources:
       title: Latest Updates
       button: More
