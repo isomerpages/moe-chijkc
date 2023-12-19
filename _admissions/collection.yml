@@ -2,5 +2,6 @@ collections:
   admissions:
     output: true
     order:
+      - Sec 1 Appeal.md
       - Direct School Admissions (DSA).md
       - Seeking A Transfer or Admission to KC.md
