@@ -90,6 +90,8 @@ links:
         url: /admissions/dsa/
       - title: Transfer/Admission to KC
         url: /admissions/xfer/
+      - title: Sec 1 Appeal
+        url: /sec1appeal
   - title: The KC Village
     url: /the-kc-village/management/
     sublinks:
