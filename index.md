@@ -17,7 +17,7 @@ sections:
       url: https://go.gov.sg/kcsec1info
       image: /images/Announcements/Welcome_to_KC.png
       alt: Welcome to KC
-      button: Click for more sec 1 info
+      button: Click here for more sec 1 info
   - resources:
       title: Latest Updates
       button: More
