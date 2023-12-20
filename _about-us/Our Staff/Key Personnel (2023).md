@@ -44,4 +44,5 @@ variant: markdown
 | **Educational Support**<br>Mdm Zakiah Subahan  | <br>[zakiah\_subahan@moe.edu.sg](mailto:zakiah_subahan@moe.edu.sg)  |
 | **Literature**<br>Mrs Sukhjeet Singh  | <br>[sukhjeet\_kaur@moe.edu.sg](mailto:sukhjeet_kaur@moe.edu.sg)  |
 | **History**<br>Mr Tan Swee Hong  | <br>[tan\_swee\_hong@moe.edu.sg](mailto:tan_swee_hong@moe.edu.sg)  |
+|**Mathematics**<br>Mrs Phua Lai Tee |<br>[phua_lai_tee@moe.gov.sg](mailto:phua_lai_tee@moe.gov.sg) |
 |   |   |
