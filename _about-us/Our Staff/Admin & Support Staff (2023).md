@@ -16,8 +16,8 @@ variant: markdown
 
 | Support Officers  | Email  |
 |-|---|
-| **Technical Support Officer**<br>Mdm Iryanti Bte Jamil  <br> Mdm Fouzia Khatoon Yamin Khan <br>Mr Md Zaaini Bin Hussain  | <br>[iryanti\_jamil@moe.edu.sg](mailto:iryanti\_jamil@moe.edu.sg)<br>[fouzia_khatoon_yamin_Khan@moe.edu.sg](mailto:fouzia_khatoon_yamin_khan@moe.edu.sg)<br>[mohamed\_zaaini\_hussain@moe.edu.sg](mailto:mohamed\_zaaini\_hussain@moe.edu.sg)  |
-| **Operations Support Officer**  <br>Mr Chan Chin Weng<br>Mdm Christine Koh  <br>Mdm Ng Ka Hoon  <br>Mr Tan Chew Seng <br> Mr Abd Majid Abd Hamid  | <br>NA<br>NA<br>NA<br>NA<br>NA  |
+| **Technical Support Officer**<br>Mdm Iryanti Bte Jamil <br>Mr Md Zaaini Bin Hussain  | <br>[iryanti\_jamil@moe.edu.sg](mailto:iryanti\_jamil@moe.edu.sg)<br>[mohamed\_zaaini\_hussain@moe.edu.sg](mailto:mohamed\_zaaini\_hussain@moe.edu.sg)  |
+| **Operations Support Officer**  <br>Mdm Ng Ka Hoon  <br>Mr Tan Chew Seng <br> Mr Abd Majid Abd Hamid  | <br>NA<br>NA<br>NA<br>  |
 | **Receptionist**<br>Ms Jamaliah Binte Ismail  | <br>[jamaliah_ismail_a@moe.edu.sg](mailto:jamaliah_ismail_a@moe.edu.sg)  |
 |   |   |
 
