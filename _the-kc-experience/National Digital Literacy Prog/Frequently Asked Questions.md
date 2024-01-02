@@ -43,7 +43,7 @@ You can call 6260 0777 (24-hours automated hotline) to check your child's/ward's
 No, Edusave funds can only be used for the chosen model facilitated by the school through MOE's bulk tender.
 
 6 \. **How can I apply for financial assistance for the purchase of the PLD?**<br>
-Each student will receive a personalised bill which reflects the subsidy that matches her financial situation, if applicable. MOE FAS and School-Based FAS students do not need to apply for subsidy.
+Each student will receive a personalised bill which reflects the subsidy that matches her financial situation, if applicable. MOE FAS do not need to apply for subsidy.
 
 Other Singapore Citizens, Permanent Residents and International Students who require financial assistance and meet the income criteria of Gross Household Income (GHI) $4,400 or less, or Per Capita Income (PCI) $1,100 or less, may apply for financial assistance through the General Office.
 
