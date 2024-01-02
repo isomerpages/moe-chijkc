@@ -1,8 +1,9 @@
 ---
-title: Device Support &amp; Insurance Claims
+title: Device Support & Insurance Claims
 permalink: /the-kc-experience/national-digital-literacy-prog/support-insurance/
 description: ""
 third_nav_title: National Digital Literacy Prog
+variant: markdown
 ---
 #### Reporting of Device Issues (hardware issues and damages)
 
@@ -26,7 +27,7 @@ third_nav_title: National Digital Literacy Prog
 
 Parents/Students may rely on the following platforms if they need support or insurance claims for their devices:
 
-#### For Lenovo Chromebook 500e (Gen 2)
+#### For Lenovo Chromebook 500e (Gen 4)
 
 | **Helpdesk** | **Lenovo Service Center** |
 |:---|:---|

@@ -11,14 +11,14 @@ variant: markdown
 
 |  |  |
 |:---|:---|
-| Chosen device bundle | **Lenovo 500e Yoga Chromebook Gen4**&nbsp;includes:<br>- Power Adaptor<br>- Mouse  <br>- Stylus  <br>- Carrier Bag<br>
+| Chosen device bundle | **Lenovo 500e Yoga Gen4 Chromebook**&nbsp;includes:<br>- Power Adaptor<br>- Mouse  <br>- Stylus  <br>- Carrier Bag<br>
 | Processor | Intel N100 Processor |
 | RAM | 8GB&nbsp;RAM |
 | HDD | 64GB&nbsp;eMMC |
-| Screen&nbsp;size | 11.6"&nbsp;Touch&nbsp;screen |
-| Weight | 1.3 kg |
+| Screen&nbsp;size | 12.2"&nbsp;Touch&nbsp;screen |
+| Weight | 1.32 kg |
 | Warranty\* and Insurance (does not cover accessories) | 3 Year Carry-In Warranty  <br>3 Year Insurance |
-| Cost&nbsp;of&nbsp;bundle&nbsp;(including&nbsp;GST) | $564.80 |
+| Cost&nbsp;of&nbsp;bundle&nbsp;(including&nbsp;GST) | $587.50 |
 |  |  |
 
 2 \. **What considerations does the school have in selecting the Chromebook as the choice of device? Is there an option to a different device with a top-up?**<br>
@@ -43,9 +43,9 @@ You can call 6260 0777 (24-hours automated hotline) to check your child's/ward's
 No, Edusave funds can only be used for the chosen model facilitated by the school through MOE's bulk tender.
 
 6 \. **How can I apply for financial assistance for the purchase of the PLD?**<br>
-Each student will receive a personalised bill which reflects the subsidy that matches her financial situation, if applicable. MOE FAS and School-Based FAS students do not need to apply for subsidy.
+Each student will receive a personalised bill which reflects the subsidy that matches her financial situation, if applicable. MOE FAS do not need to apply for subsidy.
 
-Other Singapore Citizens, Permanent Residents and International Students who require financial assistance and meet the income criteria of Gross Household Income (GHI) $4,000 or less, or Per Capita Income (PCI) $1,000 or less, may apply for financial assistance through the General Office.
+Other Singapore Citizens, Permanent Residents and International Students who require financial assistance and meet the income criteria of Gross Household Income (GHI) $4,400 or less, or Per Capita Income (PCI) $1,100 or less, may apply for financial assistance through the General Office.
 
 If you are recently retrenched, please produce a “Letter of Retrenchment” from your company. When assessing GHI and PCI of needy International Students, parent’s income refers to the income of parents who may be residing overseas, not the local guardian’s income. Electronic signatures are acceptable in the application if the parents are residing overseas.
 
@@ -105,7 +105,7 @@ Students from low-income households will continue to be supported for subsidized
 The school will make arrangement for students to collect their devices in the school.
 
 17 \. **When will the girls get their PLD?**<br>
-The PLDs are projected to be delivered in March 2023.
+The PLDs are projected to be delivered in March 2024.
 
 18 \.&nbsp;**Will the school let the child know what to look out for when collecting the PLD?**<br>
 A briefing will be conducted for all students on the PLDs. Students will learn more about their PLDs in this briefing.
@@ -134,8 +134,8 @@ Charging facilities will be available in the school library. This is only for em
 24 \. **If the device becomes faulty or requires change in parts, does the school do the repair or should students/parents resolve that themselves?**<br>
 *   Technical support will be provided to students through:
 *   Service-desk set up in school during breaks and after school
-*   Lenovo Service Center, centrally located at Funan.  
-*   Acer Service Center, located at International Business Park.&nbsp;
+*   Lenovo Service Center, located at Tai Seng Centre.  
+*   Acer Service Center, located at International Business Park.
 
 25 \. **Who will bear the cost of repair?**<br>
 If the device is damaged, the parents/student can report it to the school. The school will coordinate with the vendor on the assessment of damage and repairs. If there are additional cost, the vendor will contact the parents/student before proceeding with the repair. All additional cost for repairs will be borne by the parents/students if not covered by insurance.
