@@ -51,7 +51,7 @@ The following are useful resources to support our parents in keeping our student
 
 #### Purchase of PLD
 
-To proceed with the purchase of PLD, please complete the online form at this [link](https://form.gov.sg/5f8b1a54caf67200118fc719).
+To proceed with the purchase of PLD, please complete the online form at [https://go.gov.sg/pdlpadmin](https://form.gov.sg/5f8b1a54caf67200118fc719).
 
 The online form will consist of:
 
