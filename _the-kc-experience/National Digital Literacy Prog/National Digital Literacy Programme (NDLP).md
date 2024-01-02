@@ -44,8 +44,10 @@ If your child/ward is a Singapore citizen, you can use your child’s/ward’s E
 The following are useful resources to support our parents in keeping our students safe online:
 * Parent Handbooks on Learning with a Personal Learning Device ([Book 1](/files/KC%20Experience/NDLP/IP2___Parent_Handbook__I__2024_FINAL.pdf) &amp; [Book2](/files/KC%20Experience/NDLP/IP3___Parent_Handbook__II__2024_FINAL.pdf))
 * Parent Kit on Cyber Wellness for Your Child [(https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)](/files/cyber-wellness-for-your-child.pdf)
-* Parent Kit on Raising a Digitally Smart Child (https://go.gov.sg/moe-raising-a-digitally-smart-child)
-* MOE Cyber Wellness Programme ([https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)
+* Parent Kit on Raising a Digitally Smart Child ([https://go.gov.sg/moe-raising-a-digitally-smart-child](https://go.gov.sg/moe-raising-a-digitally-smart-child))
+* Parenting with MOE: Instagram Live session on Raising Digitally Smart Kids ([https://go.gov.sg/iglive-raising-digitally-smart-kids](https://go.gov.sg/iglive-raising-digitally-smart-kids))
+* Schoolbag article ‘Keeping our teens safe online’ ([https://www.schoolbag.edu.sg/story/keeping-our-teens-safe-online](https://www.schoolbag.edu.sg/story/keeping-our-teens-safe-online))
+* MOE Cyber Wellness Programme ([https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness))
 * Media Literacy Council ([https://go.gov.sg/better-internet-sg](https://go.gov.sg/better-internet-sg))
 * National Library’s Learning &amp; Information Literacy Resources ([https://sure.nlb.gov.sg/](https://sure.nlb.gov.sg/))
 * TOUCH Community Services ([https://help123.sg](https://help123.sg/))
