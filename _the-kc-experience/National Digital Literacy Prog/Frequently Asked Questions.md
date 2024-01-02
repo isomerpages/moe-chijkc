@@ -15,8 +15,8 @@ variant: markdown
 | Processor | Intel N100 Processor |
 | RAM | 8GB&nbsp;RAM |
 | HDD | 64GB&nbsp;eMMC |
-| Screen&nbsp;size | 11.6"&nbsp;Touch&nbsp;screen |
-| Weight | 1.3 kg |
+| Screen&nbsp;size | 12.2"&nbsp;Touch&nbsp;screen |
+| Weight | 1.32 kg |
 | Warranty\* and Insurance (does not cover accessories) | 3 Year Carry-In Warranty  <br>3 Year Insurance |
 | Cost&nbsp;of&nbsp;bundle&nbsp;(including&nbsp;GST) | $564.80 |
 |  |  |
@@ -105,7 +105,7 @@ Students from low-income households will continue to be supported for subsidized
 The school will make arrangement for students to collect their devices in the school.
 
 17 \. **When will the girls get their PLD?**<br>
-The PLDs are projected to be delivered in March 2023.
+The PLDs are projected to be delivered in March 2024.
 
 18 \.&nbsp;**Will the school let the child know what to look out for when collecting the PLD?**<br>
 A briefing will be conducted for all students on the PLDs. Students will learn more about their PLDs in this briefing.
