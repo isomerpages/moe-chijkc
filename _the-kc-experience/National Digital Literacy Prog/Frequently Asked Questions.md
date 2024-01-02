@@ -11,7 +11,7 @@ variant: markdown
 
 |  |  |
 |:---|:---|
-| Chosen device bundle | **Lenovo 500e Yoga Chromebook Gen4**&nbsp;includes:<br>- Power Adaptor<br>- Mouse  <br>- Stylus  <br>- Carrier Bag<br>
+| Chosen device bundle | **Lenovo 500e Yoga Gen4 Chromebook**&nbsp;includes:<br>- Power Adaptor<br>- Mouse  <br>- Stylus  <br>- Carrier Bag<br>
 | Processor | Intel N100 Processor |
 | RAM | 8GB&nbsp;RAM |
 | HDD | 64GB&nbsp;eMMC |
