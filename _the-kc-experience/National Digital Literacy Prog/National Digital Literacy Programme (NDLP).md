@@ -42,8 +42,9 @@ If your child/ward is a Singapore citizen, you can use your child’s/ward’s E
 #### Resources for Parents
 
 The following are useful resources to support our parents in keeping our students safe online:
-* Parent Handbooks on Learning with a Personal Learning Device ([Book 1](/files/KC%20Experience/NDLP/IP2___Parent_Handbook__I__2024_FINAL.pdf) &amp; [Book2](https://www.chijkatongconvent.moe.edu.sg/qql/slot/u185/The%20KC%20Experience/NDLP/Parent%20Handbook%20II%20on%20Learning%20with%20a%20Personal%20Learning%20Device.pdf)[](/files/KC%20Experience/NDLP/IP3___Parent_Handbook__II__2024_FINAL.pdf))
+* Parent Handbooks on Learning with a Personal Learning Device ([Book 1](/files/KC%20Experience/NDLP/IP2___Parent_Handbook__I__2024_FINAL.pdf) &amp; [Book2](/files/KC%20Experience/NDLP/IP3___Parent_Handbook__II__2024_FINAL.pdf))
 * Parent Kit on Cyber Wellness for Your Child [(https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)](/files/cyber-wellness-for-your-child.pdf)
+* Parent Kit on Raising a Digitally Smart Child (https://go.gov.sg/moe-raising-a-digitally-smart-child)
 * MOE Cyber Wellness Programme ([https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)
 * Media Literacy Council ([https://go.gov.sg/better-internet-sg](https://go.gov.sg/better-internet-sg))
 * National Library’s Learning &amp; Information Literacy Resources ([https://sure.nlb.gov.sg/](https://sure.nlb.gov.sg/))
