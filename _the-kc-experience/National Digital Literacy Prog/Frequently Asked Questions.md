@@ -45,7 +45,7 @@ No, Edusave funds can only be used for the chosen model facilitated by the schoo
 6 \. **How can I apply for financial assistance for the purchase of the PLD?**<br>
 Each student will receive a personalised bill which reflects the subsidy that matches her financial situation, if applicable. MOE FAS and School-Based FAS students do not need to apply for subsidy.
 
-Other Singapore Citizens, Permanent Residents and International Students who require financial assistance and meet the income criteria of Gross Household Income (GHI) $4,000 or less, or Per Capita Income (PCI) $1,000 or less, may apply for financial assistance through the General Office.
+Other Singapore Citizens, Permanent Residents and International Students who require financial assistance and meet the income criteria of Gross Household Income (GHI) $4,400 or less, or Per Capita Income (PCI) $1,100 or less, may apply for financial assistance through the General Office.
 
 If you are recently retrenched, please produce a “Letter of Retrenchment” from your company. When assessing GHI and PCI of needy International Students, parent’s income refers to the income of parents who may be residing overseas, not the local guardian’s income. Electronic signatures are acceptable in the application if the parents are residing overseas.
 
@@ -134,8 +134,8 @@ Charging facilities will be available in the school library. This is only for em
 24 \. **If the device becomes faulty or requires change in parts, does the school do the repair or should students/parents resolve that themselves?**<br>
 *   Technical support will be provided to students through:
 *   Service-desk set up in school during breaks and after school
-*   Lenovo Service Center, centrally located at Funan.  
-*   Acer Service Center, located at International Business Park.&nbsp;
+*   Lenovo Service Center, located at Tai Seng Centre.  
+*   Acer Service Center, located at International Business Park.
 
 25 \. **Who will bear the cost of repair?**<br>
 If the device is damaged, the parents/student can report it to the school. The school will coordinate with the vendor on the assessment of damage and repairs. If there are additional cost, the vendor will contact the parents/student before proceeding with the repair. All additional cost for repairs will be borne by the parents/students if not covered by insurance.
