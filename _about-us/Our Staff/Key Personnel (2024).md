@@ -1,5 +1,5 @@
 ---
-title: Key Personnel (2023)
+title: Key Personnel (2024)
 permalink: /about-us/key-personnel/
 description: ""
 third_nav_title: Our Staff
@@ -23,7 +23,7 @@ variant: markdown
 | **Mother Tongue Languages**  <br> Ms Ong Meiqing  | <br>[ong_meiqing@moe.edu.sg](mailto:ong_meiqing@moe.edu.sg)  |
 | **School Staff Developer**  <br>Mrs Daphne Toh  | <br>[chan_yan_qing_daphne@moe.edu.sg](mailto:chan_yan_qing_daphne@moe.edu.sg)  |
 | **Science**  <br>Mr Toh Meng Yeow  | <br>[toh\_meng\_yeow@moe.edu.sg](mailto:toh_meng_yeow@moe.edu.sg)  |
-| **Student Development**<br>Mrs Algena Lim  | <br>[algena_koh@moe.edu.sg](mailto:koh_jiun_algena_louisa@moe.edu.sg)  |
+| **Student Development**<br>Mrs Christina Lee  | <br>[khoo_ghee_suan_christina@moe.edu.sg](mailto:khoo_ghee_suan_christina@moe.edu.sg)  |
 | **Year Head**<br>Mr Loh Jing Hui  | <br>[loh\_jing\_hui@moe.edu.sg](mailto:loh_jing_hui@moe.edu.sg)  |
 | **Year Head**  <br>Mdm Nurahifah Amran  | <br>[nurahifah\_amran@moe.edu.sg](mailto:nurahifah_amran@moe.edu.sg)  |
 |   |   |
