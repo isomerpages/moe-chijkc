@@ -2,53 +2,6 @@
 title: Parents
 permalink: /the-kc-village/parents/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-#### Parents Gateway
-
-|  |  |
-|:---:|:---:|
-| [PG One-Time Onboarding](/files/PG%20One-Time%20Onboarding.pdf) | [Travel Declaration](/files/KC%20Viilage/Parents/kc%20travel%20declaration%20website.pdf) |
-| [Meetings Feature - User Guide (April 2022)](/files/Meetings%20Feature%20-%20User%20Guide%20April%202022.pdf) | [Update Contact Details](/files/Update%20Contact%20Details.pdf) |
-|  |  |
-
-#### Letters to Parents
-
-**[EOY Letter (2023)](/files/KC%20Viilage/Parents/EOY%20Letter/2023/kc%20end%20of%20year%20letter%20to%20parents%202023%20(issued%20on%2026%20oct).pdf)**
-
-|  |  |
-|:---:|:---:|
-| [Term 1](/files/KC%20Viilage/Parents/Letters%20To%20Parents/01%20KC%20Term%201%20Letter%20to%20Parents%202023%20issued%206%20Jan.pdf) | [Term 2](/files/KC%20Viilage/Parents/Letters%20To%20Parents/KC%20Term%202%20Letter%20to%20Parents%202023%20(issued%20on%2021%20Mar).pdf) |
-| [Term 3](/files/KC%20Viilage/Parents/Letters%20To%20Parents/term%203%20letter%20to%20parents%202023%20(issued%20on%2028%20jun).pdf) | [Term 4](/files/KC%20Viilage/Parents/Letters%20To%20Parents/kc%20term%204%20letter%20to%20parents%202023%20(issued%20on%2025%20sep).pdf) |
-|  |  |
-
-
-#### Semester Class Timetables
-
-|  |  |
-|:---:|:---:|
-| [2023 Semester 1 ](/files/KC%20Viilage/Parents/TimeTables/2023%20term%202%20class%20tt_3%20apr.pdf) | [2023 Semester 2](/files/KC%20Viilage/Parents/TimeTables/2023%20sem%202%20class%20tt_13%20july%20(with%20aftn%20lessons).pdf) |
-[Post EOY Exam Timetable](/files/KC%20Viilage/Parents/TimeTables/post%20eoy%20tt%202023%209_oct_class.pdf) | [Sec 3 Nov&nbsp;AP](/files/KC%20Viilage/Parents/TimeTables/nov%20ap%20tt_23%20oct_class.pdf)
-|  |  |
-
-#### Weighted Assessment 
-
-**[WA 3 Calendar](/files/KC%20Viilage/Parents/Weighted%20Assessment/weighted%20assessment%20schedule%202023%20_wa%203.pdf)**
-
-|  |  |  |  |  |
-|:---:|:---:|:---:|:---:|:---:|
-| **Sec 1** | **Sec 2** | **Sec 3** | **Sec 4** | **Sec 5** |
-| [1E](/files/KC%20Viilage/Parents/Weighted%20Assessment/Sec%201E%20Assessment%20Weighting%202023.pdf) | [2E](/files/KC%20Viilage/Parents/Weighted%20Assessment/Sec%202E%20Assessment%20Weighting%202023.pdf) | [3E](/files/KC%20Viilage/Parents/Weighted%20Assessment/Sec%203E%20Assessment%20Weighting%202023.pdf) | [4E](/files/KC%20Viilage/Parents/Weighted%20Assessment/Sec%204E%20Assessment%20Weighting%202023.pdf) | - |
-| [1NA](/files/KC%20Viilage/Parents/Weighted%20Assessment/Sec%201NA%20Assessment%20Weighting%202023.pdf) | [2NA](/files/KC%20Viilage/Parents/Weighted%20Assessment/Sec%202NA%20Assessment%20Weighting%202023.pdf) | [3NA](/files/KC%20Viilage/Parents/Weighted%20Assessment/Sec%203NA%20Assessment%20Weighting%202023.pdf) | [4NA](/files/KC%20Viilage/Parents/Weighted%20Assessment/Sec%204NA%20Assessment%20Weighting%202023.pdf) | [5NA](/files/KC%20Viilage/Parents/Weighted%20Assessment/Sec%205NA%20Assessment%20Weighting%202023.pdf) |
-| [1NT](/files/KC%20Viilage/Parents/Weighted%20Assessment/Sec%201NT%20Assessment%20Weighting%202023.pdf) | [2NT](/files/KC%20Viilage/Parents/Weighted%20Assessment/Sec%202NT%20Assessment%20Weighting%202023.pdf) | [3NT](/files/KC%20Viilage/Parents/Weighted%20Assessment/Sec%203NT%20Assessment%20Weighting%202023.pdf) | [4NT](/files/KC%20Viilage/Parents/Weighted%20Assessment/Sec%204NT%20Assessment%20Weighting%202023.pdf) | - |
-|  |  |  |  |  |
-
-#### Prelim and End-of-Year Examinations
-
-|  |  |  |  |  |
-|:---:|:---:|:---:|:---:|:---:|
-| **Sec 1** | **Sec 2** | **Sec 3** | **Sec 4** | **Sec 5** |
-| [1E](/files/KC%20Viilage/Parents/EOY%20Letter/2023/sec%201e%20eoy%20letter%20for%20parents%20&amp;%20exam%20timetable%20&amp;%20coverage%202023.pdf)  | [2E](/files/KC%20Viilage/Parents/EOY%20Letter/2023/sec%202e%20eoy%20letter%20for%20parents%20&amp;%20exam%20timetable%20&amp;%20covergae%202023.pdf) | [3E](/files/KC%20Viilage/Parents/EOY%20Letter/2023/sec%203e%20eoy%20letter%20for%20parents%20&amp;%20exam%20timetable%20&amp;%20coverage%202023.pdf)  | [4E](/files/KC%20Viilage/Parents/TimeTables/2023%204e5n%20prelim%20exam%20timetable_final_parents_140823.pdf) | - |
-| [1NA](/files/KC%20Viilage/Parents/EOY%20Letter/2023/sec%201na%20eoy%20letter%20for%20parents%20&amp;%20exam%20timetable%20&amp;%20coverage%202023.pdf) | [2NA](/files/KC%20Viilage/Parents/EOY%20Letter/2023/sec%202na%20eoy%20letter%20for%20parents%20&amp;%20exam%20timetable%20&amp;%20covergae%202023.pdf) | [3NA](/files/KC%20Viilage/Parents/EOY%20Letter/2023/sec%203na%20eoy%20letter%20for%20parents%20&amp;%20exam%20timetable%20&amp;%20coverage%202023.pdf) | [4NA](/files/KC%20Viilage/Parents/TimeTables/2023%204e5n%20prelim%20exam%20timetable_final_parents_140823.pdf) | [5NA](/files/KC%20Viilage/Parents/TimeTables/2023%204e5n%20prelim%20exam%20timetable_final_parents_140823.pdf) |
-| [1NT](/files/KC%20Viilage/Parents/EOY%20Letter/2023/sec%201nt%20eoy%20letter%20for%20parents%20&amp;%20exam%20timetable%20&amp;%20coverage%202023.pdf)  | [2NT](/files/KC%20Viilage/Parents/EOY%20Letter/2023/sec%202nt%20eoy%20letter%20for%20parents%20&amp;%20exam%20timetable%20&amp;%20covergae%202023.pdf)  | [3NT](/files/KC%20Viilage/Parents/EOY%20Letter/2023/sec%203nt%20eoy%20letter%20for%20parents%20&amp;%20exam%20timetable%20&amp;%20coverage%202023.pdf)  | [4NT](/files/KC%20Viilage/Parents/TimeTables/2023_4nant%20prelim%20tt_final_student.pdf) | - |
-|  |  |  |  |  |
+<h4>Parents Gateway</h4><table><tbody><tr><td rowspan="1" colspan="1"><p><a href="/files/PG%20One-Time%20Onboarding.pdf" rel="noopener noreferrer nofollow" target="_blank">PG One-Time Onboarding</a></p></td><td rowspan="1" colspan="1"><p><a href="/files/KC%20Viilage/Parents/kc%20travel%20declaration%20website.pdf" rel="noopener noreferrer nofollow" target="_blank">Travel Declaration</a></p></td></tr><tr><td rowspan="1" colspan="1"><p><a href="/files/Meetings%20Feature%20-%20User%20Guide%20April%202022.pdf" rel="noopener noreferrer nofollow" target="_blank">Meetings Feature - User Guide (April 2022)</a></p></td><td rowspan="1" colspan="1"><p><a href="/files/Update%20Contact%20Details.pdf" rel="noopener noreferrer nofollow" target="_blank">Update Contact Details</a></p></td></tr></tbody></table><h4>Letters to Parents</h4><table><tbody><tr><td rowspan="1" colspan="1"><p>Term 1 (TBA)</p></td><td rowspan="1" colspan="1"><p>Term 3 (TBA)</p></td></tr><tr><td rowspan="1" colspan="1"><p>Term 2 (TBA)</p></td><td rowspan="1" colspan="1"><p>Term 4 (TBA)</p></td></tr></tbody></table><h4>Semester Class Timetables</h4><table><tbody><tr><td rowspan="1" colspan="1"><p><strong><a href="/files/KC Viilage/Parents/TimeTables/2024_Sem_1_TT_2_Jan_1800_Class.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Semester 1</a></strong></p></td><td rowspan="1" colspan="1"><p></p></td></tr><tr><td rowspan="1" colspan="1"><p>2024 Semester 2 (TBA)</p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><h4>Weighted Assessment</h4><table><tbody><tr><td rowspan="1" colspan="1"><p><strong>Sec 1</strong></p></td><td rowspan="1" colspan="1"><p><strong>Sec 2</strong></p></td><td rowspan="1" colspan="1"><p><strong>Sec 3</strong></p></td><td rowspan="1" colspan="1"><p><strong>Sec 4</strong></p></td><td rowspan="1" colspan="1"><p><strong>Sec 5</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p>TBA</p></td><td rowspan="1" colspan="1"><p>TBA</p></td><td rowspan="1" colspan="1"><p>TBA</p></td><td rowspan="1" colspan="1"><p>TBA</p></td><td rowspan="1" colspan="1"><p>TBA</p></td></tr></tbody></table><h4>Prelim and End-of-Year Examinations</h4><table><tbody><tr><td rowspan="1" colspan="1"><p><strong>Sec 1</strong></p></td><td rowspan="1" colspan="1"><p><strong>Sec 2</strong></p></td><td rowspan="1" colspan="1"><p><strong>Sec 3</strong></p></td><td rowspan="1" colspan="1"><p><strong>Sec 4</strong></p></td><td rowspan="1" colspan="1"><p><strong>Sec 5</strong></p></td></tr><tr><td rowspan="1" colspan="1"><p>TBA</p></td><td rowspan="1" colspan="1"><p>TBA</p></td><td rowspan="1" colspan="1"><p>TBA</p></td><td rowspan="1" colspan="1"><p>TBA</p></td><td rowspan="1" colspan="1"><p>TBA</p></td></tr></tbody></table><p></p>
