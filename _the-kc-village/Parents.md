@@ -52,11 +52,3 @@ variant: markdown
 | [1NA](/files/KC%20Viilage/Parents/EOY%20Letter/2023/sec%201na%20eoy%20letter%20for%20parents%20&amp;%20exam%20timetable%20&amp;%20coverage%202023.pdf) | [2NA](/files/KC%20Viilage/Parents/EOY%20Letter/2023/sec%202na%20eoy%20letter%20for%20parents%20&amp;%20exam%20timetable%20&amp;%20covergae%202023.pdf) | [3NA](/files/KC%20Viilage/Parents/EOY%20Letter/2023/sec%203na%20eoy%20letter%20for%20parents%20&amp;%20exam%20timetable%20&amp;%20coverage%202023.pdf) | [4NA](/files/KC%20Viilage/Parents/TimeTables/2023%204e5n%20prelim%20exam%20timetable_final_parents_140823.pdf) | [5NA](/files/KC%20Viilage/Parents/TimeTables/2023%204e5n%20prelim%20exam%20timetable_final_parents_140823.pdf) |
 | [1NT](/files/KC%20Viilage/Parents/EOY%20Letter/2023/sec%201nt%20eoy%20letter%20for%20parents%20&amp;%20exam%20timetable%20&amp;%20coverage%202023.pdf)  | [2NT](/files/KC%20Viilage/Parents/EOY%20Letter/2023/sec%202nt%20eoy%20letter%20for%20parents%20&amp;%20exam%20timetable%20&amp;%20covergae%202023.pdf)  | [3NT](/files/KC%20Viilage/Parents/EOY%20Letter/2023/sec%203nt%20eoy%20letter%20for%20parents%20&amp;%20exam%20timetable%20&amp;%20coverage%202023.pdf)  | [4NT](/files/KC%20Viilage/Parents/TimeTables/2023_4nant%20prelim%20tt_final_student.pdf) | - |
 |  |  |  |  |  |
-	
-#### 2023 Issues of Parent Link
-
-|   |   |
-|:---:|:---:|
-| [Term 1](/files/KC%20Viilage/Parents/Parent%20Link/Parent%20Link%20_Term%201%202023.pdf) | [Term 2](/files/KC%20Viilage/Parents/Parent%20Link/parent%20link%20_term%202%202023.pdf)  |
-| [Term 3](/files/KC%20Viilage/Parents/Parent%20Link/parent%20link%20_term%203%202023.pdf) | [Term 4](/files/KC%20Viilage/Parents/Parent%20Link/Parent_Link__Term_4_2023.pdf)  |
-|   |   |

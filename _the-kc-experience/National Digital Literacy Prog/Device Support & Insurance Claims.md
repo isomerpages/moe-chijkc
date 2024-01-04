@@ -27,7 +27,7 @@ variant: markdown
 
 Parents/Students may rely on the following platforms if they need support or insurance claims for their devices:
 
-#### For Lenovo Chromebook 500e (Gen 4)
+#### For Lenovo Chromebook 500e (Gen 2) or (Gen 4)
 
 | **Helpdesk** | **Lenovo Service Center** |
 |:---|:---|

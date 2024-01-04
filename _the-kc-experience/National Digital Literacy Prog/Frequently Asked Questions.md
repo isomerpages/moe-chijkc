@@ -17,8 +17,7 @@ variant: markdown
 | HDD | 64GB&nbsp;eMMC |
 | Screen&nbsp;size | 12.2"&nbsp;Touch&nbsp;screen |
 | Weight | 1.32 kg |
-| Warranty\* and Insurance (does not cover accessories) | 3 Year Carry-In Warranty  <br>3 Year Insurance |
-| Cost&nbsp;of&nbsp;bundle&nbsp;(including&nbsp;GST) | $587.50 |
+| Warranty\* and Insurance (does not cover accessories) | 3 Year Carry-In Warranty  <br>3 Year Insurance | |
 |  |  |
 
 2 \. **What considerations does the school have in selecting the Chromebook as the choice of device? Is there an option to a different device with a top-up?**<br>
