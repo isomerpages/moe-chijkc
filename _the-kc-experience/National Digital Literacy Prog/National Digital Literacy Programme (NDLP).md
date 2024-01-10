@@ -7,7 +7,7 @@ variant: markdown
 ---
 The NDLP was launched in March 2020 to make digital learning inclusive by equipping students with the digital literacies to be future-ready. Under the NDLP, MOE announced that every student will own a school-prescribed personal learning device (PLD) by end-2021.
 
-Please find the briefing slides on NDLP during the Sec One Parents Engagement held on&nbsp;04 Jan 2024 ([PDF](/files/KC%20Experience/NDLP/KC%20PLD%20Briefing%20to%20Parents%20250123_finalp%201.pdf))
+Please find the briefing slides on NDLP during the Sec One Parents Engagement held on&nbsp;04 Jan 2024 ([PDF](/files/KC%20Experience/NDLP/KC_PLD_Briefing_to_Parents_040124_v3_website.pdf))
 
 #### NDLP @ CHIJ Katong Convent
 
