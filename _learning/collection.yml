@@ -1,0 +1,21 @@
+collections:
+  learning:
+    output: true
+    order:
+      - Departments/.keep
+      - Departments/Arts.md
+      - Departments/Drama & Theatre Studies.md
+      - Departments/Design & Technology.md
+      - Departments/English Language & Literature.md
+      - Departments/General Music Programme.md
+      - Departments/Humanities.md
+      - Departments/Information & Communications Technology.md
+      - Departments/Mathematics.md
+      - Departments/Mother Tongue Languages.md
+      - Departments/Nutrition & Food Science.md
+      - Departments/Physical Education.md
+      - Departments/Principle of Accounts.md
+      - Departments/Science.md
+      - Full Subject Based Banding.md
+      - SLS Support for HBL.md
+      - Student iCON & Zoom.md

@@ -1,0 +1,32 @@
+collections:
+  cca-folder:
+    output: true
+    order:
+      - CCA Vision.md
+      - CCA Schedule.md
+      - CCA Fair.md
+      - Clubs & Societies/.keep
+      - Clubs & Societies/IJ Youth Mission.md
+      - Clubs & Societies/Debate Club.md
+      - Clubs & Societies/Media Communications Club.md
+      - Clubs & Societies/Entrepreneur Club.md
+      - Clubs & Societies/Cabin Club.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Girl Guides.md
+      - Uniformed Groups/National Civil Defence Cadet Corps (NCDCC).md
+      - Performing Arts/.keep
+      - Performing Arts/Chinese Drama.md
+      - Performing Arts/Chinese Orchestra.md
+      - Performing Arts/Choir.md
+      - Performing Arts/Concert Band.md
+      - Performing Arts/Dramatic Arts Society.md
+      - Performing Arts/Modern Dance.md
+      - Sports/.keep
+      - Sports/Badminton.md
+      - Sports/Bowling.md
+      - Sports/Canoeing.md
+      - Sports/Floorball.md
+      - Sports/Netball.md
+      - Sports/Sports Club.md
+      - Sports/Track & Field.md
+      - National School Games.md
