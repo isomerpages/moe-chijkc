@@ -69,8 +69,7 @@ issues related to sexuality, which are of prime concern at this age.
 </p>
 <p><strong>2024 Sexuality Education Lessons in CCE 2021</strong>
 </p>
-<p><strong>&nbsp;Secondary 1</strong>
-</p>
+<h4><strong>&nbsp;Secondary 1</strong></h4>
 <table>
 <tbody>
 <tr>
@@ -195,8 +194,7 @@ of online falsehoods, flouting copyright laws, etc.)</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Secondary 2</strong>
-</p>
+<h4><strong>Secondary 2</strong></h4>
 <table>
 <tbody>
 <tr>
@@ -318,8 +316,7 @@ risks and avoid negative consequences, both offline and online</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Secondary 3</strong>
-</p>
+<h4><strong>Secondary 3</strong></h4>
 <table>
 <tbody>
 <tr>
@@ -451,8 +448,7 @@ alignment with our beliefs</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Secondary 4</strong>
-</p>
+<h4><strong>Secondary 4</strong></h4>
 <table>
 <tbody>
 <tr>
@@ -610,8 +606,7 @@ our beliefs</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Secondary 5</strong>
-</p>
+<h4><strong>Secondary 5</strong></h4>
 <table>
 <tbody>
 <tr>
