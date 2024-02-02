@@ -74,10 +74,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/KC Viilage/Parents/CCA_BRIEFING_04_Jan_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">CCA Briefing_04 Jan 2024</a>
-<br><a href="/files/KC Viilage/Parents/KC_PLD_Briefing_04_Jan_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">KC PLD Briefing_04 Jan 2024</a>
-<br><a href="/files/KC Experience/NDLP/KC_PLD_Briefing_to_Parents_040124_v3_website.pdf" rel="noopener noreferrer nofollow" target="_blank">NDLP_04 Jan 2024</a>
-<br><a href="/files/KC Viilage/Parents/Principal_s_Address_04_Jan_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Principal's Address_04 Jan 2024</a>
+<p><a href="/files/KC Viilage/Parents/CCA_BRIEFING_04_Jan_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">CCA Briefing_04 Jan 2024</a> 
+<br><a href="/files/KC Viilage/Parents/KC_PLD_Briefing_04_Jan_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">KC PLD Briefing_04 Jan 2024</a> 
+<br><a href="/files/KC Experience/NDLP/KC_PLD_Briefing_to_Parents_040124_v3_website.pdf" rel="noopener noreferrer nofollow" target="_blank">NDLP_04 Jan 2024</a> 
+<br><a href="/files/KC Viilage/Parents/Principal_s_Address_04_Jan_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Principal's Address_04 Jan 2024</a> 
 <br><a href="/files/KC Viilage/Parents/Year_Head_talk__student_wellbeing__04_Jan_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Year Head Talk (Student Well-being)_04 Jan 2024</a>
 </p>
 </td>
@@ -130,27 +130,27 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/KC Viilage/Parents/Weighted Assessment/1_G1_Assessment_Weightings___Components_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">1 G1</a>
-<br><a href="/files/KC Viilage/Parents/Weighted Assessment/1_G2_Assessment_Weightings___Components_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">1 G2</a>
+<p><a href="/files/KC Viilage/Parents/Weighted Assessment/1_G1_Assessment_Weightings___Components_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">1 G1</a> 
+<br><a href="/files/KC Viilage/Parents/Weighted Assessment/1_G2_Assessment_Weightings___Components_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">1 G2</a> 
 <br><a href="/files/KC Viilage/Parents/Weighted Assessment/1_G3_Assessment_Weightings___Components_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">1 G3</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/KC Viilage/Parents/Weighted Assessment/2NT_Assessment_Weightings___Components_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2NT</a>
-<br><a href="/files/KC Viilage/Parents/Weighted Assessment/2NA_Assessment_Weightings___Components_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2NA</a>
+<p><a href="/files/KC Viilage/Parents/Weighted Assessment/2NT_Assessment_Weightings___Components_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2NT</a> 
+<br><a href="/files/KC Viilage/Parents/Weighted Assessment/2NA_Assessment_Weightings___Components_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2NA</a> 
 <br><a href="/files/KC Viilage/Parents/Weighted Assessment/2E_Assessment_Weightings___Components_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">2E</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/KC Viilage/Parents/Weighted Assessment/3NT_Assessment_Weightings___Components_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">3NT</a>
-<br><a href="/files/KC Viilage/Parents/Weighted Assessment/3NA_Assessment_Weightings___Components_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">3NA</a>
+<p><a href="/files/KC Viilage/Parents/Weighted Assessment/3NT_Assessment_Weightings___Components_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">3NT</a> 
+<br><a href="/files/KC Viilage/Parents/Weighted Assessment/3NA_Assessment_Weightings___Components_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">3NA</a> 
 <br><a href="/files/KC Viilage/Parents/Weighted Assessment/3E_Assessment_Weightings___Components_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">3E</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/KC Viilage/Parents/Weighted Assessment/4NT_Assessment_Weightings___Components_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">4NT</a>
-<br> <a href="/files/KC Viilage/Parents/Weighted Assessment/4NA_Assessment_Weightings___Components_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">4NA</a> &amp;
-<a href="/files/KC Viilage/Parents/Weighted Assessment/5NA_Assessment_Weightings___Components_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">5NA</a>
+<p><a href="/files/KC Viilage/Parents/Weighted Assessment/4NT_Assessment_Weightings___Components_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">4NT</a> 
+<br><a href="/files/KC Viilage/Parents/Weighted Assessment/4NA_Assessment_Weightings___Components_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">4NA</a> &amp;
+<a href="/files/KC Viilage/Parents/Weighted Assessment/5NA_Assessment_Weightings___Components_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">5NA</a>
 <br><a href="/files/KC Viilage/Parents/Weighted Assessment/4E_Assessment_Weightings___Components_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">4E</a>
 </p>
 </td>
