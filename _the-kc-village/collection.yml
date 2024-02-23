@@ -2,9 +2,9 @@ collections:
   the-kc-village:
     output: true
     order:
-      - Parents Support Group (PSG).md
       - IJ Board of Management.md
       - Parents.md
+      - Parents Support Group (PSG).md
       - MOE Financial Assistance.md
       - Alumnae/.keep
       - Alumnae/Stay Connected.md
