@@ -4,7 +4,7 @@ permalink: /the-kc-village/psg/
 variant: tiptap
 description: ""
 ---
-<h2> </h2>
+<h2></h2>
 <h4><br><br><strong>About Us</strong></h4>
 <p>We are a group of dedicated parents who firmly believe in building a strong
 partnership with the school to enhance our girls’ learning experience.</p>
@@ -16,7 +16,7 @@ parents, and support the school’s plans and programmes.</p>
 bonding experiences.</p>
 <p></p>
 <p></p>
-<h4><strong>JOIN OUR KC PSG!</strong> </h4>
+<h4><strong>JOIN OUR KC PSG!</strong></h4>
 <p>We welcome all parents of Katong Convent to be a part of our KC PSG Family!
 <br>Join us as Parent Volunteers by filing up this <a href="https://bit.ly/KCPSGform" rel="noopener noreferrer nofollow" target="_blank">form</a>.
 <br>Any queries, please contact us at <a href="mailto:kc.ptsg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">KC PSG Family</a>
