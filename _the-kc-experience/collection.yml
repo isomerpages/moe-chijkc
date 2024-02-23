@@ -2,7 +2,6 @@ collections:
   the-kc-experience:
     output: true
     order:
-      - Parents Support Group (PSG).md
       - The KC Experience.md
       - Spirituality/.keep
       - Spirituality/Spirituality.md
