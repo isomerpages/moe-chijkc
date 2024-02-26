@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KC Village/PSG/KC_PSG_BannerJPEG.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KC Village/PSG/PSG_banner.png">
 </div>
 <h4><strong>About Us</strong></h4>
 <p>We are a group of dedicated parents who firmly believe in building a strong
