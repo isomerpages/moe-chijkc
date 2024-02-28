@@ -23,6 +23,9 @@ bonding experiences.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KC Village/PSG/PSG_Family__1_.png">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KC Village/PSG/PSG_Family.png">
 </div>
 <h4><strong>JOIN OUR KC PSG!</strong></h4>
