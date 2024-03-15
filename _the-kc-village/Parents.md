@@ -98,7 +98,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/KC Viilage/Parents/TimeTables/2024_Sem_1_TT_10_Nov_2200_Class.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Semester 1 (updated on 11 Jan 2024)</a>
+<p><a href="/files/KC Viilage/Parents/TimeTables/2024_Sem_1_TT_10_Nov_2200_Class.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Semester 1 (updated on 11 Jan 2024)</a> 
 <br><a href="/files/KC Viilage/Parents/TimeTables/2024_Sem_1_Term_2__TT_14_March_1045_Class_w_PM_Lessons.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Semester 1 [Term 2] (Updated on 15 Mar 2024)</a>
 </p>
 </td>
