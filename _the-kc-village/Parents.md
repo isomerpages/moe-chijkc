@@ -74,10 +74,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.chijkatongconvent.moe.edu.sg/files/KC%20Viilage/Parents/CCA_BRIEFING_04_Jan_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CCA Briefing_04 Jan 2024</u></a>
-<br><a href="https://www.chijkatongconvent.moe.edu.sg/files/KC%20Viilage/Parents/KC_PLD_Briefing_04_Jan_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>KC PLD Briefing_04 Jan 2024</u></a>
-<br><a href="https://www.chijkatongconvent.moe.edu.sg/files/KC%20Experience/NDLP/KC_PLD_Briefing_to_Parents_040124_v3_website.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>NDLP_04 Jan 2024</u></a>
-<br><a href="https://www.chijkatongconvent.moe.edu.sg/files/KC%20Viilage/Parents/Principal_s_Address_04_Jan_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Principal's Address_04 Jan 2024</u></a>
+<p><a href="https://www.chijkatongconvent.moe.edu.sg/files/KC%20Viilage/Parents/CCA_BRIEFING_04_Jan_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CCA Briefing_04 Jan 2024</u></a> 
+<br><a href="https://www.chijkatongconvent.moe.edu.sg/files/KC%20Viilage/Parents/KC_PLD_Briefing_04_Jan_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>KC PLD Briefing_04 Jan 2024</u></a> 
+<br><a href="https://www.chijkatongconvent.moe.edu.sg/files/KC%20Experience/NDLP/KC_PLD_Briefing_to_Parents_040124_v3_website.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>NDLP_04 Jan 2024</u></a> 
+<br><a href="https://www.chijkatongconvent.moe.edu.sg/files/KC%20Viilage/Parents/Principal_s_Address_04_Jan_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Principal's Address_04 Jan 2024</u></a> 
 <br><a href="https://www.chijkatongconvent.moe.edu.sg/files/KC%20Viilage/Parents/Year_Head_talk__student_wellbeing__04_Jan_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Year Head Talk (Student Well-being)_04 Jan 2024</u></a>
 </p>
 </td>
@@ -93,7 +93,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4><br></h4>
 <h4>Semester Class Timetables</h4>
 <table>
 <tbody>
