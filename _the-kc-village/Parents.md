@@ -43,7 +43,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Term 2 (TBA)</p>
+<p><a href="/files/KC Viilage/Parents/Letters To Parents/2024_T2_Letter_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 2</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 4 (TBA)</p>
