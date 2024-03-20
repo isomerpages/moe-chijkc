@@ -29,6 +29,71 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<h4>Letters to Parents</h4>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.chijkatongconvent.moe.edu.sg/files/KC%20Viilage/Parents/Letters%20To%20Parents/2024_T1_Letter_to_Parents_v2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Term 1</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 3 (TBA)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Term 2 (TBA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 4 (TBA)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Parent Engagement Briefing Slides</h4>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 1</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 3</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 4/5</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.chijkatongconvent.moe.edu.sg/files/KC%20Viilage/Parents/CCA_BRIEFING_04_Jan_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CCA Briefing_04 Jan 2024</u></a>
+<br><a href="https://www.chijkatongconvent.moe.edu.sg/files/KC%20Viilage/Parents/KC_PLD_Briefing_04_Jan_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>KC PLD Briefing_04 Jan 2024</u></a>
+<br><a href="https://www.chijkatongconvent.moe.edu.sg/files/KC%20Experience/NDLP/KC_PLD_Briefing_to_Parents_040124_v3_website.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>NDLP_04 Jan 2024</u></a>
+<br><a href="https://www.chijkatongconvent.moe.edu.sg/files/KC%20Viilage/Parents/Principal_s_Address_04_Jan_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Principal's Address_04 Jan 2024</u></a>
+<br><a href="https://www.chijkatongconvent.moe.edu.sg/files/KC%20Viilage/Parents/Year_Head_talk__student_wellbeing__04_Jan_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Year Head Talk (Student Well-being)_04 Jan 2024</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><br></h4>
 <h4>Semester Class Timetables</h4>
 <table>
 <tbody>
