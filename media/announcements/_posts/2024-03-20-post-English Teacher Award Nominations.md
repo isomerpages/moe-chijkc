@@ -7,7 +7,12 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>English&nbsp;Teacher&nbsp;Award</strong>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 15%;" height="auto" width="100%" alt="" src="/images/Announcements/Speak_Good_English_Movement.png">
+</div>
+<p>
+<br><strong>English&nbsp;Teacher&nbsp;Award</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
