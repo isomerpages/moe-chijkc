@@ -34,7 +34,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/KC Viilage/Parents/Letters To Parents/2024_T1_Letter_to_Parents_v2.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 1</a>
+<p><a href="https://www.chijkatongconvent.moe.edu.sg/files/KC%20Viilage/Parents/Letters%20To%20Parents/2024_T1_Letter_to_Parents_v2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Term 1</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -43,7 +43,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Term 2 (TBA)</p>
+<p><a href="/files/KC Viilage/Parents/Letters To Parents/2024_T2_Letter_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 2</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 4 (TBA)</p>
@@ -74,21 +75,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/KC Viilage/Parents/CCA_BRIEFING_04_Jan_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">CCA Briefing_04 Jan 2024</a> 
-<br><a href="/files/KC Viilage/Parents/KC_PLD_Briefing_04_Jan_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">KC PLD Briefing_04 Jan 2024</a> 
-<br><a href="/files/KC Experience/NDLP/KC_PLD_Briefing_to_Parents_040124_v3_website.pdf" rel="noopener noreferrer nofollow" target="_blank">NDLP_04 Jan 2024</a> 
-<br><a href="/files/KC Viilage/Parents/Principal_s_Address_04_Jan_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Principal's Address_04 Jan 2024</a> 
-<br><a href="/files/KC Viilage/Parents/Year_Head_talk__student_wellbeing__04_Jan_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Year Head Talk (Student Well-being)_04 Jan 2024</a>
+<p><a href="https://www.chijkatongconvent.moe.edu.sg/files/KC%20Viilage/Parents/CCA_BRIEFING_04_Jan_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CCA Briefing_04 Jan 2024</u></a> 
+<br><a href="https://www.chijkatongconvent.moe.edu.sg/files/KC%20Viilage/Parents/KC_PLD_Briefing_04_Jan_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>KC PLD Briefing_04 Jan 2024</u></a> 
+<br><a href="https://www.chijkatongconvent.moe.edu.sg/files/KC%20Experience/NDLP/KC_PLD_Briefing_to_Parents_040124_v3_website.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>NDLP_04 Jan 2024</u></a> 
+<br><a href="https://www.chijkatongconvent.moe.edu.sg/files/KC%20Viilage/Parents/Principal_s_Address_04_Jan_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Principal's Address_04 Jan 2024</u></a> 
+<br><a href="https://www.chijkatongconvent.moe.edu.sg/files/KC%20Viilage/Parents/Year_Head_talk__student_wellbeing__04_Jan_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Year Head Talk (Student Well-being)_04 Jan 2024</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBA</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBA</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBA</p>
+<p></p>
 </td>
 </tr>
 </tbody>
