@@ -23,7 +23,7 @@ in the celebration may put in your request via <strong><a href="https://go.gov.s
 <p>Please submit your request by 08 April 2024. As there are limited number
 of tickets, the school reserves the rights to do the necessary allocation.
 We thank you for your understanding.</p>
-<p><strong>Note:</strong>
+<p><strong>Note:</strong> 
 <br>* You will be informed by 12 April 2024 if your application is successful,
 and we will then update you on the collection date and time.
 <br>* All allocated tickets to be collected from CHIJ Katong Convent.</p>
