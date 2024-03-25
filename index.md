@@ -14,7 +14,7 @@ sections:
   - infopic:
       title: CHIJ 170th Anniversary Celebration
       id: infopic
-      url: https://www.chijkatongconvent.moe.edu.sg/media/announcements/chij-170th-anniversary-celebration/
+      url: https://www.chijkatongconvent.moe.edu.sg/chij-170th-anniversary-celebration/
       image: /images/Announcements/IJ170.jpg
       alt: Welcome to KC
       button: Click for more info
