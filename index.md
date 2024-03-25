@@ -12,12 +12,19 @@ sections:
       url: /media/announcements/
       title: A Convent by the Sea
   - infopic:
+      title: CHIJ 170th Anniversary Celebration
+      id: infopic
+      url: https://www.chijkatongconvent.moe.edu.sg/media/announcements/chij-170th-anniversary-celebration/
+      image: /images/Announcements/IJ170.jpg
+      alt: Welcome to KC
+      button: Click for more info
+  - infopic:
       title: Welcome to KC
       id: infopic
+      button: CLICK HERE FOR MORE SEC 1 INFO
       url: https://go.gov.sg/kcsec1info
       image: /images/Announcements/Welcome_to_KC.png
-      alt: Welcome to KC
-      button: Click here for more sec 1 info
+      alt: Image alt text
   - resources:
       title: Latest Updates
       button: More
