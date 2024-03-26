@@ -18,13 +18,6 @@ sections:
       image: /images/Announcements/IJ170.jpg
       alt: Welcome to KC
       button: Click for more info
-  - infopic:
-      title: Welcome to KC
-      id: infopic
-      button: CLICK HERE FOR MORE SEC 1 INFO
-      url: https://go.gov.sg/kcsec1info
-      image: /images/Announcements/Welcome_to_KC.png
-      alt: Image alt text
   - resources:
       title: Latest Updates
       button: More
