@@ -154,10 +154,18 @@ alignment with the Catholic churches’ vision for its Catholic mission schools.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>25 Mar (Mon)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lenten Booth by Catholic Support Leaders</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>28 Mar (Thu)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Catholic Connect 6 (Lenten Project)</p>
+<p>Catholic Connect 6 (Washing of Feet)</p>
 </td>
 </tr>
 <tr>
@@ -173,7 +181,7 @@ alignment with the Catholic churches’ vision for its Catholic mission schools.
 <p>2 April (Tue)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Easter Mass (Hall)</p>
+<p>Easter Mass and Easter Quiz (Hall)</p>
 </td>
 </tr>
 <tr>
@@ -181,7 +189,7 @@ alignment with the Catholic churches’ vision for its Catholic mission schools.
 <p>4 Apr (Thu)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Catholic Connect 7</p>
+<p>Catholic Connect 7 (Easter Party &amp; Outreach)</p>
 </td>
 </tr>
 <tr>
