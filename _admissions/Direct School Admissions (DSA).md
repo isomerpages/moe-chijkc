@@ -109,7 +109,7 @@ media.</p>
 </tbody>
 </table>
 <h4>Selection Criteria &amp; Process</h4>
-<p><a href="/files/Admissions/Direct%20School%20Admissions%20(DSA)/dsa%20selection%20criteria%20n%20process.pdf" rel="noopener noreferrer nofollow" target="_blank">Refer to this link for the selection criteria and process</a>
+<p><a href="/files/Admissions/Direct School Admissions (DSA)/2024_DSA_Criteria_and_Selection_Process_xlsx___Website_Version.pdf" rel="noopener noreferrer nofollow" target="_blank">Refer to this link for the selection criteria and process</a>
 </p>
 <h4>Application Procedure</h4>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
