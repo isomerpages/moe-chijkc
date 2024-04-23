@@ -9,10 +9,10 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>General Office Management</p>
+<h4>General Office Management</h4>
 </th>
 <th rowspan="1" colspan="1">
-<p>Email</p>
+<h4>Email</h4>
 </th>
 </tr>
 <tr>
@@ -86,10 +86,10 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Support Officers</p>
+<h4>Support Officers</h4>
 </th>
 <th rowspan="1" colspan="1">
-<p>Email</p>
+<h4>Email</h4>
 </th>
 </tr>
 <tr>
@@ -146,10 +146,10 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Curricular &amp; Co-Curricular Support</p>
+<h4>Curricular &amp; Co-Curricular Support</h4>
 </th>
 <th rowspan="1" colspan="1">
-<p>Email</p>
+<h4>Email</h4>
 </th>
 </tr>
 <tr>
@@ -205,10 +205,10 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Information Technology Support</p>
+<h4>Information Technology Support</h4>
 </th>
 <th rowspan="1" colspan="1">
-<p>Email</p>
+<h4>Email</h4>
 </th>
 </tr>
 <tr>
