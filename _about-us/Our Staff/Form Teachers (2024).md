@@ -9,15 +9,13 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>SECONDARY 1</strong>
-</p>
+<h4>SECONDARY 1</h4>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Year Head / Discipline</strong>
-</p>
+<h4>Year Head / Discipline</h4>
 </th>
 <th rowspan="1" colspan="1">
-<p>Email</p>
+<h4>Email</h4>
 </th>
 </tr>
 <tr>
@@ -36,16 +34,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Class</strong>
-</p>
+<h4>Class</h4>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Form Teacher</strong>
-</p>
+<h4>Form Teacher</h4>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Email</strong>
-</p>
+<h4>Email</h4>
 </td>
 </tr>
 <tr>
@@ -168,13 +163,13 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>SECONDARY 2</p>
+<h4>SECONDARY 2</h4>
 </th>
 <th rowspan="1" colspan="1">
-<p>Year Head / Discipline</p>
+<h4>Year Head / Discipline</h4>
 </th>
 <th rowspan="1" colspan="1">
-<p>Email</p>
+<h4>Email</h4>
 </th>
 </tr>
 <tr>
@@ -193,16 +188,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Class</strong>
-</p>
+<h4>Class</h4>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Form Teacher</strong>
-</p>
+<h4>Form Teacher</h4>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Email</strong>
-</p>
+<h4>Email</h4>
 </td>
 </tr>
 <tr>
@@ -327,15 +319,13 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>SECONDARY 3</strong>
-</p>
+<h4>SECONDARY 3</h4>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Year Head / Discipline</strong>
-</p>
+<h4>Year Head / Discipline</h4>
 </th>
 <th rowspan="1" colspan="1">
-<p>Email</p>
+<h4>Email</h4>
 </th>
 </tr>
 <tr>
@@ -354,16 +344,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Class</strong>
-</p>
+<h4>Class</h4>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Form Teacher</strong>
-</p>
+<h4>Form Teacher</h4>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Email</strong>
-</p>
+<h4>Email</h4>
 </td>
 </tr>
 <tr>
@@ -486,15 +473,13 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>SECONDARY 4</strong>
-</p>
+<h4>SECONDARY 4</h4>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Year Head / Discipline</strong>
-</p>
+<h4>Year Head / Discipline</h4>
 </th>
 <th rowspan="1" colspan="1">
-<p>Email</p>
+<h4>Email</h4>
 </th>
 </tr>
 <tr>
@@ -513,16 +498,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Class</strong>
-</p>
+<h4>Class</h4>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Form Teacher</strong>
-</p>
+<h4>Form Teacher</h4>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Email</strong>
-</p>
+<h4>Email</h4>
 </td>
 </tr>
 <tr>
@@ -647,15 +629,13 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>SECONDARY 5</strong>
-</p>
+<h4>SECONDARY 5</h4>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Year Head / Discipline</strong>
-</p>
+<h4>Year Head / Discipline</h4>
 </th>
 <th rowspan="1" colspan="1">
-<p>Email</p>
+<h4>Email</h4>
 </th>
 </tr>
 <tr>
@@ -674,16 +654,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Class</strong>
-</p>
+<h4>Class</h4>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Form Teacher</strong>
-</p>
+<h4>Form Teacher</h4>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Email</strong>
-</p>
+<h4>Email</h4>
 </td>
 </tr>
 <tr>
