@@ -169,7 +169,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Student Development</strong>
+<p><strong>Student Development</strong> 
 <br>Mrs Christina Lee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -180,7 +180,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year Head</strong>
+<p><strong>Year Head</strong> 
 <br>Mr Loh Jing Hui</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -222,7 +222,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Student Leadership (covering)</strong>
+<p><strong>Student Leadership (covering)</strong> 
 <br>Ms Sarah Phua</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -233,7 +233,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Art</strong>
+<p><strong>Art</strong> 
 <br>Ms Heather Teo</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -244,7 +244,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head</strong>
+<p><strong>Assistant Year Head</strong> 
 <br>Ms Lee Shu Min</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -255,7 +255,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Geography</strong>
+<p><strong>Geography</strong> 
 <br>Ms Cheryl Anne Lim</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -266,7 +266,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Malay Language</strong>
+<p><strong>Malay Language</strong> 
 <br>Ms Norazian Mohamed Yahya</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -277,7 +277,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Physical Education/ CCA</strong>
+<p><strong>Physical Education/ CCA</strong> 
 <br>Mr Ho Shi An</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -308,7 +308,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Character and Citizenship Education</strong>
+<p><strong>Character and Citizenship Education</strong> 
 <br>Mrs Helen Lie</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -319,7 +319,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Educational Support</strong>
+<p><strong>Educational Support</strong> 
 <br>Mdm Zakiah Subahan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -330,7 +330,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Literature</strong>
+<p><strong>Literature</strong> 
 <br>Mrs Sukhjeet Singh</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -341,7 +341,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>History</strong>
+<p><strong>History</strong> 
 <br>Mr Tan Swee Hong</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -352,7 +352,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mathematics</strong>
+<p><strong>Mathematics</strong> 
 <br>Mrs Phua Lai Tee</p>
 </td>
 <td rowspan="1" colspan="1">
