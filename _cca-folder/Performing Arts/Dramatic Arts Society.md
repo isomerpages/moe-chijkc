@@ -68,7 +68,7 @@ activities:</p>
 <p>SYF Arts Presentation Certificate of Distinction</p>
 </li>
 </ul>
-<p><strong>2019</strong> 
+<p><strong>2019</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -78,7 +78,7 @@ activities:</p>
 <p>Participated in the Odyssey of the Mind World Finals 2019</p>
 </li>
 </ul>
-<p><strong>2018</strong> 
+<p><strong>2018</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
