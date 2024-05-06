@@ -61,8 +61,14 @@ activities:</p>
 </li>
 </ul>
 <h4>Achievements (Last 3 years)</h4>
-<p><strong>2019</strong>
-<br>
+<p><strong>2023</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>SYF Arts Presentation Certificate of Distinction</p>
+</li>
+</ul>
+<p><strong>2019</strong> 
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -72,23 +78,12 @@ activities:</p>
 <p>Participated in the Odyssey of the Mind World Finals 2019</p>
 </li>
 </ul>
-<p><strong>2018</strong>
-<br>
+<p><strong>2018</strong> 
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Singapore Youth Festival Arts Presentation - Certificate of Accomplishment</p>
 </li>
 </ul>
-<p><strong>2017</strong>
-<br>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Singapore Youth Festival Arts Presentation Certificate of Accomplishment</p>
-</li>
-<li>
-<p>Odyssey of the Mind – 2nd Place (Qualified for World Finals, USA)</p>
-</li>
-</ul>
+<p></p>
 <p></p>
