@@ -6,7 +6,7 @@ third_nav_title: Performing Arts
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="450" width="735" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS-w7mreG8hsp8gjdCE07o2w64a_H5z6S7z_o4qe5uSfA2EsE7Uu2XBrQAEv41E7wSacKyP2Rr7-iX6/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="450" width="735" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS3j6pfvTbti8lz0w4fFlBnOEXyaBS5cLrY3N2us10y5UTQn2NHSKNccXyhzCB5Ng/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <h4>Objectives</h4>
 <ul data-tight="true" class="tight">
@@ -63,7 +63,7 @@ to help them appreciate the values of performing music for the community.</p>
 <p>Singapore Youth Festival Arts Presentation- Certificate of Accomplishment</p>
 </li>
 </ul>
-<p><strong>2021:</strong> 
+<p><strong>2021:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
