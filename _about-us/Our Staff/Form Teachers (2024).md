@@ -452,7 +452,7 @@ variant: tiptap
 <p>Ms Gan Siew Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gan_siew_cheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gan_siew_cheng@moe.edu.sg</a> 
+<p><a href="mailto:gan_siew_cheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gan_siew_cheng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
