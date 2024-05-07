@@ -5,7 +5,12 @@ description: ""
 third_nav_title: Our Staff
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -159,7 +164,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -315,7 +325,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -434,12 +449,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Gan Siew Cheng
-<br>Ms Zhang Fang</p>
+<p>Ms Gan Siew Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gan_siew_cheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gan_siew_cheng@moe.edu.sg</a> 
-<br><a href="mailto:zhang_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_fang@moe.edu.sg</a>
+<p><a href="mailto:gan_siew_cheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gan_siew_cheng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -469,7 +482,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -625,7 +643,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
