@@ -61,13 +61,7 @@ activities:</p>
 </li>
 </ul>
 <h4>Achievements (Last 3 years)</h4>
-<p><strong>2023</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>SYF Arts Presentation Certificate of Distinction</p>
-</li>
-</ul>
+<p></p>
 <p><strong>2019</strong>
 </p>
 <ul data-tight="true" class="tight">
