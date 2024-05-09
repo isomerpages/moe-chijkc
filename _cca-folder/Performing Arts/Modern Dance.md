@@ -37,8 +37,14 @@ excel in dance.</p>
 </li>
 </ul>
 <h4>Achievements (Last 3 years)</h4>
+<p><strong>2023</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>SYF Arts Presentation Certificate of Distinction</p>
+</li>
+</ul>
 <p><strong>2021</strong> 
-<br>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -46,7 +52,6 @@ excel in dance.</p>
 </li>
 </ul>
 <p><strong>2019</strong> 
-<br>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -59,12 +64,5 @@ excel in dance.</p>
 <p>Super 24 Secondary Championships – 4th place</p>
 </li>
 </ul>
-<p><strong>2018</strong> 
-<br>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Singapore Youth Festival Arts Presentation - Certificate of Distinction</p>
-</li>
-</ul>
+<p></p>
 <p></p>
