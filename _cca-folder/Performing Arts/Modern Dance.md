@@ -45,7 +45,7 @@ excel in dance.</p>
 <p>SYF Arts Presentation Certificate of Distinction</p>
 </li>
 </ul>
-<p><strong>2019</strong>
+<p><strong>2019</strong> 
 <br>
 </p>
 <ul data-tight="true" class="tight">
@@ -59,7 +59,7 @@ excel in dance.</p>
 <p>Super 24 Secondary Championships – 4th place</p>
 </li>
 </ul>
-<p><strong>2018</strong>
+<p><strong>2018</strong> 
 <br>
 </p>
 <ul data-tight="true" class="tight">
