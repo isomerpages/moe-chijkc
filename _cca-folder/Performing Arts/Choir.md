@@ -40,8 +40,17 @@ variant: tiptap
 <br>Refinement of music making
 <br>(Through focused group training, sectionals, combined rehearsals, performances)</p>
 <h4>Achievements</h4>
-<p><strong>2021</strong> 
-<br>
+<p><strong>2023</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singapore Youth Festival Arts Presentation (Certificate of Distinction)</p>
+</li>
+<li>
+<p>Kaleidoscope: SLO Youth and Children's Chorus Concert</p>
+</li>
+</ul>
+<p><strong>2021</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -49,8 +58,7 @@ variant: tiptap
 </li>
 </ul>
 <p><strong>2020:</strong>&nbsp;N/A</p>
-<p><strong>2019:</strong>
-<br>
+<p><strong>2019:</strong> 
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -63,16 +71,14 @@ variant: tiptap
 <p>Marine Parade National Day dinner performance</p>
 </li>
 </ul>
-<p><strong>2018:</strong>
-<br>
+<p><strong>2018:</strong> 
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Limelight Concert at Esplanade</p>
 </li>
 </ul>
-<p><strong>2017:</strong>
-<br>
+<p><strong>2017:</strong> 
 </p>
 <ul data-tight="true" class="tight">
 <li>
