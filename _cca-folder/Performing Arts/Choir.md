@@ -57,8 +57,7 @@ variant: tiptap
 <p>SYF Arts Presentation</p>
 </li>
 </ul>
-<p><strong>2020:</strong>&nbsp;N/A</p>
-<p><strong>2019:</strong> 
+<p><strong>2019:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -71,14 +70,14 @@ variant: tiptap
 <p>Marine Parade National Day dinner performance</p>
 </li>
 </ul>
-<p><strong>2018:</strong> 
+<p><strong>2018:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Limelight Concert at Esplanade</p>
 </li>
 </ul>
-<p><strong>2017:</strong> 
+<p><strong>2017:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
