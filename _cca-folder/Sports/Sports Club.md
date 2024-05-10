@@ -55,7 +55,7 @@ about values such as teamwork, perseverance, discipline and respect</p>
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ISP</p>
+<p>ISP 2023</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Netball</strong>
@@ -91,17 +91,17 @@ Secondary School)</p>
 <p>ISP 2021</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Badminton</strong>
+<p><strong>Badminton</strong> 
 <br>B Division (1st &amp; 4th)
 <br>C Division (3rd)
 <br>
-<br><strong>Basketball</strong>
+<br><strong>Basketball</strong> 
 <br>B Division (3rd)
 <br>
-<br><strong>Frisbee</strong>
+<br><strong>Frisbee</strong> 
 <br>C Division (1st &amp; 3rd)
 <br>
-<br><strong>Volleyball</strong>
+<br><strong>Volleyball</strong> 
 <br>B Division (1st)</p>
 </td>
 </tr>
@@ -113,14 +113,14 @@ Secondary School)</p>
 <p>ISP 2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Badminton</strong>
+<p><strong>Badminton</strong> 
 <br>C Division (3rd)
 <br>
-<br><strong>Netball</strong>
+<br><strong>Netball</strong> 
 <br>B Division (2nd)
 <br>C Division (1st)
 <br>
-<br><strong>Hanball</strong>
+<br><strong>Hanball</strong> 
 <br>B Division (1st)
 <br>C Division (1st)</p>
 </td>
