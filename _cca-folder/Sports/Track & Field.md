@@ -110,7 +110,7 @@ secondary members..</p>
 <p>Micole Wee Purida Nantalieya – Sec 102 (Finalist: 4th Position)</p>
 </li>
 </ul>
-<p><strong>C Division 1500m Run</strong> 
+<p><strong>C Division 1500m Run</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -135,7 +135,7 @@ secondary members..</p>
 <p>Janice Yeo Sze Min – Sec 406 (Semi Finalist)</p>
 </li>
 </ul>
-<p><strong>C Division 4 x 100m Relay Run</strong> 
+<p><strong>C Division 4 x 100m Relay Run</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -154,7 +154,7 @@ secondary members..</p>
 <p>Kimberly Yong Li Kim – Sec 203 (Semi Finalist)</p>
 </li>
 </ul>
-<p><strong>B Division Long Jump</strong> 
+<p><strong>B Division Long Jump</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
