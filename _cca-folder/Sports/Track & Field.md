@@ -40,34 +40,84 @@ program will cover the following:</p>
 are expected to exercise leadership skills to guide and mentor the lower
 secondary members..</p>
 <h4>Achievements (Last 3 years)</h4>
-<p><strong>2021</strong> 
-<br><strong>B Division 100m &amp; 200m</strong>&nbsp;
-<br>
+<p><strong>2024</strong>
 </p>
+<p><strong>C Division 200m</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Alexa Valera Defries - Sec 107 (Finalist: 4th Position)</p>
+</li>
+</ul>
+<p><strong>C Division 400m</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Alexa Valera Defries - Sec 107 (Finalist: 5th Position)</p>
+</li>
+</ul>
+<p><strong>C Division Long Jump</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Joanna Tan - Sec 106 (Finalist: 7th Position)</p>
+</li>
+</ul>
+<p><strong>C Division 4 x 100m relay</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Finalist 7th Position</p>
+</li>
+</ul>
+<p><strong>C Division 4 x 400m</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Finalist 8th Position</p>
+</li>
+</ul>
+<p><strong>2023</strong>
+</p>
+<p><strong>C Division Cross Country</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Micole Wee Purida Nantalieya – Sec 202 (Finalist: 4th Position)</p>
+</li>
+<li>
+<p>Overall 6th position</p>
+</li>
+</ul>
+<p><strong>C Division 1500m</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Micole Wee Purida Nantalieya – Sec 202 (Finalist: 3rd Position)</p>
+</li>
+</ul>
+<p><strong>2022</strong>
+</p>
+<p><strong>B Division 100m &amp; 200m</strong>&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Isabella Charlotte Grosvenor – Sec 404 (Semi Finalist)</p>
 </li>
 </ul>
-<p><strong>C Division 800m</strong>&nbsp;
-<br>
-</p>
+<p><strong>C Division 800m</strong>&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Micole Wee Purida Nantalieya – Sec 102 (Finalist: 4th Position)</p>
 </li>
 </ul>
-<p><strong>C Division 1500m Run</strong>
-<br>
+<p><strong>C Division 1500m Run</strong> 
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Micole Wee Purida Nantalieya – Sec 102 (Finalist: 1st Position - Gold)</p>
 </li>
 </ul>
-<p><strong>B Division 4 x 100m Relay</strong>&nbsp;
-<br>
-</p>
+<p><strong>B Division 4 x 100m Relay</strong>&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Melody Koo Wai Yean – Sec 302 (Semi Finalist)</p>
@@ -85,8 +135,7 @@ secondary members..</p>
 <p>Janice Yeo Sze Min – Sec 406 (Semi Finalist)</p>
 </li>
 </ul>
-<p><strong>C Division 4 x 100m Relay Run</strong>
-<br>
+<p><strong>C Division 4 x 100m Relay Run</strong> 
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -105,8 +154,7 @@ secondary members..</p>
 <p>Kimberly Yong Li Kim – Sec 203 (Semi Finalist)</p>
 </li>
 </ul>
-<p><strong>B Division Long Jump</strong>
-<br>
+<p><strong>B Division Long Jump</strong> 
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -114,37 +162,6 @@ secondary members..</p>
 </li>
 <li>
 <p>Janice Yeo Sze Min – Sec 406 (Finalist)</p>
-</li>
-</ul>
-<p><strong>2018</strong>
-<br>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>National School Games 2018 B Division Girls 200m - Gwendolyn Therese Lim
-Ean Bee of Sec 401: 3rd position</p>
-</li>
-<li>
-<p>National School Games 2018 B Division Girls Long Jump – Wickramanayake
-Maheesha S of Sec 403: 4th position</p>
-</li>
-<li>
-<p>National School Games 2018 C Division Girls Shot Put – Janelle Ho Xyn
-Yi of Sec 201: 1st position</p>
-</li>
-<li>
-<p>National School Games 2018 B division 4 x 100 m relay team comprising
-of Gwendolyn Therese Lim (Sec 401), Hia Jing Lin Alicia (Sec 406), Tuan
-Mun Mun (Sec 401), Tjoe Marleena Tiara (Sec 502) and Amanda Chan Wai Yee
-(Sec 306) made it to the finals and achieved their personal best timing.</p>
-</li>
-</ul>
-<p><strong>2017</strong>
-<br>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Finals for National School Games B and C division 100 m</p>
 </li>
 </ul>
 <p></p>
