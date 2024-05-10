@@ -6,7 +6,7 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="450" width="735" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ59LKC4R256SA-8FXYHMw-LfzZlo1XL7z_LKla3byOEWnQZAQYlVl5R5z_pGoteiYSFF9mkQUJv8Q1/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="569" width="946" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRjSL-TNq8PRgJl76n_LlGRTJj9vrX2QjDJZ3AYMgsjN3ZRqNtWgpeGUuroPyJsPg/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <h4>Objectives</h4>
 <p>Vision: To develop and empower our youth to be active and concerned citizens
