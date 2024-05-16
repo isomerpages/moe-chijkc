@@ -624,7 +624,7 @@ variant: tiptap
 <p>Mrs Judy Goh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_li_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_li_kiang@moe.edu.sg</a> 
+<p><a href="mailto:lim_li_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_li_kiang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
