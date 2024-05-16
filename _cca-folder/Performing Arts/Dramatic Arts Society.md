@@ -6,7 +6,7 @@ third_nav_title: Performing Arts
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="585" width="735" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRzcEb9zoL1kh2tXGzZWlcXtEpN5I6Ab4mVhRQ-IaH9sLTR5yufoINCx-qRQQW7ysN2XtPey_0gPuNY/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="585" width="735" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQzWDsiqDm8Itdvh3vFBj5yQd6M9Ld5v7okk1f2sC33rzMCVaCOOnboW1o34mckOUgog_GY91u-HNKd/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <h4>Objectives</h4>
 <ul data-tight="true" class="tight">
@@ -60,24 +60,19 @@ activities:</p>
 <p>BMW</p>
 </li>
 </ul>
-<h4>Achievements (Last 3 years)</h4>
-<p></p>
-<p><strong>2019</strong>
+<h4>Achievements</h4>
+<p><strong>2022</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Singapore Youth Festival Arts Presentation - Certificate of Accomplishment</p>
-</li>
-<li>
-<p>Participated in the Odyssey of the Mind World Finals 2019</p>
+<p>Gryphon Youth Outreach Programme - Anti-Crime Video Competition 2022</p>
 </li>
 </ul>
-<p><strong>2018</strong>
+<p><strong>2021</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Singapore Youth Festival Arts Presentation - Certificate of Accomplishment</p>
+<p>SYF Arts Presentation Certificate of Achievement</p>
 </li>
 </ul>
-<p></p>
 <p></p>
