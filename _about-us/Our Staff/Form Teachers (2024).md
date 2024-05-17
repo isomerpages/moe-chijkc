@@ -621,12 +621,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Judy Goh
-<br>Ms Esther Tan (Term 1)</p>
+<p>Mrs Judy Goh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_li_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_li_kiang@moe.edu.sg</a> 
-<br><a href="mailto:esther_tan_kok_kheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">esther_tan_kok_kheng@moe.edu.sg</a>
+<p><a href="mailto:lim_li_kiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_li_kiang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
