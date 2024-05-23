@@ -5,7 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h4>Parents Gateway</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -13,7 +17,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/KC%20Viilage/Parents/kc%20travel%20declaration%20website.pdf" rel="noopener noreferrer nofollow" target="_blank">Travel Declaration</a>
+<p><a href="/files/KC Viilage/Parents/kc_travel_declaration_website.pdf" rel="noopener noreferrer nofollow" target="_blank">Travel Declaration</a>
 </p>
 </td>
 </tr>
@@ -30,7 +34,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Letters to Parents</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -53,7 +61,13 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Parent Engagement Briefing Slides</h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -95,7 +109,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Semester Class Timetables</h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -110,7 +128,13 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Weighted Assessment</h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -167,7 +191,13 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Prelim and End-of-Year Examinations</h4>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
