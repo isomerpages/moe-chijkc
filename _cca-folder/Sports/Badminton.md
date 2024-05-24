@@ -46,7 +46,7 @@ schools</p>
 </li>
 </ul>
 <h4>Achievements</h4>
-<p><strong>2021</strong> 
+<p><strong>2021</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
