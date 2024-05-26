@@ -80,12 +80,30 @@ freedom and love.</p>
 </li>
 </ul>
 <h4>Achievements (Last 3 years)</h4>
-<p><strong>2022</strong>
-<br>
+<p><strong>2023</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Baden Powell Award</p>
+<p>Puan Noor Aishah Gold Award</p>
+</li>
+<li>
+<p>East Division Day Toy Making Competition - 1st</p>
+</li>
+<li>
+<p>East Division Day Skit Competition - Merit</p>
+</li>
+<li>
+<p>Baden Powell Award (Joanna Teo and Marissa-Faith Heng)</p>
+</li>
+</ul>
+<p><strong>2022</strong> 
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Puan Noor Aishah Gold Award</p>
+</li>
+<li>
+<p>Baden Powell Award (Natalie Tham)</p>
 </li>
 <li>
 <p>East Division Day Toymaking Competition - Silver</p>
@@ -97,8 +115,7 @@ freedom and love.</p>
 <p>She Can! - International Camp (organised by Girl Guides Singapore)</p>
 </li>
 </ul>
-<p><strong>2021</strong>
-<br>
+<p><strong>2021</strong> 
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -117,8 +134,7 @@ freedom and love.</p>
 <p>East Division Learning Day Sign Language Escape Room Competition - Silver</p>
 </li>
 </ul>
-<p><strong>2019</strong>
-<br>
+<p><strong>2019</strong> 
 </p>
 <ul data-tight="true" class="tight">
 <li>
