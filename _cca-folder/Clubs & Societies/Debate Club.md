@@ -80,9 +80,7 @@ in the following competitions:</p>
 <p>Mid Year Debate Invitationals (MIDs)</p>
 </li>
 <li>
-<p>Lasallian Debate League
-<br>
-</p>
+<p>Lasallian Debate League</p>
 </li>
 </ul>
 </li>
@@ -109,20 +107,8 @@ in the following competitions:</p>
 <li>
 <p>National Schools Online Debating Championships 2020</p>
 </li>
-</ul>
-<p>2019</p>
-<ul data-tight="true" class="tight">
 <li>
-<p>Singapore Secondary Schools Debating Championships 2019 - Quarter Finalist
-(team), 1st&nbsp;Best Speaker (Queeshia Pascual) and 2nd&nbsp;Best Speaker
-(Cheryl Chua Xin Miao) in Division 2</p>
-</li>
-<li>
-<p>Nethelynn Yang &amp; Keris Lim Zhuo Yan- Selected to be part of the National
-Debate Training programme conducted by MOE</p>
-</li>
-<li>
-<p>Raffles Debate Academy U-14s Debating Championships- Semi finalists</p>
+<p></p>
 </li>
 </ul>
 <p></p>
