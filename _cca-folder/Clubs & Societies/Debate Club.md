@@ -3,39 +3,112 @@ title: Debate Club
 permalink: /clubs-and-societies/dc/
 description: ""
 third_nav_title: Clubs & Societies
+variant: tiptap
 ---
-<img src="/images/CCA/KC%20DEBATE.png" style="width:35%" align=center>
-
-#### Objectives
-
-*   To challenge students to think critically about world issues, gain knowledge about world organisations and strengthen their general knowledge.
-*   To sharpen speaking skills and ability to think on the spot.
-
-#### Programme (Lower Sec)
-
-*   Students will learn the basics of debate through friendly sparring with their peers and with students from other schools.
-*   Students will learn, explore and discuss current affairs from a wide range of topics as international law, sciences, economics and human rights.
-*   Students will also be given opportunities to participate and represent the school in competitions.
-
-#### Programme (Upper Sec)
-
-*   Students will hone their debating skills by mentoring their juniors, debating through friendly spars with their peers and with students from other schools.
-*   Students will research and present their findings on a wide range of topics as international law, sciences, economics and human rights.
-*   Students will organize and facilitate CCA activities such as CCA fair and the BMW debate
-*   Students will be given opportunities to participate and represent the school in competitions.
-
-#### Achievements (last 3 years)
-
-2022<br>
-*   Debate Association Debating Championships 2022 – 1st runner up
-*   Singapore Secondary Schools Debating Championships 2022 – Quarter Finalists  
-
-2020<br>
-*   National Schools Online Debating Championships 2020 – Champions
-*   Thoburn Cup 2020 – Best Speaker
-*   National Schools Online Debating Championships 2020
-
-2019<br>
-*   Singapore Secondary Schools Debating Championships 2019 - Quarter Finalist (team), 1st Best Speaker (Queeshia Pascual) and 2nd Best Speaker (Cheryl Chua Xin Miao) in Division 2
-*   Nethelynn Yang & Keris Lim Zhuo Yan- Selected to be part of the National Debate Training programme conducted by MOE
-*   Raffles Debate Academy U-14s Debating Championships- Semi finalists
+<div class="isomer-image-wrapper">
+<img style="width:35%" height="auto" width="100%" src="/images/CCA/KC%20DEBATE.png">
+</div>
+<h4>Objectives</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>To challenge students to think critically about world issues, gain knowledge
+about world organisations and strengthen their general knowledge.</p>
+</li>
+<li>
+<p>To sharpen speaking skills and ability to think on the spot.</p>
+</li>
+</ul>
+<h4>Programme (Lower Sec)</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students will learn the basics of debate through friendly sparring with
+their peers and with students from other schools.</p>
+</li>
+<li>
+<p>Students will learn, explore and discuss current affairs from a wide range
+of topics as international law, sciences, economics and human rights.</p>
+</li>
+<li>
+<p>Students will also be given opportunities to participate and represent
+the school in competitions.</p>
+</li>
+</ul>
+<h4>Programme (Upper Sec)</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students will hone their debating skills by mentoring their juniors, debating
+through friendly spars with their peers and with students from other schools.</p>
+</li>
+<li>
+<p>Students will research and present their findings on a wide range of topics
+as international law, sciences, economics and human rights.</p>
+</li>
+<li>
+<p>Students will organize and facilitate CCA activities such as CCA fair
+and the BMW debate</p>
+</li>
+<li>
+<p>Students will be given opportunities to participate and represent the
+school in competitions.</p>
+</li>
+</ul>
+<h4>Achievements (last 3 years)</h4>
+<p><strong>2023</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Debate Association Debating Championships - 2nd placing in the Silver
+Division</p>
+</li>
+<li>
+<p>Megan Teh &amp; Katkar Toshaja Santosh - 2nd Best SpeakerParticipation
+in the following competitions:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Eunoia Debating Championships</p>
+</li>
+<li>
+<p>Dunman High Debate Open</p>
+</li>
+<li>
+<p>RI U-14s Debating Championship</p>
+</li>
+<li>
+<p>Singapore Secondary Schools Debating Championships</p>
+</li>
+<li>
+<p>Mid Year Debate Invitationals (MIDs)</p>
+</li>
+<li>
+<p>Lasallian Debate League</p>
+</li>
+</ul>
+</li>
+</ul>
+<p><strong>2022</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Debate Association Debating Championships 2022 – 1st runner up</p>
+</li>
+<li>
+<p>Singapore Secondary Schools Debating Championships 2022 – Quarter Finalists</p>
+</li>
+</ul>
+<p><strong>2020</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>National Schools Online Debating Championships 2020 – Champions</p>
+</li>
+<li>
+<p>Thoburn Cup 2020 – Best Speaker</p>
+</li>
+<li>
+<p>National Schools Online Debating Championships 2020</p>
+</li>
+<li>
+<p></p>
+</li>
+</ul>
+<p></p>
