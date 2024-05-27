@@ -46,6 +46,13 @@ schools</p>
 </li>
 </ul>
 <h4>Achievements</h4>
+<p><strong>2022 - 2024</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Participation in National School Games East Zone Badminton Championships</p>
+</li>
+</ul>
 <p><strong>2021</strong>
 </p>
 <ul data-tight="true" class="tight">
