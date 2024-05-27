@@ -53,7 +53,7 @@ variant: tiptap
 Position and 4th position for Doubles Event</p>
 </li>
 </ul>
-<p><strong>2022</strong> 
+<p><strong>2022</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -76,7 +76,7 @@ Sec (Doubles)</p>
 Sec (Singles)</p>
 </li>
 </ul>
-<p><strong>2021</strong> 
+<p><strong>2021</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
