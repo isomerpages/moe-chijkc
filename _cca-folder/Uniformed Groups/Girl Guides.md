@@ -134,20 +134,4 @@ freedom and love.</p>
 <p>East Division Learning Day Sign Language Escape Room Competition - Silver</p>
 </li>
 </ul>
-<p><strong>2019</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Puan Noor Aishah Gold Award</p>
-</li>
-<li>
-<p>‘Girls Leading Change’ Pin Design Competition – 3rd position</p>
-</li>
-<li>
-<p>East Division Day Snack Making Competition – Merit</p>
-</li>
-<li>
-<p>Olave 2019 – Girl Guides International Camp</p>
-</li>
-</ul>
 <p></p>
