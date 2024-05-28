@@ -6,7 +6,7 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="450" width="735" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQPBphqljdxEi0UpZwSI-cJ9Cu_H9vzqcNOoJ_ep8fppsXM3JGTGRXScNc47Vxq2noUhvkclpUxApXS/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="569" width="950" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRkv28YKy7A54q8kcKawcrXdOfXJ1Q6-EjVMqzm8QbrBkwXgu18pvsm0aMgyk332Q/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <h4>Objectives</h4>
 <ul data-tight="true" class="tight">
@@ -96,7 +96,7 @@ freedom and love.</p>
 <p>Baden Powell Award (Joanna Teo and Marissa-Faith Heng)</p>
 </li>
 </ul>
-<p><strong>2022</strong> 
+<p><strong>2022</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -115,7 +115,7 @@ freedom and love.</p>
 <p>She Can! - International Camp (organised by Girl Guides Singapore)</p>
 </li>
 </ul>
-<p><strong>2021</strong> 
+<p><strong>2021</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -132,22 +132,6 @@ freedom and love.</p>
 </li>
 <li>
 <p>East Division Learning Day Sign Language Escape Room Competition - Silver</p>
-</li>
-</ul>
-<p><strong>2019</strong> 
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Puan Noor Aishah Gold Award</p>
-</li>
-<li>
-<p>‘Girls Leading Change’ Pin Design Competition – 3rd position</p>
-</li>
-<li>
-<p>East Division Day Snack Making Competition – Merit</p>
-</li>
-<li>
-<p>Olave 2019 – Girl Guides International Camp</p>
 </li>
 </ul>
 <p></p>
