@@ -123,7 +123,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2024 Semester 2 (TBA)</p>
+<p><a href="/files/KC Viilage/Parents/TimeTables/2024_Sem_2_TT_20_June_2100_Class.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Semester 2</a>
+<br><a href="/files/KC Viilage/Parents/TimeTables/2024_Semester_2_Afternoon_Lessons.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Semester 2 (Afternoon Lessons)</a>
+</p>
 </td>
 </tr>
 </tbody>
