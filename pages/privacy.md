@@ -5,7 +5,7 @@ variant: tiptap
 ---
 <h3><strong>Government Agency Privacy Statement</strong></h3>
 <p></p>
-<p>1.&nbsp; This is CHIJ Katong Convent website. Thank you for examining
+<p>1.&nbsp; This is a CHIJ Katong Convent website. Thank you for examining
 our privacy statement.</p>
 <p>2&nbsp;&nbsp; If you are only browsing this website, we do not capture
 data that allows us to identify you individually.</p>
