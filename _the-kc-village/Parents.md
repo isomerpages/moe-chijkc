@@ -194,8 +194,9 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Prelim and End-of-Year Examinations</h4>
-<table style="minWidth: 100px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -203,6 +204,9 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p><strong>Sec 1</strong>
 </p>
@@ -231,7 +235,11 @@ variant: tiptap
 <p>TBA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBA</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/KC Viilage/Parents/Weighted Assessment/2024_4NA___4NT_Preliminary_Examinations_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">4NA &amp; 4NT</a>
+</p>
 </td>
 </tr>
 </tbody>
