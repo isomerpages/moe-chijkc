@@ -235,7 +235,7 @@ variant: tiptap
 <p>TBA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>TBA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/KC Viilage/Parents/Weighted Assessment/2024_4NA___4NT_Preliminary_Examinations_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">4NA &amp; 4NT</a>
