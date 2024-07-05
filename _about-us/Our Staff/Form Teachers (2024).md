@@ -83,11 +83,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tan Puay Cher Jessy
-<br>Mr Prabhu S/O Gobi Nathan</p>
+<br>Mr Prabhu S/O Gobi Nathan
+<br>Ms Xu Sihui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_puay_cher@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_puay_cher@moe.edu.sg</a> 
 <br><a href="mailto:prabhu_gobi_nathan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">prabhu_gobi_nathan@moe.edu.sg</a>
+<br><a href="xu_sihui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xu_sihui@moe.edu.sg</a>
 </p>
 </td>
 </tr>
