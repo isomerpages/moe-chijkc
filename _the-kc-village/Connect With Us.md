@@ -4,7 +4,11 @@ permalink: /the-kc-village/cwu/
 description: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -13,17 +17,6 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Link</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:50px; height:50px" height="auto" width="100%" src="/images/f_logo_RGB-Blue_72.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.facebook.com/CHIJKatongConventSG" rel="noopener noreferrer nofollow" target="_blank">Katong Convent</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
