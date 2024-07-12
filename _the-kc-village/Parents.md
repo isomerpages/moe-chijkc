@@ -186,8 +186,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p><a href="/files/KC Viilage/Parents/Weighted Assessment/Weighted_Assessment_Schedule_2024_WA_1_All_levels.pdf" rel="noopener noreferrer nofollow" target="_blank">Weighted Assessment Schedule 2024_WA 1 All levels</a> 
-<br><a href="/files/KC Viilage/Parents/Weighted Assessment/Weighted_Assessment_Schedule_2024_WA_2_All_levels__uploaded_on_website__updated_28_Feb.pdf" rel="noopener noreferrer nofollow" target="_blank">Weighted Assessment Schedule 2024_WA 2 All levels</a>
+<p><a href="/files/KC Viilage/Parents/Weighted Assessment/Weighted_Assessment_Schedule_2024_WA_1_All_levels.pdf" rel="noopener noreferrer nofollow" target="_blank">Weighted Assessment Schedule 2024_WA 1 - All levels</a> 
+<br><a href="/files/KC Viilage/Parents/Weighted Assessment/Weighted_Assessment_Schedule_2024_WA_2_All_levels__uploaded_on_website__updated_28_Feb.pdf" rel="noopener noreferrer nofollow" target="_blank">Weighted Assessment Schedule 2024_WA 2 - All levels</a>
+<br><a href="/files/KC Viilage/Parents/Weighted Assessment/Weighted_Assessment_Schedule_2024__WA_3___WA_4_All_levels.pdf" rel="noopener noreferrer nofollow" target="_blank">Weighted Assessment Schedule 2024_WA 3 &amp; 4 - All levels</a>
 </p>
 </td>
 </tr>
