@@ -84,7 +84,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Sec 4/5</strong>
+<p><strong>Sec 4 &amp; 5</strong>
 </p>
 </td>
 </tr>
