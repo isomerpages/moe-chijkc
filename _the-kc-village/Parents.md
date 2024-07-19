@@ -240,6 +240,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/KC Viilage/Parents/Weighted Assessment/2024_4NA___4NT_Preliminary_Examinations_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">4NA &amp; 4NT</a>
+<br><a href="/files/KC Viilage/Parents/TimeTables/2024_4E5N_Prelim_Exams_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">4E &amp; 5N</a>
 </p>
 </td>
 </tr>
