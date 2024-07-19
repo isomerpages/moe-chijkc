@@ -195,9 +195,8 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Prelim and End-of-Year Examinations</h4>
-<table style="minWidth: 125px">
+<table style="minWidth: 100px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -205,9 +204,6 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p><strong>Sec 1</strong>
 </p>
@@ -226,9 +222,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>TBA</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>TBA</p>
 </td>
