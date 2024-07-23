@@ -322,7 +322,7 @@ police report will have to be made for the insurance claim. Accidental
 loss due to negligence is not covered by insurance and a new PLD will have
 to be purchased by the parents/student. The school will assist in purchasing
 a replacement PLD.</p>
-<p>28 . <strong>Since the warranty/insurance covers 3 years, what is the arrangement beyond 3 years? Is it possible to pay for extended warranty</strong> 
+<p>28 . <strong>Since the warranty/insurance covers 3 years, what is the arrangement beyond 3 years?</strong>
 <br>The insurance and warranty bundled in the school-purchased device covers
 3 years. If the&nbsp;insurance/warranty has expired, or the replacement
 is not covered under the insurance/warranty (e.g.&nbsp;due to negligence,
