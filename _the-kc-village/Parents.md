@@ -90,12 +90,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="https://www.chijkatongconvent.moe.edu.sg/files/KC%20Viilage/Parents/CCA_BRIEFING_04_Jan_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>CCA Briefing_04 Jan 2024</u></a> 
-<br><a href="https://www.chijkatongconvent.moe.edu.sg/files/KC%20Viilage/Parents/KC_PLD_Briefing_04_Jan_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>KC PLD Briefing_04 Jan 2024</u></a> 
-<br><a href="https://www.chijkatongconvent.moe.edu.sg/files/KC%20Experience/NDLP/KC_PLD_Briefing_to_Parents_040124_v3_website.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>NDLP_04 Jan 2024</u></a> 
-<br><a href="https://www.chijkatongconvent.moe.edu.sg/files/KC%20Viilage/Parents/Principal_s_Address_04_Jan_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Principal's Address_04 Jan 2024</u></a> 
-<br><a href="https://www.chijkatongconvent.moe.edu.sg/files/KC%20Viilage/Parents/Year_Head_talk__student_wellbeing__04_Jan_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Year Head Talk (Student Well-being)_04 Jan 2024</u></a>
 </p>
+</li>
+<li>
+<p><a href="https://www.chijkatongconvent.moe.edu.sg/files/KC%20Viilage/Parents/KC_PLD_Briefing_04_Jan_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>KC PLD Briefing_04 Jan 2024</u></a> 
+</p>
+</li>
+<li>
+<p><a href="https://www.chijkatongconvent.moe.edu.sg/files/KC%20Experience/NDLP/KC_PLD_Briefing_to_Parents_040124_v3_website.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>NDLP_04 Jan 2024</u></a> 
+</p>
+</li>
+<li>
+<p><a href="https://www.chijkatongconvent.moe.edu.sg/files/KC%20Viilage/Parents/Principal_s_Address_04_Jan_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Principal's Address_04 Jan 2024</u></a> 
+</p>
+</li>
+<li>
+<p><a href="https://www.chijkatongconvent.moe.edu.sg/files/KC%20Viilage/Parents/Year_Head_talk__student_wellbeing__04_Jan_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Year Head Talk (Student Well-being)_04 Jan 2024</u></a>
+</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -233,7 +249,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/KC Viilage/Parents/Weighted Assessment/2024_4NA___4NT_Preliminary_Examinations_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">4NA &amp; 4NT</a>
-<br><a href="/files/KC Viilage/Parents/TimeTables/2024_4E5N_Prelim_Exams_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">4E &amp; 5NA</a>
+<br><a href="/files/KC Viilage/Parents/TimeTables/2024_4E5N_Prelim_Exams_Schedule_24_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">4E &amp; 5NA</a>
 </p>
 </td>
 </tr>
