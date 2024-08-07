@@ -21,6 +21,7 @@ Edusave Character Award &amp; EAGLES E21CC Award) opens from 1 August to
 participate in this nomination.
 <br>
 <br>You may retrieve the hardcopy form from the general office or submit the
-completed nomination form through this link:&nbsp;</p>
+completed nomination form through this link:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/kc-awards</a>
+</p>
 <p>
 <br>Deadline for submission(s) is 14 August 2024, 5pm.</p>
