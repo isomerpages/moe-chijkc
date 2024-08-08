@@ -5,7 +5,11 @@ description: ""
 third_nav_title: Our Staff
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -58,7 +62,11 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -210,7 +218,11 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -288,15 +300,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Mathematics (covering)</strong>
+<br>Ms Pamela K Samales</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>
+<br><a href="pamela_samales@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pamela_samales@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
