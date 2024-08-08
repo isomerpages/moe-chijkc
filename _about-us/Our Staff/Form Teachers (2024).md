@@ -17,7 +17,7 @@ variant: tiptap
 <h4>SECONDARY 1</h4>
 </th>
 <th rowspan="1" colspan="1">
-<h4>Year Head / Discipline</h4>
+<h4></h4>
 </th>
 <th rowspan="1" colspan="1">
 <h4>Email</h4>
@@ -25,10 +25,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Year Head<br>Level Discipline Mistress</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lee shu Min
+<p>Ms Lee Shu Min
 <br>Ms Nuha Jalal</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -178,7 +179,7 @@ variant: tiptap
 <h4>SECONDARY 2</h4>
 </th>
 <th rowspan="1" colspan="1">
-<h4>Year Head / Discipline</h4>
+<h4></h4>
 </th>
 <th rowspan="1" colspan="1">
 <h4>Email</h4>
@@ -186,7 +187,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Year Head<br>Level Discipline Master</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Loh Jing Hui Jimmy
@@ -339,7 +341,7 @@ variant: tiptap
 <h4>SECONDARY 3</h4>
 </th>
 <th rowspan="1" colspan="1">
-<h4>Year Head / Discipline</h4>
+<h4></h4>
 </th>
 <th rowspan="1" colspan="1">
 <h4>Email</h4>
@@ -347,7 +349,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Year Head<br>Level Discipline Mistress</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nurahifah Amran
@@ -439,7 +442,7 @@ variant: tiptap
 <p>Mrs Phua Lai Tee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:phua_lai_tee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phua_lai_tee@moe.edu.sg</a> 
+<p><a href="mailto:phua_lai_tee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phua_lai_tee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -491,10 +494,10 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4>SECONDARY 4</h4>
+<h4>SECONDARY 4 &amp; 5</h4>
 </th>
 <th rowspan="1" colspan="1">
-<h4>Year Head / Discipline</h4>
+<h4></h4>
 </th>
 <th rowspan="1" colspan="1">
 <h4>Email</h4>
@@ -502,7 +505,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Year Head<br>Level Discipline Mistress</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nor Sharina Abd Majid
@@ -630,62 +634,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<h4>SECONDARY 5</h4>
-</th>
-<th rowspan="1" colspan="1">
-<h4>Year Head / Discipline</h4>
-</th>
-<th rowspan="1" colspan="1">
-<h4>Email</h4>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Nor Sharina Abd Majid
-<br>Ms Lee Oi Leng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nor_sharina_abd_majid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nor_sharina_abd_majid@moe.edu.sg</a> 
-<br><a href="mailto:lee_oi_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_oi_leng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<h4>Class</h4>
-</td>
-<td rowspan="1" colspan="1">
-<h4>Form Teacher</h4>
-</td>
-<td rowspan="1" colspan="1">
-<h4>Email</h4>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>500</strong>
 </p>
 </td>
@@ -695,17 +643,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:zakiah_subahan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zakiah_subahan@moe.edu.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
