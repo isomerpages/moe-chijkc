@@ -5,7 +5,11 @@ description: ""
 third_nav_title: Our Staff
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -29,11 +33,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Operations Manager</strong> 
-<br>Mr Puah Teck Chye</p>
+<br>Mr Lai Chun Hoong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br><a href="mailto:puah_teck_chye@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">puah_teck_chye@moe.edu.sg</a>
+<br><a href="lai_chun_hoong_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lai_chun_hoong_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -82,7 +86,11 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -96,12 +104,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Technical Support Officer</strong> 
 <br>Mdm Iryanti Bte Jamil
-<br>Mr Md Zaaini Bin Hussain</p>
+<br>Mr Md Zaaini Bin Hussain
+<br>Mrs Samirah Zainul Abidin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
 <br><a href="mailto:iryanti_jamil@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">iryanti_jamil@moe.edu.sg</a> 
 <br><a href="mailto:mohamed_zaaini_hussain@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_zaaini_hussain@moe.edu.sg</a>
+<br><a href="samirah_zainul_abidin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">samirah_zainul_abidin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -142,7 +152,11 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -201,7 +215,11 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -226,7 +244,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Desktop Engineer</strong> 
 <br>Mr&nbsp;Halili Abu Hassan
-<br>Mr Li XiaoPeng</p>
+<br>Mr Bryan Lee Wee Yang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>

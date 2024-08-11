@@ -12,7 +12,7 @@ variant: markdown
 </style>
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Halal Cuisine (Noodle/Rice) | 19 Apr 2024 | Halal Rice or noodles stalls are acceptable |
+| Halal Cuisine (Noodle/Rice) | NA | Halal Rice or noodles stalls are acceptable |
 
 
 #### **Application Procedure**
