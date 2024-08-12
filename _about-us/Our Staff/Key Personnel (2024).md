@@ -234,17 +234,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Student Leadership (covering)</strong> 
-<br>Ms Sarah Phua</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br><a href="mailto:sarah_phua_yiran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sarah_phua_yiran@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Art</strong> 
 <br>Ms Heather Teo</p>
 </td>
@@ -289,6 +278,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Mathematics (covering)</strong>
+<br>Ms Pamela K Samales</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br><a href="pamela_samales@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pamela_samales@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Physical Education/ CCA</strong> 
 <br>Mr Ho Shi An</p>
 </td>
@@ -300,12 +300,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mathematics (covering)</strong>
-<br>Ms Pamela K Samales</p>
+<p><strong>Student Leadership (covering)</strong> 
+<br>Ms Sarah Phua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br><a href="pamela_samales@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pamela_samales@moe.edu.sg</a>
+<p></p>
+<p><a href="mailto:sarah_phua_yiran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sarah_phua_yiran@moe.edu.sg</a>
 </p>
 </td>
 </tr>
