@@ -72,7 +72,7 @@ variant: tiptap
 <br>Ms Sarah Phua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_jiak_peng_audrey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_jiak_peng_audrey@moe.edu.sg</a> 
+<p><a href="mailto:lee_jiak_peng_audrey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_jiak_peng_audrey@moe.edu.sg</a>
 <br><a href="mailto:sarah_phua_yiran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sarah_phua_yiran@moe.edu.sg</a>
 </p>
 </td>

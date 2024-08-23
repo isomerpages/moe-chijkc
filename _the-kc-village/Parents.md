@@ -239,13 +239,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>TBA</p>
+<p><a href="/files/KC Viilage/Parents/EOY Letter/2024/Sec_1_EOY_Exam_Timetable_and_Letter_to_Parents_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBA</p>
+<p><a href="/files/KC Viilage/Parents/EOY Letter/2024/Sec_2_EOY_Exam_Timetable_and_Letter_to_Parents_2024.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBA</p>
+<p><a href="/files/KC Viilage/Parents/EOY Letter/2024/Sec_3_EOY_Exam_Timetable_and_Letter_to_Parents_2024.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/KC Viilage/Parents/Weighted Assessment/2024_4NA___4NT_Preliminary_Examinations_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">4NA &amp; 4NT</a>
