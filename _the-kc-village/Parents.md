@@ -239,7 +239,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/KC Viilage/Parents/EOY Letter/2024/Sec_1_EOY_Exam_Timetable_and_Letter_to_Parents_2024__1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
+<p><a href="/files/KC Viilage/Parents/EOY Letter/2024/sec_1_eoy_exam_timetable_and_letter_to_parents_260824.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
