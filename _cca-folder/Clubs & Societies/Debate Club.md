@@ -61,8 +61,9 @@ school in competitions.</p>
 Division</p>
 </li>
 <li>
-<p>Megan Teh &amp; Katkar Toshaja Santosh - 2nd Best SpeakerParticipation
-in the following competitions:</p>
+<p>Megan Teh &amp; Katkar Toshaja Santosh - 2nd Best Speaker
+<br>
+<br>Participation in the following competitions:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Eunoia Debating Championships</p>
