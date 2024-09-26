@@ -90,11 +90,12 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Character and Citizenship Education</strong> 
-<br>TBC</p>
+<br>Ms Cheryl Anne Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br>TBC</p>
+<br><a href="mailto:lim_su_ying_cheryl@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_su_ying_cheryl@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
