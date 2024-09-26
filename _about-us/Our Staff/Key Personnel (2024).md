@@ -256,17 +256,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Geography</strong> 
-<br>Ms Cheryl Anne Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br><a href="mailto:lim_su_ying_cheryl@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_su_ying_cheryl@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Malay Language</strong> 
 <br>Ms Norazian Mohamed Yahya</p>
 </td>
