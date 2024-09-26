@@ -90,11 +90,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Character and Citizenship Education</strong> 
-<br>Ms Ang Yen Ling</p>
+<br>Ms Cheryl Anne Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br><a href="mailto:ang_yen_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_yen_ling_b@moe.edu.sg</a>
+<br><a href="mailto:lim_su_ying_cheryl@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_su_ying_cheryl@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -251,17 +251,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>
 <br><a href="mailto:lee_shu_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_shu_min@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Geography</strong> 
-<br>Ms Cheryl Anne Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br><a href="mailto:lim_su_ying_cheryl@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_su_ying_cheryl@moe.edu.sg</a>
 </p>
 </td>
 </tr>
