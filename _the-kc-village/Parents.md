@@ -257,6 +257,12 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="4">
+<p><a href="/files/KC Village/Parents/TimeTables/2024_Post_EOY_TT_Final_with_Afternoon_lessons_CLASSES.pdf" rel="noopener noreferrer nofollow" target="_blank">Post EOY</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
