@@ -2,7 +2,7 @@
 title: Parents
 permalink: /the-kc-village/parents/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h4>Parents Gateway</h4>
 <table style="minWidth: 50px">
@@ -254,12 +254,6 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <p><a href="/files/KC Village/Parents/Weighted Assessment/2024_4NA___4NT_Preliminary_Examinations_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">4NA &amp; 4NT</a>
 <br><a href="/files/KC Village/Parents/TimeTables/2024_4E5N_Prelim_Exams_Schedule_24_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">4E &amp; 5NA</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="4">
-<p><a href="/files/KC Village/Parents/TimeTables/2024_Post_EOY_TT_Final_with_Afternoon_lessons_CLASSES.pdf" rel="noopener noreferrer nofollow" target="_blank">Post EOY</a>
 </p>
 </td>
 </tr>
