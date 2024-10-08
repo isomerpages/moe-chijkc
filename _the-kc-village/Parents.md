@@ -145,6 +145,12 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><a href="/files/KC Village/Parents/TimeTables/Post_EOY_Exam_TT.pdf" rel="noopener noreferrer nofollow" target="_blank">Post EOY Exam Timetable</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4>Weighted Assessment</h4>
