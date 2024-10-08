@@ -7,4 +7,4 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Semester 1 Timetable is now available for download.<br><a href="/files/KC Viilage/Parents/TimeTables/2024_Sem_1_TT_2_Jan_1800_Class_w_PM_lessons.pdf" rel="noopener noreferrer nofollow" target="_blank">DOWNLOAD</a> timetable.<br></p>
+<p>Semester 1 Timetable is now available for download.<br><a href="/files/KC Village/Parents/TimeTables/2024_Sem_1_TT_2_Jan_1800_Class_w_PM_lessons.pdf" rel="noopener noreferrer nofollow" target="_blank">DOWNLOAD</a> timetable.<br></p>

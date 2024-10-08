@@ -19,7 +19,7 @@ variant: markdown
 
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 
-[Application Form](/files/KC%20Viilage/2023%20canteen%20application%20form.pdf)
+[Application Form](/files/KC%20Village/2023%20canteen%20application%20form.pdf)
 
 2. Attached the following documents together with the application form:
 
