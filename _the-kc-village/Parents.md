@@ -2,7 +2,7 @@
 title: Parents
 permalink: /the-kc-village/parents/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h4>Parents Gateway</h4>
 <table style="minWidth: 50px">
@@ -126,7 +126,7 @@ variant: markdown
 </tr>
 </tbody>
 </table>
-<h4>Semester Class Timetables</h4>
+<h4>Class Timetables</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
