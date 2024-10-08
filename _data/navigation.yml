@@ -1,0 +1,111 @@
+logo: /images/CHIJKC Website Banner Logo 2.png
+links:
+  - title: About Us
+    url: /about-us/pm/
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/pm/
+      - title: Mission, Vision & Values
+        url: /about-us/mvv/
+      - title: Crest & Motto
+        url: /about-us/badge-motto/
+      - title: History & Milestones
+        url: /about-us/history-milestones/
+      - title: The KC Graduate
+        url: /about-us/kc-graduate/
+      - title: Our Staff
+        url: /about-us/key-personnel/
+      - title: School Song
+        url: /about-us/sch-song/
+      - title: Contact Information
+        url: /about-us/contact-info/
+      - title: School Canteen Advertisement
+        url: /about-us/canteen-ads/
+  - title: The KC Experience
+    url: /the-kc-experience/kcexperience/
+    sublinks:
+      - title: Spirituality
+        url: /the-kc-experience/spirituality/
+      - title: The Arts
+        url: /the-kc-experience/the-arts/cpva/
+      - title: Book and Music Week
+        url: /booknmusic/bnm/
+      - title: NDLP
+        url: /the-kc-experience/National-Digital-Literacy-Prog/ndlp/
+      - title: Open House 2023
+        url: /the-kc-experience/open-hse/
+      - title: KC 360 Experience
+        url: https://www.chijkcvt.moe.edu.sg/
+      - title: Student Journal 2024
+        url: /the-kc-experience/student-journal/
+      - title: Calendar
+        url: /the-kc-experience/cal/
+  - title: Learning
+    url: /learning/Departments/art/
+    sublinks:
+      - title: Departments
+        url: /learning/Departments/art/
+      - title: Full Subject-Based Banding
+        url: /learning/fsbb/
+      - title: SLS Support for HBL
+        url: /learning/sls/
+      - title: Student iCON & Zoom
+        url: /learning/iconnzoom
+  - title: Student Development
+    url: /student-development/via/
+    sublinks:
+      - title: VIA
+        url: /student-development/via/
+      - title: ECG
+        url: /student-development/ecg/
+      - title: CCE21
+        url: /student-development/cce21/
+      - title: Sexuality Education
+        url: /student-development/sex-ed/
+      - title: Student Leadership
+        url: /student-development/student-ldrship/
+  - title: CCA
+    url: /CCA/cca/
+    sublinks:
+      - title: Schedule
+        url: /CCA/cca-schedule
+      - title: Clubs & Societies
+        url: /clubs-and-societies/cs/
+      - title: Uniformed Groups
+        url: /uniformed-groups/gg/
+      - title: Performing Arts
+        url: /performing-arts/cd/
+      - title: Sports
+        url: /Sports/badminton/
+  - title: Admissions
+    url: /admissions/dsa/
+    sublinks:
+      - title: Sec 1 Info
+        url: https://go.gov.sg/kcsec1info
+      - title: Sec 1 Appeal
+        url: /admissions/sec1appeal/
+      - title: Direct School Admissions (DSA)
+        url: /admissions/dsa/
+      - title: Transfer/Admission to KC
+        url: /admissions/xfer/
+  - title: The KC Village
+    url: /the-kc-village/management/
+    sublinks:
+      - title: IJ Board of Management
+        url: /the-kc-village/management/
+      - title: Parents
+        url: /the-kc-village/parents/
+      - title: Parents Support Group (PSG)
+        url: /the-kc-village/psg/
+      - title: MOE Financial Assistance
+        url: /the-kc-village/moe-fas/
+      - title: Alumnae
+        url: /the-kc-village/Alumnae/stay-connected/
+      - title: Announcements
+        url: /media/announcements/
+      - title: Connect With Us
+        url: /the-kc-village/cwu/
+      - title: School Suppliers
+        url: /the-kc-village/ss/
+      - title: Useful Links
+        url: /the-kc-village/useful-links/
