@@ -11,6 +11,8 @@ learn, to the way we play. See you there!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/Open_House_2024.png">
 </div>
+<p>If you are travelling by SMRT train, you can board the Thomson-East Coast
+Line train and alight at station Marine Terrace (E27) station.</p>
 <h4>Parking arrangement:</h4>
 <p>Please park at the HDB carpark near Blk 51, 52 &amp; 50A Marine Terrace
 Market, Singapore 441050.
