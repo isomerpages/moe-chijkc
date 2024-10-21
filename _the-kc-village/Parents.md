@@ -146,8 +146,12 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p><a href="/files/KC Village/Parents/TimeTables/2024_Post_Exam_TT_Classes.pdf" rel="noopener noreferrer nofollow" target="_blank">Post EOY Exam Timetable</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/KC Village/Parents/TimeTables/S3_AP_TT_18_Oct_Class.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 AP Timetable</a>
 </p>
 </td>
 </tr>
