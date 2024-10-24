@@ -60,6 +60,22 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Year End Letter</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/KC Village/Parents/Letters To Parents/2024_Year_End_Letter_to_Parents_Guardians.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Year End Letter to Parents_Guardians</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/KC Village/Parents/Letters To Parents/Attachment_2___Secondary_JC_Level_Joint_Advisory__Term_4_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary_JC Level Joint Advisory</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4>Parent Engagement Briefing Slides</h4>
