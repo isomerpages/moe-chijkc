@@ -17,6 +17,8 @@ sections:
       description: More details to be shared closer to the actual date! Check back soon!
       image: /images/Announcements/Open_House_2024.png
       alt: Image alt text
+      url: https://www.chijkatongconvent.moe.edu.sg/the-kc-experience/open-hse/
+      button: Click for more info
   - infopic:
       title: CHIJ 170th Anniversary Celebration
       id: infopic
