@@ -7,7 +7,7 @@ variant: tiptap
 <p><strong>Uniform Shop:</strong>
 <br><strong>Asencio Pte Ltd</strong>
 <br>Sales Hours: Monday - Friday 8.00AM - 2.30PM
-<br>Contact No.: Madam Yeo @ 6764 3102
+<br>Contact No.: 6764 3102
 <br>Website:&nbsp;<strong><a href="http://www.asencio.com.sg/" rel="noopener noreferrer nofollow" target="_blank">www.asencio.com.sg</a></strong>
 </p>
 <p><strong>Bookshop:</strong>
