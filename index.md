@@ -12,6 +12,12 @@ sections:
       url: /media/announcements/
       title: A Convent by the Sea
   - infopic:
+      title: KC Open-House 2024
+      id: infopic
+      description: More details to be shared closer to the actual date! Check back soon!
+      image: /images/Announcements/Open_House_2024.png
+      alt: Image alt text
+  - infopic:
       title: CHIJ 170th Anniversary Celebration
       id: infopic
       url: https://www.chijkatongconvent.moe.edu.sg/chij-170th-anniversary-celebration/
@@ -21,10 +27,4 @@ sections:
   - resources:
       title: Latest Updates
       button: More
-  - infopic:
-      title: KC Open-House 2024
-      id: infopic
-      description: More details to be shared closer to the actual date! Check back soon!
-      image: /images/Announcements/Open_House_2024.png
-      alt: Image alt text
 ---
