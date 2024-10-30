@@ -24,5 +24,5 @@ at the carpark opposite the school.</p>
 <div class="isomer-image-wrapper">
 <img style="width:85%" height="auto" width="100%" src="/images/carparks.png">
 </div>
-<h4>Come experience our KC 360 virtual tour of our campus</h4>
+<h4><strong><a href="https://www.chijkcvt.sg/" rel="noopener nofollow" target="_blank">Come experience our KC 360 virtual tour of our campus</a></strong></h4>
 <p></p>
