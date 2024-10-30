@@ -1,5 +1,5 @@
 ---
-title: Open House 2023
+title: Open House 2024
 permalink: /the-kc-experience/open-hse/
 description: ""
 variant: tiptap
