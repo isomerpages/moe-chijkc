@@ -11,7 +11,7 @@ learn, to the way we play. See you there!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/Open_House_2024.png">
 </div>
-<h4><strong><em>More details to be shared closer to the actual date! Check back soon!</em></strong></h4>
+<h4><strong><em>Click here to download the Open-House booklet</em></strong></h4>
 <p>If you are travelling by SMRT train, you can board the Thomson-East Coast
 Line train and alight at station Marine Terrace (E27) station.</p>
 <h4>Parking arrangement:</h4>
