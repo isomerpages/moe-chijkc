@@ -14,7 +14,6 @@ sections:
   - infopic:
       title: KC Open-House 2024
       id: infopic
-      description: More details to be shared closer to the actual date! Check back soon!
       image: /images/Announcements/Open_House_2024.png
       alt: Image alt text
       url: https://www.chijkatongconvent.moe.edu.sg/the-kc-experience/open-hse/
