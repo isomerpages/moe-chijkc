@@ -50,12 +50,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/KC Village/S3_EXP_BOOKLIST.pdf" rel="noopener nofollow" target="_blank">Sec 3E</a>
-</p>
-<p><a href="/files/KC Village/S3_NA__BOOKLIST.pdf" rel="noopener nofollow" target="_blank">Sec 3NA</a>
+<br><a href="/files/KC Village/S3_NA__BOOKLIST.pdf" rel="noopener nofollow" target="_blank">Sec 3NA</a>
+<br><a href="/files/KC Village/S3_NT__BOOKLIST.pdf" rel="noopener nofollow" target="_blank">Sec 3NT</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/KC Village/S4_EXP_BOOKLIST.pdf" rel="noopener nofollow" target="_blank">Sec 4E</a>
+<br><a href="/files/KC Village/S4_NA_BOOKLIST.pdf" rel="noopener nofollow" target="_blank">Sec 4NA</a>
+<br><a href="/files/KC Village/S4_NT_BOOKLIST.pdf" rel="noopener nofollow" target="_blank">Sec 4NT</a>
+</p>
 </td>
 </tr>
 </tbody>
