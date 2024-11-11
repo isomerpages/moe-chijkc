@@ -10,6 +10,7 @@ variant: tiptap
 <h4>Non-Financial Information</h4>
 <p><a href="/files/KC Village/Annual_Report_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Non-Financial Information</a>
 </p>
-<h4>2023 Year-End Message from Chairperson / IJ Board of Management</h4>
-<p><a href="/files/KC Village/8_KC___2023_Year_End_Message_from_IJBOM_Chairperson.pdf" rel="noopener noreferrer nofollow" target="_blank">Year End Message</a>
+<h4>2024 Year-End Message from Chairperson / IJ Board of Management</h4>
+<p><a href="/files/KC Village/KC___2024_Year_Book_Chairperson_Statement__170th_Anniversary_.pdf" rel="noopener noreferrer nofollow" target="_blank">Year End Message</a>
 </p>
+<p></p>
