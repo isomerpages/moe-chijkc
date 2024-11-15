@@ -96,9 +96,9 @@ or insurance claims for their devices:</p>
 </tr>
 </tbody>
 </table>
-<h4>Lenovo Service Center location</h4>
+<h4>Servlink Technologies – Lenovo Authorised Service Centre</h4>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/Lenovo Service Centre.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KC Experience/NDLP/CT_Hub.png">
 </div>
 <h4>For Acer Chromebook Spin (R752TN / R753TN)</h4>
 <table style="minWidth: 50px">
