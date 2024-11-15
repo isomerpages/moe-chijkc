@@ -18,7 +18,7 @@ spirit and spend a wonderful morning with us! ❤️</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KC Experience/OH2024.png">
 </div>
-<h4><strong><em>Click <a href="/files/KC Experience/OH2024_programme_booklet_8_Nov.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to download the Open-House programme booklet!</em></strong></h4>
+<h4><strong><em>Click <a href="/files/KC Experience/OH2024_programme_booklet_15_Nov.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to download the Open-House programme booklet!</em></strong></h4>
 <p>If you are travelling by SMRT train, you can board the Thomson-East Coast
 Line train and alight at station Marine Terrace (E27) station.</p>
 <h4>Parking arrangement:</h4>
