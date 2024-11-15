@@ -66,33 +66,24 @@ or insurance claims for their devices:</p>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Lenovo Service Center</strong>
+<p><strong>Servlink Technologies – Lenovo Authorised Service Centre</strong>
 </p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Helpdesk Phone: 800 852 8100
-<br>
-<br>(After selecting your preferred language, press “2” for standard warranty
-customer)
-<br>
-<br>Service Centre Email:
-<br><a href="mailto:lenovo@smartcares.com" rel="noopener noreferrer nofollow" target="_blank">lenovo@smartcares.com</a>
-<br>
-<br>Pre-Registration (For Faster Service / Drop-off):&nbsp;<a href="https://smartcares.com/lenovo" rel="noopener noreferrer nofollow" target="_blank">https://smartcares.com/lenovo</a>
+<p>Service Centre Email:
+<br><a rel="noopener noreferrer nofollow" target="_blank">svcctr@servlink.com.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Service Centre: 6871 4838
-<br>Address: <strong>Tai Seng Centre SmartCares Solutions</strong>
-<br>3 Irvin Road, #01-17
-<br>Singapore 369522
-<br>(Beside Tai Seng MRT Station, Exit A)
+<p>Hotline: 6817 1435
+<br>Address: 2 Kallang Avenue #09-01, CTHub 1, Singapore 339407
 <br>
-<br>Opening hours:
-<br>Mon – Sat: 1100 – 1900
-<br>Closed on Sun and Public Holidays</p>
+<br><strong>Opening hours</strong>:
+<br>Monday to Friday: 9:00 AM – 6:00 PM
+<br>Saturday: 9:00 AM – 1:00 PM
+<br>Closed on Sundays and Public Holidays</p>
 </td>
 </tr>
 <tr>
