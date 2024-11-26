@@ -79,7 +79,7 @@ email OR to the School’s General Office.</p>
 <p>Email: chijktcs@moe.edu.sg</p>
 </li>
 <li>
-<p>Contact Person: Mr Puah</p>
+<p>Contact Person: Mr Lai</p>
 </li>
 </ul>
 <h5><strong>How to get here?</strong></h5>
