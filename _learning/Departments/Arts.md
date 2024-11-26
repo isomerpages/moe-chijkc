@@ -3,6 +3,7 @@ title: Arts
 permalink: /learning/Departments/art/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
 <iframe allowfullscreen="true" height="450" width="735" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRGHvkH5WLXM_SS39x-8XmRdiwwrfVVZCQ5BS1H5-ntvIfiKT3GjNhYB6M84EPJug9dHr_0CPJa1M1X/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
@@ -27,12 +28,6 @@ The Study of Visual Arts reinforces the critical learning experiences in Studio 
 #### Enhanced Art Programme (EAP)
 
 The Enhanced Art Programme is an MOE-supported special Art programme which distinguishes the upper sec art curriculum in nine selected schools across Singapore. In Katong Convent, upper secondary students offering art enjoy the privilege of being in an EAP school in the unique way we deliver our programme. Beyond the regular general art programme for upper secondary, we include enrichment opportunities, such as artist workshops and learning journeys, which our students participate in over their Sec 3 &amp; Sec 4 years. This may include opportunities to participate in activities with students from other EAP schools.
-
-As one of the first four schools accorded with EAP status in Singapore, we celebrated 10 years of EAP in Katong Convent in 2021 with the launch of an online KC EAP art exhibition site. We proudly invite you to visit the link below to enjoy a special curation of artworks by past EAP students.
-
-<p><a href="https://chijkceap.com/">
-<img src="/images/Learning/Departments/Art/KC%20EAP%20Online%20Exhibition.png" style="width:100%">
-</a></p>
 
 #### Development Initiative for Visual Art (DIVA)
 
