@@ -12,12 +12,12 @@ sections:
       url: /media/announcements/
       title: A Convent by the Sea
   - infopic:
-      title: KC Open-House 2024
+      title: Information for Secondary 1 KC Students
       id: infopic
-      image: /images/Announcements/Open_House_2024.png
+      image: /images/Announcements/creative_coming_soon_teaser_background_free_vector.jpg
       alt: Image alt text
-      url: https://www.chijkatongconvent.moe.edu.sg/the-kc-experience/open-hse/
-      button: Click for more info
+      url: https://go.gov.sg/kcsec1info-cs
+      button: Coming on 18 Dec 2024
   - infopic:
       title: CHIJ 170th Anniversary Celebration
       id: infopic
