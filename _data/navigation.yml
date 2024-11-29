@@ -32,8 +32,6 @@ links:
         url: /booknmusic/bnm/
       - title: NDLP
         url: /the-kc-experience/National-Digital-Literacy-Prog/ndlp/
-      - title: Open House 2024
-        url: /the-kc-experience/open-hse/
       - title: KC 360 Experience
         url: https://www.chijkcvt.moe.edu.sg/
       - title: Student Journal 2024
@@ -81,7 +79,7 @@ links:
     url: /admissions/dsa/
     sublinks:
       - title: Sec 1 Info
-        url: https://go.gov.sg/kcsec1info
+        url: https://go.gov.sg/kcsec1info-cs
       - title: Sec 1 Appeal
         url: /admissions/sec1appeal/
       - title: Direct School Admissions (DSA)

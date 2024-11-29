@@ -42,7 +42,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>--</p>
+<p>Coming Soon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/KC Village/S2_BOOKLIST.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
@@ -58,6 +58,7 @@ variant: tiptap
 <p><a href="/files/KC Village/S4_EXP_BOOKLIST.pdf" rel="noopener nofollow" target="_blank">Sec 4E &amp; 5NA</a>
 <br><a href="/files/KC Village/S4_NA_BOOKLIST.pdf" rel="noopener nofollow" target="_blank">Sec 4NA</a>
 <br><a href="/files/KC Village/S4_NT_BOOKLIST.pdf" rel="noopener nofollow" target="_blank">Sec 4NT</a>
+<br><a href="/files/KC Village/S5_Na__booklist_a.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 5NA</a>
 </p>
 </td>
 </tr>
