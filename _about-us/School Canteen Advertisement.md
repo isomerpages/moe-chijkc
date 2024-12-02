@@ -28,7 +28,7 @@ variant: tiptap
 <p>Snack &amp; Drink</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>26 Nov 2024</p>
+<p>03 Dec 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Sale of hot and cold drinks as well as cut fruits.</p>
