@@ -42,7 +42,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Coming Soon</p>
+<p><a href="/files/KC Village/S1_BOOKLIST_2025_A.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/KC Village/S2_BOOKLIST.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
