@@ -1,5 +1,5 @@
 ---
-title: Seeking A Transfer or Admission to KC
+title: Seeking A Transfer or Admission to KC (Sec 2 & 3)
 permalink: /admissions/xfer/
 description: ""
 variant: tiptap
