@@ -260,7 +260,9 @@ variant: tiptap
 <br>Ms Lee Jiak Peng Audrey</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>
+<br><a href="mailto:lee_jiak_peng_audrey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_jiak_peng_audrey@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
