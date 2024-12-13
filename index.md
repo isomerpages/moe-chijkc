@@ -16,8 +16,8 @@ sections:
       id: infopic
       image: /images/Announcements/creative_coming_soon_teaser_background_free_vector.jpg
       alt: Image alt text
-      url: https://go.gov.sg/kcsec1info-cs
-      button: Coming on 18 Dec 2024
+      url: https://go.gov.sg/kcsec1info
+      button: Head over
   - infopic:
       title: CHIJ 170th Anniversary Celebration
       id: infopic
