@@ -256,7 +256,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>English</strong> 
+<p><strong>English</strong>  <strong>(covering)</strong>
 <br>Ms Lee Jiak Peng Audrey</p>
 </td>
 <td rowspan="1" colspan="1">
