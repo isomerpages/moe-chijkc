@@ -14,7 +14,7 @@ sections:
   - infopic:
       title: Information for Secondary 1 KC Students
       id: infopic
-      image: /images/Announcements/creative_coming_soon_teaser_background_free_vector.jpg
+      image: /images/Announcements/Wait_is_over.jpg
       alt: Image alt text
       url: https://go.gov.sg/kcsec1info
       button: Head over
