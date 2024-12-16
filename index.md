@@ -19,6 +19,15 @@ sections:
       url: https://go.gov.sg/kcsec1info-cs
       button: Coming on 18 Dec 2024
   - infopic:
+      title: 2024 N Level Results Admin and Progress Briefing Slides
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Click to download
+      url: https://www.chijkatongconvent.moe.edu.sg/chij-170th-anniversary-celebration/
+      image: /images/Announcements/N_Level_AP.jpg
+      alt: Image alt text
+  - infopic:
       title: CHIJ 170th Anniversary Celebration
       id: infopic
       url: https://www.chijkatongconvent.moe.edu.sg/chij-170th-anniversary-celebration/
