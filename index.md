@@ -23,7 +23,7 @@ sections:
       subtitle: Add an image and text
       id: infopic
       button: Click to download
-      url: https://www.chijkatongconvent.moe.edu.sg/files/Announcements/2024_N_level_results_admin_and_progression_briefing__for_students_.pdf
+      url: https://www.chijkatongconvent.moe.edu.sg/files/Announcements/2024_N_level_results_admin_and_progression_briefing.pdf
       image: /images/Announcements/N_Level_AP.jpg
       alt: Image alt text
   - infopic:
