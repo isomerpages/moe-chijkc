@@ -22,9 +22,8 @@ sections:
       title: 2024 N Level Results Admin and Progress Briefing Slides
       subtitle: Add an image and text
       id: infopic
-      description: Infopic description
       button: Click to download
-      url: https://www.chijkatongconvent.moe.edu.sg/files/Announcements/https://www.chijkatongconvent.moe.edu.sg/files/Announcements/2024_N_level_results_admin_and_progression_briefing__for_students_.pdficon.pdf.pdf
+      url: https://www.chijkatongconvent.moe.edu.sg/files/Announcements/2024_N_level_results_admin_and_progression_briefing__for_students_.pdf
       image: /images/Announcements/N_Level_AP.jpg
       alt: Image alt text
   - infopic:
