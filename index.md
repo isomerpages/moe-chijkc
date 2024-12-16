@@ -24,7 +24,7 @@ sections:
       id: infopic
       description: Infopic description
       button: Click to download
-      url: https://www.chijkatongconvent.moe.edu.sg/files/Announcements/https://www.chijkatongconvent.moe.edu.sg/files/Announcements/(for_student)_google_takeout_guide_for_student_icon.pdf.pdf
+      url: https://www.chijkatongconvent.moe.edu.sg/files/Announcements/https://www.chijkatongconvent.moe.edu.sg/files/Announcements/2024_N_level_results_admin_and_progression_briefing__for_students_.pdficon.pdf.pdf
       image: /images/Announcements/N_Level_AP.jpg
       alt: Image alt text
   - infopic:
