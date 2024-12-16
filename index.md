@@ -24,7 +24,7 @@ sections:
       id: infopic
       description: Infopic description
       button: Click to download
-      url: https://www.chijkatongconvent.moe.edu.sg/chij-170th-anniversary-celebration/
+      url: https://www.chijkatongconvent.moe.edu.sg/files/Announcements/https://www.chijkatongconvent.moe.edu.sg/files/Announcements/(for_student)_google_takeout_guide_for_student_icon.pdf.pdf
       image: /images/Announcements/N_Level_AP.jpg
       alt: Image alt text
   - infopic:
