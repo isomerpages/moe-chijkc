@@ -20,7 +20,6 @@ sections:
       button: Coming on 18 Dec 2024
   - infopic:
       title: 2024 N Level Results Admin and Progress Briefing Slides
-      subtitle: Add an image and text
       id: infopic
       button: Click to download
       url: https://www.chijkatongconvent.moe.edu.sg/files/Announcements/2024_N_level_results_admin_and_progression_briefing.pdf
