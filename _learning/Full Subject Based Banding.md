@@ -49,7 +49,7 @@ in mixed form classes to spend curriculum time together in these subjects.</p>
 </ul>
 <p>Teachers will adopt a range of teaching approaches to meet the different
 learning needs and pace of their students in the same form class.</p>
-<p><strong>Offering subjects at a more demanding level </strong>
+<p><strong>Offering subjects at a more demanding level</strong>
 </p>
 <p><strong>English Language, Mother Tongue Languages, Mathematics and Science</strong>:
 Secondary school students can offer these subjects at a more demanding
