@@ -256,6 +256,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>English</strong>  <strong>(covering)</strong>
+<br>Ms Lee Jiak Peng Audrey</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br><a href="mailto:lee_jiak_peng_audrey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_jiak_peng_audrey@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Malay Language</strong> 
 <br>Ms Norazian Mohamed Yahya</p>
 </td>
@@ -313,6 +324,17 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <h4>Email</h4>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Biology</strong>
+<br>Ms Gan Siew Cheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br><a href="mailto:gan_siew_cheng@moe.edu.sg" rel="noopener nofollow" target="_blank">gan_siew_cheng@moe.edu.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
