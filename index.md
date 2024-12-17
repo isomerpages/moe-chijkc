@@ -15,7 +15,7 @@ sections:
       title: Information for Secondary 1 KC Students
       id: infopic
       image: /images/Announcements/Wait_is_over.jpg
-      alt: Image alt text
+      alt: https://go.gov.sg/kcsec1info
       url: https://go.gov.sg/kcsec1info
       button: Head over for more info
   - infopic:
