@@ -14,10 +14,10 @@ sections:
   - infopic:
       title: Information for Secondary 1 KC Students
       id: infopic
-      image: /images/Announcements/creative_coming_soon_teaser_background_free_vector.jpg
-      alt: Image alt text
-      url: https://go.gov.sg/kcsec1info-cs
-      button: Coming on 18 Dec 2024
+      image: /images/Announcements/Wait_is_over.jpg
+      alt: https://go.gov.sg/kcsec1info
+      url: https://go.gov.sg/kcsec1info
+      button: Click here for more info
   - infopic:
       title: 2024 N Level Results Admin and Progress Briefing Slides
       id: infopic
