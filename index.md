@@ -17,7 +17,7 @@ sections:
       image: /images/Announcements/Wait_is_over.jpg
       alt: https://go.gov.sg/kcsec1info
       url: https://go.gov.sg/kcsec1info
-      button: Head over for more info
+      button: Click here for more info
   - infopic:
       title: 2024 N Level Results Admin and Progress Briefing Slides
       id: infopic
