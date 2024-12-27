@@ -30,12 +30,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nurahifah Amran
-<br>
-</p>
+<br>Ms Nuha Jalal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nurahifah_amran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurahifah_amran@moe.edu.sg</a> 
-<br>
+<br><a href="mailto:nuha_jalal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nuha_jalal@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -188,7 +187,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year Head<br>Level Discipline Master</strong>
+<p><strong>Year Head / Level Discipline Mistress</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -351,17 +350,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year Head<br>Level Discipline Mistress</strong>
+<p><strong>Year Head<br>Level Discipline Master</strong>
+<br><strong>Level Discipline Mistress</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Loh Jing Hui Jimmy
-<br>
-</p>
+<br>Mr Michael Ang Zhi Hau
+<br>Ms Nur Izzati Zainudin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:loh_jing_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_jing_hui@moe.edu.sg</a>
-<br>
+<br><a href="mailto:ang_zhi_hau@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ang_zhi_hau@moe.edu.sg</u></a>
+<br><a href="mailto:Nur_Izzati_Zainudin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_izzati_zainudin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -504,12 +505,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nor Sharina Abd Majid
-<br>
-</p>
+<br>Mdm Raudah Hussain</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nor_sharina_abd_majid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nor_sharina_abd_majid@moe.edu.sg</a> 
-<br>
+<br><a href="mailto:raudah_hussain@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>raudah_hussain@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
