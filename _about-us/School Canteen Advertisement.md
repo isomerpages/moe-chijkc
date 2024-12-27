@@ -25,13 +25,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Asia Cuisine (Non-Halal Japanese/Korean/Thai)</p>
+<p>Asia Cuisine
+<br>(Non-Halal Japanese/Korean/Thai)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>08 Jan 2025 (Wednesday)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sale of Asia Cuisine (Non-Halal Japanese/Korean/Thai)</p>
+<p>Sale of Asia Cuisine
+<br>(Non-Halal Japanese/Korean/Thai)</p>
 </td>
 </tr>
 </tbody>
