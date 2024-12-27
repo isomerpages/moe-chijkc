@@ -1,5 +1,5 @@
 ---
-title: Key Personnel (2024)
+title: Key Personnel (2025)
 permalink: /about-us/key-personnel/
 description: ""
 third_nav_title: Our Staff

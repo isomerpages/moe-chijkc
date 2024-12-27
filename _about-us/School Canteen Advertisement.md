@@ -25,13 +25,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Snack &amp; Drink</p>
+<p>Asia Cuisine
+<br>(Non-Halal Japanese/Korean/Thai)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>03 Dec 2024 (Tuesday)</p>
+<p>08 Jan 2025 (Wednesday)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sale of hot and cold drinks as well as cut fruits.</p>
+<p>Sale of Asia Cuisine
+<br>(Non-Halal Japanese/Korean/Thai)</p>
 </td>
 </tr>
 </tbody>

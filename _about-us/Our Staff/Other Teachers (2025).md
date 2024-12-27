@@ -1,5 +1,5 @@
 ---
-title: Other Teachers (2024)
+title: Other Teachers (2025)
 permalink: /about-us/our-staff/other-teachers/
 description: ""
 third_nav_title: Our Staff
