@@ -243,7 +243,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Desktop Engineer</strong> 
-<br>Mr&nbsp;Halili Abu Hassan
+<br>Mr&nbsp;Mohamad Omar Mohd Noh
 <br>Mr Bryan Lee Wee Yang</p>
 </td>
 <td rowspan="1" colspan="1">
