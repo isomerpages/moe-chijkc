@@ -2,10 +2,11 @@
 title: Student Journal 2025
 permalink: /the-kc-experience/student-journal/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-**[e-Student Journal 2024.pdf](/files/KC%20Experience/CHIJ_Katong_Convent_Student_Journal_2024.pdf)**
-
-<p><a href="/files/KC%20Experience/CHIJ_Katong_Convent_Student_Journal_2024.pdf">
-<img style="width:100%" src="/images/KC%20Experience/2024_Journal_Cover.png">
-</a></p>
+<p><strong><a href="/files/KC Experience/2025_CHIJ_Katong_Convent_Student_Journal.pdf" rel="noopener nofollow" target="_blank">e-Student Journal 2025</a></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KC Experience/2025_KC_Journal_Cover.png">
+</div>
+<p></p>
