@@ -104,7 +104,7 @@ variant: tiptap
 <br>Mrs Smitha Rao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nicholas_lim@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nicholas_lim@moe.gov.sg</a>
+<p><a href="mailto:nicholas_lim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nicholas_lim@moe.edu.sg</a>
 <br><a href="mailto:rao_smitha_srinivas@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rao_smitha_srinivas@moe.edu.sg</a>
 </p>
 </td>
