@@ -42,6 +42,29 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
+<p><strong>Term Letter (2025)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/KC Village/Parents/Letters To Parents/KC_Term_1_Letter_to_Parents_Guardians_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 1</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Term 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 4</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p><strong>Year End Letter</strong>
 </p>
 </td>
