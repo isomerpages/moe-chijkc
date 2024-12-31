@@ -605,10 +605,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Gan Siew Cheng</p>
+<p>Ms Gan Siew Cheng
+<br>Ms Teo Wei Yi Heather</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:gan_siew_cheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gan_siew_cheng@moe.edu.sg</a>
+<br><a href="mailto:teo_wei_yi_heather@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_wei_yi_heather@moe.edu.sg</a>
 </p>
 </td>
 </tr>
