@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KC Village/IJ BoM/IJ_BOM_Members_Photo_Chart_20240909.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KC Village/IJ BoM/IJ_BOM_Members_Photo_Chart_20250101.jpg">
 </div>
 <h4>Non-Financial Information</h4>
 <p><a href="/files/KC Village/Annual_Report_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">Non-Financial Information</a>
