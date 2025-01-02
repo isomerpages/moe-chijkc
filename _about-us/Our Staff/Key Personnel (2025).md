@@ -145,11 +145,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mother Tongue Languages</strong> 
-<br>Ms Ong Meiqing</p>
+<br>Mr Goh LiangZhuo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br><a href="mailto:ong_meiqing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_meiqing@moe.edu.sg</a>
+<br><a href="mailto:goh_liangzhou@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_liangzhou@moe.edu.sg</a>
 </p>
 </td>
 </tr>
