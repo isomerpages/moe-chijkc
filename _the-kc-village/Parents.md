@@ -125,18 +125,44 @@ variant: tiptap
 </tbody>
 </table>
 <h4>Class Timetables</h4>
-<table style="minWidth: 50px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><strong>Sec 1</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Sec 2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 3</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Sec 4 &amp; 5</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Coming Soon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Coming Soon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Coming Soon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Coming Soon</p>
 </td>
 </tr>
 </tbody>
