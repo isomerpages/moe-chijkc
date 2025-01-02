@@ -134,35 +134,33 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Sec 1</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Sec 2</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Sec 3</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Sec 4 &amp; 5</strong>
+<td rowspan="1" colspan="4">
+<p><strong>Semester I</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Coming Soon</p>
+<p><a href="/files/KC Village/Parents/TimeTables/2025_Sem_1_TT_2_Jan_1400_Sec_1.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Coming Soon</p>
+<p><a href="/files/KC Village/Parents/TimeTables/2025_Sem_1_TT_2_Jan_1400_Sec_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Coming Soon</p>
+<p><a href="/files/KC Village/Parents/TimeTables/2025_Sem_1_TT_2_Jan_1400_Sec_3.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Coming Soon</p>
+<p><a href="/files/KC Village/Parents/TimeTables/2025_Sem_1_TT_2_Jan_1400_Sec_4_5.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 &amp; 5</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<p><a href="/files/KC Village/Parents/TimeTables/2025_Sem_1_TT_2_Jan_1400_Afternoon_Lessons.pdf" rel="noopener noreferrer nofollow" target="_blank">Afternoon Lessons for Sec 3 &amp; 4</a>
+</p>
 </td>
 </tr>
 </tbody>
