@@ -171,11 +171,13 @@ date of collection of the PLD. This limited warranty covers normal use,
 mechanical breakdown, or faulty construction and will provide replacement
 parts necessary to repair or if necessary, replace the PLD. The warranty
 DOES NOT cover damage caused by misuse, abuse, or accidents. Please report
-all technical problems to the school-based ICT Service Desk.</p>
-<p>2 . <strong>LOSS OF PERSONAL LEARNING DEVICE</strong>
+all technical problems to the school-based ICT Service Desk.
+<br>
+<br>2 . <strong>LOSS OF PERSONAL LEARNING DEVICE</strong>
 <br>Students are responsible for their personal devices. The school will not
-be held responsible for any damage, theft or loss of their devices.</p>
-<p><strong>STANDARD OPERATING PROCEDURE</strong>
+be held responsible for any damage, theft or loss of their devices.
+<br>
+<br><strong>STANDARD OPERATING PROCEDURE</strong>
 <br>1 . Parents to make a police report for the lost device.
 <br>2 . If the lost device is covered under the circumstances listed in the
 device’s insurance coverage, parents should contact and inform contractor
@@ -239,7 +241,7 @@ fund for the <strong>replacement</strong> of their device (2nd purchase).
 </p>
 </li>
 </ul>
-<p>3 . <strong>REPLACEMENT / CHANGE OF PLD</strong> 
+<p>3 . <strong>REPLACEMENT / CHANGE OF PLD</strong>
 </p>
 <ul>
 <li>
