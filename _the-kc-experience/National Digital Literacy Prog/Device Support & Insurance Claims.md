@@ -100,7 +100,7 @@ or insurance claims for their devices:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KC Experience/NDLP/CT_Hub.png">
 </div>
-<h4>For Acer Chromebook Spin (R752TN / R753TN)</h4>
+<h4>For Acer Chromebook Spin (R752TN / R753TN / R857TN)</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -192,9 +192,10 @@ to pass to student if device is covered under insurance. Parents can opt
 for doorstep delivery but with delivery charges.
 <br>7 . If the device is without insurance coverage or the loss is due to
 clause(s) not covered under insurance, parents can seek school’s assistance
-to procure a replacement device.</p>
-<p><strong>Loss Within School Premises</strong>
+to procure a replacement device.
 <br>
+</p>
+<p><strong>Loss Within School Premises</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -209,11 +210,12 @@ if the PLD is not recovered.</p>
 </li>
 <li>
 <p>A copy of the Police Report must be submitted to the school-based ICT
-Service Desk at the earliest possible time.</p>
+Service Desk at the earliest possible time.
+<br>
+</p>
 </li>
 </ul>
 <p><strong>Loss Outside School Premises</strong>
-<br>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -232,11 +234,12 @@ possible time.</p>
 </li>
 <li>
 <p>Students, who are Singapore Citizens, will be able to utilize their Edusave
-fund for the <strong>replacement</strong> of their device (2nd purchase).</p>
+fund for the <strong>replacement</strong> of their device (2nd purchase).
+<br>
+</p>
 </li>
 </ul>
 <p>3 . <strong>REPLACEMENT / CHANGE OF PLD</strong> 
-<br>
 </p>
 <ul>
 <li>
@@ -252,9 +255,7 @@ below:</p>
 </li>
 <li>
 <p>Replacement of PLD by parents for PLD not covered under insurance or insurance
-period has ended
-<br>
-</p>
+period has ended</p>
 </li>
 <li>
 <p>Students who are using their own PLDs which were not procured from NDLP
