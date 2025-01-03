@@ -110,7 +110,7 @@ Kids (<a href="https://go.gov.sg/iglive-raising-digitally-smart-kids" rel="noope
 </ul>
 <h4>Purchase of PLD</h4>
 <p>To proceed with the purchase of PLD, please complete the online form at
-<a href="https://form.gov.sg/5f8b1a54caf67200118fc719" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pdlpadmin</a>.</p>
+<a href="https://go.gov.sg/edusaveformsgso" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/edusaveformsgso</a>.</p>
 <p>The online form will consist of:</p>
 <ul data-tight="true" class="tight">
 <li>
