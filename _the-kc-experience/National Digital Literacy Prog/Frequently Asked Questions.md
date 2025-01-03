@@ -28,7 +28,7 @@ variant: tiptap
 <p>Chosen device bundle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Acer R857TN 12.2" Chromebook</strong>&nbsp;includes:
+<p><strong>Acer Chromebook Spin 512 (R857TN)</strong>&nbsp;includes:
 <br>- Power Adaptor
 <br>- Mouse
 <br>- Stylus
