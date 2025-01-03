@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <p><strong>Choice of Device</strong>
 </p>
-<p>1 . <strong>What is the device bundle selected by the school (2024)?</strong>
+<p>1 . <strong>What is the device bundle selected by the school (2025)?</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -28,13 +28,11 @@ variant: tiptap
 <p>Chosen device bundle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Lenovo 500e Yoga Gen4 Chromebook</strong>&nbsp;includes:
+<p><strong>Acer R857TN 12.2" Chromebook</strong>&nbsp;includes:
 <br>- Power Adaptor
 <br>- Mouse
 <br>- Stylus
-<br>- Carrier Bag
-<br>
-</p>
+<br>- Carrier Bag</p>
 </td>
 </tr>
 <tr>
@@ -42,7 +40,7 @@ variant: tiptap
 <p>Processor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Intel N100 Processor</p>
+<p>Intel N250 Processor</p>
 </td>
 </tr>
 <tr>
@@ -58,7 +56,7 @@ variant: tiptap
 <p>HDD</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64GB&nbsp;eMMC</p>
+<p>128GB&nbsp;eMMC</p>
 </td>
 </tr>
 <tr>
@@ -66,7 +64,7 @@ variant: tiptap
 <p>Screen&nbsp;size</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12.2"&nbsp;Touch&nbsp;screen</p>
+<p>12.2" WUXGA&nbsp;Touch&nbsp;screen</p>
 </td>
 </tr>
 <tr>
@@ -74,7 +72,7 @@ variant: tiptap
 <p>Weight</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.32 kg</p>
+<p>1.3 kg</p>
 </td>
 </tr>
 <tr>
