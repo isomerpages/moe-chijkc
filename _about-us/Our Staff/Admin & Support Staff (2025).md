@@ -102,21 +102,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Technical Support Officer</strong> 
-<br>Mdm Iryanti Bte Jamil
-<br>Mr Md Zaaini Bin Hussain
-<br>Mrs Samirah Zainul Abidin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br><a href="mailto:iryanti_jamil@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">iryanti_jamil@moe.edu.sg</a> 
-<br><a href="mailto:mohamed_zaaini_hussain@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_zaaini_hussain@moe.edu.sg</a>
-<br><a href="samirah_zainul_abidin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">samirah_zainul_abidin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Operations Support Officer</strong> 
 <br>Mdm Ng Ka Hoon
 <br>Mr Tan Chew Seng
@@ -126,9 +111,7 @@ variant: tiptap
 <p>
 <br>NA
 <br>NA
-<br>NA
-<br>
-</p>
+<br>NA</p>
 </td>
 </tr>
 <tr>
@@ -144,10 +127,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>STEM Instructor (Laboratory)</strong>
+<br>Mdm Iryanti Jamil
+<br>Mrs Samirah Zainul Abidin
+<br>Mr Mohamed Zaaini Hussain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>
+<br><a href="mailto:iryanti_jamil@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">iryanti_jamil@moe.edu.sg</a>
+<br><a href="mailto:samirah_zainul_abidin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">samirah_zainul_abidin@moe.edu.sg</a>
+<br><a href="mailto:samirah_zainul_abidin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">samirah_zainul_abidin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -209,7 +199,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>
 <br><a href="mailto:long_ai_sin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">long_ai_sin@moe.edu.sg</a> 
-<br>
 </p>
 </td>
 </tr>
