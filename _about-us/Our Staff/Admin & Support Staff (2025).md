@@ -140,6 +140,14 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <table style="minWidth: 50px">
@@ -198,8 +206,16 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br><a href="mailto:long_ai_sin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">long_ai_sin@moe.edu.sg</a> 
+<br><a href="mailto:long_ai_sin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">long_ai_sin@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
