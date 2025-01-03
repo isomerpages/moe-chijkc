@@ -248,7 +248,7 @@ everyone using Zoom on a Chromebook has an easy-to-use, reliable experience.</p>
 <br>The school will make arrangement for students to collect their devices
 in the school.</p>
 <p>18 . <strong>When will the girls get their PLD?</strong>
-<br>The PLDs are projected to be delivered in March 2024.</p>
+<br>The PLDs are projected to be delivered in March 2025.</p>
 <p>19 .&nbsp;<strong>Will the school let the child know what to look out for when collecting the PLD?</strong>
 <br>A briefing will be conducted for all students on the PLDs. Students will
 learn more about their PLDs in this briefing.</p>
