@@ -37,10 +37,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Operating System</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chrome OS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Processor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Intel N250 Processor</p>
+<p>Intel® Processor N150</p>
 </td>
 </tr>
 <tr>
@@ -48,15 +56,15 @@ variant: tiptap
 <p>RAM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8GB&nbsp;RAM</p>
+<p>8 GB of onboard LPDDR5X system memory</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HDD</p>
+<p>Storage</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>128GB&nbsp;eMMC</p>
+<p>64GB&nbsp;eMMC</p>
 </td>
 </tr>
 <tr>
@@ -64,7 +72,8 @@ variant: tiptap
 <p>Screen&nbsp;size</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12.2" WUXGA&nbsp;Touch&nbsp;screen</p>
+<p>12.2" WUXGA 1920 x 1200 Resolution LED-backlit TFT LCD with Integrated
+Multi-touch</p>
 </td>
 </tr>
 <tr>
@@ -72,7 +81,7 @@ variant: tiptap
 <p>Weight</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.3 kg</p>
+<p>1.5 kg</p>
 </td>
 </tr>
 <tr>
@@ -86,10 +95,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Detailed Specs Sheet</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/KC Experience/NDLP/PLD__Acer_Chromebook_R857TN_Specifications.pdf" rel="noopener nofollow" target="_blank">Acer Chromebook Spin 512 (R857TN)</a>
+</p>
 </td>
 </tr>
 </tbody>
