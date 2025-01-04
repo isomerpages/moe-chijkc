@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <p><strong>Choice of Device</strong>
 </p>
-<p>1 . <strong>What is the device bundle selected by the school (2024)?</strong>
+<p>1 . <strong>What is the device bundle selected by the school (2025)?</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -28,13 +28,19 @@ variant: tiptap
 <p>Chosen device bundle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Lenovo 500e Yoga Gen4 Chromebook</strong>&nbsp;includes:
+<p><strong>Acer Chromebook Spin 512 (R857TN)</strong>&nbsp;includes:
 <br>- Power Adaptor
 <br>- Mouse
 <br>- Stylus
-<br>- Carrier Bag
-<br>
-</p>
+<br>- Carrier Bag</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Operating System</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chrome OS</p>
 </td>
 </tr>
 <tr>
@@ -42,7 +48,7 @@ variant: tiptap
 <p>Processor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Intel N100 Processor</p>
+<p>Intel® Processor N150</p>
 </td>
 </tr>
 <tr>
@@ -50,12 +56,12 @@ variant: tiptap
 <p>RAM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8GB&nbsp;RAM</p>
+<p>8 GB of onboard LPDDR5X system memory</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HDD</p>
+<p>Storage</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>64GB&nbsp;eMMC</p>
@@ -66,7 +72,8 @@ variant: tiptap
 <p>Screen&nbsp;size</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12.2"&nbsp;Touch&nbsp;screen</p>
+<p>12.2" WUXGA 1920 x 1200 Resolution LED-backlit TFT LCD with Integrated
+Multi-touch</p>
 </td>
 </tr>
 <tr>
@@ -74,7 +81,7 @@ variant: tiptap
 <p>Weight</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.32 kg</p>
+<p>1.5 kg</p>
 </td>
 </tr>
 <tr>
@@ -88,10 +95,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Detailed Specs Sheet</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/KC Experience/NDLP/PLD__Acer_Chromebook_R857TN_Specifications.pdf" rel="noopener nofollow" target="_blank">Acer Chromebook Spin 512 (R857TN)</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -99,9 +107,9 @@ variant: tiptap
 <p>2 . <strong>What considerations does the school have in selecting the Chromebook as the choice of device? Is there an option to a different device with a top-up?</strong>
 <br>The Chromebook is the prescribed device bundle for the school.</p>
 <p>Our curriculum and technological plans leverage learning activities via
-Google Suite and Google Classroom. The recent provisioning of Student iCON
-will enable students to learn via their Google account. Most of the other
-tools are also accessible by Chrome browser online and do not require installation
+Google Suite and Google Classroom. The provisioning of Student iCON will
+enable students to learn via their Google account. Most of the other tools
+are also accessible by Chrome browser online and do not require installation
 or high computing power.</p>
 <p>We therefore narrowed our choice to Chromebook, which operates on Chrome
 browser and is auto updated. It also has a fast boot time and long battery
@@ -117,7 +125,7 @@ more effectively.</p>
 </p>
 <p>3 . <strong>How do&nbsp;we&nbsp;purchase&nbsp;the&nbsp;device&nbsp;through&nbsp;the&nbsp;school?</strong>
 <br>Parents with Singpass can indicate your consent for the purchase of the
-device through the school at this link: <a href="https://go.gov.sg/pdlpadmin" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pdlpadmin</a> 
+device through the school at this link: <a href="https://go.gov.sg/edusaveformsgso" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/edusaveformsgso</a>
 <br>A copy of the letter for procurement is available to parents without SingPass.
 Kindly make your request to the General Office.</p>
 <p>4 . <strong>How do we check the amount of Edusave fund available in our child's/ward's (for Singapore Citizen) account?</strong> 
@@ -164,11 +172,11 @@ to arrange for the assessment, between 18 to 22 Jan.
 PLD)
 <br>- Battery must be able to hold the charge for 10 hours, for lessons and
 after school-hours (CCA time)
-<br>- Able to receive Google Auto Update at least till 2028</p>
+<br>- Able to receive Google Auto Update at least till 2030</p>
 <p>We would like to highlight that if the student-owned device is assessed
 to be unsuitable, parents/guardians are strongly encouraged to give their
-consent at this link <a href="https://go.gov.sg/pdlpadmin" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pdlpadmin</a> to procure
-the school chosen device.</p>
+consent at this link <a href="https://go.gov.sg/edusaveformsgso" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/edusaveformsgso</a> to
+procure the school chosen device.</p>
 <p>9 . <strong>Can students who require help with funding get a 2nd hand device?</strong>
 <br>Every student is encouraged to purchase a device through the school via
 the MOE Device Bulk Tender.
@@ -182,18 +190,15 @@ share the device with their siblings.</p>
 <br>The DMA can:</p>
 <p>1 . Remotely deploy teaching and learning applications as well as security
 patches
-<br>2 . Enable teachers to monitor and control the students’ screens during
-lessons
-<br>3 . Restrict apps and websites accessibility, as well as screen time during
+<br>2 . Restrict apps and websites accessibility, as well as screen time during
 specified hours</p>
 <p>There will be default setting on web content filtering decided by the
 school for students to focus on learning in a safe and conducive online
 environment. Certain Chrome apps or extensions will also be installed to
 support teaching and learning.</p>
 <p>Following school hours, the PLD will come under the DMA settings from
-7 am to 6 pm, which also caters for use of device during CCAs and after-school
-programmes.</p>
-<p>Parents can choose from three options of control over DMA past 6 pm:</p>
+6.30 am to 2.00 pm.</p>
+<p>Parents can choose from three options of control over DMA past 2.00 pm:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Keep to the Default settings: the Chromebook will follow the same DMA
@@ -225,7 +230,7 @@ which can be uninstalled from the device upon the student’s graduation.</p>
 <br>To&nbsp;support&nbsp;the&nbsp;development&nbsp;of&nbsp;digital&nbsp;literacies,&nbsp;MOE&nbsp;will&nbsp;be&nbsp;rolling&nbsp;out&nbsp;the&nbsp;following&nbsp;applications&nbsp;in&nbsp;the&nbsp;PLDs&nbsp;progressively
 after Student iCON rollout: Google Suite for Education, Microsoft Office
 productivity suite which includes only Word. Excel, PowerPoint, OneNote
-&amp; Publisher, and Zoom.</p>
+&amp; Publisher.</p>
 <p>14 .&nbsp;&nbsp;<strong>Will an antivirus programme be installed in the device?</strong>
 <br>The Chromebook does not come with an antivirus programme as the Google
 Chrome OS has a range of security features to protect users from falling
@@ -240,28 +245,24 @@ of the apps, especially for collaborative work.</p>
 subsidized broadband under IMDA’s digital access schemes. More information
 on IMDA’s digital access schemes can be found at&nbsp;<a href="https://www.imda.gov.sg/ha" rel="noopener noreferrer nofollow" target="_blank">https://www.imda.gov.sg/ha</a>
 </p>
-<p>16 .&nbsp;<strong>Will this Chromebook be able to support the use of Zoom app?</strong>
-<br>As of 21 September 2020, Zoom Video Communications, Inc has updated the
-Chrome Web Store app to optimize CPU usage for all Chrome devices so that
-everyone using Zoom on a Chromebook has an easy-to-use, reliable experience.</p>
 <p><strong>Collection of Device</strong>
 </p>
-<p>17 . <strong>Where&nbsp;do&nbsp;we&nbsp;collect&nbsp;the&nbsp;device&nbsp;after&nbsp;the&nbsp;purchase?</strong>
+<p>16 . <strong>Where&nbsp;do&nbsp;we&nbsp;collect&nbsp;the&nbsp;device&nbsp;after&nbsp;the&nbsp;purchase?</strong>
 <br>The school will make arrangement for students to collect their devices
 in the school.</p>
-<p>18 . <strong>When will the girls get their PLD?</strong>
-<br>The PLDs are projected to be delivered in March 2024.</p>
-<p>19 .&nbsp;<strong>Will the school let the child know what to look out for when collecting the PLD?</strong>
+<p>17 . <strong>When will the girls get their PLD?</strong>
+<br>The PLDs are projected to be delivered in March 2025.</p>
+<p>18 .&nbsp;<strong>Will the school let the child know what to look out for when collecting the PLD?</strong>
 <br>A briefing will be conducted for all students on the PLDs. Students will
 learn more about their PLDs in this briefing.</p>
 <p><strong>Use of Device</strong>
 </p>
-<p>20 .<strong>Will&nbsp;having a Chromebook&nbsp;replace&nbsp;textbooks?</strong>
+<p>19 .<strong>Will&nbsp;having a Chromebook&nbsp;replace&nbsp;textbooks?</strong>
 <br>The Chromebook will not replace textbooks, as textbooks are currently
 designed as curriculum-aligned reference. Students can use the Chromebook
 to complement learning from textbooks with access to curriculum-aligned
 resources in the SLS.</p>
-<p>21 .&nbsp;<strong>Are students expected to bring their PLDs to school daily?&nbsp;What&nbsp;is&nbsp;the&nbsp;expected weight&nbsp;of&nbsp;the&nbsp;device?</strong>
+<p>20 .&nbsp;<strong>Are students expected to bring their PLDs to school daily?&nbsp;What&nbsp;is&nbsp;the&nbsp;expected weight&nbsp;of&nbsp;the&nbsp;device?</strong>
 <br>The students should bring a fully charged PLD to school daily. &nbsp;This
 is part of school-wide learning routines. Lockers are available for rental
 if students wish to store their books in school. As we are creating a Blended
@@ -270,23 +271,23 @@ offline, the students would need to bring their device to school daily
 to benefit from this enhanced learning environment.</p>
 <p>MOE&nbsp;has&nbsp;considered&nbsp;factors&nbsp;such&nbsp;as&nbsp;size&nbsp;and&nbsp;weight&nbsp;of&nbsp;devices&nbsp;when&nbsp;preparing&nbsp;the&nbsp;tender&nbsp;specifications&nbsp;for&nbsp;the
 Bulk&nbsp;Tender. The&nbsp;size&nbsp;of&nbsp;our&nbsp;school’s&nbsp;chosen
-device is&nbsp;11.6" and&nbsp;its weight&nbsp;is&nbsp;1.3&nbsp;kg.</p>
-<p>22 . <strong>Will there be a pool of devices to be loaned to students should there be a situation where their devices malfunction?</strong>
+device is&nbsp;12.2" and&nbsp;its weight&nbsp;is&nbsp;1.5&nbsp;kg.</p>
+<p>21 . <strong>Will there be a pool of devices to be loaned to students should there be a situation where their devices malfunction?</strong>
 <br>The school will provide devices for short-term loan due to loss or repairs,
 subject to the availability of devices available for loan.</p>
-<p>23 . <strong>If my child/ward forgets to bring the PLD to school, can she still catch up with the lesson which may be conducted online in class?</strong>
+<p>22 . <strong>If my child/ward forgets to bring the PLD to school, can she still catch up with the lesson which may be conducted online in class?</strong>
 <br>Students will be reminded to bring their devices as part of her daily
 learning routine. For emergency cases, as assessed and recommended by teachers,
 a device may be loaned to her for that day, subject to the availability
 of devices available for loan.</p>
-<p>24 .&nbsp;<strong>Are there plans to avail power outlets for charging in school /during class?</strong>
+<p>23 .&nbsp;<strong>Are there plans to avail power outlets for charging in school /during class?</strong>
 <br>Charging facilities will be available in the school library. This is only
 for emergency use as students are expected to be responsible for charging
 their PLD the night before and bringing a fully-charged PLD to school the
 next day.</p>
 <p><strong>Warranty and Repair</strong>
 </p>
-<p>25 . <strong>If the device becomes faulty or requires change in parts, does the school do the repair or should students/parents resolve that themselves?</strong>
+<p>24 . <strong>If the device becomes faulty or requires change in parts, does the school do the repair or should students/parents resolve that themselves?</strong>
 <br>
 </p>
 <ul data-tight="true" class="tight">
@@ -297,13 +298,13 @@ next day.</p>
 <p>Service-desk set up in school during breaks and after school</p>
 </li>
 <li>
-<p>Lenovo Service Center, located at Tai Seng Centre.</p>
+<p>Lenovo Service Center, located at 2 Kallang Avenue.</p>
 </li>
 <li>
 <p>Acer Service Center, located at International Business Park.</p>
 </li>
 </ul>
-<p>26 . <strong>Who will bear the cost of repair?</strong>
+<p>25 . <strong>Who will bear the cost of repair?</strong>
 <br>If the device is damaged, the parents/student can report it to the school.
 The school will coordinate with the vendor on the assessment of damage
 and repairs. If there are additional cost, the vendor will contact the
@@ -313,7 +314,7 @@ for repairs will be borne by the parents/students if not covered by insurance.</
 <p>If the device is damaged beyond economical repair and is not covered by
 insurance (coverage against damage and loss/theft), the replacement device
 will have to be paid for by the parents/student.</p>
-<p>27 . <strong>What if the student loses the device?</strong>
+<p>26 . <strong>What if the student loses the device?</strong>
 <br>The PLD is bundled with 3-year insurance and 3-year warranty, which allows
 for two repairs or one replacement.</p>
 <p>The insurance coverage is only applicable to situations of damage and
@@ -322,7 +323,7 @@ police report will have to be made for the insurance claim. Accidental
 loss due to negligence is not covered by insurance and a new PLD will have
 to be purchased by the parents/student. The school will assist in purchasing
 a replacement PLD.</p>
-<p>28 . <strong>Since the warranty/insurance covers 3 years, what is the arrangement beyond 3 years?</strong>
+<p>27 . <strong>Since the warranty/insurance covers 3 years, what is the arrangement beyond 3 years?</strong>
 <br>The insurance and warranty bundled in the school-purchased device covers
 3 years. If the&nbsp;insurance/warranty has expired, or the replacement
 is not covered under the insurance/warranty (e.g.&nbsp;due to negligence,
@@ -334,7 +335,7 @@ for&nbsp;subsidy.</p>
 in the open market. It would be very costly to incorporate such a requirement
 and it makes more economical sense to replace the device when it is beyond
 economical repair after 3 years.</p>
-<p>29 . <strong>What happens to the device ownership upon graduation?</strong>
+<p>28 . <strong>What happens to the device ownership upon graduation?</strong>
 <br>The Chromebook bundle deal entitles parents/student the ownership of the
 device and accessories. Chromebook runs on Chrome OS and will continue
 to be updated to the latest version of Chrome&nbsp;whenever available if

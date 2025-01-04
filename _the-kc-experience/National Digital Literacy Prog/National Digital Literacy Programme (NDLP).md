@@ -10,7 +10,7 @@ by equipping students with the digital literacies to be future-ready. Under
 the NDLP, MOE announced that every student will own a school-prescribed
 personal learning device (PLD) by end-2021.</p>
 <p>Please find the briefing slides on NDLP during the Sec One Parents Engagement
-held on&nbsp;04 Jan 2024 (<a href="/files/KC%20Experience/NDLP/KC_PLD_Briefing_to_Parents_040124_v3_website.pdf" rel="noopener noreferrer nofollow" target="_blank">PDF</a>)</p>
+held on&nbsp;06 Jan 2025 (to be released after the briefing)</p>
 <h4>NDLP @ CHIJ Katong Convent</h4>
 <p>In alignment with our CHIJ Katong Convent’s desired graduate outcomes,
 we seek to leverage this PLD initiative to develop our students to be</p>
@@ -110,7 +110,7 @@ Kids (<a href="https://go.gov.sg/iglive-raising-digitally-smart-kids" rel="noope
 </ul>
 <h4>Purchase of PLD</h4>
 <p>To proceed with the purchase of PLD, please complete the online form at
-<a href="https://form.gov.sg/5f8b1a54caf67200118fc719" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/pdlpadmin</a>.</p>
+<a href="https://go.gov.sg/edusaveformsgso" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/edusaveformsgso</a>.</p>
 <p>The online form will consist of:</p>
 <ul data-tight="true" class="tight">
 <li>

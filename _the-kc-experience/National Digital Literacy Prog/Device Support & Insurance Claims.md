@@ -100,7 +100,7 @@ or insurance claims for their devices:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KC Experience/NDLP/CT_Hub.png">
 </div>
-<h4>For Acer Chromebook Spin (R752TN / R753TN)</h4>
+<h4>For Acer Chromebook Spin (R752TN / R753TN / R857TN)</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -171,11 +171,13 @@ date of collection of the PLD. This limited warranty covers normal use,
 mechanical breakdown, or faulty construction and will provide replacement
 parts necessary to repair or if necessary, replace the PLD. The warranty
 DOES NOT cover damage caused by misuse, abuse, or accidents. Please report
-all technical problems to the school-based ICT Service Desk.</p>
-<p>2 . <strong>LOSS OF PERSONAL LEARNING DEVICE</strong>
+all technical problems to the school-based ICT Service Desk.
+<br>
+<br>2 . <strong>LOSS OF PERSONAL LEARNING DEVICE</strong>
 <br>Students are responsible for their personal devices. The school will not
-be held responsible for any damage, theft or loss of their devices.</p>
-<p><strong>STANDARD OPERATING PROCEDURE</strong>
+be held responsible for any damage, theft or loss of their devices.
+<br>
+<br><strong>STANDARD OPERATING PROCEDURE</strong>
 <br>1 . Parents to make a police report for the lost device.
 <br>2 . If the lost device is covered under the circumstances listed in the
 device’s insurance coverage, parents should contact and inform contractor
@@ -192,9 +194,10 @@ to pass to student if device is covered under insurance. Parents can opt
 for doorstep delivery but with delivery charges.
 <br>7 . If the device is without insurance coverage or the loss is due to
 clause(s) not covered under insurance, parents can seek school’s assistance
-to procure a replacement device.</p>
-<p><strong>Loss Within School Premises</strong>
+to procure a replacement device.
 <br>
+</p>
+<p><strong>Loss Within School Premises</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -209,11 +212,12 @@ if the PLD is not recovered.</p>
 </li>
 <li>
 <p>A copy of the Police Report must be submitted to the school-based ICT
-Service Desk at the earliest possible time.</p>
+Service Desk at the earliest possible time.
+<br>
+</p>
 </li>
 </ul>
 <p><strong>Loss Outside School Premises</strong>
-<br>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -232,11 +236,12 @@ possible time.</p>
 </li>
 <li>
 <p>Students, who are Singapore Citizens, will be able to utilize their Edusave
-fund for the <strong>replacement</strong> of their device (2nd purchase).</p>
+fund for the <strong>replacement</strong> of their device (2nd purchase).
+<br>
+</p>
 </li>
 </ul>
-<p>3 . <strong>REPLACEMENT / CHANGE OF PLD</strong> 
-<br>
+<p>3 . <strong>REPLACEMENT / CHANGE OF PLD</strong>
 </p>
 <ul>
 <li>
@@ -252,9 +257,7 @@ below:</p>
 </li>
 <li>
 <p>Replacement of PLD by parents for PLD not covered under insurance or insurance
-period has ended
-<br>
-</p>
+period has ended</p>
 </li>
 <li>
 <p>Students who are using their own PLDs which were not procured from NDLP
