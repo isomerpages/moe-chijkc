@@ -6,9 +6,9 @@ third_nav_title: National Digital Literacy Prog
 variant: tiptap
 ---
 <h4>DMA Parents Option Guide for Chromebook</h4>
-<p><a href="/files/KC Experience/NDLP/DMA Options/CE11_Parent_User_Guide_for_Default_Option.pdf" rel="noopener nofollow" target="_blank">DMA Parent Guide - </a><strong><a href="/files/KC Experience/NDLP/DMA Options/CE11_Parent_User_Guide_for_Default_Option.pdf" rel="noopener nofollow" target="_blank">Default Option</a></strong>
-<br><a href="/files/KC Experience/NDLP/DMA Options/CE09_Parent_User_Guide_for_Option_A.pdf" rel="noopener nofollow" target="_blank">DMA Parent Guide - </a><strong><a href="/files/KC Experience/NDLP/DMA Options/CE09_Parent_User_Guide_for_Option_A.pdf" rel="noopener nofollow" target="_blank">Option A</a></strong>
-<br><a href="/files/KC Experience/NDLP/DMA Options/CE10_Parent_User_Guide_for_Option_B_UPDATED.pdf" rel="noopener nofollow" target="_blank">DMA Parent Guide - </a><strong><a href="/files/KC Experience/NDLP/DMA Options/CE10_Parent_User_Guide_for_Option_B_UPDATED.pdf" rel="noopener nofollow" target="_blank">Option B</a></strong>
+<p><a href="/files/KC Experience/NDLP/DMA Options/CE11_Parent_User_Guide_for_Default_Option.pdf" rel="noopener nofollow" target="_blank">DMA Parent Guide - Default Option</a>
+<br><a href="/files/KC Experience/NDLP/DMA Options/CE09_Parent_User_Guide_for_Option_A.pdf" rel="noopener nofollow" target="_blank">DMA Parent Guide - Option A</a>
+<br><a href="/files/KC Experience/NDLP/DMA Options/CE10_Parent_User_Guide_for_Option_B_UPDATED.pdf" rel="noopener nofollow" target="_blank">DMA Parent Guide - Option B</a>
 <br>
 </p>
 <div class="isomer-image-wrapper">
