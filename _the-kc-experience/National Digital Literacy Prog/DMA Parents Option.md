@@ -6,11 +6,21 @@ third_nav_title: National Digital Literacy Prog
 variant: tiptap
 ---
 <h4>DMA Parents Option Guide for Chromebook</h4>
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="/files/KC Experience/NDLP/DMA Options/CE11_Parent_User_Guide_for_Default_Option.pdf" rel="noopener nofollow" target="_blank">Default Option</a>
-<br><a href="/files/KC Experience/NDLP/DMA Options/CE09_Parent_User_Guide_for_Option_A.pdf" rel="noopener nofollow" target="_blank">Option A</a>
-<br><a href="/files/KC Experience/NDLP/DMA Options/CE10_Parent_User_Guide_for_Option_B_UPDATED.pdf" rel="noopener nofollow" target="_blank">Option B</a>
+</p>
+</li>
+<li>
+<p><a href="/files/KC Experience/NDLP/DMA Options/CE09_Parent_User_Guide_for_Option_A.pdf" rel="noopener nofollow" target="_blank">Option A</a>
+</p>
+</li>
+<li>
+<p><a href="/files/KC Experience/NDLP/DMA Options/CE10_Parent_User_Guide_for_Option_B_UPDATED.pdf" rel="noopener nofollow" target="_blank">Option B</a>
 <br>
 </p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width:100%" height="auto" width="100%" src="/images/KC%20Experience/NDLP/Slide4.png">
 </div>
