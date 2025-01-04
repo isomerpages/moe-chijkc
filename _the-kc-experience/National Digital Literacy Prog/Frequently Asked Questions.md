@@ -165,8 +165,8 @@ to arrange for the assessment, between 08 to 09 Jan 2025.
 <br>We highly recommend that the existing Chromebook should support the following:
 <br>
 <br>- 11.6 inch and above display [to avoid eyestrain]
-<br>- Intel N100 and above Processor [for sufficient speed]
-<br>- 8GB of RAM [for sufficient speed]
+<br>- Intel N100 and above Processor [for sufficient processing speed]
+<br>- 8GB of RAM [for quick access to computing resources]
 <br>- 64GB of Storage space
 <br>- Stylus support (Student will be required to annotate and draw on the
 PLD)
