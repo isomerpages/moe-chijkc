@@ -38,3 +38,7 @@ in with their personal Google account and follow the on-screen instructions.</p>
 </p>
 <p><strong>Note: This login option is only available for Option B Chromebooks.</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KC Experience/NDLP/Option_A_LS.png">
+</div>
+<p></p>
