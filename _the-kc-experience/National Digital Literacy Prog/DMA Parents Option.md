@@ -17,9 +17,10 @@ variant: tiptap
 <p><strong>Option A</strong>
 <br>For Parents who have chosen&nbsp;<strong>Option A</strong>, please refer
 to the <strong>DMA Parent Guide - Option A</strong> (Section 4, page 8 -
-11) to setup your LightSpeed account to access the parent portal.
-<br>
-</p>
+11) to setup your account to access the LightSpeed Parent Portal.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Option A" src="/images/KC Experience/NDLP/Option_A_LS.png">
+</div>
 <p><strong>Option B</strong>
 <br>During school hours, your child/ward is only able to sign in to their
 PLD using their Student iCON Account. The Student iCON account ends with
