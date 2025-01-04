@@ -17,7 +17,6 @@ variant: tiptap
 </li>
 <li>
 <p><a href="/files/KC Experience/NDLP/DMA Options/CE10_Parent_User_Guide_for_Option_B_UPDATED.pdf" rel="noopener nofollow" target="_blank">Option B</a>
-<br>
 </p>
 </li>
 </ul>
