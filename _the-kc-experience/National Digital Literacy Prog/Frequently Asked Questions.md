@@ -160,7 +160,7 @@ come with the necessary warranty and insurance as well. Parents who choose
 to opt out of this bulk purchase will be informed to have your child/ward
 bring the <strong>*</strong>existing device (<strong>*ONLY Chromebook is allowed</strong>)
 to school for suitability assessment. We will reach out to parents individually
-to arrange for the assessment, between 18 to 22 Jan.
+to arrange for the assessment, between 08 to 09 Jan 2025.
 <br>
 <br>We highly recommend that the existing Chromebook should support the following:
 <br>
