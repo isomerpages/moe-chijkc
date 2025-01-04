@@ -15,28 +15,26 @@ variant: tiptap
 <img style="width:100%" height="auto" width="100%" src="/images/KC%20Experience/NDLP/Slide4.png">
 </div>
 <p><strong>Option A</strong>
-<br>For Parents who have chosen&nbsp;<strong>Option A</strong>, when logging
-into the Mobile Guardian page, please&nbsp;<strong>do not</strong>&nbsp;use
-the Sign in with Google button, otherwise you will encounter an error.</p>
-<p>Log in using the email address you have provided and the password you
-have set during the onboarding of your account.</p>
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/MG login page.png">
-</div>
-<p><strong>Option B</strong>
+<br>For Parents who have chosen&nbsp;<strong>Option A</strong>, please refer
+to the <strong>DMA Parent Guide - Option A</strong> (Section 4, page 8 -
+11) to setup your LightSpeed account to access the parent portal.
 <br>
-<br>During&nbsp;<strong>school hours</strong>, the Chromebook only allows
-an iCON account to sign into the device. An iCON&nbsp; account is a student
-account that is an email address ending with&nbsp;<strong>@students.edu.sg</strong>&nbsp;</p>
-<p>To avoid activity logging, content filtering protection, and to enable
-the installation of Chrome&nbsp; applications/extensions, the child/ward
-should&nbsp;<strong>sign out of the iCON account after school hours / during holiday period</strong>.&nbsp;</p>
-<p><strong>After school hours</strong>, the login screen has an additional
-option to sign in as a <strong>guest user</strong>. Student can use their
-person Google Account and sign in. This will allow usage without the DMA
-restrictions.</p>
+</p>
+<p><strong>Option B</strong>
+<br>During school hours, your child/ward is only able to sign in to their
+PLD using their Student iCON Account. The Student iCON account ends with
+@<strong><a href="http://students.edu.sg" rel="noopener noreferrer nofollow" target="_blank">students.edu.sg</a></strong>
+</p>
+<p>After school hours, your child/ward will be able to sign out from their
+Student iCON account and sign in using a personal Google account.</p>
+<p>At the sign in page, your child/ward can use the “Add Person” to sign
+in with their personal Google account and follow the on-screen instructions.</p>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/KC%20Experience/NDLP/browse%20as%20guest.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KC Experience/NDLP/Option_B_LS.jpg">
 </div>
+<p>Please refer to the <strong>DMA Parent Guide - Option B</strong> (Section
+4, page 7 - 8) for details
+<br>
+</p>
 <p><strong>Note: This login option is only available for Option B Chromebooks.</strong>
 </p>
