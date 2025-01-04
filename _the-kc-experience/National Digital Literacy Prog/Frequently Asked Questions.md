@@ -188,9 +188,9 @@ daily and for learning after school, hence it might not be practical to
 share the device with their siblings.</p>
 <p>11 . <strong>What is DMA and how does it provide a safe learning experience for my child to prevent misuse of the device?</strong>
 <br>The DMA can:</p>
-<p>1 . Remotely deploy teaching and learning applications as well as security
+<p>a . Remotely deploy teaching and learning applications as well as security
 patches
-<br>2 . Restrict apps and websites accessibility, as well as screen time during
+<br>b . Restrict apps and websites accessibility, as well as screen time during
 specified hours</p>
 <p>There will be default setting on web content filtering decided by the
 school for students to focus on learning in a safe and conducive online
@@ -288,7 +288,6 @@ next day.</p>
 <p><strong>Warranty and Repair</strong>
 </p>
 <p>24 . <strong>If the device becomes faulty or requires change in parts, does the school do the repair or should students/parents resolve that themselves?</strong>
-<br>
 </p>
 <ul data-tight="true" class="tight">
 <li>
