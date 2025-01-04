@@ -6,12 +6,9 @@ third_nav_title: National Digital Literacy Prog
 variant: tiptap
 ---
 <h4>DMA Parents Option Guide for Chromebook</h4>
-<p><a href="/files/KC%20Experience/NDLP/DMA%20Options/dma%20parent%20guide%20-%20default%20option%20(aug%202023).pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide 1.1 - </a><strong><a href="/files/KC%20Experience/NDLP/DMA%20Options/dma%20parent%20guide%20-%20default%20option%20(aug%202023).pdf" rel="noopener noreferrer nofollow" target="_blank">Default</a></strong>
-<a href="/files/KC%20Experience/NDLP/DMA%20Options/dma%20parent%20guide%20-%20default%20option%20(aug%202023).pdf" rel="noopener noreferrer nofollow" target="_blank">Chrome OS.pdf</a>
-<br><a href="/files/KC%20Experience/NDLP/DMA%20Options/dma%20parent%20guide%20-%20option%20a%20(aug%202023).pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide v1.1 - </a><strong><a href="/files/KC%20Experience/NDLP/DMA%20Options/dma%20parent%20guide%20-%20option%20a%20(aug%202023).pdf" rel="noopener noreferrer nofollow" target="_blank">Option A</a></strong>
-<a href="/files/KC%20Experience/NDLP/DMA%20Options/dma%20parent%20guide%20-%20option%20a%20(aug%202023).pdf" rel="noopener noreferrer nofollow" target="_blank">Chrome OS.pdf</a>
-<br><a href="/files/KC%20Experience/NDLP/DMA%20Options/dma%20parent%20guide%20-%20option%20b%20(aug%202023).pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide v1.1 - </a><strong><a href="/files/KC%20Experience/NDLP/DMA%20Options/dma%20parent%20guide%20-%20option%20b%20(aug%202023).pdf" rel="noopener noreferrer nofollow" target="_blank">Option B</a></strong>
-<a href="/files/KC%20Experience/NDLP/DMA%20Options/dma%20parent%20guide%20-%20option%20b%20(aug%202023).pdf" rel="noopener noreferrer nofollow" target="_blank">Chrome OS.pdf</a>
+<p><a href="/files/KC Experience/NDLP/DMA Options/CE11_Parent_User_Guide_for_Default_Option.pdf" rel="noopener nofollow" target="_blank">DMA Parent Guide - </a><strong><a href="/files/KC Experience/NDLP/DMA Options/CE11_Parent_User_Guide_for_Default_Option.pdf" rel="noopener nofollow" target="_blank">Default Option</a></strong>
+<br><a href="/files/KC Experience/NDLP/DMA Options/CE09_Parent_User_Guide_for_Option_A.pdf" rel="noopener nofollow" target="_blank">DMA Parent Guide - </a><strong><a href="/files/KC Experience/NDLP/DMA Options/CE09_Parent_User_Guide_for_Option_A.pdf" rel="noopener nofollow" target="_blank">Option A</a></strong>
+<br><a href="/files/KC Experience/NDLP/DMA Options/CE10_Parent_User_Guide_for_Option_B_UPDATED.pdf" rel="noopener nofollow" target="_blank">DMA Parent Guide - </a><strong><a href="/files/KC Experience/NDLP/DMA Options/CE10_Parent_User_Guide_for_Option_B_UPDATED.pdf" rel="noopener nofollow" target="_blank">Option B</a></strong>
 <br>
 </p>
 <div class="isomer-image-wrapper">
