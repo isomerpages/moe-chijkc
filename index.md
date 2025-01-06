@@ -16,7 +16,7 @@ sections:
       subtitle: Add an image and text
       id: infopic
       button: Click for more info
-      url: https://www.chijkatongconvent.moe.edu.sg/media/announcements/chij-170th-anniversary-celebration/
+      url: https://www.chijkatongconvent.moe.edu.sg/2024-gce-o-level-results-release-matters/
       image: /images/Announcements/O_Level_Results_Release.jpg
       alt: Image alt text
   - infopic:
