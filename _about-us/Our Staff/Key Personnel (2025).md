@@ -145,7 +145,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mother Tongue Languages</strong> 
-<br>Mr Goh LiangZhuo</p>
+<br>Mr Goh Liangzhou</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
