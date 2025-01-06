@@ -56,7 +56,7 @@ variant: tiptap
 <p>RAM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8 GB of onboard LPDDR5X system memory</p>
+<p>8 GB of LPDDR5X system memory</p>
 </td>
 </tr>
 <tr>
@@ -72,8 +72,7 @@ variant: tiptap
 <p>Screen&nbsp;size</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12.2" WUXGA 1920 x 1200 Resolution LED-backlit TFT LCD with Integrated
-Multi-touch</p>
+<p>12.2" WUXGA LCD with Integrated Multi-touch</p>
 </td>
 </tr>
 <tr>
