@@ -56,7 +56,7 @@ variant: tiptap
 <p>RAM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8 GB of onboard LPDDR5X system memory</p>
+<p>8 GB LPDDR5X system memory</p>
 </td>
 </tr>
 <tr>
@@ -72,8 +72,7 @@ variant: tiptap
 <p>Screen&nbsp;size</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12.2" WUXGA 1920 x 1200 Resolution LED-backlit TFT LCD with Integrated
-Multi-touch</p>
+<p>12.2" WUXGA LCD with Integrated Multi-touch</p>
 </td>
 </tr>
 <tr>
@@ -159,8 +158,9 @@ learning experience for all. The PLD purchased through the school will
 come with the necessary warranty and insurance as well. Parents who choose
 to opt out of this bulk purchase will be informed to have your child/ward
 bring the <strong>*</strong>existing device (<strong>*ONLY Chromebook is allowed</strong>)
-to school for suitability assessment. We will reach out to parents individually
-to arrange for the assessment, between 08 to 09 Jan 2025.
+to school for suitability assessment. Parents can have their child/ward
+bring the existing Chromebook to school for an assessment on the suitability
+between <strong>8 to 10 Jan 2025</strong>.
 <br>
 <br>We highly recommend that the existing Chromebook should support the following:
 <br>

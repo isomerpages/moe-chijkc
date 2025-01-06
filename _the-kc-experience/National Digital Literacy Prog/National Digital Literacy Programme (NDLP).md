@@ -10,7 +10,7 @@ by equipping students with the digital literacies to be future-ready. Under
 the NDLP, MOE announced that every student will own a school-prescribed
 personal learning device (PLD) by end-2021.</p>
 <p>Please find the briefing slides on NDLP during the Sec One Parents Engagement
-held on&nbsp;06 Jan 2025 (to be released after the briefing)</p>
+held on&nbsp;06 Jan 2025 (<a href="/files/KC Experience/NDLP/KC_PLD_Briefing_to_Parents_050125v2_website.pdf" rel="noopener noreferrer nofollow" target="_blank">Briefing Slides</a>)</p>
 <h4>NDLP @ CHIJ Katong Convent</h4>
 <p>In alignment with our CHIJ Katong Convent’s desired graduate outcomes,
 we seek to leverage this PLD initiative to develop our students to be</p>

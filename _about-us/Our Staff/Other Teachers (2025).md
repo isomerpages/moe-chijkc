@@ -94,14 +94,6 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h4>Flexi-Adjunct Teachers</h4>
-</td>
-<td rowspan="1" colspan="1">
-<h4>Email</h4>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Chang Khang En</p>
 </td>
 <td rowspan="1" colspan="1">
