@@ -155,7 +155,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>School Staff Developer</strong> 
+<p><strong>PE &amp; CCA</strong>
+<br>Mr Chua Soon Heng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br><a href="mailto:chua_soon_heng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_soon_heng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>School Staff Developer</strong>
 <br>Mrs Daphne Toh</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -295,6 +306,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>
 <br><a href="mailto:ho_shi_an@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_shi_an@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Science</strong>
+<br>Mr Nicholas Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br><a href="mailto:lim_khai_ming_nicholas@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_khai_ming_nicholas@moe.edu.sg</a>
 </p>
 </td>
 </tr>
