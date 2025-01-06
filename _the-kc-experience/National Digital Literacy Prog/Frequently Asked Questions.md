@@ -158,8 +158,9 @@ learning experience for all. The PLD purchased through the school will
 come with the necessary warranty and insurance as well. Parents who choose
 to opt out of this bulk purchase will be informed to have your child/ward
 bring the <strong>*</strong>existing device (<strong>*ONLY Chromebook is allowed</strong>)
-to school for suitability assessment. We will reach out to parents individually
-to arrange for the assessment, between <strong>08 to 10 Jan 2025</strong>.
+to school for suitability assessment. Parents can have their child/ward
+bring the existing Chromebook to school for an assessment on the suitability
+between <strong>8 to 10 Jan 2025</strong>.
 <br>
 <br>We highly recommend that the existing Chromebook should support the following:
 <br>
