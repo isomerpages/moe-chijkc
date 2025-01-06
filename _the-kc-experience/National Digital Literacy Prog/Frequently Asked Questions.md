@@ -56,7 +56,7 @@ variant: tiptap
 <p>RAM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8 GB of LPDDR5X system memory</p>
+<p>8 GB LPDDR5X system memory</p>
 </td>
 </tr>
 <tr>
