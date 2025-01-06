@@ -12,26 +12,20 @@ sections:
       url: /media/announcements/
       title: A Convent by the Sea
   - infopic:
+      title: 2024 GCE O-Level Results Release Matters
+      subtitle: Add an image and text
+      id: infopic
+      button: Click for more info
+      url: https://www.chijkatongconvent.moe.edu.sg/media/announcements/chij-170th-anniversary-celebration/
+      image: /images/Announcements/O_Level_Results_Release.jpg
+      alt: Image alt text
+  - infopic:
       title: Information for Secondary 1 KC Students
       id: infopic
       image: /images/Announcements/Wait_is_over.jpg
       alt: https://go.gov.sg/kcsec1info
       url: https://go.gov.sg/kcsec1info
       button: Click here for more info
-  - infopic:
-      title: 2024 N Level Results Admin and Progress Briefing Slides
-      id: infopic
-      button: Click to download
-      url: https://www.chijkatongconvent.moe.edu.sg/files/Announcements/2024_N_level_results_admin_and_progression_briefing.pdf
-      image: /images/Announcements/N_Level_AP.jpg
-      alt: Image alt text
-  - infopic:
-      title: CHIJ 170th Anniversary Celebration
-      id: infopic
-      url: https://www.chijkatongconvent.moe.edu.sg/chij-170th-anniversary-celebration/
-      image: /images/Announcements/IJ170.jpg
-      alt: Welcome to KC
-      button: Click for more info
   - resources:
       title: Latest Updates
       button: More
