@@ -39,6 +39,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr John D Jegathesan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:d_jegathesan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">d_jegathesan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mrs Karen Jalleh</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -57,28 +66,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nurhana Achmad</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nurhana_achmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurhana_achmad@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Wu Hongqin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wu_hongqin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wu_hongqin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Zairina Mohd Zen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:zairina_mohamad_zen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zairina_mohamad_zen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
