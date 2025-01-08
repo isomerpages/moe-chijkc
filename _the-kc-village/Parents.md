@@ -135,25 +135,25 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="4">
-<p><strong>Semester I</strong>
+<p><strong>Semester I  </strong><em>(Updated on 08 Jan 2025 @ 1400hrs)</em>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/KC Village/Parents/TimeTables/Sec_1_2025_Sem_1_TT_7_Jan_1745_Class.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
+<p><a href="/files/KC Village/Parents/TimeTables/Sec_1___2025_Sem_1_TT_8_Jan_1400_Class.pdf" rel="noopener nofollow" target="_blank">Sec 1</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/KC Village/Parents/TimeTables/Sec_2_2025_Sem_1_TT_7_Jan_1745_Class.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>
+<p><a href="/files/KC Village/Parents/TimeTables/Sec_2___2025_Sem_1_TT_8_Jan_1400_Class.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/KC Village/Parents/TimeTables/Sec_3_2025_Sem_1_TT_7_Jan_1745_Class.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a>
+<p><a href="/files/KC Village/Parents/TimeTables/Sec_3___2025_Sem_1_TT_8_Jan_1400_Class.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/KC Village/Parents/TimeTables/Sec_4_5___2025_Sem_1_TT_7_Jan_1745_Class_4.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 &amp; 5</a>
+<p><a href="/files/KC Village/Parents/TimeTables/Sec_4_5___2025_Sem_1_TT_8_Jan_1400_Class.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5</a>
 </p>
 </td>
 </tr>
