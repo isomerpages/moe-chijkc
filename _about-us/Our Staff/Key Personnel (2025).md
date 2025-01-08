@@ -26,7 +26,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br><a href="mailto:chen_mei_chuen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_mei_chuen@schools.gov.sg</a>
+<br><a href="mailto:chen_mei_chuen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chen_mei_chuen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -37,7 +37,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br><a href="mailto:lim_ai_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_ai_hui@schools.gov.sg</a>
+<br><a href="mailto:lim_ai_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_ai_hui@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -48,7 +48,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br><a href="mailto:chia_siew_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chia_siew_hui@schools.gov.sg</a>
+<br><a href="mailto:chia_siew_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia_siew_hui@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -138,7 +138,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br><a href="mailto:lim_ai_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_ai_hui@schools.gov.sg</a>
+<br><a href="mailto:lim_ai_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_ai_hui@moe.edu.sg</a>
 </p>
 </td>
 </tr>
