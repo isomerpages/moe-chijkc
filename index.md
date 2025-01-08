@@ -13,7 +13,6 @@ sections:
       title: A Convent by the Sea
   - infopic:
       title: 2024 GCE O-Level Results Release Matters
-      subtitle: Add an image and text
       id: infopic
       button: Click for more info
       url: https://www.chijkatongconvent.moe.edu.sg/2024-gce-o-level-results-release-matters/
