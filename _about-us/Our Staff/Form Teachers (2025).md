@@ -433,7 +433,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_swee_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_swee_hong@moe.edu.sg</a>
-<br><a href="mailto:tan_siew_yean@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_siew_yean@schools.gov.sg</a>
+<br><a href="mailto:tan_siew_yean@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_siew_yean@moe.edu.sg</a>
 </p>
 </td>
 </tr>
