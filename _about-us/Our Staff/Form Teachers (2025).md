@@ -223,7 +223,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lie_ai_lian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lie_ai_lian@moe.edu.sg</a>
-<br><a href="mailto:siti_arfah_abdul_rahman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_arfah_abdul_rahman@schools.gov.sg</a>
+<br><a href="mailto:siti_arfah_abdul_rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_arfah_abdul_rahman@moe.edu.sg</a>
 </p>
 </td>
 </tr>
