@@ -141,20 +141,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/KC Village/Parents/TimeTables/Sec_1_2025_Sem_1_TT_7_Jan_1745_Class.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/KC Village/Parents/TimeTables/Sec_2_2025_Sem_1_TT_7_Jan_1745_Class.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/KC Village/Parents/TimeTables/Sec_3_2025_Sem_1_TT_7_Jan_1745_Class.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/KC Village/Parents/TimeTables/Sec_4_5___2025_Sem_1_TT_7_Jan_1745_Class_4.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 &amp; 5</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
