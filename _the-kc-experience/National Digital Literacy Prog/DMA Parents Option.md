@@ -20,18 +20,23 @@ variant: tiptap
 </p>
 </li>
 </ul>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/KC%20Experience/NDLP/Slide4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KC Experience/NDLP/LightSpeed_DMA_Parents_Option_Poster___Slide1.jpg">
 </div>
-<p><strong>Option A</strong>
-<br>For Parents who have chosen&nbsp;<strong>Option A</strong>, please refer
-to the <strong>DMA Parent Guide - Option A</strong> (Section 4, page 8 -
-11) to setup your account to access the LightSpeed Parent Portal.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KC Experience/NDLP/LightSpeed_DMA_Parents_Option_Poster___Slide2.jpg">
+</div>
+<h4><strong>Option A</strong></h4>
+<p>For Parents who have chosen&nbsp;Option A, please refer to the DMA Parent
+Guide - Option A (Section 4, page 8 - 11) to setup your account to access
+the LightSpeed Parent Portal.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Option A" src="/images/KC Experience/NDLP/Option_A_LS.png">
 </div>
-<p><strong>Option B</strong>
-<br>During school hours, your child/ward is only able to sign in to their
+<h4><strong>Option B</strong></h4>
+<p>During school hours, your child/ward is only able to sign in to their
 PLD using their Student iCON Account. The Student iCON account ends with
 @<strong><a href="http://students.edu.sg" rel="noopener noreferrer nofollow" target="_blank">students.edu.sg</a></strong>
 </p>
@@ -48,4 +53,5 @@ in with their personal Google account and follow the on-screen instructions.</p>
 </p>
 <p><strong>Note: This login option is only available for Option B Chromebooks.</strong>
 </p>
+<p></p>
 <p></p>
