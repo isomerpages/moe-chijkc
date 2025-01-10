@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h4><a href="/files/Announcements/2024_O_level_results_admin_and_progression_briefing_for_students.pdf" rel="noopener nofollow" target="_blank">2024 O level results Admin and Progression briefing for students</a></h4>
+<h4><strong><a href="/files/Announcements/2024_O_level_results_admin_and_progression_briefing_for_students.pdf" rel="noopener nofollow" target="_blank">2024 O-level results Admin and Progression briefing for students</a></strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/O_Level_Results_Release.jpg">
