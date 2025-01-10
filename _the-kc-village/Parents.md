@@ -110,7 +110,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="/files/KC Village/Parents/Sec_1_Parent_Engagement_slides_2025.pdf" rel="noopener nofollow" target="_blank">Parent Engagement Slides</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
@@ -135,7 +136,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="4">
-<p><strong>Semester I  </strong><em>(Updated on 08 Jan 2025 @ 1400hrs)</em>
+<p><strong>Semester I </strong><em>(Updated on 08 Jan 2025 @ 1400hrs)</em>
 </p>
 </td>
 </tr>
