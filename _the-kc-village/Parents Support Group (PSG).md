@@ -9,8 +9,8 @@ description: ""
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KC Village/PSG/PSG_banner.png">
 </div>
 <p><strong>About Us</strong>
-</p>
-<p>We are a group of dedicated parents who firmly believe in building a strong
+<br>
+<br>We are a group of dedicated parents who firmly believe in building a strong
 partnership with the school to enhance our girls’ learning experience.
 <br>We aim to serve with humility, compassion, selflessness and enthusiasm,
 and be a blessing to others through our volunteer works.
@@ -21,22 +21,38 @@ bonding experiences.</p>
 <p></p>
 <p><strong>Graduation Night 2024</strong>
 </p>
-<p></p>
-<p><strong>Book and Music Week 2024</strong>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Graduation Night 2024" src="/images/KC Village/PSG/Grad2024.jpg">
+</div>
+<p>
+<br><strong>Book and Music Week 2024</strong>
 </p>
-<p></p>
-<p><strong>Racial Harmony Day 2024</strong>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Book and Music Week 2024" src="/images/KC Village/PSG/BMW2024.jpg">
+</div>
+<p>
+<br><strong>Racial Harmony Day 2024</strong>
 </p>
-<p></p>
-<p><strong>Sports Day 2024</strong>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Racial Harmony Day 2024" src="/images/KC Village/PSG/RHD2024.jpg">
+</div>
+<p>
+<br><strong>Sports Day 2024</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sports Day 2024" src="/images/KC Village/PSG/SportsDay2024.jpg">
+</div>
 <p></p>
 <p><strong>Total Defence Day 2024</strong>
 </p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KC Village/PSG/PSG_Family.png">
+<img style="width: 100%" height="auto" width="100%" alt="Total Defence Day 2024" src="/images/KC Village/PSG/TDD2024.jpg">
+</div>
+<p>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="PSG Exco 2025" src="/images/KC Village/PSG/PSG_exco_pic.jpg">
 </div>
 <h4><strong>JOIN KC PSG!</strong></h4>
 <p>Join us in Parent Support Group (PSG) as we work together to create a
