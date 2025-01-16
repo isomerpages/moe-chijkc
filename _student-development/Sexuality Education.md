@@ -204,9 +204,9 @@ The completed form is to be submitted by 05/02/2025.</p>
 </li>
 <li>
 <p>Parents can contact the school at
-<br>- Ms Sandra Ezekiel at either 6448 6433 ext. 323 or via email (<a rel="noopener noreferrer nofollow" target="_blank">liew_pui_yen_sandra@moe.edu.sg</a>)
+<br>- Ms Sandra Ezekiel at either 6448 6433 ext. 323 or via email (<a href="mailto:liew_pui_yen_sandra@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liew_pui_yen_sandra@moe.edu.sg</a>)
 or
-<br>- Ms Cheryl Anne Lim at 64486433 ext. 138 or via email (<a rel="noopener noreferrer nofollow" target="_blank">lim_su_ying_cheryl@moe.edu.sg</a>)
+<br>- Ms Cheryl Anne Lim at 64486433 ext. 138 or via email (<a href="mailto:lim_su_ying_cheryl@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_su_ying_cheryl@moe.edu.sg</a>)
 for discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
 </li>
