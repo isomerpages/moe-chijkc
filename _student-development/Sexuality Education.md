@@ -94,7 +94,7 @@ be taught in 2025:</p>
 <p>Please see below for the schedule of the lessons from Sec 1 to 5.</p>
 <p>
 <br>
-<br><strong>At CHIJ KATONG CONVENT, the following Sexuality Education lessons will be taught in <u>2024</u>:</strong>
+<br>
 </p>
 </li>
 </ol>
