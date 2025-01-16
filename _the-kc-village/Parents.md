@@ -160,7 +160,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p><a href="/files/KC Village/Parents/TimeTables/2025_Sem_1_TT_2_Jan_1400_Afternoon_Lessons.pdf" rel="noopener noreferrer nofollow" target="_blank">Afternoon Lessons for Sec 3 &amp; 4</a>
+<p><a href="/files/KC Village/Parents/TimeTables/2025_Sem_1_TT_8_Jan_1400_Afternoon_Lessons.pdf" rel="noopener noreferrer nofollow" target="_blank">Afternoon Lessons for Sec 3 &amp; 4</a>
 </p>
 </td>
 </tr>
