@@ -5,5 +5,5 @@ description: ""
 variant: tiptap
 ---
 <p><strong><a href="/files/KC Experience/2025_CHIJ_Katong_Convent_Student_Journal__updated_.pdf" rel="noopener nofollow" target="_blank">e-Student Journal 2025</a></strong>
-</p><a class="isomer-image-wrapper" href="https://www.chijkatongconvent.moe.edu.sg/files/KC%20Experience/2025_CHIJ_Katong_Convent_Student_Journal_updated_.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/KC Experience/2025_KC_Journal_Cover.png"></a>
+</p><a class="isomer-image-wrapper" href="https://www.chijkatongconvent.moe.edu.sg/files/KC%20Experience/2025_CHIJ_Katong_Convent_Student_Journal__updated_.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/KC Experience/2025_KC_Journal_Cover.png"></a>
 <p></p>
