@@ -92,11 +92,11 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Sec 1</strong>
+<p><strong><a href="/files/KC Village/Parents/Sec_1_Parent_Engagement_slides_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 (06 Jan 2025)</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Sec 2</strong>
+<p><strong><a href="/files/KC Village/Parents/2025_Sec_2_Parent_Engagement.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 (20 Jan 2025)</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -106,21 +106,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Sec 4 &amp; 5</strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/KC Village/Parents/Sec_1_Parent_Engagement_slides_2025.pdf" rel="noopener nofollow" target="_blank">Parent Engagement Slides</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
 </td>
 </tr>
 </tbody>
