@@ -16,7 +16,7 @@ sections:
       id: infopic
       button: Click for more
       url: https://www.chijkatongconvent.moe.edu.sg/announcement-of-national-exam-results/
-      image: /images/ON_Results_Release_2025_16Jan.png
+      image: /images/2024_O_Level_Results.jpg
       alt: Image alt text
   - infopic:
       title: 2024 GCE O-Level Results Release Matters
