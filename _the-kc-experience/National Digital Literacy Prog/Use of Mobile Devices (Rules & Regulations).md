@@ -31,7 +31,7 @@ wish to contact their child <strong><u>for urgent reasons</u></strong>.</p>
 <p>Should mobile phones be heard, seen or used during school hours, the following
 consequences will be meted out.</p>
 <p>
-<br><strong>[Mobile phone will be confiscated by the school]</strong>
+<br><strong>Mobile phone will be confiscated by the school:</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
