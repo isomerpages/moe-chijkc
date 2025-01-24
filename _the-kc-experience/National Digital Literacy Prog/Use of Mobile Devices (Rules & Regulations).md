@@ -18,7 +18,7 @@ and foyer.</p>
 <p></p>
 </li>
 <li>
-<p>Students are <strong><u>NOT ALLOWED</u></strong> to use their mobile phones
+<p>Students are <strong><u>not allowed</u></strong> to use their mobile phones
 during school hours, including breaks and free periods.</p>
 <p></p>
 </li>
@@ -100,13 +100,13 @@ their valuables such as PLDs and mobile phones.
 </li>
 <li>
 <p>Smartwatches capable of communication, data storage, photo taking, photo
-storage and/or calculation are <strong><u>NOT ALLOWED</u></strong>.</p>
+storage and/or calculation are <strong><u>not allowed</u></strong>.</p>
 <p></p>
 </li>
 <li>
 <p>For weighted assessments and examinations (in line with the SEAB guidelines),
 any electronic device capable of scanning, storing or displaying visual
-and verbal information, including fitness trackers, is <strong><u>NOT ALLOWED</u></strong>.</p>
+and verbal information, including fitness trackers, is <strong><u>not allowed</u></strong>.</p>
 </li>
 </ol>
 <p></p>
