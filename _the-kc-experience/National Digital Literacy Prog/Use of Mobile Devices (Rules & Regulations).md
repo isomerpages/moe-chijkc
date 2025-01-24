@@ -83,7 +83,7 @@ consequences will be meted out.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>SIM card will be returned to the student. </strong>
+<p><strong>SIM card will be returned to the student.</strong>
 </p>
 <p></p>
 </li>
