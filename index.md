@@ -12,6 +12,13 @@ sections:
       url: /media/announcements/
       title: A Convent by the Sea
   - infopic:
+      title: Announcement of National Exam Results
+      id: infopic
+      button: Click for more
+      url: https://www.chijkatongconvent.moe.edu.sg/announcement-of-national-exam-results/
+      image: /images/ON_Results_Release_2025_16Jan.png
+      alt: Image alt text
+  - infopic:
       title: 2024 GCE O-Level Results Release Matters
       id: infopic
       button: Click for more info
