@@ -120,11 +120,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/KC Village/Parents/Principal_s_Address_2025_Sec_3_Parent_Engagement.pdf" rel="noopener nofollow" target="_blank">Principal's Address Parent Engagement</a>
+<p><a href="/files/KC Village/Parents/Principal_s_Address_2025_Sec_3_Parent_Engagement.pdf" rel="noopener nofollow" target="_blank">Principal's Address</a>
 </p>
 </li>
 <li>
-<p><a href="/files/KC Village/Parents/2025_Sec_3_Parent_Engagement_YH_Talk.pdf" rel="noopener nofollow" target="_blank">Parent Engagement Year Head Talk</a>
+<p><a href="/files/KC Village/Parents/2025_Sec_3_Parent_Engagement_YH_Talk.pdf" rel="noopener nofollow" target="_blank">Year Head Talk</a>
 </p>
 </li>
 <li>
