@@ -92,11 +92,11 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/KC Village/Parents/Sec_1_Parent_Engagement_slides_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 (06 Jan 2025)</a></strong>
+<p><strong>Sec 1</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/KC Village/Parents/2025_Sec_2_Parent_Engagement.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 (20 Jan 2025)</a></strong>
+<p><strong>Sec 2</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -110,16 +110,31 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/KC Village/Parents/Sec_1_Parent_Engagement_slides_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 (06 Jan 2025)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/KC Village/Parents/2025_Sec_2_Parent_Engagement.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 (20 Jan 2025)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/KC Village/Parents/Principal_s_Address_2025_Sec_3_Parent_Engagement.pdf" rel="noopener nofollow" target="_blank">Principal's Address 2025 Sec 3 Parent Engagement</a>
+</p>
+</li>
+<li>
+<p><a href="/files/KC Village/Parents/2025_Sec_3_Parent_Engagement_YH_Talk.pdf" rel="noopener nofollow" target="_blank">2025 Sec 3 Parent Engagement Year Head Talk</a>
+</p>
+</li>
+<li>
+<p><a href="/files/KC Village/Parents/School_Counsellor_Talk_Supporting_Your_Child_s_Well_being.pdf" rel="noopener nofollow" target="_blank">School Counsellor Talk Supporting Your Child’s Well-being</a>
+</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>NIL</p>
 </td>
 </tr>
 </tbody>
