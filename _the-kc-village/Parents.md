@@ -134,7 +134,8 @@ variant: tiptap
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>NIL</p>
+<p><a href="/files/KC Village/Parents/Grad_cohort_Parent_Engagement_slides_2025.pdf" rel="noopener nofollow" target="_blank">10 Feb 2025</a>
+</p>
 </td>
 </tr>
 </tbody>
