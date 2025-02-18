@@ -45,5 +45,13 @@ Education Sunday mass as part of the choir, hospitality and lector teams.</p>
 <p>
 <br><strong>Chapel Mass</strong>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KC Experience/Spirituality/Chapel_Mass.jpg">
+</div>
+<p>
+<br><strong>CSL Easter Celebration 2024 (with parents and members of the Young Christian Movement)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KC Experience/Spirituality/CSL_Easter_Celebration.jpg">
+</div>
 <p></p>
