@@ -193,7 +193,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/KC Village/Parents/Weighted Assessment/Sec_1_Weighted_Assessment_1_Schedule_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec</a><a href="/files/Sec_1_Weighted_Assessment_2_Schedule_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"> </a><a href="/files/KC Village/Parents/Weighted Assessment/Sec_1_Weighted_Assessment_1_Schedule_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">1</a></strong>
+<p><strong><a href="https://staging-lite.dlh16h7u34kup.amplifyapp.com/files/Sec_1_Weighted_Assessment_2_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Sec 1</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -205,8 +205,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/Sec_4_Weighted_Assessment_2_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5</a></strong>
-</p>
+<p>Sec 4 &amp; 5</p>
 </td>
 </tr>
 <tr>
