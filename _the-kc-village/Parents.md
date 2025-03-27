@@ -201,7 +201,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Sec_3_Weighted_Assessment_2_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>
+<p><a href="/files/KC Village/Parents/Weighted Assessment/Sec_3_Weighted_Assessment_2_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
