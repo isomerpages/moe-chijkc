@@ -193,18 +193,18 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/KC Village/Parents/Weighted Assessment/Sec_1_Weighted_Assessment_2_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Sec 1</a></strong>
+<p><a href="/files/KC Village/Parents/Weighted Assessment/Sec_1_Weighted_Assessment_2_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Sec 1</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/Sec_3_Weighted_Assessment_2_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Sec 3</a></strong>
+<p><a href="/files/Sec_3_Weighted_Assessment_2_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/KC Village/Parents/Weighted Assessment/Sec_4_Weighted_Assessment_2_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5</a></strong>
+<p><a href="/files/KC Village/Parents/Weighted Assessment/Sec_4_Weighted_Assessment_2_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5</a>
 </p>
 </td>
 </tr>
