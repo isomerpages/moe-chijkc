@@ -197,7 +197,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/KC Village/Parents/Weighted Assessment/Sec_2_Weighted_Assessment_2_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Sec_3_Weighted_Assessment_2_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>
@@ -268,4 +269,5 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p></p>
+<p><a href="/files/KC Village/Parents/Weighted Assessment/Sec_2_Weighted_Assessment_2_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
+</p>
