@@ -269,5 +269,3 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p><a href="/files/KC Village/Parents/Weighted Assessment/Sec_2_Weighted_Assessment_2_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
-</p>
