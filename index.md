@@ -25,13 +25,6 @@ sections:
       url: https://www.chijkatongconvent.moe.edu.sg/2024-gce-o-level-results-release-matters/
       image: /images/Announcements/O_Level_Results_Release.jpg
       alt: Image alt text
-  - infopic:
-      title: Information for Secondary 1 KC Students
-      id: infopic
-      image: /images/Announcements/Wait_is_over.jpg
-      alt: https://go.gov.sg/kcsec1info
-      url: https://go.gov.sg/kcsec1info
-      button: Click here for more info
   - resources:
       title: Latest Updates
       button: More
