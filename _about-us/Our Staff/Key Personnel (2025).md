@@ -267,6 +267,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Assistant Year Head</strong> 
+<br>Ms Nor Sharina Abd Majid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br><a href="mailto:nor_sharina_abd_majid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nor_sharina_abd_majid@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>English</strong>  <strong>(covering)</strong>
 <br>Ms Lee Jiak Peng Audrey</p>
 </td>
