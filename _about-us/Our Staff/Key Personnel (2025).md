@@ -267,7 +267,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head</strong> 
+<p><strong>Assistant Year Head</strong>  <strong>(Covering)</strong>
 <br>Ms Nor Sharina Abd Majid</p>
 </td>
 <td rowspan="1" colspan="1">
