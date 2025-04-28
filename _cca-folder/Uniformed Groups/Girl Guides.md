@@ -28,49 +28,44 @@ freedom and love.</p>
 <p>Advocacy Projects</p>
 </li>
 <li>
-<p>Annual 3-day-2-night Camp</p>
+<p>Annual Camps</p>
 </li>
 <li>
-<p>Annual Cookie Project</p>
-</li>
-<li>
-<p>Badge Work</p>
+<p>Annual Cookie Projects</p>
 </li>
 <li>
 <p>Campfires</p>
 </li>
 <li>
-<p>East Division Day</p>
+<p>East Division Fests</p>
 </li>
 <li>
-<p>International Guides Camps</p>
+<p>Enrichment Programmes – Gymnastics (2016, 2022), Aikido (2019), 1-Star
+Kayaking (2023), Rockclimbing (2024)</p>
 </li>
 <li>
-<p>Introductory Enrichment Programmes – Gymnastics (2016, 2022), Aikido (2019)</p>
+<p>Interest and Proficiency Badge Work</p>
+</li>
+<li>
+<p>International GIRL Adventure Camps</p>
 </li>
 <li>
 <p>Kim’s Games</p>
 </li>
 <li>
-<p>National Day Observance Ceremony</p>
+<p>National Day Observance Ceremonies</p>
 </li>
 <li>
 <p>Nature Hikes</p>
 </li>
 <li>
-<p>Outdoor Cooking</p>
+<p>Outdoor Cooking Sessions</p>
 </li>
 <li>
-<p>Overseas Girl Guides trips and camps</p>
+<p>Patrol Leader Training Courses</p>
 </li>
 <li>
-<p>Patrol Leader Training Course</p>
-</li>
-<li>
-<p>Service Learning&nbsp;</p>
-</li>
-<li>
-<p>Skill Sharing – International Friendship Day, East Division Learning Day</p>
+<p>Service Learning (Play Inclusive 2022-2024)</p>
 </li>
 <li>
 <p>Wide Games</p>
@@ -79,7 +74,39 @@ freedom and love.</p>
 <p>World Thinking Day Celebrations</p>
 </li>
 </ul>
-<h4>Achievements (Last 3 years)</h4>
+<h4>Achievements (Last 5 years)</h4>
+<p><strong>2025</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>East Division Recycled Fashion Competition - 2nd</p>
+</li>
+<li>
+<p>East Division Snack Making Competition - 3rd</p>
+</li>
+<li>
+<p>East Division Dance Competition - 3rd</p>
+</li>
+<li>
+<p>East Division Advocacy Booth Competition - Merit</p>
+</li>
+</ul>
+<p><strong>2024</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Baden Powell Award (Sophia Catherine Capel)</p>
+</li>
+<li>
+<p>Palm Leaf Award (Ms Audrey Lee)</p>
+</li>
+<li>
+<p>GIRL Adventure (Maldives)</p>
+</li>
+<li>
+<p>GIRL Adventure (Iceland)</p>
+</li>
+</ul>
 <p><strong>2023</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -93,7 +120,7 @@ freedom and love.</p>
 <p>East Division Day Skit Competition - Merit</p>
 </li>
 <li>
-<p>Baden Powell Award (Joanna Teo and Marissa-Faith Heng)</p>
+<p>Baden Powell Award (Joanna Gabrielle Teo and Marissa-Faith Heng)</p>
 </li>
 </ul>
 <p><strong>2022</strong>
@@ -106,10 +133,10 @@ freedom and love.</p>
 <p>Baden Powell Award (Natalie Tham)</p>
 </li>
 <li>
-<p>East Division Day Toymaking Competition - Silver</p>
+<p>East Division Day Toymaking Competition - 2nd</p>
 </li>
 <li>
-<p>East Division Day Mixed Media Art - Bronze</p>
+<p>East Division Day Mixed Media Art - 3rd</p>
 </li>
 <li>
 <p>She Can! - International Camp (organised by Girl Guides Singapore)</p>
@@ -122,16 +149,16 @@ freedom and love.</p>
 <p>Puan Noor Aishah Gold Award</p>
 </li>
 <li>
-<p>East Division Day Diorama Competition - Bronze&nbsp;</p>
+<p>East Division Day Diorama Competition - 3rd</p>
 </li>
 <li>
-<p>East Division Day Eco-Friendly Recycled Fashion Competition - Bronze&nbsp;</p>
+<p>East Division Day Eco-Friendly Recycled Fashion Competition - 3rd</p>
 </li>
 <li>
 <p>East Division Day Video Making Competition - Merit</p>
 </li>
 <li>
-<p>East Division Learning Day Sign Language Escape Room Competition - Silver</p>
+<p>East Division Learning Day Sign Language Escape Room Competition - 2nd</p>
 </li>
 </ul>
 <p></p>
