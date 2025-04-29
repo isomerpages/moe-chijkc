@@ -113,14 +113,9 @@ media.</p>
 </tr>
 </tbody>
 </table>
-<h4>Selection Criteria &amp; Process</h4>
-<p><a href="/files/Admissions/Direct School Admissions (DSA)/2024_DSA_Criteria_and_Selection_Process_xlsx___Website_Version.pdf" rel="noopener noreferrer nofollow" target="_blank">Refer to this link for the selection criteria and process</a>
-</p>
 <h4>Application Procedure</h4>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be open from Tue, 07 May to
-Mon, 03 Jun 2024, 3 pm. For more details, please refer to MOE website –
-<a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">DSA-Sec</a>.</p>
+For more details, please refer to MOE website – <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">DSA-Sec</a>.</p>
 <p>Parents and students are encouraged to choose schools wisely based on
 the student’s aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop
