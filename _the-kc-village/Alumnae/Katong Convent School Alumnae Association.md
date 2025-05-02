@@ -53,7 +53,7 @@ school award)</p>
 athlete in the school who excels in ability, effort, attendance, sportsmanship
 and leadership. (For Sec and Pri schools)</p>
 <div class="iframe-wrapper">
-<iframe height="839" width="1440" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSSNQleRJkVAAXs95Ipnls6ACIlrClzwZiHuBendo9MNczxjwqbkGFRXSl2gZcVOcRcugDEziVClxzS/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="950" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSSNQleRJkVAAXs95Ipnls6ACIlrClzwZiHuBendo9MNczxjwqbkGFRXSl2gZcVOcRcugDEziVClxzS/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4>Enquiries</h4>
 <p>If you have any queries regarding KCSAA, please contact them at&nbsp;
