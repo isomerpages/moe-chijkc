@@ -16,6 +16,9 @@ dynamic and vibrant community at KC.</p>
 <br>4 . Visual Arts, Design and Media
 <br>
 </p>
+<p>Applicants who do not have prior experience may also apply. The school
+will assess applicants based on the selection criteria, which may include
+assessing the potential of the applicants.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
