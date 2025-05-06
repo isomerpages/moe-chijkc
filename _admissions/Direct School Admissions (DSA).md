@@ -114,16 +114,15 @@ media.</p>
 </tbody>
 </table>
 <h4>Application Procedure</h4>
-<p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-For more details, please refer to MOE website – <a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener noreferrer nofollow" target="_blank">DSA-Sec</a>.</p>
-<p>Parents and students are encouraged to choose schools wisely based on
-the student’s aptitudes and strengths, bearing in mind the schools’ academic
-and non-academic requirements, and the programmes available to develop
-the area of talent.</p>
-<h4>Contact Details</h4>
-<p><strong>SH PE &amp; CCA</strong>
+<p>Application for DSA-Sec can be submitted through the DSA-Sec Portal (please
+refer to the <strong><a href="https://www.moe.gov.sg/secondary/dsa" rel="noopener nofollow" target="_blank">MOE website DSA-Sec</a></strong>).
+The application is open <strong>from 11am on Wednesday, 7 May 2025 to 3pm on Tuesday, 3 June 2025</strong>.
+Please refer to the application page under <strong><a href="https://www.moe.gov.sg/secondary/dsa/application" rel="noopener nofollow" target="_blank">Direct School Admission (DSA-Sec): Apply</a><u>.</u></strong>
 </p>
-<p>Mr Ho Shi An
-<br>Tel: 6448 6433 Ext 140
-<br>Email:&nbsp;<a href="mailto:ho_shi_an@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_shi_an@moe.edu.sg</a>
+<h4>Contact Details</h4>
+<p>DSA School Co-Ordinator</p>
+<p>&nbsp;Mr Chua Soon Heng
+<br>Tel: 6448 6433
+<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">chua_soon_heng@moe.edu.sg</a> 
+<br><em>(Please include in email subject as </em><strong><em>2025 DSA CHIJ KC_&lt;talent area&gt;</em></strong><em>)</em>
 </p>
