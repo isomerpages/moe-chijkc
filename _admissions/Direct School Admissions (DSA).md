@@ -8,11 +8,9 @@ variant: tiptap
 6 to apply for admission into KC via the Direct School Admission (DSA)
 Exercise.</p>
 <p>We are looking for girls with special talents who will contribute to the
-dynamic and vibrant community at KC.</p>
-<p>You are eligible to apply if you have special talent or ability in:
+dynamic and vibrant community at KC.
 <br>
-</p>
-<p>
+<br>You are eligible to apply if you have special talent or ability in:
 <br>
 <br>Please click on the Main DSA Category to access the respective Talent
 Area for the Criteria and Selection<strong>*</strong>.</p>
