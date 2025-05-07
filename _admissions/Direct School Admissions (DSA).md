@@ -14,10 +14,13 @@ dynamic and vibrant community at KC.
 <br>
 <br>Please click on the Main DSA Category to access the respective Talent
 Area for the Criteria and Selection<strong>*</strong>.</p>
-<p>1 . Performing Arts; or
-<br>2 . Sports and Games; or
-<br>3 . Language and Humanities; or
-<br>4 . Visual Arts, Design and Media
+<p>1 . <a href="/files/Admissions/Direct School Admissions (DSA)/Performing_Arts.pdf" rel="noopener noreferrer nofollow" target="_blank">Performing Arts</a>;
+or
+<br>2 . <a href="/files/Admissions/Direct School Admissions (DSA)/Sports_and_Games.pdf" rel="noopener noreferrer nofollow" target="_blank">Sports and Games</a>;
+or
+<br>3 . <a href="/files/Admissions/Direct School Admissions (DSA)/Language_and_Humanities.pdf" rel="noopener noreferrer nofollow" target="_blank">Language and Humanities</a>;
+or
+<br>4 . <a href="/files/Admissions/Direct School Admissions (DSA)/Visual_Arts__Design_and_Media.pdf" rel="noopener noreferrer nofollow" target="_blank">Visual Arts, Design and Media</a> 
 <br>
 </p>
 <p>Applicants who do not have prior experience may also apply. The school
