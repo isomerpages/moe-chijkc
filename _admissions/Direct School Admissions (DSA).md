@@ -9,12 +9,12 @@ variant: tiptap
 Exercise.</p>
 <p>We are looking for girls with special talents who will contribute to the
 dynamic and vibrant community at KC.
-<br>
 <br>You are eligible to apply if you have special talent or ability in:
 <br>
 <br>Please click on the Main DSA Category to access the respective Talent
-Area for the Criteria and Selection<strong>*</strong>.</p>
-<p>1 . <a href="/files/Admissions/Direct School Admissions (DSA)/Performing_Arts.pdf" rel="noopener noreferrer nofollow" target="_blank">Performing Arts</a>;
+Area for the Criteria and Selection<strong>*</strong>.
+<br>
+<br>1 . <a href="/files/Admissions/Direct School Admissions (DSA)/Performing_Arts.pdf" rel="noopener noreferrer nofollow" target="_blank">Performing Arts</a>;
 or
 <br>2 . <a href="/files/Admissions/Direct School Admissions (DSA)/Sports_and_Games.pdf" rel="noopener noreferrer nofollow" target="_blank">Sports and Games</a>;
 or
