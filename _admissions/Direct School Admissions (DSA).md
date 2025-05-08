@@ -9,7 +9,6 @@ variant: tiptap
 Exercise.</p>
 <p>We are looking for girls with special talents who will contribute to the
 dynamic and vibrant community at KC.
-<br>You are eligible to apply if you have special talent or ability in:
 <br>
 <br>Please click on the Main DSA Category to access the respective Talent
 Area for the Criteria and Selection<strong>*</strong>.
@@ -137,7 +136,9 @@ the area of talent.</p>
 <p>Students who are successfully admitted to the school via DSA are required
 to honour their commitment to the school and participate in the activities
 related to the talent they are selected for throughout their years in the
-school.</p>
+school.
+<br>
+<br>All applicants will receive their application outcomes between <strong>25 Aug and 4 Sep 2025</strong>.</p>
 <h4>Contact Details</h4>
 <p>DSA School Co-Ordinator</p>
 <p>&nbsp;Mr Chua Soon Heng
