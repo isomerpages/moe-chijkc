@@ -8,108 +8,52 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" src="/images/CCA/KC%20DEBATE.png">
 </div>
-<h4>Objectives</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>To challenge students to think critically about world issues, gain knowledge
-about world organisations and strengthen their general knowledge.</p>
-</li>
-<li>
-<p>To sharpen speaking skills and ability to think on the spot.</p>
-</li>
-</ul>
-<h4>Programme (Lower Sec)</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Students will learn the basics of debate through friendly sparring with
-their peers and with students from other schools.</p>
-</li>
-<li>
-<p>Students will learn, explore and discuss current affairs from a wide range
-of topics as international law, sciences, economics and human rights.</p>
-</li>
-<li>
-<p>Students will also be given opportunities to participate and represent
-the school in competitions.</p>
-</li>
-</ul>
-<h4>Programme (Upper Sec)</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Students will hone their debating skills by mentoring their juniors, debating
-through friendly spars with their peers and with students from other schools.</p>
-</li>
-<li>
-<p>Students will research and present their findings on a wide range of topics
-as international law, sciences, economics and human rights.</p>
-</li>
-<li>
-<p>Students will organize and facilitate CCA activities such as CCA fair
-and the BMW debate</p>
-</li>
-<li>
-<p>Students will be given opportunities to participate and represent the
-school in competitions.</p>
-</li>
-</ul>
-<h4>Achievements (last 3 years)</h4>
-<p><strong>2023</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Debate Association Debating Championships - 2nd placing in the Silver
-Division</p>
-</li>
-<li>
-<p>Megan Teh &amp; Katkar Toshaja Santosh - 2nd Best Speaker
-<br>
-<br>Participation in the following competitions:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Eunoia Debating Championships</p>
-</li>
-<li>
-<p>Dunman High Debate Open</p>
-</li>
-<li>
-<p>RI U-14s Debating Championship</p>
-</li>
-<li>
-<p>Singapore Secondary Schools Debating Championships</p>
-</li>
-<li>
-<p>Mid Year Debate Invitationals (MIDs)</p>
-</li>
-<li>
-<p>Lasallian Debate League</p>
-</li>
-</ul>
-</li>
-</ul>
-<p><strong>2022</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Debate Association Debating Championships 2022 – 1st runner up</p>
-</li>
-<li>
-<p>Singapore Secondary Schools Debating Championships 2022 – Quarter Finalists</p>
-</li>
-</ul>
-<p><strong>2020</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>National Schools Online Debating Championships 2020 – Champions</p>
-</li>
-<li>
-<p>Thoburn Cup 2020 – Best Speaker</p>
-</li>
-<li>
-<p>National Schools Online Debating Championships 2020</p>
-</li>
-<li>
+<h4><strong>Objectives</strong></h4>
+<p>The Chinese Orchestra programme seeks to promote Chinese culture and cultivate
+a deep appreciation for music within the Katong Convent community. At the
+same time, it strives to create a nurturing and inclusive environment where
+members can forge strong bonds and develop a strong sense of team spirit
+through shared musical experiences.</p>
 <p></p>
+<h4><strong>Programme</strong></h4>
+<p>The Chinese Orchestra programme aims to develop students’ instrumental
+mastery and deepen their understanding of the skills and knowledge essential
+to Chinese Orchestra. Students will have opportunities to learn and perform
+new music pieces for a variety of internal and external platforms, while
+also cultivating an appreciation for stage presentation, concert etiquette,
+and rehearsal awareness.&nbsp;</p>
+<p>As part of their musical journey, students may choose to sit for grading
+examinations conducted by established and accredited music exam boards,
+allowing them to challenge themselves and pursue higher levels of mastery
+in line with their personal goals. Throughout the programme, emphasis is
+placed on music appreciation, expression, and application, encouraging
+students to grow as well-rounded musicians.&nbsp;</p>
+<p>Beyond musical development, students will plan and carry out Values-in-Action
+(VIA) initiatives that highlight the role of music in community service.
+Senior members also serve as mentors, guiding their juniors and fostering
+a shared sense of purpose and pride in using music to give back to the
+community.</p>
+<p></p>
+<p><strong>Achievements</strong> (Last 3 years)</p>
+<p><strong>2025</strong>
+</p>
+<ul>
+<li>
+<p>Singapore Youth Festival Arts Presentation- Certificate of Accomplishment</p>
+</li>
+</ul>
+<p><strong>2024:</strong>
+</p>
+<ul>
+<li>
+<p>Performance at Marine Parade Dumpling Festival</p>
+</li>
+</ul>
+<p><strong>2023:</strong>
+</p>
+<ul>
+<li>
+<p>Singapore Youth Festival Arts Presentation- Certificate of Accomplishment</p>
 </li>
 </ul>
 <p></p>
