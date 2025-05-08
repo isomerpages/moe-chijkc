@@ -300,17 +300,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mathematics (covering)</strong>
-<br>Ms Pamela K Samales</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br><a href="pamela_samales@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pamela_samales@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Physical Education/ CCA</strong> 
 <br>Mr Ho Shi An</p>
 </td>
