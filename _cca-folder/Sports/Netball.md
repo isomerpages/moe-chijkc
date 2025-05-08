@@ -68,17 +68,37 @@ our students, we raise the overall level of competency and competitiveness
 of our KC netball team
 <br>
 </p>
-<h4>Achievements (Last 3 years)</h4>
-<p><strong>PARTICIPATION</strong>
+<p><strong>Achievements (Last 3 years)</strong>
+<br>
+<br><strong>PARTICIPATION</strong>
 </p>
+<p><strong>2025</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Daisy Tan Carnival</p>
+</li>
+</ul>
 <p><strong>2024</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>National School Games Netball Championships B Division Girls (East Zone)</p>
 </li>
+<li>
+<p>National School Games C Division Netball (Pool C)</p>
+</li>
+<li>
+<p>Changkat Changi Secondary School Netball Carnival (4<sup>th</sup> Place)</p>
+</li>
+<li>
+<p>The Netball Academy Netball Carnival</p>
+</li>
+<li>
+<p>Deloitte Peska Sukan&nbsp;</p>
+</li>
 </ul>
-<p><strong>2023</strong> 
+<p><strong>2023</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -104,7 +124,7 @@ of our KC netball team
 <p>Netball Singapore Year End Carnival</p>
 </li>
 </ul>
-<p><strong>2021</strong> 
+<p><strong>2021</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
