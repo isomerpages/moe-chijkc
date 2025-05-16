@@ -5,64 +5,27 @@ description: ""
 third_nav_title: Departments
 variant: tiptap
 ---
-<h4>Goals</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>To develop passion for Mathematics in our students and see its relevance
-with their surroundings.</p>
-</li>
-<li>
-<p>To unlock their potential to be innovative problem solvers and lifelong
-learners</p>
-</li>
-</ul>
-<h4>Lower Sec Programme</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Build a firm foundation in Mathematics through learning experiences that
-enhances conceptual understanding through the use of various mathematical
-tools including ICT tools.</p>
-</li>
-<li>
-<p>Apply concept and skills learnt in real-world context.</p>
-</li>
-<li>
-<p>Communicate reasoning and connections in mathematical language.</p>
-</li>
-</ul>
-<h4>Upper Sec Programme</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Formulate mathematical model(s) for a complex real-world problem, solve
-it using appropriate mathematical concepts, and check their solutions and
-assumptions.</p>
-</li>
-<li>
-<p>Application of problem solving and reasoning skills in authentic contexts</p>
-</li>
-</ul>
-<h4>Signature Programmes</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>Singapore Mathematics Olympiad</p>
-</li>
-<li>
-<p>Mathematics Trail</p>
-</li>
-<li>
-<p>Mathematical Modelling Activities</p>
-</li>
-<li>
-<p>Sec 1 Math Bites</p>
-</li>
-</ul>
-<h4>Sec 3 Mathematical Modelling Task</h4>
+<p>The Mathematics Programme seeks to foster interest in Mathematics and
+develop thinking, reasoning, communication, modelling and metacognitive
+skills through mathematical problem solving. The understanding of big ideas
+in Mathematics brings about greater coherence and connections across different
+topics, strands and levels. Real-world applications and technology integration
+help students to see mathematics as a powerful tool for understanding and
+solving authentic problems.</p>
+<p><strong>Lower Secondary Programme</strong>
+</p>
+<p>The Lower Secondary Programme builds a strong mathematical foundation
+via engaging learning experiences in number sense, algebraic manipulation,
+geometry and data handling. Through cohort-wide mathematical challenges
+and competitions, students develop resilience and confidence while discovering
+the joy of mathematical problem solving.</p>
+<p><strong>Upper Secondary Programme</strong>
+</p>
+<p>The Upper Secondary Programme extends and deepens mathematical knowledge
+in algebra, geometry and statistics through key learning experiences that
+emphasize analytical thinking, precision, and the application of mathematics
+to real-world contexts, laying a strong foundation for post-secondary education.</p>
 <div class="iframe-wrapper">
-<iframe height="450" width="735" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS75Zlkd8jZhvidO5wpIXkB1gAQ1vSjdtHZaDphWZ6sWrEdTbw0Ng3yAvgADNWm5jbTevDhAoPeqw23/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRiAEROimyPez0NnFdylepvi_yS9kpuqhPGnU-bSUfpDvbydylvev211EEz6Y1zGQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<h4>Math Trail at Gardens by the Bay</h4>
-<div class="iframe-wrapper">
-<iframe height="450" width="735" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSeKRRKMZnzeicrTuUAwVsj1EA_k9CyjAxEhJhjZXCXWgLQfRr9mkPdYLDfM_-UwMWkxPy3pAWLyu1s/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
-<h4></h4>
 <p></p>
