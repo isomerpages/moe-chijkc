@@ -37,8 +37,7 @@ the LightSpeed Parent Portal.</p>
 </div>
 <h4><strong>Option B</strong></h4>
 <p>During school hours, your child/ward is only able to sign in to their
-PLD using their Student iCON Account. The Student iCON account ends with
-@<strong><a href="http://students.edu.sg" rel="noopener noreferrer nofollow" target="_blank">students.edu.sg</a></strong>
+PLD using their Student iCON Account. The Student iCON account ends with <strong>@students.edu.sg</strong>
 </p>
 <p>After school hours, your child/ward will be able to sign out from their
 Student iCON account and sign in using a personal Google account.</p>
