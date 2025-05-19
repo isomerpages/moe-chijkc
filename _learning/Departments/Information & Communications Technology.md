@@ -6,12 +6,20 @@ third_nav_title: Departments
 variant: tiptap
 ---
 <h4>Goals</h4>
-<p>1 . Harness Technology for Curriculum, Pedagogy and Assessment to develop
+<ol data-tight="true" class="tight">
+<li>
+<p>Harness Technology for Curriculum, Pedagogy and Assessment to develop
 Future-Ready&nbsp;Learners</p>
-<p>2 . Support Professional Learning with Technology to develop Teachers
-as Designers and Facilitators&nbsp;of Technology-mediated Learning Experiences</p>
-<p>3 . Creating Conducive Learning Environments that support Personalised
-and Seamless Learning</p>
+</li>
+<li>
+<p>Support Professional Learning with Technology to develop Teachers as Designers
+and Facilitators&nbsp;of Technology-mediated Learning Experiences</p>
+</li>
+<li>
+<p>Creating Conducive Learning Environments that support Personalised and
+Seamless Learning</p>
+</li>
+</ol>
 <div class="isomer-image-wrapper">
 <img style="width:49%" height="auto" width="100%" src="/images/ICT Dept 1.jpg">
 </div>
