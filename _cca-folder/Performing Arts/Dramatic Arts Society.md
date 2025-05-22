@@ -6,7 +6,7 @@ third_nav_title: Performing Arts
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="585" width="735" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQzWDsiqDm8Itdvh3vFBj5yQd6M9Ld5v7okk1f2sC33rzMCVaCOOnboW1o34mckOUgog_GY91u-HNKd/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="580" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQzWDsiqDm8Itdvh3vFBj5yQd6M9Ld5v7okk1f2sC33rzMCVaCOOnboW1o34mckOUgog_GY91u-HNKd/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4>Objectives</h4>
 <ul data-tight="true" class="tight">
