@@ -6,7 +6,7 @@ third_nav_title: Sports
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="569" width="946" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR6EBxm8YXyDYE0zSwT1LG9eaFt0e4LetGhTv-Ezpm57k6SbID0d_5oWRQmeb2TwQ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="569" width="946" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR6EBxm8YXyDYE0zSwT1LG9eaFt0e4LetGhTv-Ezpm57k6SbID0d_5oWRQmeb2TwQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4>Objectives</h4>
 <ul data-tight="true" class="tight">
