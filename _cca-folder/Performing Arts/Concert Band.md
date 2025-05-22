@@ -20,6 +20,11 @@ ensemble (2017-2023) categories.</p>
 <p>The band also performed at the Esplanade Concert Hall as part of the Limelight
 series, and the SOTA concert hall as part of Schools in Concert series,
 showcasing their growth and commitment to musical excellence.</p>
+<p>In 2025, the Concert Band welcomed new conductors, Mr. Er Wee San and
+Dr. Leslie Wong. Under the dynamic leadership of our new conductors, the
+band has experienced a renewed sense of purpose and an unwavering commitment
+to musical excellence. The band continues to uphold its tradition of excellence
+while embracing new challenges and opportunities under their tutelage.</p>
 <p>In the recent Singapore Youth Festival (SYF) Arts presentation 2025, the
 CHIJ Katong Convent Concert Band made a historic return to the full Band
 category and was awarded a Certificate of <strong>Distinction</strong>.
