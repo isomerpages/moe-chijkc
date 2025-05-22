@@ -6,7 +6,7 @@ third_nav_title: Performing Arts
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="450" width="735" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT59IGT6Cvnykxb-LJT_No6uhaMiWCaBbJY216bHMDvftBjZ3-zmAg3zaa1Z95--ZJXFeBaMaTZvOmw/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="569" width="947" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR7mo3Ild4et6WFXpdVPHBegpKxjCPbUlQT37kFBQ5K_tI01BJlDczPh9-I4MnsIA/pubembed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <h4><strong><u>Introduction</u></strong></h4>
 <p>Established in 2010, the CHIJ Katong Convent Concert Band is a young and
