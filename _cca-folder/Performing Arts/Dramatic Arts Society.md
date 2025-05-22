@@ -6,7 +6,7 @@ third_nav_title: Performing Arts
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="585" width="735" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQzWDsiqDm8Itdvh3vFBj5yQd6M9Ld5v7okk1f2sC33rzMCVaCOOnboW1o34mckOUgog_GY91u-HNKd/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="580" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQzWDsiqDm8Itdvh3vFBj5yQd6M9Ld5v7okk1f2sC33rzMCVaCOOnboW1o34mckOUgog_GY91u-HNKd/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4>Objectives</h4>
 <ul data-tight="true" class="tight">
@@ -29,11 +29,11 @@ members of all levels.</p>
 <p>To build leadership and management skills of committee members.</p>
 </li>
 <li>
-<p>To instill the KC values in all members and develop them according to
-the KC Graduate Profile.</p>
+<p>To instil the KC values in all members and develop them according to the
+KC Graduate Profile.</p>
 </li>
 <li>
-<p>To instill discipline, a sense of responsibility and a humble disposition
+<p>To instil discipline, a sense of responsibility and a humble disposition
 in all members.</p>
 </li>
 </ul>
