@@ -2,21 +2,44 @@
 title: Principal's Message
 permalink: /about-us/pm/
 description: ""
+variant: tiptap
 ---
-As the second oldest IJ school in Singapore, Katong Convent (KC) has provided a holistic education for generations of girls and produced many illustrious alumnae. Today, KC continues to be guided by our founder, Blessed Nicolas Barré’s philosophy that every child is unique and has God-given talents. The school vision of **_A Caring School that Excels_** captures our desire to build a school community where every student feels a sense of belonging, is nurtured to develop her talents, and is inspired to be a lifelong learner. 
-
-Fitting of our heritage as a Convent by the Sea, the PIER values of <b><u>P</u></b>erseverance, <b><u>I</u></b>ntegrity, <b><u>E</u></b>xcellence, <b><u>R</u></b>espect, and Christian principles are inculcated in KC girls. Just like a pier serves as a docking place for ships, the PIER values and Christian principles anchor and guide KC girls as they navigate life with confidence and optimism. 
-
-<img src="/images/prinmsg.jpg" style="width:55%" align=right>
-
-KC girls’ learning experiences are also greatly enriched by our niche in the Communicative, Performing and Visual Arts. An education infused with arts experiences can bring about positive outcomes in students’ academic, social and emotional learning, and school programmes, such as our signature Book and Music Week, present all students with opportunities to be involved with the arts. 
-
-Other members of our KC Family include staff, CHIJ Board members, parents, alumnae and partners. Together, we care for the students and work to support their growth so that every KC girl is developed to be a Woman of Purpose, ready to take her place in the world as a Compassionate Servant Leader, Innovative Problem Solver, Effective Communicator, and Discerning Citizen of the World. 
-
-  
-
-  
-Mrs Tan Mei Chuen
-
-  
-Principal
+<p>As the second oldest IJ school in Singapore, Katong Convent (KC) has a
+rich heritage of nurturing generations of women who have gone on to make
+meaningful contributions to society. Guided by the philosophy of our founder,
+Blessed Nicolas Barré, we believe that every child is uniquely gifted and
+precious in the eyes of God. This belief continues to shape our mission
+of providing a holistic and values-driven education that develops each
+girl to her fullest potential.</p>
+<p>Our school vision, <em>A Caring School that Excels</em>, reflects our deep
+commitment to cultivating a safe and inclusive environment—one where every
+student is known, loved, and supported. We strive to build a community
+where every KC girl experiences a strong sense of belonging, is empowered
+to develop her God-given talents, and is inspired to be a lifelong learner
+with the courage and curiosity to embrace the future.</p>
+<p>True to our identity as a Convent by the Sea, the PIER values—<strong><u>P</u></strong>erseverance, <strong><u>I</u></strong>ntegrity, <strong><u>E</u></strong>xcellence,
+and <strong><u>R</u></strong>espect—together with the IJ values of Truth,
+Justice, Freedom and Love, form the moral compass that grounds and guides
+our students. Just as a pier provides a place of stability and support,
+these values anchor our girls as they navigate the complexities of life
+with grace, confidence, and optimism.</p>
+<div class="isomer-image-wrapper">
+<img style="width:55%" height="auto" width="100%" src="/images/prinmsg.jpg">
+</div>
+<p>In a rapidly evolving world, we are committed to equipping our students
+with 21st-century competencies that go beyond academic excellence. Through
+diverse learning experiences—particularly in our niche of <strong>Communicative, Performing, and Visual Arts</strong>—KC
+girls develop essential skills such as creativity, critical thinking, collaboration,
+and empathy. Signature programmes like <em>Book and Music Week</em> offer
+platforms for expression, connection, and joy, enriching the girls’ learning
+and development.</p>
+<p>At the heart of our success is the strong and unwavering support of the
+KC Family—our dedicated staff, CHIJ Board members, parents, alumnae, and
+community partners. It is through this partnership that we create a nurturing
+ecosystem where our students are encouraged, supported, and celebrated.</p>
+<p>Together, we work to shape every KC girl into a <strong>Woman of Purpose</strong>—a <strong>Compassionate Servant Leader</strong>,
+an <strong>Innovative Problem Solver</strong>, an <strong>Effective Communicator</strong>,
+and a <strong>Discerning Citizen of the World</strong>, ready to lead with
+heart and serve with conviction.&nbsp;</p>
+<p>Mrs Tan Mei Chuen</p>
+<p>Principal</p>
