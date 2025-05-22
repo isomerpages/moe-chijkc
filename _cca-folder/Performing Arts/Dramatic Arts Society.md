@@ -29,11 +29,11 @@ members of all levels.</p>
 <p>To build leadership and management skills of committee members.</p>
 </li>
 <li>
-<p>To instill the KC values in all members and develop them according to
-the KC Graduate Profile.</p>
+<p>To instil the KC values in all members and develop them according to the
+KC Graduate Profile.</p>
 </li>
 <li>
-<p>To instill discipline, a sense of responsibility and a humble disposition
+<p>To instil discipline, a sense of responsibility and a humble disposition
 in all members.</p>
 </li>
 </ul>
