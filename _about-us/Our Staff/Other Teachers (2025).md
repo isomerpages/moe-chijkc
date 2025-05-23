@@ -79,7 +79,7 @@ variant: tiptap
 <p>Mr Chang Khang En</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chang_khang_en@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chang_khang_en@moe.edu.sg</a>
+<p><a href="mailto:chang_khang_en_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chang_khang_en_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
