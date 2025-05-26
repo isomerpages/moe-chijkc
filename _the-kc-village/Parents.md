@@ -111,12 +111,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="/files/KC Village/Parents/Sec_1_Parent_Engagement_slides_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">06 Jan 2025</a>
 </p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/KC Village/Parents/2025_Sec_2_Parent_Engagement.pdf" rel="noopener noreferrer nofollow" target="_blank">20 Jan 2025</a>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/KC Village/Parents/CHIJ_KC_Subject_Options_Webinar_2025_Slides_for_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">20 Jan 2025</a>
 </p>
+</li>
+<li>
+<p><a href="/files/KC Village/Parents/CHIJ_KC_Subject_Options_Webinar_2025_Slides_for_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Subject Options Webinar 2025 slides</a>
+</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -135,8 +147,12 @@ variant: tiptap
 </ul>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p><a href="/files/KC Village/Parents/Grad_cohort_Parent_Engagement_slides_2025.pdf" rel="noopener nofollow" target="_blank">10 Feb 2025</a>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
