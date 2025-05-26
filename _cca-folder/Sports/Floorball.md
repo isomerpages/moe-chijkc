@@ -8,20 +8,64 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="450" width="735" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR5b22qWiWytaY9vbQeDBfIdtJGP_LLRB4wRF-EGQ1M314hEamdwWroAmcBfqBf-j34yOJiaVTkSqsg/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-<h4>Objectives</h4>
-<ul data-tight="true" class="tight">
+<h4><strong>Objectives</strong></h4>
+<p>Character Development</p>
+<ul>
 <li>
-<p>To inculcate good sportsmanship and team spirit.</p>
+<p>Foster good sportsmanship and team spirit among players</p>
 </li>
 <li>
-<p>To give every player an opportunity to represent school in floorball matches.</p>
+<p>Develop essential soft skills including:</p>
+<ul>
+<li>
+<p>Independent thinking</p>
 </li>
 <li>
-<p>To develop each child holistically in soft skills such as, independent
-thinking, teamwork and care for others.</p>
+<p>Teamwork capabilities</p>
 </li>
 <li>
-<p>To win the National School Games (B Division Girls and C Division Girls)</p>
+<p>Care and consideration for others</p>
+</li>
+</ul>
+</li>
+</ul>
+<p>Participation and Opportunities</p>
+<ul>
+<li>
+<p>Ensure all players get chances to represent the school in matches</p>
+</li>
+<li>
+<p>Create opportunities for leadership roles within the team</p>
+</li>
+<li>
+<p>Enable participation in various floorball competitions to build student
+portfolios</p>
+</li>
+</ul>
+<p>Performance Goals</p>
+<ul>
+<li>
+<p>Achieve success in National School Games competitions</p>
+<ul>
+<li>
+<p>B Division Girls category</p>
+</li>
+<li>
+<p>C Division Girls category</p>
+</li>
+</ul>
+</li>
+</ul>
+<p>Development Approach</p>
+<ul>
+<li>
+<p>Focus on holistic development of each student</p>
+</li>
+<li>
+<p>Balance competitive success with personal growth</p>
+</li>
+<li>
+<p>Provide leadership opportunities through both school and team appointments</p>
 </li>
 </ul>
 <h4>Programme</h4>
@@ -32,12 +76,14 @@ thinking, teamwork and care for others.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>Month</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Activity</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -78,7 +124,7 @@ thinking, teamwork and care for others.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>June - September</strong>
+<p><strong>May - September</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -91,7 +137,10 @@ thinking, teamwork and care for others.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Friendly matches with other secondary schools and&nbsp;Junior Colleges</p>
+<p>SG Floorball Open
+<br>PESTA sukan floorball competition
+<br>Storvretacupen Floorball Cup
+<br>Friendly matches with other secondary schools and&nbsp;Junior Colleges</p>
 </td>
 </tr>
 <tr>
@@ -105,34 +154,39 @@ thinking, teamwork and care for others.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>October - November</strong>
+<p><strong>October - December</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Floorball holiday training
+<p>SFA youth floorball league
+<br>SFA Div 3 league
+<br>Floorball holiday training
 <br>Floorball camp
 <br>KC Floorball Challenge</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
-<h4>Achievements</h4>
+<h4><strong>Achievements</strong></h4>
+<p><strong>2025</strong>
+</p>
+<ul>
+<li>
+<p>3rd runner up National School Games floorball championships 2025 girls
+C division</p>
+</li>
+</ul>
+<p></p>
 <p><strong>2024</strong>
 </p>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
-<p>1st runner up NSG floorball championships girls C division</p>
+<p>1st runner up National School Games floorball championships 2024 girls
+C division</p>
 </li>
 <li>
-<p>2nd runner up NSG floorball championships girls B division</p>
+<p>2nd runner up National School Games floorball championships 2024 girls
+B division</p>
 </li>
 <li>
 <p>1st runner up PESTA SUKAN floorball championship girls under-17</p>
@@ -140,50 +194,65 @@ thinking, teamwork and care for others.</p>
 <li>
 <p>2nd runner up PESTA SUKAN floorball championships girls under-14</p>
 </li>
+<li>
+<p>2nd runner up Singapore Youth Floorball League 2023/24 u-16 girls</p>
+</li>
 </ul>
+<p>
+<br>
+</p>
+<p><strong>2023</strong>
+</p>
+<ul>
+<li>
+<p>2nd runner up National School Games Floorball 2023 C Division Girls</p>
+</li>
+<li>
+<p>Champion PESTA Sukan Floorball 2023 u-14GIrls</p>
+</li>
+<li>
+<p>1st Runner Up SG Open Floorball 2023 u-15 Girls&nbsp;</p>
+</li>
+<li>
+<p>1st Runner up Storvretacupen Singapore 2023 Floorball u-16 Girls</p>
+</li>
+<li>
+<p>Champion Storvretacupen Singapore 2023 Floorball u-14 Girls</p>
+</li>
+</ul>
+<p></p>
 <p><strong>2022</strong>
 </p>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
-<p>National School Games Floorball Championships (B Division) – Top 16</p>
+<p>Top 16 National School Games Floorball Championships B Division Girls</p>
 </li>
 <li>
-<p>National School Games Floorball Championships (C Division) – 3rd Position</p>
+<p>2nd runner up National School Games Floorball 2022 C Division Girls</p>
 </li>
 <li>
-<p>SG Floorball Open 2022 (U15) – 3rd Position</p>
+<p>2nd Runner Up SG Floorball Open 2022 U15-Girls</p>
 </li>
 <li>
-<p>Pesta Sukan U14 – 1st Position</p>
+<p>Champion Pesta Sukan Floorball U14 Girls&nbsp;</p>
+<p></p>
 </li>
 </ul>
-<p><strong>2019:</strong>
+<p><strong>Individual Achievement</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Top 5 in SG Floorball Open 2019 (Pro Women Category)</p>
-</li>
-<li>
-<p>Top 8 in National School Games Floorball Championship 2019 (B Division
-Girls)</p>
-</li>
-<li>
-<p>Top 6 in National School Games Floorball Championship 2019 (C Division
-Girls)</p>
-</li>
-</ul>
-<p><strong>2018:</strong>
+<p>Charmaine Liew&nbsp; - Sports Girls of the Year and Minnie D'rozario Sports
+Award 2020
+<br>Ning Isabella Pung - Sports Girls of the Year and Minnie D'rozario Sports
+Award 2021
+<br>Davinia Ericka Rajandhran -<strong> </strong>Sister Dierdre O’Loan Award
+2021
+<br>Yasmin Hannah Bte Mohd Hardi - Sports Girls of the Year and Minnie D'rozario
+Sports Award 2022
+<br>Megan Tsu Sze Yin - Sports Girls of the Year and Minnie D'rozario Sports
+Award 2023
+<br>Dewi Tiara&nbsp; Bte Fadzli - Sports Girls of the Year and Minnie D'rozario
+Sports Award 2024
+<br>Ma Paula Liann Fabroa Falsado – Blessed Barre Award 2024</p>
+<p>
+<br>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Top 4 in National C Division Floorball Championships 2018</p>
-</li>
-<li>
-<p>Top 12 in National B Division Floorball Championships 2018</p>
-</li>
-<li>
-<p>Top 4 in Tampines Floorball Cup 2018 under 17 girls</p>
-</li>
-</ul>
-<p>Follow us on Instagram at&nbsp;<a href="https://www.instagram.com/kcinnebandy/" rel="noopener noreferrer nofollow" target="_blank">https://www.instagram.com/kcinnebandy/</a>&nbsp;for&nbsp;more
-floorball action.</p>
