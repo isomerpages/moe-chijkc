@@ -2,26 +2,66 @@
 title: Education & Career Guidance (ECG)
 permalink: /student-development/ecg/
 description: ""
+variant: tiptap
 ---
-The Education and Career Guidance (ECG) programme at CHIJ Katong Convent centres on exposure and experience in order to link the secondary school experience with post-secondary school experiences as well as the world of work.
-
-The programmes offered in Katong Convent are:
-
-*   ECG lessons conducted during curriculum time
-*   Visits to selected post-secondary educational institutions, eg. polytechnics and ITEs
-*   Talks by representatives from institutes of higher learning
-*   Career seminar for graduating cohort
-*   Applied Learning Modules at Polytechnics (ApLM@Poly)
-*   ITE’s Applied Learning Modules (ApLM@ITE)
-*   Education Fair in term 1
-*   Training on interview skills and writing of portfolios
-*   Preparation for EAE and DSA
-*   Work attachment opportunities during non-covid period
-
-Some activities are planned for a whole level and some are voluntary. Students will be informed of available opportunities ahead of time.
-
-Over the 2-year lower secondary and 2-year upper secondary segments of schooling, each student will receive bite-sized ECG information which will progressively inform them about the different pathways open to them and prepare them to make sound decisions about their future.
-
-Here at CHIJ Katong Convent, we aim to give you the best possible head-start to students’ personal development, post-secondary & future career preparation. We endeavour to ensure that students’ ECG experience will enable them to make informed decisions about their combination of subjects as they move from lower to upper secondary, and available post-secondary options.
-
-Students who would like to explore more about their post-secondary options, or find out more about their career interests, strengths and passions can make an appointment to have a chat with the school’s MOE-ECG counsellor, Ms Kate Choo at [Kate_Choo_Huey_Xuan@schools.gov.sg](mailto:kate_choo_huey_xuan@schools.gov.sg) to ask questions or request for an appointment.
+<p>The Education and Career Guidance (ECG) programme at CHIJ Katong Convent
+focuses on providing students with exposure and experiential learning opportunities
+to bridge their secondary school journey with post-secondary education
+and the world of work.</p>
+<p>Over the course of the two-year lower secondary and two-year upper secondary
+education, students will receive bite-sized ECG information designed to
+progressively guide them in exploring various pathways and preparing them
+to make well-informed decisions regarding their futures.</p>
+<p>The ECG programmes offered include:</p>
+<ul>
+<li>
+<p>ECG topics integrated into Character and Citizenship Education lessons;</p>
+</li>
+<li>
+<p>Visits to selected post-secondary institutions, such as polytechnics and
+Institute of Technical Education (ITE);</p>
+</li>
+<li>
+<p>Talks by representatives from institutes of higher learning;</p>
+</li>
+<li>
+<p>An Education Fair and Career Seminar for the graduating cohort in Semester
+1;</p>
+</li>
+<li>
+<p>Applied Learning Modules at Polytechnics (ApLM@Poly);</p>
+</li>
+<li>
+<p>Applied Learning Modules at ITE (ApLM@ITE);</p>
+</li>
+<li>
+<p>Training sessions on interview techniques and portfolio writing;</p>
+</li>
+<li>
+<p>Preparation support for Early Admissions Exercise (EAE) and Direct School
+Admission (DSA).</p>
+</li>
+</ul>
+<p>Some activities are organised for entire cohorts, while others are offered
+on a voluntary basis, depending on students’ interests. Students will be
+informed of the available opportunities in advance.</p>
+<p>Students who wish to explore their post-secondary pathways further, or
+who seek guidance regarding their career interests, strengths, and passions,
+are encouraged to arrange a consultation with the school’s MOE-ECG Counsellor,
+Ms Sherry Long, by contacting her at <a href="mailto:long_ai_sin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>long_ai_sin@schools.gov.sg</u></a> or
+scanning this QR code:</p>
+<p></p>
+<p><em>Figure 1 Sharing by NAFA during Education Fair for graduating cohort</em>
+</p>
+<p>
+<br>
+</p>
+<p></p>
+<p><em>Figure 2 Sharing by KC Alumni during Education Fair for graduating cohort</em>
+</p>
+<p></p>
+<p><em>Figure 2 Sharing by KC Alumni during Career Seminar for graduating cohort</em>
+</p>
+<p>
+<br>
+</p>
