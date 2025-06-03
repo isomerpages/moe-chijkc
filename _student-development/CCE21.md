@@ -64,6 +64,9 @@ taught and applied in the following Curriculum Content Areas:</p>
 </li>
 </ul>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Student Development/Screenshot_2025_06_03_110027.png">
+</div>
 <p><em>Figure 1 CCE Curriculum Content</em>
 </p>
 <p>There are several learning platforms where CCE is enacted with intentionality.
@@ -72,14 +75,16 @@ Experiences (SDEs) beyond the classroom such as during school events and
 programmes, school-based initiatives, teachable moments during other subject
 lessons, and learning opportunities beyond school.</p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Screenshot_2025_06_03_110037.png">
+</div>
 <p><em>Figure 2 Learning about cyber kindness through Cyberwellness Assembly Programme</em>
 </p>
 <p>You may click&nbsp;<strong><a href="https://www.moe.gov.sg/-/media/files/secondary/syllabuses/cce/2021-character-and-citizenship-education-syllabus-secondary.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong>&nbsp;for
 more information on MOE’s CCE syllabus.</p>
 <p>
-<br>
-</p>
-<p><strong>Underpinned by IJ and KC Values</strong>
+<br><strong>Underpinned by IJ and KC Values</strong>
 </p>
 <p>At CHIJ Katong Convent, the school's core values of <em>Perseverance, Integrity, Excellence and Resilience</em> form
 the essential foundation upon which our students aspire to fulfil the vision
@@ -92,24 +97,20 @@ love.</p>
 outcomes of education but also aims to equip our students with critical
 21st-century skills, ensuring they are well-prepared to navigate an increasingly
 complex and interconnected world as responsible and impactful citizens.</p>
-<p>
-<br>
-</p>
-<p>&nbsp;</p>
-<p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Screenshot_2025_06_03_110049.png">
+</div>
 <p><em>Figure 3 Undergirded by IJ and KC values</em>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Screenshot_2025_06_03_110106.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Screenshot_2025_06_03_110115.png">
+</div>
 <p><em>Figure 4 &amp; 5 The Effective Communicator – Communicating through the arts and about the arts in KC.</em>
 </p>
 <p>
