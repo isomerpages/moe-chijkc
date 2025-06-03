@@ -20,11 +20,15 @@ partner or beneficiary and then follow on to plan and implement VIA activities
 to meet those needs. Such student-initiated activities allow students to
 hone leadership and organisational skills, in addition to developing them
 to be compassionate servant leaders.</p>
-<p>
-<br>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Screenshot_2025_06_03_104912.png">
+</div>
 <p>Figure 1 Hosting visitors from GoodLife! during CNY celebrations</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Screenshot_2025_06_03_104926.png">
+</div>
 <p><em>Figure 2 The Compassionate Servant Leader - Serving others by collecting clothes and donating to needy families</em>
 </p>
 <p>
