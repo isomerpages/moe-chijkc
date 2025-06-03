@@ -51,16 +51,26 @@ are encouraged to arrange a consultation with the school’s MOE-ECG Counsellor,
 Ms Sherry Long, by contacting her at <a href="mailto:long_ai_sin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>long_ai_sin@schools.gov.sg</u></a> or
 scanning this QR code:</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 15%;" height="auto" width="100%" alt="" src="/images/Student Development/Screenshot_2025_06_03_105349.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Screenshot_2025_06_03_105402.png">
+</div>
 <p><em>Figure 1 Sharing by NAFA during Education Fair for graduating cohort</em>
 </p>
-<p>
-<br>
-</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Screenshot_2025_06_03_105410.png">
+</div>
 <p><em>Figure 2 Sharing by KC Alumni during Education Fair for graduating cohort</em>
 </p>
 <p></p>
-<p><em>Figure 2 Sharing by KC Alumni during Career Seminar for graduating cohort</em>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Screenshot_2025_06_03_105419.png">
+</div>
+<p><em>Figure 3 Sharing by KC Alumni during Career Seminar for graduating cohort</em>
 </p>
 <p>
 <br>
