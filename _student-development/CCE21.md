@@ -93,7 +93,7 @@ problem solvers, discerning citizens of the world, and effective communicators.
 In living out the school’s mission, each KC Graduate is called to uphold
 and promote the enduring IJ principles of truth, justice, freedom, and
 love.</p>
-<p>This holistic framework (Figure 2) not only seeks to achieve MOE’s desired
+<p>This holistic framework (Figure 3) not only seeks to achieve MOE’s desired
 outcomes of education but also aims to equip our students with critical
 21st-century skills, ensuring they are well-prepared to navigate an increasingly
 complex and interconnected world as responsible and impactful citizens.</p>
