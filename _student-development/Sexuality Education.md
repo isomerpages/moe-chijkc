@@ -4,9 +4,7 @@ permalink: /student-development/sex-ed/
 description: ""
 variant: tiptap
 ---
-<h4><strong>MOE SEXUALITY EDUCATION IN SCHOOLS</strong></h4>
-<ol data-tight="true" class="tight">
-<li>
+<h4><strong>Moe Sexuality Education In Schools</strong></h4>
 <p>Sexuality Education (SEd) in schools aims to enable students to understand
 the physiological, social and emotional changes they experience as they
 mature, develop healthy and rewarding relationships with others, including
@@ -17,13 +15,7 @@ marriages and stable nuclear family units with extended family support.
 The teaching and learning of SEd is based on respect for the values and
 beliefs of the different ethnic and religious communities in Singapore
 on sexuality issues.</p>
-</li>
-</ol>
-<p></p>
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p>The <strong>Goals</strong> of Sexuality Education are to:</p>
-<p></p>
+<p>The&nbsp;<strong>Goals</strong>&nbsp;of Sexuality Education are to:</p>
 <p>(a) Support students in managing their physiological, social and emotional
 changes as they grow up and develop safe and healthy relationships
 <br>(b) Guide students to make wise, informed and responsible decisions on
@@ -31,13 +23,7 @@ sexuality matters.
 <br>(c) Help students develop a moral compass and respect for themselves and
 others by having positive mainstream values and attitudes about sexuality
 that are premised on the family as the basic unit of society.</p>
-</li>
-</ol>
-<p></p>
-<ol start="3" data-tight="true" class="tight">
-<li>
-<p>The <strong>Key Messages</strong> of Sexuality Education are:</p>
-<p></p>
+<p>The&nbsp;<strong>Key Messages</strong>&nbsp;of Sexuality Education are:</p>
 <p>(a) Love and respect yourself as you love and respect others;
 <br>(b)&nbsp;Build positive relationships based on love and respect (which
 are the foundation for strong families);
@@ -47,29 +33,22 @@ and
 and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p>
-<br>You may click <strong><a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> for
+<br>You may click&nbsp;<strong><a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong>&nbsp;for
 more information on MOE Sexuality Education.</p>
-</li>
-</ol>
-<h4><strong>OVERVIEW OF CHIJ KATONG CONVENT’s SEXUALITY EDUCATION PROGRAMME FOR 2025</strong></h4>
-<ol start="4" data-tight="true" class="tight">
-<li>
+<p><strong>Overview Of CHIJ Katong Convent’s Sexuality Education Programme For 2025</strong>
+</p>
 <p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
-Sexual Behaviour, and, Culture, Society and Law. You may click <strong><a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> for
+Sexual Behaviour, and, Culture, Society and Law.&nbsp;</p>
+<p>You may click&nbsp;<strong><a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong>&nbsp;for
 more information on the scope of Sexuality Education in the school curriculum.</p>
-<p></p>
-</li>
-<li>
 <p>The subjects that incorporate topics on sexuality include:
 <br>a. Science
 <br>b. Character and Citizenship Education (CCE)</p>
-</li>
-</ol>
-<h4><strong>Sexuality Education Lessons:</strong></h4>
-<ol start="6" data-tight="true" class="tight">
-<li>
+<p></p>
+<p><strong>Sexuality Education Lessons:</strong>
+</p>
 <p>The values and attitudes of our youth towards sexuality are increasingly
 shaped by their peers, exposure to the media, popular culture and the internet.
 Adolescence is a complex stage in life as the adolescent attempts to find
@@ -84,9 +63,6 @@ ability to act responsibly. Given the pressures faced by the middle adolescent
 from within themselves and from peers, it is important to build a strong
 sense of self-worth, personal conviction and an understanding of the possible
 consequences of sexual behaviour.</p>
-<p></p>
-</li>
-<li>
 <p>Through the Sexuality Education lessons, secondary students will have
 the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
@@ -96,31 +72,23 @@ issues related to sexuality, which are of prime concern at this age.
 be taught in 2025:
 <br>Please see below for the schedule of the lessons from Sec 1 to 5.</p>
 <p>
-<br><strong>Download the</strong>  <strong><a href="/files/Student Development/Sexuality Education/Sec_1_to_5_Sexuality_Education_Lesson_Schedule_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 to 5 Sexuality Education Lesson Schedule 2025</a></strong>
+<br><strong>Download the</strong>&nbsp;<strong><a href="https://www.chijkatongconvent.moe.edu.sg/files/Student%20Development/Sexuality%20Education/Sec_1_to_5_Sexuality_Education_Lesson_Schedule_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Sec 1 to 5 Sexuality Education Lesson Schedule 2025</u></a></strong>
 </p>
-</li>
-</ol>
-<h4><strong><em><u>eTeens</u></em><u> Programme</u></strong>:</h4>
-<ol start="8" data-tight="true" class="tight">
-<li>
-<p><em>eTeens</em> is a programme developed by Health Promotion Board, in
-collaboration with the Ministry of Education, to provide Secondary 3 students
-with accurate information on STIs, HIV and protection from a health perspective. <em>eTeens</em> is
-conducted in two segments – a mass talk segment and a classroom-based programme.
-The desired outcome of the <em>eTeens</em> programme is that students are
-empowered to make wise, informed and sensible decisions.
-<br>
-</p>
-</li>
-<li>
+<p><strong><em><u>eTeens</u></em><u>&nbsp;Programme</u></strong>:</p>
+<p><em>eTeens</em>&nbsp;is a programme developed by Health Promotion Board,
+in collaboration with the Ministry of Education, to provide Secondary 3
+students with accurate information on STIs, HIV and protection from a health
+perspective.&nbsp;<em>eTeens</em>&nbsp;is conducted in two segments – a
+mass talk segment and a classroom-based programme. The desired outcome
+of the&nbsp;<em>eTeens</em>&nbsp;programme is that students are empowered
+to make wise, informed and sensible decisions.</p>
 <p>Students are taught skills such as decision-making, assertiveness and
 negotiation to say “no” to sex and negative peer pressure. They also learn
 that the impact of STIs/HIV extends beyond themselves and involves their
 family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
 <p>
-<br><strong>At CHIJ Katong Convent, the <em>eTeens</em> programme will be implemented as follows in 2025:</strong>
-<br>
+<br><strong>At CHIJ Katong Convent, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2025:</strong>
 <br>
 </p>
 <table style="minWidth: 75px">
@@ -131,20 +99,20 @@ Abstinence and upholding family values are the key messages.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p><strong>Topics/Lessons</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Programme Learning Objectives</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Time Period</strong>
 </p>
 <p><strong>(e.g. Term 3 Week 9)</strong>
 </p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -157,7 +125,6 @@ Abstinence and upholding family values are the key messages.</p>
 <br>what it is, how it spreads, how to prevent infection mainly through ABC
 (abstinence, being faithful, correct, and consistent condom use).</p>
 <p>b) Managing relationships and risky situations in a healthy way.</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 7</p>
@@ -178,37 +145,32 @@ of assertiveness and responsible decision-making</p>
 </tr>
 </tbody>
 </table>
-</li>
-</ol>
 <p></p>
-<h4><strong>Information for Parents</strong></h4>
-<ol start="10" data-tight="true" class="tight">
+<p><strong>Information for Parents</strong>
+</p>
+<ul>
 <li>
-<p>Parents may opt their children out of the Sexuality Education lessons, <em>eTeens</em> and/or
+<p>Parents may opt their children out of the Sexuality Education lessons,&nbsp;<em>eTeens</em>&nbsp;and/or
 supplementary sexuality education programmes by MOE-approved external providers.</p>
-<p></p>
 </li>
 <li>
-<p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
+<p>Parents who wish to opt their children out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <strong><a href="/files/Student Development/Sexuality Education/annex_A_parent_opt_out_form_hard_copy_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.
+at the start of the year and is also downloadable&nbsp;<strong><a href="https://www.chijkatongconvent.moe.edu.sg/files/Student%20Development/Sexuality%20Education/annex_A_parent_opt_out_form_hard_copy_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong>.
 The completed form is to be submitted by 05/02/2025.</p>
-<p></p>
 </li>
 <li>
-<p>Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
+<p>Parents who wish to opt their children out of the&nbsp;<strong><em>eTeens</em>&nbsp;programme</strong>&nbsp;need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <strong><a href="/files/Student Development/Sexuality Education/Annex_B_eTeens_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.
+at the start of the year and is also downloadable&nbsp;<strong><a href="https://www.chijkatongconvent.moe.edu.sg/files/Student%20Development/Sexuality%20Education/Annex_B_eTeens_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong>.
 The completed form is to be submitted by 05/02/2025.</p>
-<p></p>
 </li>
-<li>
-<p>Parents can contact the school at
-<br>- Ms Sandra Ezekiel at either 6448 6433 ext. 323 or via email (<a href="mailto:liew_pui_yen_sandra@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liew_pui_yen_sandra@moe.edu.sg</a>)
+</ul>
+<p>Parents who would like to discuss or seek clarification about the school’s
+Sexuality Education programme can contact the school at
+<br>- Ms Sandra Ezekiel at either 6448 6433 ext. 323 or via email (<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank"><u>liew_pui_yen_sandra@moe.edu.sg</u></a>)
 or
-<br>- Ms Cheryl Anne Lim at 64486433 ext. 138 or via email (<a href="mailto:lim_su_ying_cheryl@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_su_ying_cheryl@moe.edu.sg</a>)
-for discussion or to seek clarification about the school’s Sexuality Education
-programme.</p>
-</li>
-</ol>
-<p></p>
+<br>- Ms Cheryl Anne Lim at 64486433 ext. 138 or via email (<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank"><u>lim_su_ying_cheryl@moe.edu.sg</u></a>).</p>
+<p>
+<br>
+</p>
