@@ -294,11 +294,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nuha Jalal
-<br>Ms Sarah Phua</p>
+<br>Ms Nufail Mahmood</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nuha_jalal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nuha_jalal@moe.edu.sg</a>
-<br><a href="mailto:sarah_phua_yiran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sarah_phua_yiran@moe.edu.sg</a>
+<br><a href="mailto:nufail_mahmood@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nufail_mahmood@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -444,11 +444,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Teresa Wong
-<br>Ms Phoebe Toh</p>
+<br>Ms Sarah Phua</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_poh_yan_teresa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_poh_yan_teresa@moe.edu.sg</a>
-<br><a href="mailto:phoebe_toh_cui_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phoebe_toh_cui_yan@moe.edu.sg</a>
+<br><a href="mailto:sarah_phua_yiran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sarah_phua_yiran@moe.edu.sg</a>
 </p>
 </td>
 </tr>
