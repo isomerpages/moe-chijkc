@@ -267,7 +267,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head</strong>  <strong>(Covering)</strong>
+<p><strong>Assistant Year Head</strong>
 <br>Ms Nor Sharina Abd Majid</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -284,6 +284,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>
 <br><a href="mailto:lee_jiak_peng_audrey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_jiak_peng_audrey@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Information and Communication Technology (Covering)</strong>
+<br>Mr Tan Yan Zhao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br><a href="mailto:tan_yan_zhao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yan_zhao@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -322,7 +333,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Student Leadership (covering)</strong> 
+<p><strong>Student Leadership</strong>
 <br>Ms Sarah Phua</p>
 </td>
 <td rowspan="1" colspan="1">
