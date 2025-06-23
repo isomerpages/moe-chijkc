@@ -58,7 +58,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Term 3</p>
+<p><a href="/files/KC Village/Parents/Letters To Parents/2025_T3_Letter_to_Parents__18_Jun_.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 3</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 4</p>
