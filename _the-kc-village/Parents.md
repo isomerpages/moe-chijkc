@@ -214,32 +214,23 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/KC Village/Parents/Weighted Assessment/Sec_1_Weighted_Assessment_2_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Sec 1</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/KC Village/Parents/Weighted Assessment/Sec_2_Weighted_Assessment_2_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/KC Village/Parents/Weighted Assessment/Sec_3_Weighted_Assessment_2_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/KC Village/Parents/Weighted Assessment/Sec_4_Weighted_Assessment_2_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5</a>
+<td rowspan="1" colspan="4">
+<p><strong>WA 3 </strong><em>(Updated on 16 Jul 2025 @ 1016hrs)</em>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/KC Village/Parents/Weighted Assessment/Sec_1_Weighted_Assessment_3_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Sec 1</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/KC Village/Parents/Weighted Assessment/Sec_2_Weighted_Assessment_3_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/KC Village/Parents/Weighted Assessment/Sec_3_Weighted_Assessment_3_Schedule_2025.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
