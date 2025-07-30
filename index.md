@@ -17,6 +17,7 @@ sections:
       button: Click for more
       url: https://www.chijkatongconvent.moe.edu.sg/character-awards-2025-invitation-for-nominations/
       image: /images/Announcements/pic_for_announcement_in_website.jpg
+      alt: CA 2025 Nominations
   - resources:
       title: Latest Updates
       button: More
