@@ -267,13 +267,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="/files/KC Village/Parents/Letters To Parents/2025_Sec_1_EOY_Exam_Letter_to_Parents_and_TT_STUDENT_COPY_FINAL_COMBINED.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="/files/KC Village/Parents/Letters To Parents/2025_Sec_2_EOY_Exam_Letter_to_Parents_and_TT_STUDENT_COPY_FINAL_COMBINED.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="/files/KC Village/Parents/Letters To Parents/2025_Sec_3_EOY_Exam_Letter_to_Parents_and_TT_STUDENT_COPY_FINAL_COMBINED.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/KC Village/Parents/Letters To Parents/2025_4E5N_Prelim_Exam_Letter_to_Parents_and_TT.pdf" rel="noopener noreferrer nofollow" target="_blank">4E &amp; 5NA</a>
