@@ -561,12 +561,10 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Welzl-Loke Xiuqing
-<br>Mdm Jessy Tan (Term 1 only)
 <br>Mr See Tow Pak Kei</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:loke_xiuqing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loke_xiuqing@moe.edu.sg</a>
-<br><a href="mailto:tan_puay_cher@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_puay_cher@moe.edu.sg</a>
 <br><a href="mailto:see_tow_pak_kei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">see_tow_pak_kei@moe.edu.sg</a>
 </p>
 </td>
