@@ -129,14 +129,12 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>STEM Instructor (Laboratory)</strong>
 <br>Mdm Iryanti Jamil
-<br>Mrs Samirah Zainul Abidin
-<br>Mr Mohamed Zaaini Hussain</p>
+<br>Mrs Samirah Zainul Abidin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
 <br><a href="mailto:iryanti_jamil@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">iryanti_jamil@moe.edu.sg</a>
 <br><a href="mailto:samirah_zainul_abidin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">samirah_zainul_abidin@moe.edu.sg</a>
-<br><a href="mailto:mohamed_zaaini_hussain@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_zaaini_hussain@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -180,11 +178,13 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Special Educational Needs Officer</strong> 
-<br>Ms Gursheran Kaur</p>
+<br>Ms Gursheran Kaur
+<br>Ms Jermaine Ho</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
 <br><a href="mailto:gursheran_kaur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gursheran_kaur@moe.edu.sg</a>
+<br><a href="mailto:jermaine_ho@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jermaine_ho@moe.edu.sg</a>
 </p>
 </td>
 </tr>
