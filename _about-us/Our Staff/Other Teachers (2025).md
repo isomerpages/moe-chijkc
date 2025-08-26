@@ -130,15 +130,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Irene Su</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:irene_teo_1@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">irene_teo_1@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Lee Luo Yun Adeline</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -161,15 +152,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_shu_ying_hazel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_shu_ying_hazel@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Lim Sim Mui, Davora</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_sim_mui_davora_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_sim_mui_davora_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
