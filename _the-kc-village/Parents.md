@@ -267,7 +267,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/KC Village/Parents/Letters To Parents/2025_Sec_1_EOY_Exam_Letter_to_Parents_and_TT_STUDENT_COPY_FINAL_COMBINED.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
+<p><a href="/files/KC Village/Parents/Letters To Parents/2025_Sec_1_EOY_Exam_Letter_to_Parents_and_TT_STUDENT_COPY_FINAL_COMBINED_updated28AUG.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
+<br>(<a href="/files/KC Village/Parents/Letters To Parents/2025_Sec_1_EOY_Exam_Letter_to_Parents_and_TT_STUDENT_COPY_FINAL_COMBINED_updated28AUG.pdf" rel="noopener noreferrer nofollow" target="_blank">updated 28 Aug)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
