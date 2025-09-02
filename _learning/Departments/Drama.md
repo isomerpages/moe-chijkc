@@ -6,7 +6,7 @@ third_nav_title: Departments
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="450" width="735" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQTtvv--xC3GJrOU2NuPwOg13uRPlgG6ZE4Swd_mTOXJw-MZsLAhCMf799ayT-5jZ0ehmTM8aZLi1oa/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="450" width="735" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQSdroWHwYYFcS8gvqt2QNG15oJ6OURL3aiHQVzVEPhfEj8jc0ut1LWcJ4vyNFgeA/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4>Goals</h4>
 <p>Drama at KC: Foundation for Creative, Confident, and Collaborative Learners</p>
