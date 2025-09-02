@@ -3,6 +3,7 @@ title: Nutrition & Food Science
 permalink: /learning/Departments/nutrition-fs/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
 #### Goals
 
@@ -23,4 +24,4 @@ The syllabus takes into consideration the current lifestyles and trends to prepa
 *   Basic Sewing Skills (Sec 1)
 *   Partnership Programmes
 
-<iframe allowfullscreen="true" height="450" width="735" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRKxP_p72hSXEAlwgdkIQd0nidfaac_yJIr-WZoau-mo7Qd7H8vAvsx72CzotcK2gHc4wpm00rbN63E/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="945" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSFjm7tD20qtjPluY3MpBwcR9ZDURk_WKUzluSbMtNp8PSgCcS_mpvjfiIPgMlN_w/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
