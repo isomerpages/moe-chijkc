@@ -3,8 +3,9 @@ title: Cabin Club
 permalink: /clubs-and-societies/cabin-club/
 description: ""
 third_nav_title: Clubs & Societies
+variant: markdown
 ---
-<iframe allowfullscreen="true" height="450" width="735" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQD6Y0jdaTDxZImYITkBDvHT3lB5VGfKjf6lzFKdDEOQWOyd8V5sp0U_fqkxGr57Pa05yfgrimclRne/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="945" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSWokikuW72eE5YV-lYcMU--1dAgPCbGD3itNaU5ba4h-Wt30DMaYr9fld69ewhDw/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 #### Objectives
 
