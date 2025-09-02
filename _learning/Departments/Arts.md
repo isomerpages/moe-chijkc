@@ -6,7 +6,7 @@ third_nav_title: Departments
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="450" width="735" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRGHvkH5WLXM_SS39x-8XmRdiwwrfVVZCQ5BS1H5-ntvIfiKT3GjNhYB6M84EPJug9dHr_0CPJa1M1X/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="450" width="735" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTn28F4SHRWFz5idqziW-Rb6jJ3CO3H3PoGqhtA2HYqjdlzmbmi2d2yWMCEmijzGQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4>Our Goals</h4>
 <p>In Katong Convent, we believe Art is essential in equipping students for
