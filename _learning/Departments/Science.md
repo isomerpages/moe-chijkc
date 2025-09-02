@@ -3,6 +3,7 @@ title: Science
 permalink: /learning/Departments/sci/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
 #### Goals
 
@@ -29,4 +30,4 @@ third_nav_title: Departments
 *   KC Talent Management Programme&nbsp;
 *   Lab internship with external organisations
 
-<iframe allowfullscreen="true" height="450" width="735" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTCiKgvsIRsp5fEjh_kWctCVbJNFjKNWYow81t5rtkS8M50hdheA5tu0bpuU9Zz1C7rxcAfMYqrCk_P/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="945" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRH5zHJDLRvSZeMF6QvZiFZ_4KNugkvvGfLwR73uhhZFpkUJp7ASTGuOs4LyJHVCQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>

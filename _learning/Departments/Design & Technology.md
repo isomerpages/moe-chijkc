@@ -6,7 +6,7 @@ third_nav_title: Departments
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="450" width="735" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSeon0B6YkUSaSuzwLCLoo1rdXr9BcVc5Bjk3dudPjYmxIG_sVQaYDtkZaPhsyXA47t_NXTeT_vk3C_/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="450" width="735" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRHxwGe90ELm_Io20bAdGjiMxu4-GLd2fTHLN4K0qeoRLChFIKExCDHdrv7aeCA9A/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4>Goals</h4>
 <p>Design &amp; Technology (D&amp;T) education in KC aims to nurture in our

@@ -3,20 +3,21 @@ title: English Language & Literature
 permalink: /learning/Departments/el-literature/
 description: ""
 third_nav_title: Departments
+variant: markdown
 ---
-<iframe allowfullscreen="true" height="450" width="735" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQT8oIod91qsnOkxCB6_tAfuc2yZor6iEbslPmpHo2NRbDQ9c41odAR7Aj6UponJM97b59GlnbSCKex/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="945" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQLfaQWfC2DuZibz4IYnrthr_fRpTTe5cK-1UBKmRV74SnXMBKIjgLP8enVMH07ZQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 #### Overview of the English Language Programme
 
-Taking reference from the EL Syllabus 2020, the KC English Language Programme aims to develop effective and affective language use in students through exposure, empowerment, and enactment opportunities, nurturing students to become:
+Taking reference from the EL Syllabus 2020, the KC English Language&nbsp;Programme aims to develop effective and affective language use in students&nbsp;through exposure, empowerment, and enactment opportunities, nurturing&nbsp;students to become:
 
-*   Discerning & Critical Readers
-*   Inquirers & Meaning Makers
-*   Empathetic & Convincing Communicators
+*   Discerning &amp; Critical Readers
+*   Inquirers &amp; Meaning Makers
+*   Empathetic &amp; Convincing Communicators
 
 #### Lower Secondary EL Programme
 
-The lower secondary programme is designed to deepen student’s speaking, writing, reading and listening skills in the English language, through a critical exploration and appreciation of a wide variety of multi modal, literary and informational texts. Students are also guided to understand and respond to purposes, audiences, contexts and cultures.
+The lower secondary programme is designed to deepen student’s speaking,&nbsp;writing, reading and listening skills in the English language, through a critical&nbsp;exploration and appreciation of a wide variety of multi modal, literary and&nbsp;informational texts. Students are also guided to understand and respond to&nbsp;purposes, audiences, contexts and cultures.
 
 #### Upper Secondary EL Programme
 
@@ -42,7 +43,7 @@ The upper secondary programme deepens students’ critical appreciation to the a
 Writers’ Lab is an extension programme of the Literature Department’s Think Like a Writer approach where creative writing is utilised as literature pedagogy. Students with passion and promise in creative writing are identified by their literature teachers based on the creative writing done in the literature classroom. Students take part in one writer-led workshop per term covering a range of literary genres with opportunities to participate in additional workshops by invited writers during the Post-Examination Arts Immersion Programme. Writers’ Lab students are invited to the end-of-year CAP-Prep workshop series, where they are mentored by the teachers of the Writing Programme to develop portfolios for application into The Creative Arts Programme (CAP). A programme jointly organised by the Gifted Education Branch, MOE and Yale-NUS College with the aim to nurture talented young writers in Singapore.
 
 <u>Open Mic</u> <br>
-Open Mic is an extension programme of the EL department to develop students who have a strong interest and passion for public speaking. Mentored by teacher guides and equipped with training in communication strategies, and  audience engagement and management, students confidently own the stage at various school events, taking on the role of master of ceremonies. These students are also passionate advocates of speaking confidently and effectively and work on enacting the communicative aspect of our CPVA niche.
+Open Mic is an extension programme of the EL department to develop students who have a strong interest and passion for public speaking. Mentored by teacher guides and equipped with training in communication strategies, and&nbsp; audience engagement and management, students confidently own the stage at various school events, taking on the role of master of ceremonies. These students are also passionate advocates of speaking confidently and effectively and work on enacting the communicative aspect of our CPVA niche.
 
 <u>Book Club</u> <br>
 The department launched Book Club to promote the love for reading. During sessions led by teacher facilitators, students read, discuss ideas and formulate opinions. They also work on understanding an author’s purpose and drawing their own conclusions, formulating personal responses to reading. Through exposure to an array of texts and participation in NLB activities, students grow as readers and step up to be ambassadors, sharing their passion for reading.

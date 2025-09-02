@@ -6,7 +6,7 @@ third_nav_title: Performing Arts
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="450" width="735" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSbNcjMEKrZx30BGV0A2N2lCM6mN-Y7Y-Tqx3qPR4-0GElC2w07flhnrFkqLHwhltDLk2j6fQjRTOoH/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="569" width="945" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT1pcivFfI2_6idBaZ2dvDa3XGmOqF0-557j_f8iv3-g6_pfxPBoDfoU492I1SvWA/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4><strong>Introduction</strong></h4>
 <p>Chinese Drama KC is a vibrant and inclusive CCA where students of all
