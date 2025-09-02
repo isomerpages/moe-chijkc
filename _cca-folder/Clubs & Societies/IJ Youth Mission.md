@@ -6,7 +6,7 @@ third_nav_title: Clubs & Societies
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="450" width="735" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSyfynMbXsrPGz4FBulxxrpUlENkUow6QqqHzRvzXLCNMWK-bwYwQw_mdLYzfz2_D1f5f0lHYMA8LRM/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="569" width="945" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRXzesI066M4TK4b1JsVRPt3tIRRlVYsrLWCbVS6n2kPD6sY97frRYdiQGDyIkPsA/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4>Objectives</h4>
 <div class="isomer-image-wrapper">
