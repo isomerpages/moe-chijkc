@@ -129,12 +129,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>STEM Instructor (Laboratory)</strong>
 <br>Mdm Iryanti Jamil
-<br>Mrs Samirah Zainul Abidin</p>
+<br>Mrs Samirah Zainul Abidin
+<br>Mr Azizul Haikal Bin Rahmat</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
 <br><a href="mailto:iryanti_jamil@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">iryanti_jamil@moe.edu.sg</a>
 <br><a href="mailto:samirah_zainul_abidin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">samirah_zainul_abidin@moe.edu.sg</a>
+<br><a href="mailto:azizul_haikal_rahmat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">azizul_haikal_rahmat@moe.edu.sg</a>
 </p>
 </td>
 </tr>

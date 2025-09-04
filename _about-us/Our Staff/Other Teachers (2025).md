@@ -94,24 +94,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chong Ming Wayne Troy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chong_ming_wayne_troy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_ming_wayne_troy@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Fandrie Koh Jin Hui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:fandrie_koh@moe.edu.sg" rel="noopener nofollow" target="_blank">fandrie_koh@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Geraldine Chua</p>
 </td>
 <td rowspan="1" colspan="1">
