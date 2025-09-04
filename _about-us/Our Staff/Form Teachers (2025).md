@@ -383,7 +383,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Izzati Zainudin
+<p>Dr Nur Izzati Zainudin
 <br>Ms Angelita Tan</p>
 </td>
 <td rowspan="1" colspan="1">
