@@ -13,7 +13,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>The below forms / links will be updated soon</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -21,18 +21,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/KC Village/MOE FAS/Document_4a_MOE_FAS_pamphlet__4L_.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Pamphlet</a>
-</p>
+<p>MOE FAS Pamphlet</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">MOE FAS e-Application Form</a>
-</p>
+<p>MOE FAS e-Application Form</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/KC Village/MOE FAS/MOE_FAS_Application_Form_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">MOE FAS Application Form 2025</a>
-</p>
+<p>MOE FAS Application Form 2026</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>

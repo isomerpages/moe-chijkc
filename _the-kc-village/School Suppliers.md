@@ -42,25 +42,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/KC Village/S1_BOOKLIST_2025_A.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
-</p>
+<p>TBC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/KC Village/S2_BOOKLIST.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
-</p>
+<p>TBC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/KC Village/S3_EXP_BOOKLIST.pdf" rel="noopener nofollow" target="_blank">Sec 3E</a>
-<br><a href="/files/KC Village/S3_NA__BOOKLIST.pdf" rel="noopener nofollow" target="_blank">Sec 3NA</a>
-<br><a href="/files/KC Village/S3_NT__BOOKLIST.pdf" rel="noopener nofollow" target="_blank">Sec 3NT</a>
-</p>
+<p>TBC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/KC Village/S4_EXP_BOOKLIST.pdf" rel="noopener nofollow" target="_blank">Sec 4E</a>
-<br><a href="/files/KC Village/S4_NA_BOOKLIST.pdf" rel="noopener nofollow" target="_blank">Sec 4NA</a>
-<br><a href="/files/KC Village/S4_NT_BOOKLIST.pdf" rel="noopener nofollow" target="_blank">Sec 4NT</a>
-<br><a href="/files/KC Village/S5_Na__booklist_a.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 5NA</a>
-</p>
+<p>TBC</p>
 </td>
 </tr>
 </tbody>
