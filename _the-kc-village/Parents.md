@@ -197,7 +197,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Sec 3 Academic Programme 2025</p>
+<p><a href="/files/KC Village/Parents/TimeTables/2025_AP_TT_16_Oct_Class.pdf" rel="noopener nofollow" target="_blank">Sec 3 Academic Programme 2025</a>
+</p>
 </td>
 </tr>
 <tr>
