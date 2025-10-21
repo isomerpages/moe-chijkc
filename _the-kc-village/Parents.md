@@ -192,13 +192,25 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="4">
+<td rowspan="1" colspan="2">
 <p><a href="/files/KC Village/Parents/TimeTables/2025_Semester_2_Afternoon_Lessons.pdf" rel="noopener noreferrer nofollow" target="_blank">Afternoon Lessons for Sec 3 &amp; 4</a>
 </p>
 </td>
+<td rowspan="1" colspan="2">
+<p>Sec 3 Academic Programme 2025</p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="4">
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
