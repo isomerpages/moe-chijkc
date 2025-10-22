@@ -243,7 +243,7 @@ Using the Chromebook offline will create some limitations to the usage
 of the apps, especially for collaborative work.</p>
 <p>Students from low-income households will continue to be supported for
 subsidized broadband under IMDA’s digital access schemes. More information
-on IMDA’s digital access schemes can be found at&nbsp;<a href="https://www.imda.gov.sg/ha" rel="noopener noreferrer nofollow" target="_blank">https://www.imda.gov.sg/ha</a>
+on IMDA’s digital access schemes can be found at&nbsp;<a href="https://www.imda.gov.sg/how-we-can-help/digital-access-at-home?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=2025_dfl&amp;utm_content=dfl_cmd_sem&amp;gad_source=1&amp;gad_campaignid=23068783165&amp;gbraid=0AAAAApIXgxRWHTgQl4CYW7Sw6ezgHFuLZ&amp;gclid=CjwKCAjw3tzHBhBREiwAlMJoUh6K3qRUCyNXNf8bobqV338LjtCiIuebygm1cz9k1FF19P6TwtQ_YhoCfmEQAvD_BwE" rel="noopener nofollow" target="_blank">DigitalAccess@Home</a>
 </p>
 <p><strong>Collection of Device</strong>
 </p>
