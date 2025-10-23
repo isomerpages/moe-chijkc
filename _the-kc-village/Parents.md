@@ -209,7 +209,9 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/KC Village/Parents/TimeTables/2025_AP_TT_17_Oct_Class.pdf" rel="noopener nofollow" target="_blank">2025 AP TT</a>
+<br><a href="/files/KC Village/Parents/TimeTables/2025_AP_Afternoon_Lessons.pdf" rel="noopener nofollow" target="_blank">2025 AP Afternoon Lessons</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
