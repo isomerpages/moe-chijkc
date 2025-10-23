@@ -54,13 +54,20 @@ activities:</p>
 <p>SYF</p>
 </li>
 <li>
-<p>Odyssey of the Mind</p>
-</li>
-<li>
 <p>BMW</p>
 </li>
 </ul>
 <h4>Achievements</h4>
+<p><strong>2025</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>SYF Arts Presentation: Certificate of Accomplishment</p>
+</li>
+<li>
+<p>International Science Drama Competition: 3rd place</p>
+</li>
+</ul>
 <p><strong>2023</strong>
 </p>
 <ul data-tight="true" class="tight">
