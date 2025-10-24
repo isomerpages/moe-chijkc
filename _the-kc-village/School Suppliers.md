@@ -42,16 +42,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p><a href="/files/KC Village/S2_2026.pdf" rel="noopener nofollow" target="_blank">S2 Booklist (2026)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p><a href="/files/KC Village/S3_2026.pdf" rel="noopener nofollow" target="_blank">S3 Booklist (2026)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p><a href="/files/KC Village/S4__NT__2026.pdf" rel="noopener nofollow" target="_blank">S4 NT Booklist (2026)</a>
+<br><a href="/files/KC Village/S4__NA__2026.pdf" rel="noopener nofollow" target="_blank">S4 NA Booklist (2026)</a>
+<br><a href="/files/KC Village/S4__EXP__2026.pdf" rel="noopener nofollow" target="_blank">S4 Express Booklist (2026)</a>
+</p>
 </td>
 </tr>
 </tbody>
