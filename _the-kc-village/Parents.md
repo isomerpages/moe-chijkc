@@ -73,7 +73,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/KC Village/Parents/Letters To Parents/2025_EOY_Letter_to_Parents_Guardians.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Year End Letter to Parents_Guardians</a>
+<p><a href="/files/KC Village/Parents/Letters To Parents/2025_EOY_Letter_to_Parents_Guardians.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Year End Letter to Parents / Guardians</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
