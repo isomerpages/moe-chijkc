@@ -62,7 +62,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 4</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -73,11 +73,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/KC Village/Parents/Letters To Parents/2024_Year_End_Letter_to_Parents_Guardians.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Year End Letter to Parents_Guardians</a>
+<p><a href="/files/KC Village/Parents/Letters To Parents/2025_EOY_Letter_to_Parents_Guardians.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Year End Letter to Parents_Guardians</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/KC Village/Parents/Letters To Parents/Attachment_2___Secondary_JC_Level_Joint_Advisory__Term_4_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary_JC Level Joint Advisory</a>
+<p><a href="/files/KC Village/Parents/Letters To Parents/Secondary_JC_CI_Level_Joint_Advisory__Term_4_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary_JC Level Joint Advisory</a>
 </p>
 </td>
 </tr>
