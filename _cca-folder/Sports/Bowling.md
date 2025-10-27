@@ -45,6 +45,18 @@ variant: tiptap
 </li>
 </ul>
 <h4>Achievements (Last 3 years)</h4>
+<p><strong>2025</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>National Schools C’ Division Ten-Pin Bowling Championship - Overall 3rd
+Position</p>
+</li>
+<li>
+<p>National Schools B’ Division Ten-Pin Bowling Championship - Overall 4th
+Position</p>
+</li>
+</ul>
 <p><strong>2023</strong>
 </p>
 <ul data-tight="true" class="tight">
