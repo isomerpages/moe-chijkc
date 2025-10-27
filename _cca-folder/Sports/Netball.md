@@ -78,6 +78,21 @@ of our KC netball team
 <li>
 <p>Daisy Tan Carnival</p>
 </li>
+<li>
+<p>Springfield Netball Carnival</p>
+</li>
+<li>
+<p>Deloitte Pesta Sukan</p>
+</li>
+<li>
+<p>Saints X TNA Netball Tournament</p>
+</li>
+<li>
+<p>SSSC Netball National C Division Girls (League 2)</p>
+</li>
+<li>
+<p>SSSC Netball National B Division Girls (East Zone)</p>
+</li>
 </ul>
 <p><strong>2024</strong>
 </p>
