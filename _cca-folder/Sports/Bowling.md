@@ -57,6 +57,16 @@ Position</p>
 Position</p>
 </li>
 </ul>
+<p><strong>2024</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>B Div 5th overall</p>
+</li>
+<li>
+<p>C Div 7th overall</p>
+</li>
+</ul>
 <p><strong>2023</strong>
 </p>
 <ul data-tight="true" class="tight">
