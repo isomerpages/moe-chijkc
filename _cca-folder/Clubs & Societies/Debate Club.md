@@ -8,7 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" src="/images/CCA/KC%20DEBATE.png">
 </div>
-<h4><strong>Introduction </strong></h4>
+<h4><strong>Introduction</strong></h4>
 <p>At CHIJ Katong Convent, the Debate Co-Curricular Activity (CCA) nurtures
 articulate, confident, and critical thinkers who are passionate about expressing
 ideas and engaging in meaningful discussions. Our Debate CCA provides a
@@ -39,7 +39,7 @@ preparation.</p>
 <p>Through these programmes, Katong Convent’s Debate CCA aims to cultivate
 eloquent, thoughtful leaders who are well-prepared to make meaningful contributions
 to society.</p>
-<p><strong>2025 </strong>
+<p><strong>2025</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -75,7 +75,7 @@ Team / Top 20 Best Speakers in the division</p>
 <p>Thoburn Cup 2024</p>
 </li>
 </ul>
-<p><strong>2023 </strong>
+<p><strong>2023</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
