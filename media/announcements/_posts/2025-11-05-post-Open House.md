@@ -7,8 +7,5 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/OH2025.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://tinyurl.com/KCopenhouse2025"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/OH2025.png"></a>
 <p></p>
