@@ -18,6 +18,7 @@ sections:
       button: LINK
       url: https://tinyurl.com/KCopenhouse2025
       image: /images/Announcements/OH2025_for_website.png
+      alt: KC Open House
   - resources:
       title: Latest Updates
       button: More
