@@ -12,6 +12,15 @@ sections:
       url: /media/announcements/
       title: A Convent by the Sea
   - infopic:
+      title: KC Open House
+      subtitle: Add an image and text
+      id: infopic
+      description: Scan the QR Code for details or click the link below
+      button: LINK
+      url: https://tinyurl.com/KCopenhouse2025
+      image: /images/Announcements/OH2025_for_website.png
+      alt: Image alt text
+  - infopic:
       title: Character Awards 2025 – Invitation for Nominations
       id: infopic
       button: Click for more info
