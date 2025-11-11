@@ -5,6 +5,9 @@ description: ""
 third_nav_title: Departments
 variant: tiptap
 ---
+<div class="iframe-wrapper">
+<iframe height="520" width="860" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS1GFgfNBHDSKa5fj2JAtj2ViTqn03e7e6B6EijvLBMVDoo5tDtRCjpU4wdxxgVahaqDJEOQluyZgzf/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+</div>
 <h4><strong>Goals</strong></h4>
 <ul>
 <li>
@@ -244,7 +247,4 @@ Zone 3rd place</p>
 <p>Participation in 2025 Peraduan Saya Boleh Mengarang Peringkat Nasional</p>
 </li>
 </ul>
-<div class="iframe-wrapper">
-<iframe height="520" width="860" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS1GFgfNBHDSKa5fj2JAtj2ViTqn03e7e6B6EijvLBMVDoo5tDtRCjpU4wdxxgVahaqDJEOQluyZgzf/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
 <p></p>
