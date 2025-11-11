@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Departments
 variant: tiptap
 ---
-<p><strong>Goals</strong>
-</p>
+<h4><strong>Goals</strong></h4>
 <ul>
 <li>
 <p>To nurture students to be proficient users of their Mother Tongue Languages
@@ -18,8 +17,7 @@ cultures, heritages and traditions of the MTLs.</p>
 <p></p>
 </li>
 </ul>
-<p><strong>Lower Sec Programme</strong>
-</p>
+<h4><strong>Lower Sec Programme</strong></h4>
 <ul>
 <li>
 <p>The Lower Secondary programme is designed to cultivate a genuine passion
@@ -35,8 +33,7 @@ be engaged citizens of tomorrow.
 </p>
 </li>
 </ul>
-<p><strong>Upper Sec Programme</strong>
-</p>
+<h4><strong>Upper Sec Programme</strong></h4>
 <ul>
 <li>
 <p>In the Upper Secondary programme, our focus shifts towards developing
@@ -55,8 +52,7 @@ Tongue Language in an increasingly interconnected world.</p>
 </li>
 </ul>
 <p></p>
-<p><strong>Hindi Programme</strong>
-</p>
+<h4><strong>Hindi Programme</strong></h4>
 <ul>
 <li>
 <p>Hindi is also available on campus for students who offer it as their MTL.
@@ -70,8 +66,7 @@ and heritage.
 </p>
 </li>
 </ul>
-<p><strong>MTL Activities and Events</strong>
-</p>
+<h4><strong>MTL Activities and Events</strong></h4>
 <p></p>
 <p><strong>1) Festive Celebrations</strong>
 </p>
@@ -250,6 +245,6 @@ Zone 3rd place</p>
 </li>
 </ul>
 <div class="iframe-wrapper">
-<iframe height="520" width="860" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS1GFgfNBHDSKa5fj2JAtj2ViTqn03e7e6B6EijvLBMVDoo5tDtRCjpU4wdxxgVahaqDJEOQluyZgzf/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="520" width="860" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS1GFgfNBHDSKa5fj2JAtj2ViTqn03e7e6B6EijvLBMVDoo5tDtRCjpU4wdxxgVahaqDJEOQluyZgzf/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <p></p>
