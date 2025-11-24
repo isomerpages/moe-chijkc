@@ -36,6 +36,10 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Drinks_stall.jpg">
+</div>
 <h4><strong>Application Procedure</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
@@ -43,7 +47,7 @@ variant: tiptap
 hardcopy from the School’s General Office.</p>
 </li>
 </ol>
-<p><a href="/files/KC%20Village/2023%20canteen%20application%20form.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
+<p><a href="/files/Application_for_Canteen_Stall__2023_.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
 </p>
 <ol start="2" data-tight="true" class="tight">
 <li>
