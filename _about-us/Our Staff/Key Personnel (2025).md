@@ -352,7 +352,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4>Lead Teachers</h4>
+<h4>Lead Teacher</h4>
 </th>
 <th rowspan="1" colspan="1">
 <h4>Email</h4>
