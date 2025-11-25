@@ -34,23 +34,31 @@ you can email us at&nbsp;<a href="mailto:chijktcs@moe.edu.sg" rel="noopener nore
 </th>
 </tr>
 <tr>
-<th rowspan="1" colspan="1">
-<p><strong><a href="/files/KC Village/MOE FAS/MOE_FAS_Pamphlet_EL.pdf" rel="noopener nofollow" target="_blank">FAS Pamphlet (English)</a></strong>
-</p>
-</th>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/KC Village/MOE FAS/MOE_FAS_Pamphlet_CL.pdf" rel="noopener nofollow" target="_blank">FAS Pamphlet (Chinese)</a></strong>
+<p><a href="/files/KC Village/MOE FAS/MOE_FAS_Pamphlet_EL.pdf" rel="noopener nofollow" target="_blank">FAS Pamphlet (English)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/KC Village/MOE FAS/MOE_FAS_Pamphlet_CL.pdf" rel="noopener nofollow" target="_blank">FAS Pamphlet (Chinese)</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/KC Village/MOE FAS/MOE_FAS_Pamphlet_ML.pdf" rel="noopener nofollow" target="_blank">FAS Pamphlet (Malay)</a></strong>
+<p><a href="/files/KC Village/MOE FAS/MOE_FAS_Pamphlet_ML.pdf" rel="noopener nofollow" target="_blank">FAS Pamphlet (Malay)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/KC Village/MOE FAS/MOE_FAS_Pamphlet_TL.pdf" rel="noopener nofollow" target="_blank">FAS Pamphlet (Tamil)</a></strong>
+<p><a href="/files/KC Village/MOE FAS/MOE_FAS_Pamphlet_TL.pdf" rel="noopener nofollow" target="_blank">FAS Pamphlet (Tamil)</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
