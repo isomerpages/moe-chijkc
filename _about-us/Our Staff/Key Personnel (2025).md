@@ -342,6 +342,14 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <table style="minWidth: 50px">
@@ -441,6 +449,14 @@ variant: tiptap
 <p>
 <br><a href="mailto:phua_lai_tee@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">phua_lai_tee@moe.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
