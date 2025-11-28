@@ -31,7 +31,7 @@ variant: tiptap
 <p><strong>Acer Chromebook Spin 512 (R857TN)</strong>&nbsp;includes:
 <br>- Power Adaptor
 <br>- Mouse
-<br>- Stylus
+<br>- Acer Active Stylus Pen
 <br>- Carrier Bag</p>
 </td>
 </tr>
