@@ -67,12 +67,6 @@ Edusave to pay partly or fully for the PLD.&nbsp;For families who have
 financial concerns, you may refer to the section below on “Financial Assistance”.
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/500e.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/Acer R752TN.png">
-</div>
 <h4>Resources for Parents</h4>
 <p>The following are useful resources to support our parents in keeping our
 students safe online:</p>
