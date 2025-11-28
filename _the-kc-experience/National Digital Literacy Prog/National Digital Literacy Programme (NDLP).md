@@ -79,7 +79,7 @@ students safe online:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Parent Handbooks on Learning with a Personal Learning Device (<a href="/files/KC Experience/NDLP/IP2___Parent_Handbook__I__2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Book 1</a> &amp;
-<a href="/files/KC Experience/NDLP/IP3___Parent_Handbook__II__2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Book2</a>)</p>
+<a href="/files/KC Experience/NDLP/IP3___Parent_Handbook__II__2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Book2</a>) (<em>Updated 2026 version</em>)</p>
 </li>
 <li>
 <p>Parent Kit on Cyber Wellness for Your Child <a href="/files/cyber-wellness-for-your-child.pdf" rel="noopener noreferrer nofollow" target="_blank">(https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)</a>
