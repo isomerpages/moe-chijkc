@@ -67,19 +67,13 @@ Edusave to pay partly or fully for the PLD.&nbsp;For families who have
 financial concerns, you may refer to the section below on “Financial Assistance”.
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/500e.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/Acer R752TN.png">
-</div>
 <h4>Resources for Parents</h4>
 <p>The following are useful resources to support our parents in keeping our
 students safe online:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Parent Handbooks on Learning with a Personal Learning Device (<a href="/files/KC%20Experience/NDLP/IP2___Parent_Handbook__I__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Book 1</a> &amp;
-<a href="/files/KC%20Experience/NDLP/IP3___Parent_Handbook__II__2024_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">Book2</a>)</p>
+<p>Parent Handbooks on Learning with a Personal Learning Device (<a href="/files/KC Experience/NDLP/IP2___Parent_Handbook__I__2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Book 1</a> &amp;
+<a href="/files/KC Experience/NDLP/IP3___Parent_Handbook__II__2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Book2</a>) (<em>Updated 2026 version</em>)</p>
 </li>
 <li>
 <p>Parent Kit on Cyber Wellness for Your Child <a href="/files/cyber-wellness-for-your-child.pdf" rel="noopener noreferrer nofollow" target="_blank">(https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)</a>
