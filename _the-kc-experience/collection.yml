@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - The KC Experience.md
+      - Spirituality/Prayers.md
       - Spirituality/Hymns and Songs.md
       - Spirituality/.keep
       - Spirituality/Spirituality.md
