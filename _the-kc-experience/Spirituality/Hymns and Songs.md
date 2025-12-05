@@ -323,6 +323,24 @@ third_nav_title: Spirituality
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Oh Sacrament Most High</strong>
+<br>
+<br>O Sacrament most holy,
+<br>O Sacrament divine!
+<br>All praise and all thanksgiving
+<br>Be every moment thine.
+<br>Now come, all you who labor
+<br>In sorrow and in pain,
+<br>Come, eat this bread from heaven;
+<br>Thy peace and strength regain.
+<br>Lord Jesus, we adore thee,
+<br>our Victim and our priest,
+<br>Whose precious blood and body
+<br>Become our sacred feast.
+<br>O sacrament most holy,
+<br>o Sacrament divine
+<br>All praise and all thanksgiving
+<br>Be every moment thin</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
