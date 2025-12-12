@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><u>2025 GCE N-Level Results Release Matters</u>
+<p><strong><u>2025 GCE N-Level Results Release Matters</u></strong>
 <br>The N-Level results will be released on <strong>Thursday, 18 December 2025, at 2.00pm</strong>.</p>
 <p><strong>Collection of GCE N-Level Results</strong>
 <br>Please note the following arrangements:</p>
