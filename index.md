@@ -16,6 +16,8 @@ sections:
       id: infopic
       image: /images/Announcements/N_Level_result.png
       alt: Image alt text
+      button: Click for more
+      url: https://www.chijkatongconvent.moe.edu.sg/open-house/
   - infopic:
       title: KC Open House
       id: infopic
