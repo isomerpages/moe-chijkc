@@ -12,6 +12,13 @@ sections:
       url: /media/announcements/
       title: A Convent by the Sea
   - infopic:
+      title: 2025 GCE N-Level Results Release
+      id: infopic
+      image: /images/Announcements/N_Level_result.png
+      alt: Image alt text
+      button: Click for more
+      url: https://www.chijkatongconvent.moe.edu.sg/2025-gce-n-level-result-release/
+  - infopic:
       title: KC Open House
       id: infopic
       description: Scan the QR Code for details or click the link below
