@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Spirituality
 ---
-<h4>The hymns and songs sung in school serve as powerful expressions of our IJ identity and faith. They remind us of our Catholic roots, nurture our relationship with God, and strengthen our sense of belonging to the IJ family. Through these shared songs of praise and gratitude, we celebrate our heritage, deepen our faith, and grow in love, hope, and service to others.<br><br></h4>
+<h4>The hymns and songs sung in school serve as powerful expressions of our IJ identity and faith. They remind us of our Catholic roots, nurture our relationship with God, and strengthen our sense of belonging to the IJ family. Through these shared songs of praise and gratitude, we celebrate our heritage, deepen our faith, and grow in love, hope, and service to others.<br></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/KC Experience/Spirituality/Rally_Call.png">
 </div>
@@ -329,14 +329,17 @@ third_nav_title: Spirituality
 <br>O Sacrament divine!
 <br>All praise and all thanksgiving
 <br>Be every moment thine.
+<br>
 <br>Now come, all you who labor
 <br>In sorrow and in pain,
 <br>Come, eat this bread from heaven;
 <br>Thy peace and strength regain.
+<br>
 <br>Lord Jesus, we adore thee,
 <br>our Victim and our priest,
 <br>Whose precious blood and body
 <br>Become our sacred feast.
+<br>
 <br>O sacrament most holy,
 <br>o Sacrament divine
 <br>All praise and all thanksgiving
@@ -344,22 +347,109 @@ third_nav_title: Spirituality
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Spirit and Grace</strong>
+<br>
+<br>Spirit and grace, here in this meal.
+<br>You are the wind that breathes through the field.
+<br>Gather the wheat and form us in Christ.
+<br>Come, be our source and breath of life.</p>
+<p>Refrain:
+<br>In this bread, blessed, broken and shared,
+<br>Christ is our life, whose presence we bear.
+<br>Come, O spirit, make your grace revealed in this holy meal.
+<br>Spirit and grace, here in this meal.
+<br>You are the life that flows through the vine.
+<br>Gather this drink and form us in Christ.
+<br>Come, be our source and blood of life.</p>
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Seek Ye First</strong>
+<br>
+<br>Seek ye first the kingdom of God And His righteousness;
+<br>And all these things shall be added unto you. Hallelu, Hallelujah
+<br>
+<br>Ask, and it shall be given unto you; Seek, and you shall find.
+<br>Knock, and it shall be opened unto you. Hallelu, Hallelujah!
+<br>
+<br>Man shall not live by bread alone, But
+<br>by every word
+<br>That proceeds out from the mouth of God. Hallelu, Hallelujah!</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>Table of Plenty</strong>
+<br>
+<br>Come to the feast of heaven and earth
+<br>Come to the table of plenty
+<br>God will provide for all that we need
+<br>Here at the table of plenty
+<br>O come and sit at my table
+<br>Where saints and sinners are friends
+<br>I wait to welcome the lost and lonely
+<br>To share the cup of my love
+<br>
+<br>Come to the feast of heaven and earth
+<br>Come to the table of plenty
+<br>God will provide for all that we need
+<br>Here at the table of plenty
+<br>
+<br>O come and eat without money
+<br>Come to drink without price
+<br>My feast of gladness will feed your spirit
+<br>With faith and fullness of life</p>
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>The Summons</strong>
+<br>
+<br>Will you come and follow me
+<br>If I but call your name?
+<br>Will you go where you don't know
+<br>And never be the same?
+<br>Will you let my love be shown,
+<br>Will you let my name be known,
+<br>Will you let my life be grown In you and you in me?
+<br>
+<br>Will you leave yourself behind
+<br>If I but call your name?
+<br>Will you care for cruel and kind
+<br>And never be the same?
+<br>Will you risk the hostile stare
+<br>Should your life attract or scare?
+<br>Will you let me answer prayer In you and you in me?
+<br>
+<br>Will you let the blinded see
+<br>If I but call your name?
+<br>Will you set the prisoners free
+<br>And never be the same?
+<br>Will you kiss the leper clean,
+<br>And do such as this unseen,
+<br>And admit to what I mean In you and you in me?</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>You Are My All in All</strong>
+<br>
+<br>You are my strength when I am weak
+<br>You are the treasure that I seek
+<br>You are my all in all
+<br>Seeking You as a precious jewel
+<br>Lord to give up, I’d be a fool
+<br>You are my all in all
+<br>
+<br>Chorus:
+<br>Jesus, Lamb of God,
+<br>worthy is Your name (X2)
+<br>Taking my sin, my cross, my shame
+<br>Rising again, I bless Your name
+<br>You are my all in all
+<br>When I fall down, You pick me up
+<br>When I am dry you fill my cup
+<br>You are my all in all</p>
 <p></p>
 </td>
 </tr>
