@@ -11,7 +11,7 @@ third_nav_title: Spirituality
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/KC Experience/Spirituality/Rally_Call.png">
 </div>
-<h4><br><strong>Songs</strong></h4>
+<h4><strong>Songs</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>Hold on to Our Dream</strong>
@@ -47,60 +47,11 @@ third_nav_title: Spirituality
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>Hymn to Father Barré</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
 <p>
-<br><strong>Songs</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Hold on to Our Dream</strong>
-<br>
-<br>IJ Spirit burning bright
-<br>Fill this world with love and light
-<br>Light that shines for all to see
-<br>Love that sets our spirits free
-<br>
-<br>IJ friendships through the years
-<br>Born of simple joys and tears
-<br>Something tells us deep inside
-<br>IJ friends are friends for life
-<br>
-<br>Hold on to our dream of peace
-<br>Don’t stop believing
-<br>Our hearts and hands, ever seeking, ever serving
-<br>Hold on to the sound
-<br>Of our friends all joyously singing
-<br>Our voices raised to the Lord our God above
-<br>Hold on to our dream
-<br>
-<br>IJ spirit burning bright
-<br>Fill our hearts with love and light
-<br>Light to see ourselves anew
-<br>Love begins with me and you
-<br>
-<br>IJ voices ringing true
-<br>Reaching out and breaking through
-<br>Every heart will hear our call
-<br>Share our dream of peace for all
-<br>
-<br>Hold on to our dream, hold fast to the IJ Dream
-<br>Hold on to our dream!</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Hymn to Father Barré</strong>
-<br>
-<br><strong>French Version</strong> 
+<br><strong>French Version</strong>
 <br>De vos enfants, exaucez la priére
 <br>Veillez sur nous O Saint Pére Barré
 <br>Choisissez-vous un essaim d’ouvrières
@@ -108,10 +59,8 @@ third_nav_title: Spirituality
 <br>Dans L’institut, conservez d’âge en âge
 <br>Un zèle ardent, l’humilité, la foi
 <br>Le pur amour, la force et le courage
-<br>Pour observe à jamais votre loi (2x)
-<br>
-</p>
-<p><strong>English Version </strong>
+<br>Pour observe à jamais votre loi (2x)</p>
+<p><strong>English Version</strong>
 <br>O hear our prayer, most holy Father Barré
 <br>We are your children, watch o’er us we pray
 <br>Touch many hearts to follow in your footsteps
@@ -120,13 +69,13 @@ third_nav_title: Spirituality
 <br>Fill us with zeal, humility and faith
 <br>Pure love and strength and courage without fear
 <br>To keep your spirit alive in our hearts (2x)</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>IJ Songs (from Share the Love)</strong>
-<br>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>IJ Songs (from Share the Love)</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>
 <br><strong>Caritas, Share the Love</strong>
 <br>
 <br>Eyes speaking of an endless grief
@@ -153,10 +102,13 @@ third_nav_title: Spirituality
 <br>Let’s share the peace
 <br>our maker gave us
 <br>Making all our souls feel alive</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>One Family</strong>
-<br>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>One Family</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>
 <br>Does it really matter what we call ourselves
 <br>As long as he’s the one who first called us
 <br>Why spend all our time fighting amongst ourselves
@@ -181,12 +133,13 @@ third_nav_title: Spirituality
 <br>Just enjoy the way he made us
 <br>to be different but the same
 <br>Cos he made us to be like him</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>These Hands He Made</strong>
-<br>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>These Hands He Made</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>
 <br>These hands he made, for love not hate
 <br>These hands he made, to act not wait
 <br>These hands can save us from a cruel fate
@@ -205,27 +158,102 @@ third_nav_title: Spirituality
 <br>These hands he made, to show we care
 <br>These hands can build our dreams if we dare
 <br>These hands he made, These hands he made</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<h4>Hymns<br></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/KC Experience/Spirituality/Psalms_57_7.png">
 </div>
+</details>
+</div>
+<h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/KC Experience/Spirituality/Psalms_57_7.png">
+</div>
+<h4>Hymn</h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Blessed be God</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>
+<br>Blessed be God
+<br>Blessed are you, Lord, God of all creation,
+<br>Thanks to your goodness this bread we offer:
+<br>Fruit of the earth, work of our hands,
+<br>It will become the bread of life.
+<br>Blessed be God! Blessed be God!
+<br>Blessed be God forever! Amen!
+<br>Blessed be God! Blessed be God!
+<br>Blessed be God forever! Amen!
+<br>Blessed are you, Lord, God of all creation,
+<br>Thanks to your goodness this wine we offer:
+<br>Fruit of the earth, work of our hands,
+<br>It will become the cup of joy.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
