@@ -7,6 +7,11 @@ third_nav_title: Spirituality
 ---
 <p><strong>The prayers commonly used in KC uplift our hearts and minds to God, helping us find strength, peace, and purpose in His presence. They connect us deeply with Jesus, nurture our faith and hope, and remind us of the constant graces and love of God in our daily lives. Through prayer, we grow as a community rooted in faith, guided by the Holy Spirit, and inspired to live out the IJ values of truth, justice, freedom, and love.</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="https://www.vecteezy.com/free-photos/praying" src="/images/KC Experience/Spirituality/Praying.jpg">
+</div>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>The Lord's Prayer</strong>
