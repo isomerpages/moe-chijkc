@@ -159,7 +159,8 @@ who failed or who turned against me.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Examination Praye</strong>r</summary>
+<summary><strong>Examination Prayer</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 <p>O God help me at my examination today to remember the things which I have
