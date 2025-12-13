@@ -9,7 +9,7 @@ third_nav_title: Spirituality
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="https://www.vecteezy.com/free-photos/praying" src="/images/KC Experience/Spirituality/Praying.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="https://www.vecteezy.com/free-photos/praying" src="/images/KC Experience/Spirituality/Praying.jpg">
 </div>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
