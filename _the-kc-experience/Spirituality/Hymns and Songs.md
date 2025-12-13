@@ -314,187 +314,10 @@ third_nav_title: Spirituality
 </div>
 </details>
 <details class="isomer-details">
-<summary>Oh Sacrament Most High</summary>
+<summary><strong>Oh Sacrament Most High</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Spirit and Grace</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Seek Ye First</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Table of Plenty</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>The Summons</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>You Are My All in All</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Blessed be God</strong>
-<br>
-<br>Blessed be God
-<br>Blessed are you, Lord, God of all creation,
-<br>Thanks to your goodness this bread we offer:
-<br>Fruit of the earth, work of our hands,
-<br>It will become the bread of life.
-<br>Blessed be God! Blessed be God!
-<br>Blessed be God forever! Amen!
-<br>Blessed be God! Blessed be God!
-<br>Blessed be God forever! Amen!
-<br>Blessed are you, Lord, God of all creation,
-<br>Thanks to your goodness this wine we offer:
-<br>Fruit of the earth, work of our hands,
-<br>It will become the cup of joy.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Gather the People </strong>
-<br>
-<br>Refrain:
-<br>Gather the people! Enter the feast!
-<br>All are invited, the greatest and least.
-<br>The banquet is ready, now to be shared.
-<br>Join in the heavenly feast that God has prepared.
-<br>
-<br>1. Around this table we dine as kin,
-<br>beloved family of God.
-<br>We share the body of Christ, the Lord.
-<br>Here we become what we eat. (Refrain)
-<br>
-<br>2. Around this table we tell great tales,
-<br>the wondrous stories of grace.
-<br>We hold the memory of Christ, the Lord.
-<br>So we become what we eat. (Refrain)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Bring Forth the Kingdom</strong>
-<br>
-<br>You are salt for the earth, O people:
-<br>Salt for the Kingdom of God!
-<br>Share the flavour of life, O people:
-<br>Life in the Kingdom of God!
-<br>
-<br>Bring forth the Kingdom of mercy,
-<br>Bring forth the Kingdom of peace;
-<br>Bring forth the Kingdom of justice,
-<br>Bring forth the City of God!
-<br>
-<br>You are a light on the hill, O people:
-<br>Light for the City of God!
-<br>Shine so holy and bright, O people:
-<br>Shine for the Kingdom of God!
-<br>
-<br>Bring forth the Kingdom of mercy,
-<br>Bring forth the Kingdom of peace;
-<br>Bring forth the Kingdom of justice,
-<br>Bring forth the City of God!</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>In His Time</strong>
-<br>
-<br>In his time, in his time
-<br>He makes all things beautiful In his time
-<br>Lord please show me everyday
-<br>As you're teaching me your way
-<br>That you do just what you say
-<br>In your time
-<br>
-<br>In your time, in your time
-<br>You make all things beautiful In your time
-<br>Lord my life to you I bring
-<br>May each song I have to sing
-<br>Be to you a lovely thing
-<br>In your time</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>I Offer My Life</strong>
-<br>
-<br>All that I am, all that I have
-<br>I lay them down before you O Lord
-<br>All my regrets, all my acclaim
-<br>The joy and the pain, I’m making them yours
-<br>
-<br>Chorus:
-<br>Lord I offer my life to you
-<br>Everything I’ve been through
-<br>Use it for you glory
-<br>Lord I offer my days to you
-<br>Lifting my praise to you
-<br>As a pleasing sacrifice
-<br>Lord I offer you my life
-<br>
-<br>Things in the past, things yet unseen
-<br>Wishes and dreams that are yet to come true
-<br>All of my hopes, all of my plans
-<br>My heart and my hands are lifted to you (Chorus)</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Joyful Joyful We Adore Thee</strong>
-<br>
-<br>Joyful, joyful, we adore You,
-<br>God of glory, Lord of love;
-<br>Hearts unfold like flow'rs before You,
-<br>Op'ning to the sun above.
-<br>Melt the clouds of sin and sadness;
-<br>Drive the dark of doubt away;
-<br>Giver of immortal gladness,
-<br>Fill us with the light of day!
-<br>
-<br>All Your works with joy surround You,
-<br>Earth and heav'n reflect Your rays,
-<br>Stars and angels sing around You,
-<br>Center of unbroken praise;
-<br>Field and forest, vale and mountain,
-<br>Flow'ry meadow, flashing sea,
-<br>Chanting bird and flowing fountain
-<br>Praising You eternally!
-<br>
-<br>Always giving and forgiving,
-<br>Ever blessing, ever blest,
-<br>Well-spring of the joy of living,
-<br>Ocean-depth of happy rest!
-<br>Loving Father, Christ our Brother,
-<br>Let Your light upon us shine;
-<br>Teach us how to love each other,
-<br>Lift us to the joy divine.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Oh Sacrament Most High</strong>
-<br>
+<p>
 <br>O Sacrament most holy,
 <br>O Sacrament divine!
 <br>All praise and all thanksgiving
@@ -514,11 +337,13 @@ third_nav_title: Spirituality
 <br>o Sacrament divine
 <br>All praise and all thanksgiving
 <br>Be every moment thin</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Spirit and Grace</strong>
-<br>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Spirit and Grace</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>
 <br>Spirit and grace, here in this meal.
 <br>You are the wind that breathes through the field.
 <br>Gather the wheat and form us in Christ.
@@ -531,13 +356,13 @@ third_nav_title: Spirituality
 <br>You are the life that flows through the vine.
 <br>Gather this drink and form us in Christ.
 <br>Come, be our source and blood of life.</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Seek Ye First</strong>
-<br>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Seek Ye First</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>
 <br>Seek ye first the kingdom of God And His righteousness;
 <br>And all these things shall be added unto you. Hallelu, Hallelujah
 <br>
@@ -547,11 +372,13 @@ third_nav_title: Spirituality
 <br>Man shall not live by bread alone, But
 <br>by every word
 <br>That proceeds out from the mouth of God. Hallelu, Hallelujah!</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Table of Plenty</strong>
-<br>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Table of Plenty</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>
 <br>Come to the feast of heaven and earth
 <br>Come to the table of plenty
 <br>God will provide for all that we need
@@ -570,13 +397,13 @@ third_nav_title: Spirituality
 <br>Come to drink without price
 <br>My feast of gladness will feed your spirit
 <br>With faith and fullness of life</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>The Summons</strong>
-<br>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>The Summons</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>
 <br>Will you come and follow me
 <br>If I but call your name?
 <br>Will you go where you don't know
@@ -600,10 +427,13 @@ third_nav_title: Spirituality
 <br>Will you kiss the leper clean,
 <br>And do such as this unseen,
 <br>And admit to what I mean In you and you in me?</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>You Are My All in All</strong>
-<br>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>You Are My All in All</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>
 <br>You are my strength when I am weak
 <br>You are the treasure that I seek
 <br>You are my all in all
@@ -620,17 +450,7 @@ third_nav_title: Spirituality
 <br>When I fall down, You pick me up
 <br>When I am dry you fill my cup
 <br>You are my all in all</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
+</div>
+</details>
+</div>
 <p></p>
