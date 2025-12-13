@@ -188,67 +188,163 @@ third_nav_title: Spirituality
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>Gather the People</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>
+<br>Refrain:
+<br>Gather the people! Enter the feast!
+<br>All are invited, the greatest and least.
+<br>The banquet is ready, now to be shared.
+<br>Join in the heavenly feast that God has prepared.
+<br>
+<br>1. Around this table we dine as kin,
+<br>beloved family of God.
+<br>We share the body of Christ, the Lord.
+<br>Here we become what we eat. (Refrain)
+<br>
+<br>2. Around this table we tell great tales,
+<br>the wondrous stories of grace.
+<br>We hold the memory of Christ, the Lord.
+<br>So we become what we eat. (Refrain)</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Bring Forth the Kingdom</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>
+<br>You are salt for the earth, O people:
+<br>Salt for the Kingdom of God!
+<br>Share the flavour of life, O people:
+<br>Life in the Kingdom of God!
+<br>
+<br>Bring forth the Kingdom of mercy,
+<br>Bring forth the Kingdom of peace;
+<br>Bring forth the Kingdom of justice,
+<br>Bring forth the City of God!
+<br>
+<br>You are a light on the hill, O people:
+<br>Light for the City of God!
+<br>Shine so holy and bright, O people:
+<br>Shine for the Kingdom of God!
+<br>
+<br>Bring forth the Kingdom of mercy,
+<br>Bring forth the Kingdom of peace;
+<br>Bring forth the Kingdom of justice,
+<br>Bring forth the City of God!</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>In His Time</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>
+<br>In his time, in his time
+<br>He makes all things beautiful In his time
+<br>Lord please show me everyday
+<br>As you're teaching me your way
+<br>That you do just what you say
+<br>In your time
+<br>
+<br>In your time, in your time
+<br>You make all things beautiful In your time
+<br>Lord my life to you I bring
+<br>May each song I have to sing
+<br>Be to you a lovely thing
+<br>In your time</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>I Offer My Life</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>
+<br>All that I am, all that I have
+<br>I lay them down before you O Lord
+<br>All my regrets, all my acclaim
+<br>The joy and the pain, I’m making them yours
+<br>
+<br>Chorus:
+<br>Lord I offer my life to you
+<br>Everything I’ve been through
+<br>Use it for you glory
+<br>Lord I offer my days to you
+<br>Lifting my praise to you
+<br>As a pleasing sacrifice
+<br>Lord I offer you my life
+<br>
+<br>Things in the past, things yet unseen
+<br>Wishes and dreams that are yet to come true
+<br>All of my hopes, all of my plans
+<br>My heart and my hands are lifted to you (Chorus)</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Joyful Joyful We Adore Thee</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>
+<br>Joyful, joyful, we adore You,
+<br>God of glory, Lord of love;
+<br>Hearts unfold like flow'rs before You,
+<br>Op'ning to the sun above.
+<br>Melt the clouds of sin and sadness;
+<br>Drive the dark of doubt away;
+<br>Giver of immortal gladness,
+<br>Fill us with the light of day!
+<br>
+<br>All Your works with joy surround You,
+<br>Earth and heav'n reflect Your rays,
+<br>Stars and angels sing around You,
+<br>Center of unbroken praise;
+<br>Field and forest, vale and mountain,
+<br>Flow'ry meadow, flashing sea,
+<br>Chanting bird and flowing fountain
+<br>Praising You eternally!
+<br>
+<br>Always giving and forgiving,
+<br>Ever blessing, ever blest,
+<br>Well-spring of the joy of living,
+<br>Ocean-depth of happy rest!
+<br>Loving Father, Christ our Brother,
+<br>Let Your light upon us shine;
+<br>Teach us how to love each other,
+<br>Lift us to the joy divine.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Oh Sacrament Most High</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>Spirit and Grace</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>Seek Ye First</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>Table of Plenty</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>The Summons</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary></summary>
+<summary>You Are My All in All</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
 </div>
