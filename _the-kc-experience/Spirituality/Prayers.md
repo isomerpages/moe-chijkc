@@ -170,4 +170,6 @@ Christ our Lord, Amen.</p>
 </div>
 </details>
 </div>
-<p></p>
+<p>
+<br><sup>Image from</sup><a href="https://www.vecteezy.com/free-photos/praying&quot;>Praying" rel="noopener noreferrer nofollow" target="_blank"><sup> www.vecteezy.com/free-photos/praying</sup></a>
+</p>
