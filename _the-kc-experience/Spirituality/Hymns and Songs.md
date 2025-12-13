@@ -5,11 +5,57 @@ variant: tiptap
 description: ""
 third_nav_title: Spirituality
 ---
-<h4>The hymns and songs sung in school serve as powerful expressions of our IJ identity and faith. They remind us of our Catholic roots, nurture our relationship with God, and strengthen our sense of belonging to the IJ family. Through these shared songs of praise and gratitude, we celebrate our heritage, deepen our faith, and grow in love, hope, and service to others.<br></h4>
+<p><strong>The hymns and songs sung in school serve as powerful expressions of our IJ identity and faith. They remind us of our Catholic roots, nurture our relationship with God, and strengthen our sense of belonging to the IJ family. Through these shared songs of praise and gratitude, we celebrate our heritage, deepen our faith, and grow in love, hope, and service to others.</strong>
+<br>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/KC Experience/Spirituality/Rally_Call.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/KC Experience/Spirituality/Rally_Call.png">
 </div>
 <h4><br><strong>Songs</strong></h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>Hold on to Our Dream</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>
+<br>Hold on to Our Dream
+<br>IJ Spirit burning bright
+<br>Fill this world with love and light
+<br>Light that shines for all to see
+<br>Love that sets our spirits free
+<br>IJ friendships through the years
+<br>Born of simple joys and tears
+<br>Something tells us deep inside
+<br>IJ friends are friends for life
+<br>Hold on to our dream of peace
+<br>Don’t stop believing
+<br>Our hearts and hands, ever seeking, ever serving
+<br>Hold on to the sound
+<br>Of our friends all joyously singing
+<br>Our voices raised to the Lord our God above
+<br>Hold on to our dream
+<br>IJ spirit burning bright
+<br>Fill our hearts with love and light
+<br>Light to see ourselves anew
+<br>Love begins with me and you
+<br>IJ voices ringing true
+<br>Reaching out and breaking through
+<br>Every heart will hear our call
+<br>Share our dream of peace for all
+<br>Hold on to our dream, hold fast to the IJ Dream
+<br>Hold on to our dream!</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p>
+<br><strong>Songs</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
