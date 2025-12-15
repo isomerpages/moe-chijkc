@@ -25,7 +25,7 @@ for<strong> their parent/guardian </strong>to collect the results on their
 behalf, <strong>or appoint a proxy (aged 21 and above)</strong> to collect
 a physical copy of their results from the school. <strong>Please submit the online form</strong> if
 you are appointing a proxy; or if your parents/ guardians will be collecting
-the results on your behalf <a rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/kcnlevelresults2025</u></a>
+the results on your behalf <a href="https://go.gov.sg/kcnlevelresults2025" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/kcnlevelresults2025</u></a>
 </p>
 </li>
 <li>
@@ -43,7 +43,7 @@ well as <strong>his/her NRIC/ FIN/ card </strong>for verification purposes.</p>
 <p>Parents/ Guardians are advised to park at the nearby HDB carparks.
 <br>
 <br><strong>Link Description:</strong>
-<br><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/kcnlevelresults2025</a>
+<br><a href="https://go.gov.sg/kcnlevelresults2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/kcnlevelresults2025</a>
 </p>
 <p><strong>Form</strong>
 <br><a href="/files/Announcements/Proxy_Form_N_Level_CHIJ_KC.pdf" rel="noopener nofollow" target="_blank">Proxy Form N-Level CHIJ KC</a>
