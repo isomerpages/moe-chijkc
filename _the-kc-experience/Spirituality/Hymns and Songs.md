@@ -8,8 +8,9 @@ third_nav_title: Spirituality
 <p><strong>The hymns and songs sung in school serve as powerful expressions of our IJ identity and faith. They remind us of our Catholic roots, nurture our relationship with God, and strengthen our sense of belonging to the IJ family. Through these shared songs of praise and gratitude, we celebrate our heritage, deepen our faith, and grow in love, hope, and service to others.</strong>
 <br>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/KC Experience/Spirituality/Rally_Call.png">
+<img style="width: 70%;" height="auto" width="100%" alt="Our CHIJ Rally Call" src="/images/KC Experience/Spirituality/Rally_Call_2.png">
 </div>
 <h4><strong>Songs</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -72,12 +73,10 @@ third_nav_title: Spirituality
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>IJ Songs (from Share the Love)</strong>
+<summary><strong>Caritas, Share the Love</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>
-<br><strong>Caritas, Share the Love</strong>
-<br>
 <br>Eyes speaking of an endless grief
 <br>Lips open in a wordless cry
 <br>Let’s share the love we take for granted
