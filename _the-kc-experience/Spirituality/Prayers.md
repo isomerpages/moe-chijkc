@@ -60,19 +60,19 @@ third_nav_title: Spirituality
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>O God, like Blessed Nicolas Barre,</p>
-<p>may I also believe that you truly love me.</p>
-<p>Help me dwell in the sunshine of your great love,</p>
-<p>O Lord, so that whatever I may go through in my life, studies, work and
+<p>O God, like Blessed Nicolas Barre, may I also believe that you truly love
+me.
+<br>Help me dwell in the sunshine of your great love,
+<br>O Lord, so that whatever I may go through in my life, studies, work and
 relationships, at home, in school and in society, I may have complete trust
-in your love and providence.</p>
-<p>Help me to hold firm to your unconditional and excessive love for me and
+in your love and providence.
+<br>Help me to hold firm to your unconditional and excessive love for me and
 grant me your peace as I face the challenges on my journey as a citizen
-of the world.</p>
-<p>Teach me to be generous in using my gifts, talents, expertise and experience
+of the world.
+<br>Teach me to be generous in using my gifts, talents, expertise and experience
 in serving others especially the disadvantaged, the last, the least and
-the lost, without counting the cost.</p>
-<p>Help me always to respect the dignity of each person I encounter and to
+the lost, without counting the cost.
+<br>Help me always to respect the dignity of each person I encounter and to
 work for the common good. Amen.</p>
 </div>
 </details>
@@ -81,15 +81,15 @@ work for the common good. Amen.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<p>Our loving Father</p>
-<p>thank You for all that You have given us:</p>
-<p>our lives, our health and strength;</p>
-<p>our homes and our school;</p>
-<p>our parents and our friends.</p>
-<p>May we never take these for granted,</p>
-<p>But rather show our thanks by living our lives as You would wish us to
-live them.</p>
-<p>Guide each of us in the many choices we will have to make today. Amen.</p>
+<p>Our loving Father
+<br>thank You for all that You have given us:
+<br>our lives, our health and strength;
+<br>our homes and our school;
+<br>our parents and our friends.
+<br>May we never take these for granted,
+<br>But rather show our thanks by living our lives as You would wish us to
+live them.
+<br>Guide each of us in the many choices we will have to make today. Amen.</p>
 </div>
 </details>
 <details class="isomer-details">
