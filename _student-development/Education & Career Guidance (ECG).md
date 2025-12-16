@@ -44,7 +44,11 @@ Admission (DSA).</p>
 </ul>
 <p>Some activities are organised for entire cohorts, while others are offered
 on a voluntary basis, depending on students’ interests. Students will be
-informed of the available opportunities in advance.</p>
+informed of the available opportunities in advance.
+<br>
+<br>Students may explore our ECG Resource Hub (Click <a href="https://sites.google.com/moe.edu.sg/kcecg/welcome" rel="noopener noreferrer nofollow" target="_blank">here</a>) for
+curated resources that support them in learning about post-secondary pathways,
+entry requirements, the world of work, and understanding themselves better.</p>
 <p>Students who wish to explore their post-secondary pathways further, or
 who seek guidance regarding their career interests, strengths, and passions,
 are encouraged to arrange a consultation with the school’s MOE-ECG Counsellor,
