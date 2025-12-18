@@ -46,14 +46,15 @@ Admission (DSA).</p>
 on a voluntary basis, depending on students’ interests. Students will be
 informed of the available opportunities in advance.
 <br>
-<br>Students may explore our ECG Resource Hub (Click <a href="https://sites.google.com/moe.edu.sg/kcecg/welcome" rel="noopener noreferrer nofollow" target="_blank">here</a>) for
-curated resources that support them in learning about post-secondary pathways,
-entry requirements, the world of work, and understanding themselves better.</p>
+<br>Students may explore our <strong>ECG Resource Hub</strong> (Click <a href="https://sites.google.com/moe.edu.sg/kcecg/welcome" rel="noopener noreferrer nofollow" target="_blank">here</a>)
+for curated resources that support them in learning about post-secondary
+pathways, entry requirements, the world of work, and understanding themselves
+better.</p>
 <p>Students who wish to explore their post-secondary pathways further, or
 who seek guidance regarding their career interests, strengths, and passions,
-are encouraged to arrange a consultation with the school’s MOE-ECG Counsellor,
-Ms Sherry Long, by contacting her at <a href="mailto:long_ai_sin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>long_ai_sin@schools.gov.sg</u></a> or
-scanning this QR code:</p>
+are encouraged to arrange a consultation with the school’s <strong>MOE-ECG Counsellor, Ms Sherry Long</strong>,
+by contacting her at <a href="mailto:long_ai_sin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">long_ai_sin@moe.edu.sg</a> or scanning
+this QR code:</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 15%;" height="auto" width="100%" alt="" src="/images/Student Development/Screenshot_2025_06_03_105349.png">
