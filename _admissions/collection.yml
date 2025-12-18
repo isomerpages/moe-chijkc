@@ -2,5 +2,6 @@ collections:
   admissions:
     output: true
     order:
+      - Secondary 1 Appeal (2026).md
       - Seeking A Transfer or Admission to KC (Sec 2 & 3).md
       - Direct School Admissions (DSA).md
