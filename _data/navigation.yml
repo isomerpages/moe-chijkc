@@ -78,10 +78,14 @@ links:
   - title: Admissions
     url: /admissions/dsa/
     sublinks:
+      - title: Sec 1 Appeal (2026)
+        url: https://www.chijkatongconvent.moe.edu.sg/secondary-1-appeal-2026/
       - title: Transfer/Admission to KC
         url: /admissions/xfer/
       - title: Direct School Admissions (DSA)
         url: /admissions/dsa/
+      - title: Information for Secondary 1
+        url: https://sites.google.com/moe.edu.sg/chij-katong-convent-s1
   - title: The KC Village
     url: /the-kc-village/management/
     sublinks:
