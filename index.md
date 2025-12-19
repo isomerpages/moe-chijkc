@@ -16,7 +16,7 @@ sections:
       id: infopic
       button: Click for more info
       url: https://sites.google.com/moe.edu.sg/chij-katong-convent-s1
-      image: /images/Announcements/Marguerite_white_flowers.png
+      image: /images/Announcements/Sec_1_Info_Welcom.png
   - resources:
       title: Latest Updates
       button: More
