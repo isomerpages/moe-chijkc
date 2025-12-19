@@ -17,6 +17,7 @@ sections:
       button: Click for more info
       url: https://sites.google.com/moe.edu.sg/chij-katong-convent-s1
       image: /images/Announcements/Sec_1_Info_Welcom.png
+      alt: https://go.gov.sg/kcsec1info
   - resources:
       title: Latest Updates
       button: More
