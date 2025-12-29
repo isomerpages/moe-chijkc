@@ -42,23 +42,13 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Term Letter (2025)</strong>
+<p><strong>Term Letter (2026)</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/KC Village/Parents/Letters To Parents/KC_Term_1_Letter_to_Parents_Guardians_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 1</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/KC Village/Parents/Letters To Parents/2025_T2_Letter_to_Parents_Guardians.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 2</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/KC Village/Parents/Letters To Parents/2025_T3_Letter_to_Parents__18_Jun_.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 3</a>
+<p><a href="/files/KC Village/Parents/Letters To Parents/KC_T1_2026_Letter_to_Parents_Guardians.pdf" rel="noopener nofollow" target="_blank">Term 1</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -67,7 +57,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Year End Letter</strong>
+<p><strong>Year End Letter (2025)</strong>
 </p>
 </td>
 </tr>
