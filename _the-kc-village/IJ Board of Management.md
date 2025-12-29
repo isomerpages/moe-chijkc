@@ -4,8 +4,9 @@ permalink: /the-kc-village/management/
 description: ""
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KC Village/IJ BoM/IJ_BOM_Members_Photo_Chart__20250625_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KC Village/IJ BoM/IJ_BOM_Members_Photo_Chart__20260101_.png">
 </div>
 <h4>Non-Financial Information</h4>
 <p><a href="/files/KC Village/Annual_Report_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">&gt;&gt;Non-Financial Information</a>
