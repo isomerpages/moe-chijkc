@@ -74,7 +74,79 @@ These include CCE Lessons during curriculum time, Key Student Development
 Experiences (SDEs) beyond the classroom such as during school events and
 programmes, school-based initiatives, teachable moments during other subject
 lessons, and learning opportunities beyond school.</p>
-<p></p>
+<p>a) CCE lessons (incorporating National Education, Cyberwellness, Education
+and Career Guidance, Sexuality Education, Mental Health and Family Education)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The overarching goal of the CCE programme is to nurture a person of integrity
+who acts responsibly with the welfare and interests of others in need.
+It aims to help our students acquire skills to recognise and manage emotions,
+develop care and concern for others, make responsible decisions, establish
+positive relationships and handle challenging situations effectively.</p>
+</li>
+<li>
+<p>CCE lessons are conducted on a weekly basis in class by Form Teachers,
+using student- centric teaching strategies to explicitly teach values and
+social and emotional competencies as well as to equip students with knowledge
+and skills to better understand real-world contexts, through discussions
+on contemporary issues.</p>
+</li>
+</ul>
+<p>b) Student Development Experiences</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>All students have opportunities to build bonds and develop themselves
+through level camps:</p>
+</li>
+</ul>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Level</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Programme</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Residential (School) Outdoor Adventure Camp</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Service-Learning Camp</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Residential (External Camp Site) Outdoor Adventure Camp</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 4 &amp; 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Career Guidance Fiesta</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Screenshot_2025_06_03_110037.png">
