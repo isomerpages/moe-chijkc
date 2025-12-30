@@ -5,7 +5,7 @@ description: ""
 third_nav_title: National Digital Literacy Prog
 variant: tiptap
 ---
-<h4>DMA Parents Option Guide for Chromebook (Updated May 2025)</h4>
+<h4>DMA Parents Option Guide for Chromebook (Updated Dec 2025)</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/KC Experience/NDLP/DMA Options/default_option_chromebook_dma_parent_guide_2025.pdf" rel="noopener nofollow" target="_blank">Default Option</a>
