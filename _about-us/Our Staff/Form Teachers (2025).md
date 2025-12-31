@@ -25,10 +25,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head</p>
-<p>Level Discipline Mistress #1</p>
-<p>Level Discipline Mistress #2</p>
-<p>Level Discipline Mistress #3</p>
+<p><strong>Year Head</strong>
+</p>
+<p><strong>Discipline Mistress #1</strong>
+</p>
+<p><strong>Discipline Mistress #2</strong>
+</p>
+<p><strong>Discipline Mistress #3</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lee Shu Min
@@ -39,10 +43,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_shu_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_shu_min@moe.edu.sg</a>
-</p>
-<p><a href="mailto:nuha_jalal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nuha_jalal@moe.edu.sg</a>
-</p>
-<p><a href="mailto:twoon_wai_yee_hannah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">twoon_wai_yee_hannah@moe.edu.sg</a>
+<br>
+<br><a href="mailto:nuha_jalal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nuha_jalal@moe.edu.sg</a>
+<br><a href="mailto:twoon_wai_yee_hannah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">twoon_wai_yee_hannah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
