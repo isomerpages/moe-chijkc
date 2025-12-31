@@ -22,9 +22,11 @@ hone leadership and organisational skills, in addition to developing them
 to be compassionate servant leaders.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Screenshot_2025_06_03_104912.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/SL_202.jpg">
 </div>
-<p>Figure 1 Hosting visitors from GoodLife! during CNY celebrations</p>
+<p>Figure 1 Getting active with elderly from Fei Yue Family Centre as part
+of the Sec 2
+<br>Service Learning experience</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Screenshot_2025_06_03_104926.png">
