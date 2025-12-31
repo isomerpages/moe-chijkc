@@ -527,6 +527,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nor_sharina_abd_majid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nor_sharina_abd_majid@moe.edu.sg</a>
+<br>
 <br><a href="mailto:Khoo_Ghee_Suan_Christina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Khoo_Ghee_Suan_Christina@moe.edu.sg</a>
 <br><a href="mailto:raudah_hussain@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">raudah_hussain@moe.edu.sg</a>
 <br><a href="mailto:rahimah_abdul_rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rahimah_abdul_rahman@moe.edu.sg</a>
