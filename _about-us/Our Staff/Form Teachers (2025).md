@@ -551,7 +551,8 @@ variant: tiptap
 <br>Ms Angelita Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:raudah_hussain@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">raudah_hussain@moe.edu.sg<br>angelita_tan@moe.edu.sg</a>
+<p><a href="mailto:raudah_hussain@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">raudah_hussain@moe.edu.sg</a>
+<br><a href="mailto:angelita_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">angelita_tan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -565,7 +566,8 @@ variant: tiptap
 <br>Mdm Zakiah Subahan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ang_zhi_hau@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_zhi_hau@moe.edu.sg<br>zakiah_subahan@moe.edu.sg</a>
+<p><a href="mailto:ang_zhi_hau@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_zhi_hau@moe.edu.sg</a>
+<br><a href="mailto:zakiah_subahan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zakiah_subahan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -579,7 +581,8 @@ variant: tiptap
 <br>Ms Lee Oi Leng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mano_mani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mano_mani@moe.edu.sg<br>lee_oi_leng@moe.edu.sg</a>
+<p><a href="mailto:mano_mani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mano_mani@moe.edu.sg</a>
+<br><a href="mailto:lee_oi_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_oi_leng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
