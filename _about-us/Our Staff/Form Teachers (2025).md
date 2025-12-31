@@ -80,7 +80,9 @@ variant: tiptap
 <br>Mr Lee Chun-Hsien</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nufail_mahmood@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nufail_mahmood@moe.edu.sg<br>lee_chun-hsien@moe.edu.sg</a>
+<p><a href="mailto:nufail_mahmood@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nufail_mahmood@moe.edu.sg</a>
+</p>
+<p><a href="mailto:lee_chun-hsien@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_chun-hsien@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -93,7 +95,9 @@ variant: tiptap
 <br>Ms Sarah Phua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nurhana_achmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurhana_achmad@moe.edu.sg<br>sarah_phua_yiran@moe.edu.sg</a>
+<p><a href="mailto:nurhana_achmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurhana_achmad@moe.edu.sg</a>
+</p>
+<p><a href="mailto:sarah_phua_yiran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sarah_phua_yiran@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -106,7 +110,9 @@ variant: tiptap
 <br>Mrs Agnes Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:liew_pui_yen_sandra@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liew_pui_yen_sandra@moe.edu.sg<br>agnes_tan@moe.edu.sg</a>
+<p><a href="mailto:liew_pui_yen_sandra@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liew_pui_yen_sandra@moe.edu.sg</a>
+</p>
+<p><a href="mailto:agnes_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">agnes_tan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
