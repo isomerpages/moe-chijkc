@@ -288,6 +288,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:zairina_mohamad_zen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zairina_mohamad_zen@moe.edu.sg</a>
+<br>
 <br><a href="mailto:leow_see_yong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leow_see_yong@moe.edu.sg</a>
 </p>
 </td>
