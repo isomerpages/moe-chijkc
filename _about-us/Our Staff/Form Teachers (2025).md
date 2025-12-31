@@ -65,7 +65,9 @@ variant: tiptap
 <br>Mr Faizal Hussein</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:xu_sihui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xu_sihui@moe.edu.sg<br>faizal_hussein@moe.edu.sg</a>
+<p><a href="mailto:xu_sihui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xu_sihui@moe.edu.sg</a>
+</p>
+<p><a href="mailto:faizal_hussein@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">faizal_hussein@moe.edu.sg</a>
 </p>
 </td>
 </tr>
