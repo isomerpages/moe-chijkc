@@ -349,12 +349,16 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nor Sharina Abd Majid
-<br>Mrs Christina Lee (I/C),
+<br>Mrs Christina Lee (I/C)
 <br>Mdm Raudah Hussain
 <br>Ms Rahimah Abdul Rahman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:nor_sharina_abd_majid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nor_sharina_abd_majid@moe.edu.sg</a>
+<br><a href="mailto:Khoo_Ghee_Suan_Christina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Khoo_Ghee_Suan_Christina@moe.edu.sg</a>
+<br><a href="mailto:raudah_hussain@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">raudah_hussain@moe.edu.sg</a>
+<br><a href="mailto:rahimah_abdul_rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rahimah_abdul_rahman@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -493,13 +497,17 @@ variant: tiptap
 <br>Discipline Mistress</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Loh Jing Hui Jimmy
-<br>Mrs Christina Lee (I/C),
+<p>Ms Nor Sharina Abd Majid
+<br>Mrs Christina Lee (I/C)
 <br>Mdm Raudah Hussain
 <br>Ms Rahimah Abdul Rahman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:nor_sharina_abd_majid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nor_sharina_abd_majid@moe.edu.sg</a>
+<br><a href="mailto:Khoo_Ghee_Suan_Christina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Khoo_Ghee_Suan_Christina@moe.edu.sg</a>
+<br><a href="mailto:raudah_hussain@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">raudah_hussain@moe.edu.sg</a>
+<br><a href="mailto:rahimah_abdul_rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rahimah_abdul_rahman@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
