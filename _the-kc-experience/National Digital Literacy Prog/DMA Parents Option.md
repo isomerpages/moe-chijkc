@@ -5,7 +5,7 @@ description: ""
 third_nav_title: National Digital Literacy Prog
 variant: tiptap
 ---
-<h4>DMA Parents Option Guide for Chromebook (Updated May 2025)</h4>
+<h4>DMA Parents Option Guide for Chromebook (Updated Dec 2025)</h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/KC Experience/NDLP/DMA Options/default_option_chromebook_dma_parent_guide_2025.pdf" rel="noopener nofollow" target="_blank">Default Option</a>
@@ -21,14 +21,14 @@ variant: tiptap
 </p>
 </li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KC Experience/NDLP/LightSpeed_DMA_Parents_Option_Poster___Slide1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KC Experience/NDLP/Slide1.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KC Experience/NDLP/LightSpeed_DMA_Parents_Option_Poster___Slide2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KC Experience/NDLP/Slide2.png">
 </div>
+<p></p>
 <h4><strong>Option A</strong></h4>
 <p>For Parents who have chosen&nbsp;Option A, please refer to the DMA Parent
 Guide - Option A (Section 4, page 8 - 11) to setup your account to access
