@@ -26,21 +26,21 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Year Head
-<br>Discipline Mistress #1
-<br>Discipline Mistress #2
-<br>Discipline Mistress #3</p>
+<br>Discipline Mistress
+<br>Discipline Mistress
+<br>Discipline Mistress</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lee Shu Min
-<br>Ms Lee Shu Min
 <br>Ms Nuha Jalal (I/C)
+<br>Ms Lee Shu Min
 <br>Ms Hannah Twoon</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_shu_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_shu_min@moe.edu.sg</a>
-<br>
 <br><a href="mailto:nuha_jalal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nuha_jalal@moe.edu.sg</a>
+<br><a href="mailto:lee_shu_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_shu_min@moe.edu.sg</a>
 <br><a href="mailto:twoon_wai_yee_hannah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">twoon_wai_yee_hannah@moe.edu.sg</a>
 </p>
 </td>
@@ -181,15 +181,22 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Year Head
-<br>DM #1
-<br>DM #2
-<br>DM #3</p>
+<br>Discipline Mistress
+<br>Discipline Mistress
+<br>Discipline Mistress</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Lee Shu Min
+<br>Ms Nuha Jalal (I/C)
+<br>Ms Lee Shu Min
+<br>Ms Hannah Twoon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lee_shu_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_shu_min@moe.edu.sg</a>
+<br><a href="mailto:nuha_jalal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nuha_jalal@moe.edu.sg</a>
+<br><a href="mailto:lee_shu_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_shu_min@moe.edu.sg</a>
+<br><a href="mailto:twoon_wai_yee_hannah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">twoon_wai_yee_hannah@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -336,12 +343,15 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Year Head
-<br>DM #1
-<br>DM #2
-<br>DM #3</p>
+<br>Discipline Mistress
+<br>Discipline Mistress
+<br>Discipline Mistress</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Nor Sharina Abd Majid
+<br>Mrs Christina Lee (I/C),
+<br>Mdm Raudah Hussain
+<br>Ms Rahimah Abdul Rahman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -478,9 +488,9 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Year Head
-<br>DM #1
-<br>DM #2
-<br>DM #3</p>
+<br>Discipline Mistress
+<br>Discipline Mistress
+<br>Discipline Mistress</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
