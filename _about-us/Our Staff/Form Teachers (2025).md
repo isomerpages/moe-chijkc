@@ -493,7 +493,10 @@ variant: tiptap
 <br>Discipline Mistress</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Loh Jing Hui Jimmy
+<br>Mrs Christina Lee (I/C),
+<br>Mdm Raudah Hussain
+<br>Ms Rahimah Abdul Rahman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
