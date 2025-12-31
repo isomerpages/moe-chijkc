@@ -27,11 +27,13 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Year Head</strong>
 </p>
-<p><strong>Discipline Mistress #1</strong>
+<p><strong>DM #1</strong>
 </p>
-<p><strong>Discipline Mistress #2</strong>
+<p><strong>DM #2</strong>
 </p>
-<p><strong>Discipline Mistress #3</strong>
+<p><strong>DM #3</strong>
+<br>
+<br><em><sub>DM (Discipline Mistress)</sub></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
