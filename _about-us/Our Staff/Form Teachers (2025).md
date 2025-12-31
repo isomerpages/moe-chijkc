@@ -25,11 +25,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><sub>Year Head </sub>
-<br><sub>Discipline Mistress</sub>  <sub>#1 </sub>
-<br><sub>Discipline Mistress</sub>  <sub>#2</sub> 
-<br><sub>Discipline Mistress</sub>  <sub>#3</sub>
-</p>
+<p>Year Head
+<br>Discipline Mistress #1
+<br>Discipline Mistress #2
+<br>Discipline Mistress #3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lee Shu Min
