@@ -25,14 +25,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head
-<br>Discipline Mistress
+<p><strong>Year Head <br>Discipline Mistress</strong>
 <br>Discipline Mistress
 <br>Discipline Mistress</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Shu Min
-<br>Ms Nuha Jalal (I/C)
+<p><strong>Ms Lee Shu Min <br>Ms Nuha Jalal</strong>
 <br>Ms Lee Shu Min
 <br>Ms Hannah Twoon</p>
 <p></p>
@@ -186,14 +184,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head
-<br>Discipline Mistress
+<p><strong>Year Head <br>Discipline Mistress</strong> 
 <br>Discipline Mistress
 <br>Discipline Mistress</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Shu Min
-<br>Ms Nuha Jalal (I/C)
+<p><strong>Ms Lee Shu Min <br>Ms Nuha Jalal</strong>
 <br>Ms Lee Shu Min
 <br>Ms Hannah Twoon</p>
 </td>
@@ -257,7 +253,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:farah_syazwana_sulaiman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">farah_syazwana_sulaiman@moe.edu.sg</a>
-<br>
 <br><a href="mailto:pang_kim_fong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pang_kim_fong@moe.edu.sg</a>
 </p>
 </td>
@@ -305,7 +300,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:hannah_nadhirah_lokman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hannah_nadhirah_lokman@moe.edu.sg</a>
-<br>
 <br><a href="mailto:ho_shi_an@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_shi_an@moe.edu.sg</a>
 <br><a href="mailto:kuek_hao_loong_daniel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kuek_hao_loong_daniel@moe.edu.sg</a>
 </p>
@@ -359,14 +353,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head
-<br>Discipline Mistress
+<p><strong>Year Head <br>Discipline Mistress</strong>
 <br>Discipline Mistress
 <br>Discipline Mistress</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nor Sharina Abd Majid
-<br>Mrs Christina Lee (I/C)
+<p><strong>Ms Nor Sharina Abd Majid <br>Mrs Christina Lee</strong>
 <br>Mdm Raudah Hussain
 <br>Ms Rahimah Abdul Rahman</p>
 </td>
@@ -514,14 +506,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head
-<br>Discipline Mistress
+<p><strong>Year Head <br>Discipline Mistress</strong> 
 <br>Discipline Mistress
 <br>Discipline Mistress</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nor Sharina Abd Majid
-<br>Mrs Christina Lee (I/C)
+<p><strong>Ms Nor Sharina Abd Majid <br>Mrs Christina Lee</strong>
 <br>Mdm Raudah Hussain
 <br>Ms Rahimah Abdul Rahman</p>
 </td>
