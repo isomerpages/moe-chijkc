@@ -596,7 +596,8 @@ variant: tiptap
 <br>Ms Tan Siew Yean</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_swee_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_swee_hong@moe.edu.sg<br>tan_siew_yean@moe.edu.sg</a>
+<p><a href="mailto:tan_swee_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_swee_hong@moe.edu.sg</a>
+<br><a href="mailto:tan_siew_yean@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_siew_yean@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -624,7 +625,8 @@ variant: tiptap
 <br>Mrs Cherylyn Koh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:shahren_mansor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shahren_mansor@moe.edu.sg<br>cherylyn_poh_fung_sze@moe.edu.sg</a>
+<p><a href="mailto:shahren_mansor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shahren_mansor@moe.edu.sg</a>
+<br><a href="mailto:cherylyn_poh_fung_sze@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cherylyn_poh_fung_sze@moe.edu.sg</a>
 </p>
 </td>
 </tr>
