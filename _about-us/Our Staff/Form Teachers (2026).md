@@ -353,7 +353,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year Head <br>Discipline Mistress</strong>
+<p><strong>Year Head <br></strong>
+<br><strong>Discipline Mistress</strong>
 <br>Discipline Mistress
 <br>Discipline Mistress</p>
 </td>
@@ -506,7 +507,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year Head <br>Discipline Mistress</strong> 
+<p><strong>Year Head <br></strong>
+<br><strong>Discipline Mistress</strong> 
 <br>Discipline Mistress
 <br>Discipline Mistress</p>
 </td>
