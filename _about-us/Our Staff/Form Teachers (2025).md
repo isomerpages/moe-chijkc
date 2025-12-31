@@ -396,7 +396,8 @@ variant: tiptap
 <br>Ms Phoebe Toh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:shireen_kaderuppan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shireen_kaderuppan@moe.edu.sg<br>phoebe_toh_cui_yan@moe.edu.sg</a>
+<p><a href="mailto:shireen_kaderuppan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shireen_kaderuppan@moe.edu.sg</a>
+<br><a href="mailto:phoebe_toh_cui_yan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">phoebe_toh_cui_yan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
