@@ -29,8 +29,9 @@ variant: tiptap
 <br>DM #1
 <br>DM #2
 <br>DM #3
-<br><em><sub>DM: </sub></em>
-<br><em><sub>(Discipline Master / Mistress)</sub></em>
+<br>
+<br><strong><em><sub>D</sub></em></strong><em><sub>iscipline </sub></em><strong><em><sub>M</sub></em></strong><em><sub>aster</sub></em>
+<br><strong><em><sub>D</sub></em></strong><em><sub>iscipline </sub></em><strong><em><sub>M</sub></em></strong><em><sub>istress</sub></em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
