@@ -78,17 +78,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Aesthetics</strong> 
-<br>Ms Yin Mei Lenden</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br><a href="mailto:yin_mei_lenden@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yin_mei_lenden@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Character and Citizenship Education</strong> 
 <br>Ms Cheryl Anne Lim</p>
 </td>
@@ -123,22 +112,22 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Information and Communication Technology</strong> 
-<br>Mr Joseph Tan</p>
+<br>Mr Gary Chua</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br><a href="mailto:tan_hong_yak@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hong_yak@moe.edu.sg</a>
+<br><a href="mailto:chua_chiang_leong_gary@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_chiang_leong_gary@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mathematics (Covering)</strong> 
-<br>Ms Annie Lim</p>
+<p><strong>Mathematics</strong>
+<br>Ms Jacey Lau</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br><a href="mailto:lim_ai_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_ai_hui@moe.edu.sg</a>
+<br><a href="mailto:lau_soo_ping_jacey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lau_soo_ping_jacey@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -161,17 +150,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>
 <br><a href="mailto:chua_soon_heng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_soon_heng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>School Staff Developer</strong>
-<br>Mrs Daphne Toh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br><a href="mailto:chan_yan_qing_daphne@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_yan_qing_daphne@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -200,7 +178,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Year Head</strong> 
-<br>Mr Loh Jing Hui</p>
+<br>Mr Loh Jing Hui Jimmy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
