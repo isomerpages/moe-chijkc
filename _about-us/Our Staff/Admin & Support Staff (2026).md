@@ -1,5 +1,5 @@
 ---
-title: Admin & Support Staff (2025)
+title: Admin & Support Staff (2026)
 permalink: /about-us/our-staff/admin-support-staff/
 description: ""
 third_nav_title: Our Staff
@@ -104,12 +104,10 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Operations Support Officer</strong> 
 <br>Mdm Ng Ka Hoon
-<br>Mr Tan Chew Seng
-<br>Mr Abd Majid Abd Hamid</p>
+<br>Mr Tan Chew Seng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br>NA
 <br>NA
 <br>NA</p>
 </td>
@@ -117,12 +115,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Receptionist</strong> 
-<br>Ms Jamaliah Binte Ismail</p>
+<br>-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br><a href="mailto:jamaliah_ismail_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">jamaliah_ismail_a@moe.edu.sg</a>
-</p>
+<br>-</p>
 </td>
 </tr>
 <tr>
@@ -143,12 +140,10 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Relief Educator</strong>
-<br>Ms Liu Yanjun
 <br>Ms Roshini Wijaya</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br><a href="mailto:liu_yanjun_c@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_yanjun_c@moe.edu.sg</a>
 <br><a href="mailto:roshini_wijaya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">roshini_wijaya@moe.edu.sg</a>
 </p>
 </td>
