@@ -63,12 +63,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/KC Village/Parents/Letters To Parents/2025_EOY_Letter_to_Parents_Guardians.pdf" rel="noopener noreferrer nofollow" target="_blank">-</a>
-</p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/KC Village/Parents/Letters To Parents/Secondary_JC_CI_Level_Joint_Advisory__Term_4_.pdf" rel="noopener noreferrer nofollow" target="_blank">-</a>
-</p>
+<p>-</p>
 </td>
 </tr>
 </tbody>
