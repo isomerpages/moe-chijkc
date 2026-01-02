@@ -248,7 +248,7 @@ variant: tiptap
 <p>Ms Shermaine Ng Zhi Xin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">shermaine_ng_zhi_xin_a@moe.edu.sg</a>
+<p><a href="mailto:shermaine_ng_zhi_xin_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shermaine_ng_zhi_xin_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -257,7 +257,7 @@ variant: tiptap
 <p>Ms Tan Hui Wen Acacia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_hui_wen_acacia_a@moe.edu.sg</a>
+<p><a href="mailto:tan_hui_wen_acacia_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hui_wen_acacia_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
