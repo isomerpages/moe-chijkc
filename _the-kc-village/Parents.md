@@ -57,17 +57,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Year End Letter (2025)</strong>
+<p><strong>Year End Letter (2026)</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/KC Village/Parents/Letters To Parents/2025_EOY_Letter_to_Parents_Guardians.pdf" rel="noopener noreferrer nofollow" target="_blank">2025 Year End Letter to Parents / Guardians</a>
+<p><a href="/files/KC Village/Parents/Letters To Parents/2025_EOY_Letter_to_Parents_Guardians.pdf" rel="noopener noreferrer nofollow" target="_blank">-</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/KC Village/Parents/Letters To Parents/Secondary_JC_CI_Level_Joint_Advisory__Term_4_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary_JC Level Joint Advisory</a>
+<p><a href="/files/KC Village/Parents/Letters To Parents/Secondary_JC_CI_Level_Joint_Advisory__Term_4_.pdf" rel="noopener noreferrer nofollow" target="_blank">-</a>
 </p>
 </td>
 </tr>
@@ -102,48 +102,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/KC Village/Parents/Sec_1_Parent_Engagement_slides_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">06 Jan 2025</a>
-</p>
-</li>
-</ul>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/KC Village/Parents/CHIJ_KC_Subject_Options_Webinar_2025_Slides_for_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">20 Jan 2025</a>
-</p>
-</li>
-<li>
-<p><a href="/files/KC Village/Parents/CHIJ_KC_Subject_Options_Webinar_2025_Slides_for_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Subject Options Webinar 2025 slides</a>
-</p>
-</li>
-</ul>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/KC Village/Parents/Principal_s_Address_2025_Sec_3_Parent_Engagement.pdf" rel="noopener nofollow" target="_blank">Principal's Address</a>
-</p>
-</li>
-<li>
-<p><a href="/files/KC Village/Parents/2025_Sec_3_Parent_Engagement_YH_Talk.pdf" rel="noopener nofollow" target="_blank">Year Head Talk</a>
-</p>
-</li>
-<li>
-<p><a href="/files/KC Village/Parents/School_Counsellor_Talk_Supporting_Your_Child_s_Well_being.pdf" rel="noopener nofollow" target="_blank">School Counsellor Talk Supporting Your Child’s Well-being</a>
-</p>
-</li>
-</ul>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/KC Village/Parents/Grad_cohort_Parent_Engagement_slides_2025.pdf" rel="noopener nofollow" target="_blank">10 Feb 2025</a>
-</p>
-</li>
-</ul>
+<p>-</p>
 </td>
 </tr>
 </tbody>
