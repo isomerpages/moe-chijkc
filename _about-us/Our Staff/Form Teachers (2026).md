@@ -482,7 +482,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>307</p>
+<p><strong>307</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Sukhjeet Singh
