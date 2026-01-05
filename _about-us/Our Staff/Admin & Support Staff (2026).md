@@ -103,23 +103,17 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Operations Support Officer</strong> 
+<br>Mr Kiang Long Tian
 <br>Mdm Ng Ka Hoon
+<br>Mdm Nurlina May
 <br>Mr Tan Chew Seng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
 <br>NA
+<br>NA
+<br>NA
 <br>NA</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Receptionist</strong> 
-<br>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>-</p>
 </td>
 </tr>
 <tr>
@@ -139,17 +133,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Relief Educator</strong>
-<br>Ms Roshini Wijaya</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br><a href="mailto:roshini_wijaya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">roshini_wijaya@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -164,14 +147,6 @@ variant: tiptap
 <col>
 </colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<h4>Curricular &amp; Co-Curricular Support</h4>
-</th>
-<th rowspan="1" colspan="1">
-<h4>Email</h4>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Special Educational Needs Officer</strong> 
@@ -199,8 +174,8 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Counsellor</strong> 
-<br>Aqilah Sha'aban
-<br>Tan Han Ying Abigail</p>
+<br>Ms Aqilah Sha'aban
+<br>Ms Tan Han Ying Abigail</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
@@ -222,10 +197,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Student Welfare Officer</strong>
+<br>Ms Nurshahira Binte Abdul Jabbar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>
+<br><a href="mailto:nurshahira_abdul_jabbar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurshahira_abdul_jabbar@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>

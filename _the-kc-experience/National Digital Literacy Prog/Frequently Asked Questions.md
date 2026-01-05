@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <p><strong>Choice of Device</strong>
 </p>
-<p>1 . <strong>What is the device bundle selected by the school (2025)?</strong>
+<p>1 . <strong>What is the device bundle selected by the school (2026)?</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -48,7 +48,7 @@ variant: tiptap
 <p>Processor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Intel® Processor N150</p>
+<p>Intel® Processor N250</p>
 </td>
 </tr>
 <tr>
@@ -56,7 +56,7 @@ variant: tiptap
 <p>RAM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8 GB LPDDR5X system memory</p>
+<p>8GB LPDDR5X 4800MT/s</p>
 </td>
 </tr>
 <tr>
@@ -72,7 +72,7 @@ variant: tiptap
 <p>Screen&nbsp;size</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12.2" WUXGA LCD with Integrated Multi-touch</p>
+<p>12.2” WUXGA (1920 x 1200) IPS; touchscreen</p>
 </td>
 </tr>
 <tr>
@@ -80,16 +80,18 @@ variant: tiptap
 <p>Weight</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1.5 kg</p>
+<p>1.45 kg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Warranty* and Insurance (does not cover accessories)</p>
+<p>Warranty* and Insurance
+<br>(Covers faulty battery, power adapter, active stylus)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 Year Carry-In Warranty
-<br>3 Year Insurance</p>
+<br>3 Year Insurance
+<br>Add-on <strong>4th Year</strong> Warranty &amp; Insurance</p>
 </td>
 </tr>
 <tr>
@@ -160,19 +162,19 @@ to opt out of this bulk purchase will be informed to have your child/ward
 bring the <strong>*</strong>existing device (<strong>*ONLY Chromebook is allowed</strong>)
 to school for suitability assessment. Parents can have their child/ward
 bring the existing Chromebook to school for an assessment on the suitability
-between <strong>8 to 10 Jan 2025</strong>.
+between <strong>12 to 14 Jan 2026</strong>.
 <br>
 <br>We highly recommend that the existing Chromebook should support the following:
 <br>
 <br>- 11.6 inch and above display [to avoid eyestrain]
-<br>- Intel N100 and above Processor [for sufficient processing speed]
+<br>- Intel N150 and above Processor [for sufficient processing speed]
 <br>- 8GB of RAM [for quick access to computing resources]
 <br>- 64GB of Storage space
 <br>- Stylus support (Student will be required to annotate and draw on the
 PLD)
 <br>- Battery must be able to hold the charge for 10 hours, for lessons and
 after school-hours (CCA time)
-<br>- Able to receive Google Auto Update at least till 2030</p>
+<br>- Able to receive Google Auto Update at least till 2031</p>
 <p>We would like to highlight that if the student-owned device is assessed
 to be unsuitable, parents/guardians are strongly encouraged to give their
 consent at this link <a href="https://go.gov.sg/edusaveformsgso" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/edusaveformsgso</a> to
