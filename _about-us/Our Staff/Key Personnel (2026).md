@@ -78,6 +78,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Aesthetics</strong>
+<br>Ms Chia Siew Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br><a href="mailto:chia_siew_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia_siew_hui@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Character and Citizenship Education</strong> 
 <br>Ms Cheryl Anne Lim</p>
 </td>
@@ -161,6 +172,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>
 <br><a href="mailto:toh_meng_yeow@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_meng_yeow@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Staff Development</strong>
+<br>Ms Chia Siew Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br><a href="mailto:chia_siew_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia_siew_hui@moe.edu.sg</a>
 </p>
 </td>
 </tr>
