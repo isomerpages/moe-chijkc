@@ -103,23 +103,17 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Operations Support Officer</strong> 
+<br>Mr Kiang Long Tian
 <br>Mdm Ng Ka Hoon
+<br>Mdm Nurlina May
 <br>Mr Tan Chew Seng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
 <br>NA
+<br>NA
+<br>NA
 <br>NA</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Receptionist</strong> 
-<br>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br>-</p>
 </td>
 </tr>
 <tr>
