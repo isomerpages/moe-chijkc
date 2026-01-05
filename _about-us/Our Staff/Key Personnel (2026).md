@@ -257,7 +257,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Chinese</strong>
-<br>Lee Chun-Hsien</p>
+<br>Mr Lee Chun-Hsien</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
@@ -279,8 +279,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Geography</strong>
-</p>
-<p>Ms Hannah Twoon</p>
+<br>Ms Hannah Twoon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
