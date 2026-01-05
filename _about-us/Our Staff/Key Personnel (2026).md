@@ -224,11 +224,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Art</strong> 
-<br>Ms Heather Teo</p>
+<br>Ms Desiree Tham</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br><a href="mailto:teo_wei_yi_heather@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_wei_yi_heather@moe.edu.sg</a>
+<br><a href="mailto:desiree_tham_xue_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">desiree_tham_xue_ping@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -256,6 +256,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Chinese</strong>
+<br>Lee Chun-Hsien</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br><a href="mailto:lee_chun-hsien@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_chun-hsien@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>English</strong>
 <br>Ms Lee Jiak Peng Audrey</p>
 </td>
@@ -267,12 +278,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Information and Communication Technology (Covering)</strong>
-<br>Mr Tan Yan Zhao</p>
+<p><strong>Geography</strong>
+</p>
+<p>Ms Hannah Twoon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br><a href="mailto:tan_yan_zhao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yan_zhao@moe.edu.sg</a>
+<br><a href="mailto:twoon_wai_yee_hannah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">twoon_wai_yee_hannah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -393,17 +405,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>
 <br><a href="mailto:zakiah_subahan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zakiah_subahan@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Literature</strong> 
-<br>Mrs Sukhjeet Singh</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br><a href="mailto:sukhjeet_kaur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sukhjeet_kaur@moe.edu.sg</a>
 </p>
 </td>
 </tr>
