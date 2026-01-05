@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <p><strong>Choice of Device</strong>
 </p>
-<p>1 . <strong>What is the device bundle selected by the school (2025)?</strong>
+<p>1 . <strong>What is the device bundle selected by the school (2026)?</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -48,7 +48,7 @@ variant: tiptap
 <p>Processor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Intel® Processor N150</p>
+<p>Intel® Processor N250</p>
 </td>
 </tr>
 <tr>
@@ -56,7 +56,7 @@ variant: tiptap
 <p>RAM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8 GB LPDDR5X system memory</p>
+<p>8GB LPDDR5X 4800MT/s</p>
 </td>
 </tr>
 <tr>
@@ -85,11 +85,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Warranty* and Insurance (does not cover accessories)</p>
+<p>Warranty* and Insurance
+<br>(Covers faulty battery, power adapter, active stylus too)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 Year Carry-In Warranty
-<br>3 Year Insurance</p>
+<br>3 Year Insurance
+<br>Add-on <strong>4th Year</strong> Warranty &amp; Insurance</p>
 </td>
 </tr>
 <tr>
