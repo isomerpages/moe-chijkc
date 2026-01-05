@@ -66,6 +66,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Roshini Wijaya</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:roshini_wijaya_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">roshini_wijaya_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Shireen Kaderuppan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -87,7 +96,7 @@ variant: tiptap
 <p>Ms Chu Shuai Wu Freyja</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>TBC</p>
 </td>
 </tr>
 <tr>
@@ -95,7 +104,7 @@ variant: tiptap
 <p>Mr Ernest Yeo Zhong Ke</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>TBC</p>
 </td>
 </tr>
 </tbody>
@@ -231,15 +240,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tham_boon_khai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tham_boon_khai@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Roshini Wijaya</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:roshini_wijaya_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">roshini_wijaya_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
