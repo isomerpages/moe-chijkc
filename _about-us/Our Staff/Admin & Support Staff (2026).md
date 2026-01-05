@@ -148,14 +148,6 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<h4>Curricular &amp; Co-Curricular Support</h4>
-</th>
-<th rowspan="1" colspan="1">
-<h4>Email</h4>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><strong>Special Educational Needs Officer</strong> 
 <br>Ms Gursheran Kaur
@@ -182,8 +174,8 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Counsellor</strong> 
-<br>Aqilah Sha'aban
-<br>Tan Han Ying Abigail</p>
+<br>Ms Aqilah Sha'aban
+<br>Ms Tan Han Ying Abigail</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
@@ -205,10 +197,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Student Welfare Officer</strong>
+<br>Ms Nurshahira Binte Abdul Jabbar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>
+<br><a href="mailto:nurshahira_abdul_jabbar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurshahira_abdul_jabbar@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
