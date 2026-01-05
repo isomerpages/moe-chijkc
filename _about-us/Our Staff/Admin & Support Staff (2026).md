@@ -133,17 +133,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Relief Educator</strong>
-<br>Ms Roshini Wijaya</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br><a href="mailto:roshini_wijaya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">roshini_wijaya@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
