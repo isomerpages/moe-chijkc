@@ -12,6 +12,13 @@ sections:
       url: /media/announcements/
       title: A Convent by the Sea
   - infopic:
+      title: 2025 GCE O-Level Results Release
+      id: infopic
+      button: More Info
+      url: /2025-gce-o-level-results-release-matters/
+      image: /images/Announcements/O_level_Results_Release.jpg
+      alt: Image alt text
+  - infopic:
       title: Sec 1 Info
       id: infopic
       button: Click for more info
