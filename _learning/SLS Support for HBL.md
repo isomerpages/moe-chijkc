@@ -31,7 +31,7 @@ MIMS / SLS / Google Classroom queries including all SLS / iCON account
 of accounts, as well as queries about lesson assignments.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>School-based Helpline:&nbsp;<strong><a href="http://go.gov.sg/kcaccthelpline" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/kcaccthelpline</a></strong>
+<p>School-based Helpline:&nbsp;<strong><a href="https://go.gov.sg/kcacctshelpline" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/kcacctshelpline</a></strong>
 </p>
 </li>
 <li>
