@@ -6,8 +6,6 @@ variant: tiptap
 ---
 <p><a href="/files/Parent%20Kit%20-%20Supporting%20your%20child%20during%20Full%20HBL.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Kit - Supporting your child during Full HBL</a>
 </p>
-<p><strong>Lastest Update (12 July 2023)</strong>
-</p>
 <p>With effect from <strong>20 July 2023</strong>, students will be able to
 perform a password reset on their own with the Student Self-Service Password
 Reset function in the MOE Identity Management System (<strong>MIMS</strong>)
@@ -33,7 +31,7 @@ MIMS / SLS / Google Classroom queries including all SLS / iCON account
 of accounts, as well as queries about lesson assignments.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>School-based Helpline:&nbsp;<strong><a href="http://go.gov.sg/kcaccthelpline" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/kcaccthelpline</a></strong>
+<p>School-based Helpline:&nbsp;<strong><a href="https://go.gov.sg/kcacctshelpline" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/kcacctshelpline</a></strong>
 </p>
 </li>
 <li>
