@@ -100,7 +100,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="/files/KC Village/Parents/CCA_Sharing_Sec_1_Parent_Engagement_2026.pdf" rel="noopener nofollow" target="_blank">CCA Sharing_Sec 1 Parent Engagement</a>
+<br><a href="/files/KC Village/Parents/KC_PLD_Briefing_to_Parents_2026.pdf" rel="noopener nofollow" target="_blank">KC PLD Briefing to Parents</a>
+<br><a href="/files/KC Village/Parents/Principal_s_Address_2026_Sec_1_Parent_Engagement.pdf" rel="noopener nofollow" target="_blank">Principal's Address_2026 Sec 1 Parent Engagement</a>
+<br><a href="/files/KC Village/Parents/YH_Sharing_Sec_1_Parent_Engagement_2026.pdf" rel="noopener nofollow" target="_blank">YH Sharing_Sec 1 Parent Engagement</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
