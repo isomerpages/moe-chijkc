@@ -12,6 +12,14 @@ sections:
       url: /media/announcements/
       title: A Convent by the Sea
   - infopic:
+      title: 2025 National Examinations Results
+      id: infopic
+      description: 2025 O-Level Results Admin & Progression Briefing Slides
+      button: Click to download
+      url: /2025-national-examinations-results/
+      image: /images/Announcements/O_level_Results.png
+      alt: Image alt text
+  - infopic:
       title: 2025 GCE O-Level Results Release
       id: infopic
       button: More Info
