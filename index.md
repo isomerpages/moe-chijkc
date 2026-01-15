@@ -17,6 +17,7 @@ sections:
       button: Click to read more
       url: /2025-national-examinations-results/
       image: /images/Announcements/Class_of_2025.png
+      alt: Class of 2025
   - infopic:
       title: 2025 O-Level Exam Results Briefing
       id: infopic
