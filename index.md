@@ -16,7 +16,7 @@ sections:
       id: infopic
       description: 2025 O-Level Results Admin & Progression Briefing Slides
       button: Click to download
-      url: /2025-national-examinations-results/
+      url: /2025-o-level-results-admin-n-progression
       image: /images/Announcements/O_level_Results.png
       alt: Image alt text
   - infopic:
