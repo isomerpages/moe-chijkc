@@ -110,7 +110,10 @@ variant: tiptap
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="/files/KC Village/Parents/Year_Head_Address.pdf" rel="noopener nofollow" target="_blank">Year Head Address</a>
+<br><a href="/files/KC Village/Parents/Supporting_Your_Child_Through_Adolescence.pdf" rel="noopener nofollow" target="_blank">Supporting Your Child Through Adolescence</a>
+<br><a href="/files/KC Village/Parents/Principal_s_Address.pdf" rel="noopener nofollow" target="_blank">Principal's Address</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>-</p>
