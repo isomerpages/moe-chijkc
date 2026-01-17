@@ -64,7 +64,7 @@ variant: tiptap
 <p>Track &amp; Field</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bedok Stadium / School</p>
+<p>School / Victoria Junior College</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wed &amp; Fri</p>
@@ -86,7 +86,7 @@ variant: tiptap
 <p>Sports Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>East Coast Park</p>
+<p>East Coast Park / Victoria Junior College</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wed &amp; Fri</p>
