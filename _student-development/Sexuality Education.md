@@ -4,7 +4,9 @@ permalink: /student-development/sex-ed/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Moe Sexuality Education In Schools</strong></h4>
+<h4><strong>Moe Sexuality Education in Schools</strong></h4>
+<ol data-tight="true" class="tight">
+<li>
 <p>Sexuality Education (SEd) in schools aims to enable students to understand
 the physiological, social and emotional changes they experience as they
 mature, develop healthy and rewarding relationships with others, including
@@ -15,16 +17,22 @@ marriages and stable nuclear family units with extended family support.
 The teaching and learning of SEd is based on respect for the values and
 beliefs of the different ethnic and religious communities in Singapore
 on sexuality issues.</p>
-<p>The&nbsp;<strong>Goals</strong>&nbsp;of Sexuality Education are to:</p>
+<p></p>
+</li>
+<li>
+<p>The <strong>Goals</strong> of Sexuality Education are to:</p>
 <p>(a) Support students in managing their physiological, social and emotional
-changes as they grow up and develop safe and healthy relationships
+changes as they grow up and develop safe and healthy relationships.
 <br>(b) Guide students to make wise, informed and responsible decisions on
 sexuality matters.
-<br>(c) Help students develop a moral compass and respect for themselves and
-others by having positive mainstream values and attitudes about sexuality
+<br>(c)&nbsp;Help students develop a moral compass and respect for themselves
+and others by having positive mainstream values and attitudes about sexuality
 that are premised on the family as the basic unit of society.</p>
-<p>The&nbsp;<strong>Key Messages</strong>&nbsp;of Sexuality Education are:</p>
-<p>(a) Love and respect yourself as you love and respect others;
+<p></p>
+</li>
+<li>
+<p>The <strong>Key Messages</strong> of Sexuality Education are:
+<br>(a)&nbsp;Love and respect yourself as you love and respect others;
 <br>(b)&nbsp;Build positive relationships based on love and respect (which
 are the foundation for strong families);
 <br>(c)&nbsp;Make responsible decisions for yourself, your family and society;
@@ -32,23 +40,32 @@ and
 <br>(d)&nbsp;Abstinence before marriage is the best protection against STIs/HIV
 and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
-<p>
-<br>You may click&nbsp;<strong><a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong>&nbsp;for
+<p></p>
+<p>You may click&nbsp;<strong><a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong>&nbsp;for
 more information on MOE Sexuality Education.</p>
-<p><strong>Overview Of CHIJ Katong Convent’s Sexuality Education Programme For 2025</strong>
-</p>
+</li>
+</ol>
+<h4><strong>Overview Of CHIJ Katong Convent’s Sexuality Education Programme For 2025</strong></h4>
+<ol start="4" data-tight="true" class="tight">
+<li>
 <p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
 Sexual Behaviour, and, Culture, Society and Law.&nbsp;</p>
+<p></p>
 <p>You may click&nbsp;<strong><a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong>&nbsp;for
 more information on the scope of Sexuality Education in the school curriculum.</p>
+<p></p>
+</li>
+<li>
 <p>The subjects that incorporate topics on sexuality include:
 <br>a. Science
 <br>b. Character and Citizenship Education (CCE)</p>
-<p></p>
-<p><strong>Sexuality Education Lessons:</strong>
-</p>
+</li>
+</ol>
+<h4><strong>Sexuality Education Lessons:</strong></h4>
+<ol start="6" data-tight="true" class="tight">
+<li>
 <p>The values and attitudes of our youth towards sexuality are increasingly
 shaped by their peers, exposure to the media, popular culture and the internet.
 Adolescence is a complex stage in life as the adolescent attempts to find
@@ -63,17 +80,23 @@ ability to act responsibly. Given the pressures faced by the middle adolescent
 from within themselves and from peers, it is important to build a strong
 sense of self-worth, personal conviction and an understanding of the possible
 consequences of sexual behaviour.</p>
+<p></p>
+</li>
+<li>
 <p>Through the Sexuality Education lessons, secondary students will have
 the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.
 <br>
-<br>At CHIJ Katong Convent, the following Sexuality Education lessons will
-be taught in 2025:
-<br>Please see below for the schedule of the lessons from Sec 1 to 5.</p>
+</p>
+<p>At CHIJ Katong Convent, the following Sexuality Education lessons will
+be taught in 2026:</p>
+<p>Please see below for the schedule of the lessons from Sec 1 to 5.</p>
 <p>
 <br><strong>Download the</strong>&nbsp;<strong><a href="https://www.chijkatongconvent.moe.edu.sg/files/Student%20Development/Sexuality%20Education/Sec_1_to_5_Sexuality_Education_Lesson_Schedule_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Sec 1 to 5 Sexuality Education Lesson Schedule 2025</u></a></strong>
 </p>
+</li>
+</ol>
 <p><strong><em><u>eTeens</u></em><u>&nbsp;Programme</u></strong>:</p>
 <p><em>eTeens</em>&nbsp;is a programme developed by Health Promotion Board,
 in collaboration with the Ministry of Education, to provide Secondary 3
