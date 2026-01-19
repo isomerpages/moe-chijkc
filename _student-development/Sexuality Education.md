@@ -45,7 +45,7 @@ ones.</p>
 more information on MOE Sexuality Education.</p>
 </li>
 </ol>
-<h4><strong>Overview Of CHIJ Katong Convent’s Sexuality Education Programme For 2025</strong></h4>
+<h4><strong>Overview Of CHIJ Katong Convent’s Sexuality Education Programme For 2026</strong></h4>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
@@ -198,7 +198,7 @@ The completed form is to be submitted by 05/02/2026.</p>
 <li>
 <p>Parents can contact the school at Ms Sandra Ezekiel at either 64486433
 ext. 323 or via email (<a href="mailto:liew_pui_yen_sandra@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liew_pui_yen_sandra@moe.edu.sg</a>)
-or Ms Cheryl Ann Lim at 64486433 ext.138 or via email(<a href="mailto:liew_pui_yen_sandra@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_su_ying_cheryl@moe.edu.sg</a>)for
+or Ms Cheryl Anne Lim at 64486433 ext.138 or via email(<a href="mailto:liew_pui_yen_sandra@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_su_ying_cheryl@moe.edu.sg</a>)for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
 </li>
