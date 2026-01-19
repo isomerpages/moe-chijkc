@@ -93,25 +93,27 @@ issues related to sexuality, which are of prime concern at this age.
 be taught in 2026:</p>
 <p>Please see below for the schedule of the lessons from Sec 1 to 5.</p>
 <p>
-<br><strong>Download the</strong>&nbsp;<strong><a href="https://www.chijkatongconvent.moe.edu.sg/files/Student%20Development/Sexuality%20Education/Sec_1_to_5_Sexuality_Education_Lesson_Schedule_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Sec 1 to 5 Sexuality Education Lesson Schedule 2025</u></a></strong>
+<br><strong>Download the</strong>&nbsp;<strong><a href="/files/Student Development/Sexuality Education/Sec_1_to_5_Sexuality_Education_Lesson_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">Sec 1 to 5 Sexuality Education Lesson Schedule 2026</a></strong>
 </p>
 </li>
 </ol>
-<p><strong><em><u>eTeens</u></em><u>&nbsp;Programme</u></strong>:</p>
-<p><em>eTeens</em>&nbsp;is a programme developed by Health Promotion Board,
-in collaboration with the Ministry of Education, to provide Secondary 3
-students with accurate information on STIs, HIV and protection from a health
-perspective.&nbsp;<em>eTeens</em>&nbsp;is conducted in two segments – a
-mass talk segment and a classroom-based programme. The desired outcome
-of the&nbsp;<em>eTeens</em>&nbsp;programme is that students are empowered
-to make wise, informed and sensible decisions.</p>
+<h4><strong><em><u>eTeens</u></em><u>&nbsp;Programme</u></strong>:</h4>
+<ol start="8" data-tight="true" class="tight">
+<li>
+<p><em>eTeens is a programme that was developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. With the formation of the Communicable Diseases Agency (CDA) on 1 April 2025, the programme would now be managed by CDA’s Training and Education Division instead of HPB. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions to protect themselves from sexually transmitted infectious diseases.</em>
+</p>
+<p></p>
+</li>
+<li>
 <p>Students are taught skills such as decision-making, assertiveness and
 negotiation to say “no” to sex and negative peer pressure. They also learn
 that the impact of STIs/HIV extends beyond themselves and involves their
 family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
+</li>
+</ol>
 <p>
-<br><strong>At CHIJ Katong Convent, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2025:</strong>
+<br><strong>At CHIJ Katong Convent, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2026:</strong>
 <br>
 </p>
 <table style="minWidth: 75px">
@@ -139,15 +141,18 @@ Abstinence and upholding family values are the key messages.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mass Talk delivered
-<br>through a pre-recorded video</p>
+<p>Mass Talk delivered through a pre-recorded video</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>• Raise awareness and provide knowledge on:</p>
-<p>a) Infectious diseases (STIs and HIV):
-<br>what it is, how it spreads, how to prevent infection mainly through ABC
-(abstinence, being faithful, correct, and consistent condom use).</p>
-<p>b) Managing relationships and risky situations in a healthy way.</p>
+<p>a) Sexually transmitted infectious diseases (STIs and HIV): what it is,
+how it spreads, how to prevent infection mainly through ABC (abstinence,
+being faithful, correct, and consistent condom use), consequences and impact</p>
+<p>b) Skills for respecting boundaries (e.g. decision-making, assertiveness,
+negotiation to say ‘no’ to peer pressure)</p>
+<p>c) Managing relationships and risky situations in a healthy way, including
+avenues for help-seeking.</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 7</p>
@@ -169,31 +174,35 @@ of assertiveness and responsible decision-making</p>
 </tbody>
 </table>
 <p></p>
-<p><strong>Information for Parents</strong>
-</p>
-<ul>
+<h4><strong>Information for Parents</strong></h4>
+<ol start="10" data-tight="true" class="tight">
 <li>
-<p>Parents may opt their children out of the Sexuality Education lessons,&nbsp;<em>eTeens</em>&nbsp;and/or
+<p>Parents may opt their children out of the Sexuality Education lessons, <em>eTeens</em> and/or
 supplementary sexuality education programmes by MOE-approved external providers.</p>
+<p></p>
 </li>
 <li>
-<p>Parents who wish to opt their children out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need
+<p>Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable&nbsp;<strong><a href="https://www.chijkatongconvent.moe.edu.sg/files/Student%20Development/Sexuality%20Education/annex_A_parent_opt_out_form_hard_copy_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong>.
-The completed form is to be submitted by 05/02/2025.</p>
+at the start of the year and is also available <strong><a href="/files/Student Development/Sexuality Education/Annex_A_parent_s_SEd_opt_out_form_2026.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong>.
+The completed form is to be submitted by 05/02/2026.</p>
+<p></p>
 </li>
 <li>
-<p>Parents who wish to opt their children out of the&nbsp;<strong><em>eTeens</em>&nbsp;programme</strong>&nbsp;need
+<p>Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable&nbsp;<strong><a href="https://www.chijkatongconvent.moe.edu.sg/files/Student%20Development/Sexuality%20Education/Annex_B_eTeens_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong>.
-The completed form is to be submitted by 05/02/2025.</p>
+at the start of the year and is also available <strong><a href="/files/Student Development/Sexuality Education/ANNEX_B_eTeen_2026.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong>.&nbsp;
+The completed form is to be submitted by 05/02/2026.</p>
+<p></p>
 </li>
-</ul>
-<p>Parents who would like to discuss or seek clarification about the school’s
-Sexuality Education programme can contact the school at
-<br>- Ms Sandra Ezekiel at either 6448 6433 ext. 323 or via email (<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank"><u>liew_pui_yen_sandra@moe.edu.sg</u></a>)
-or
-<br>- Ms Cheryl Anne Lim at 64486433 ext. 138 or via email (<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank"><u>lim_su_ying_cheryl@moe.edu.sg</u></a>).</p>
+<li>
+<p>Parents can contact the school at Ms Sandra Ezekiel at either 64486433
+ext. 323 or via email (<a href="mailto:liew_pui_yen_sandra@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liew_pui_yen_sandra@moe.edu.sg</a>)
+or Ms Cheryl Ann Lim at 64486433 ext.138 or via email(<a href="mailto:liew_pui_yen_sandra@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_su_ying_cheryl@moe.edu.sg</a>)for
+discussion or to seek clarification about the school’s Sexuality Education
+programme.</p>
+</li>
+</ol>
 <p>
 <br>
 </p>
