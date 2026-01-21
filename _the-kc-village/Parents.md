@@ -71,56 +71,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>Parent Engagement Briefing Slides</h4>
-<table style="minWidth: 100px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Sec 1</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Sec 2</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Sec 3</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Sec 4 &amp; 5</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/KC Village/Parents/CCA_Sharing_Sec_1_Parent_Engagement_2026.pdf" rel="noopener nofollow" target="_blank">CCA Sharing_Sec 1 Parent Engagement</a>
-<br><a href="/files/KC Village/Parents/KC_PLD_Briefing_to_Parents_2026.pdf" rel="noopener nofollow" target="_blank">KC PLD Briefing to Parents</a>
-<br><a href="/files/KC Village/Parents/Principal_s_Address_2026_Sec_1_Parent_Engagement.pdf" rel="noopener nofollow" target="_blank">Principal's Address_2026 Sec 1 Parent Engagement</a>
-<br><a href="/files/KC Village/Parents/YH_Sharing_Sec_1_Parent_Engagement_2026.pdf" rel="noopener nofollow" target="_blank">YH Sharing_Sec 1 Parent Engagement</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/KC Village/Parents/Year_Head_Address.pdf" rel="noopener nofollow" target="_blank">Year Head Address</a>
-<br><a href="/files/KC Village/Parents/Supporting_Your_Child_Through_Adolescence.pdf" rel="noopener nofollow" target="_blank">Supporting Your Child Through Adolescence</a>
-<br><a href="/files/KC Village/Parents/Principal_s_Address.pdf" rel="noopener nofollow" target="_blank">Principal's Address</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h4>Class Timetables</h4>
 <table style="minWidth: 100px">
 <colgroup>
@@ -182,16 +132,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="/files/KC Village/Parents/Weighted Assessment/Term_1_Sec_1_Weighted_Assessment_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">Sec 1 WA Schedule</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="/files/KC Village/Parents/Weighted Assessment/Term_1_Sec_2_Weighted_Assessment_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">Sec 2 WA Schedule</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="/files/KC Village/Parents/Weighted Assessment/Term_1_Sec_3_Weighted_Assessment_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">Sec 3 WA Schedule</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="/files/KC Village/Parents/Weighted Assessment/Term_1_Sec_4___5_Weighted_Assessment_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5 WA Schedule</a>
+</p>
 </td>
 </tr>
 </tbody>
