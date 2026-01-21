@@ -132,16 +132,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="/files/KC Village/Parents/Weighted Assessment/Term_1_Sec_1_Weighted_Assessment_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">Sec 1 WA Schedule</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="/files/KC Village/Parents/Weighted Assessment/Term_1_Sec_2_Weighted_Assessment_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">Sec 2 WA Schedule</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="/files/KC Village/Parents/Weighted Assessment/Term_1_Sec_3_Weighted_Assessment_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">Sec 3 WA Schedule</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="/files/KC Village/Parents/Weighted Assessment/Term_1_Sec_4___5_Weighted_Assessment_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5 WA Schedule</a>
+</p>
 </td>
 </tr>
 </tbody>
