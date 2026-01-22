@@ -93,7 +93,7 @@ issues related to sexuality, which are of prime concern at this age.
 be taught in 2026:</p>
 <p>Please see below for the schedule of the lessons from Sec 1 to 5.</p>
 <p>
-<br><strong>Download the</strong>&nbsp;<strong><a href="/files/Student Development/Sexuality Education/Sec_1_to_5_Sexuality_Education_Lesson_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">Sec 1 to 5 Sexuality Education Lesson Schedule 2026</a></strong>
+<br><strong>Download the</strong>&nbsp;<strong><a href="/files/Student Development/Sexuality Education/Sec_1_to_5_Sexuality_Education_Lesson_Schedule_2026_v2.pdf" rel="noopener nofollow" target="_blank">Sec 1 to 5 Sexuality Education Lesson Schedule 2026</a></strong>
 </p>
 </li>
 </ol>
