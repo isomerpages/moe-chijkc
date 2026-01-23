@@ -126,7 +126,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="4">
-<p><strong>Assessment Weighting &amp; Components</strong> 
+<p><strong>Assessment Weighting &amp; Components</strong>
 </p>
 </td>
 </tr>
