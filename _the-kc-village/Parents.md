@@ -126,6 +126,30 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="4">
+<p><strong>Assessment Weighting &amp; Components</strong> 
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/KC Village/Parents/Weighted Assessment/Assessment_Weighting___Components_2026__Sec_1_updated_23_Jan_.pdf" rel="noopener nofollow" target="_blank">Sec 1</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/KC Village/Parents/Weighted Assessment/Assessment_Weighting___Components_2026__Sec_2_.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/KC Village/Parents/Weighted Assessment/Assessment_Weighting___Components_2026__Sec_3_.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/KC Village/Parents/Weighted Assessment/Assessment_Weighting___Components_2026__Sec_4___5_.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
 <p><strong>WA 1</strong>
 </p>
 </td>
