@@ -47,8 +47,8 @@ links:
         url: /learning/fsbb/
       - title: SLS Support for HBL
         url: /learning/sls/
-      - title: Student iCON & Zoom
-        url: /learning/iconnzoom
+      - title: Student iCON
+        url: /learning/icon
   - title: Student Development
     url: /student-development/via/
     sublinks:
