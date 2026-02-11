@@ -6,7 +6,7 @@ third_nav_title: Performing Arts
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="569" width="946" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQqZhuj1obKQNy2wgGz79VWYngukk7koifvY1jMXJtnc-1caAGYtqoqm95jp-ihPA/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="946" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQqZhuj1obKQNy2wgGz79VWYngukk7koifvY1jMXJtnc-1caAGYtqoqm95jp-ihPA/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <h4>Objectives</h4>
 <ul data-tight="true" class="tight">
@@ -40,6 +40,35 @@ variant: tiptap
 <br>Refinement of music making
 <br>(Through focused group training, sectionals, combined rehearsals, performances)</p>
 <h4>Achievements</h4>
+<p><strong>2025</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singapore Youth Festival Arts Presentation (Certificate of Distinction)</p>
+</li>
+<li>
+<p>KC 95 Combined Mass at Church of the Holy Family</p>
+</li>
+<li>
+<p>Joint Tuition Awards Ceremony (Performance) at Ngee Ann Polytechnic</p>
+</li>
+<li>
+<p>KC Homecoming Production</p>
+</li>
+</ul>
+<p><strong>2024</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Spring Harmonies: Heaven and Earth (Concert)</p>
+</li>
+<li>
+<p>IJ170 Celebration Combined Choir at National Stadium</p>
+</li>
+<li>
+<p>KC &amp; SJI Choir Concert - To Life We Sing!</p>
+</li>
+</ul>
 <p><strong>2023</strong>
 </p>
 <ul data-tight="true" class="tight">
