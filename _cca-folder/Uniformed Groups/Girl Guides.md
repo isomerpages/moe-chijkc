@@ -6,7 +6,7 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="569" width="950" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRkv28YKy7A54q8kcKawcrXdOfXJ1Q6-EjVMqzm8QbrBkwXgu18pvsm0aMgyk332Q/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="950" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRkv28YKy7A54q8kcKawcrXdOfXJ1Q6-EjVMqzm8QbrBkwXgu18pvsm0aMgyk332Q/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <h4>Objectives</h4>
 <ul data-tight="true" class="tight">
@@ -90,10 +90,16 @@ Kayaking (2023), Rockclimbing (2024)</p>
 <li>
 <p>East Division Advocacy Booth Competition - Merit</p>
 </li>
+<li>
+<p>GIRL Adventure (Japan)</p>
+</li>
 </ul>
 <p><strong>2024</strong>
 </p>
 <ul data-tight="true" class="tight">
+<li>
+<p>Puan Noor Aishah Gold Award</p>
+</li>
 <li>
 <p>Baden Powell Award (Sophia Catherine Capel)</p>
 </li>
