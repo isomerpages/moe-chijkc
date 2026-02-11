@@ -4,7 +4,7 @@ permalink: /CCA/cca-schedule/
 description: ""
 variant: tiptap
 ---
-<h5>CCA TRAINING VENUE AND DAYS 2025</h5>
+<h5>CCA TRAINING VENUE AND DAYS 2026</h5>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -108,7 +108,7 @@ variant: tiptap
 <p>Chinese Orchestra</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School AVA Room</p>
+<p>AVA Room</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wed &amp; Fri</p>
@@ -119,7 +119,7 @@ variant: tiptap
 <p>Choir</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Music Room</p>
+<p>Music Room</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wed &amp; Fri</p>
@@ -130,7 +130,7 @@ variant: tiptap
 <p>Concert Band</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Band Room</p>
+<p>Band Room</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wed &amp; Fri</p>
