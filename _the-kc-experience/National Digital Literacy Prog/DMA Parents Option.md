@@ -8,15 +8,15 @@ variant: tiptap
 <h4>DMA Parents Option Guide for Chromebook (Updated Dec 2025)</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/KC Experience/NDLP/DMA Options/default_option_chromebook_dma_parent_guide_2025.pdf" rel="noopener nofollow" target="_blank">Default Option</a>
+<p><a href="/files/KC Experience/NDLP/DMA Options/ChromeOS_DMA_Parent_Default_Option.pdf" rel="noopener nofollow" target="_blank">Default Option</a>
 </p>
 </li>
 <li>
-<p><a href="/files/KC Experience/NDLP/DMA Options/option_a_chromebook_dma_parent_guide_2025.pdf" rel="noopener nofollow" target="_blank">Option A</a>
+<p><a href="/files/KC Experience/NDLP/DMA Options/ChromeOS_DMA_Parent_Option_A.pdf" rel="noopener nofollow" target="_blank">Option A</a>
 </p>
 </li>
 <li>
-<p><a href="/files/KC Experience/NDLP/DMA Options/option_b_chromebook_dma_parent_guide_2025.pdf" rel="noopener nofollow" target="_blank">Option B</a>
+<p><a href="/files/KC Experience/NDLP/DMA Options/ChromeOS_DMA_Parent_Option_B.pdf" rel="noopener nofollow" target="_blank">Option B</a>
 <br>
 </p>
 </li>
