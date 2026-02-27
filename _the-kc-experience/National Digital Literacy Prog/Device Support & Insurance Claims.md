@@ -113,7 +113,7 @@ or insurance claims for their devices:</p>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>Acer Service Center</strong>
+<p><strong>Acer Computer (Singapore) Pte Ltd</strong>
 </p>
 </th>
 </tr>
@@ -133,17 +133,24 @@ or insurance claims for their devices:</p>
 <br>(For buying of accessories)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Helpdesk Phone: 6895 6278
-<br>Address:&nbsp;<strong>29 International Business Park</strong> 
-<br><strong>Singapore 609923</strong>
-<br>(1.1Km from Jurong East MRT Station)
-<br>
-<br>Opening Hours:
-<br>Mon - Fri (<strong>Except Wed</strong>): 0845 – 1715
-<br>Wed : 0845 - 1945
-<br>Sat: 0900 – 1200
-<br>
-<br>Closed on Sun and Public Holidays</p>
+<p>10 Toh Guan Road</p>
+<p>#05-06 (Lobby C)</p>
+<p>Singapore 608838</p>
+<p>
+<br><strong>Service Centre Operating Hours</strong>:</p>
+<p>Monday to Friday: 8:45 a.m. to 5:15 p.m.</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Extended Hours</strong>: Wednesday: 5:15 p.m. to 7:45 p.m.</p>
+</li>
+<li>
+<p><strong>Saturday</strong>: 9:00 a.m. to 12:00 p.m.</p>
+</li>
+</ul>
+<p>
+<br>(Closed on Sundays and Public Holidays)</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -158,7 +165,7 @@ or insurance claims for their devices:</p>
 </table>
 <h4>Acer Service Center location</h4>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/Acer Service Center.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KC Experience/NDLP/Acer_Service_Centre.png">
 </div>
 <h4>Fortnightly Collection Service</h4>
 <p>Students can hand their damaged devices to the school-based ICT Service
