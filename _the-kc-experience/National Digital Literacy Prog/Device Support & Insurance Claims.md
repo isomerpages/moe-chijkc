@@ -165,7 +165,7 @@ or insurance claims for their devices:</p>
 </table>
 <h4>Acer Service Center location</h4>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/Acer Service Center.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KC Experience/NDLP/Acer_Service_Centre.png">
 </div>
 <h4>Fortnightly Collection Service</h4>
 <p>Students can hand their damaged devices to the school-based ICT Service
