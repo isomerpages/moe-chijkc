@@ -54,6 +54,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Vice-Principal (Administration)</strong>
+<br>Ms Corie Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br><a href="mailto:lee_li_ching_corie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_li_ching_corie@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
