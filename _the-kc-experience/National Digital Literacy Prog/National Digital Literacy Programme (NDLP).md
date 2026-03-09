@@ -239,7 +239,7 @@ be useful in answering most of your queries.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6448 6433
-<br>(Mr Tan Hong Yak/ Mr Kevin Yan)</p>
+<br>(Mr Kevin Yan / Mr Gary Chua)</p>
 </td>
 </tr>
 <tr>
