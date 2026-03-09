@@ -317,7 +317,9 @@ insurance (coverage against damage and loss/theft), the replacement device
 will have to be paid for by the parents/student.</p>
 <p>26 . <strong>What if the student loses the device?</strong>
 <br>The PLD is bundled with 3-year insurance and 3-year warranty, which allows
-for two repairs or one replacement.</p>
+for two repairs or one replacement.
+<br>PLDs purchased from 2026 onwards will come with an enhanced package -
+a 4-year warranty and 4-year insurance.</p>
 <p>The insurance coverage is only applicable to situations of damage and
 loss where the student has taken precautions to safeguard the device. A
 police report will have to be made for the insurance claim. Accidental
