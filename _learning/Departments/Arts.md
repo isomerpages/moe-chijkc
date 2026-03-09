@@ -6,7 +6,7 @@ third_nav_title: Departments
 variant: tiptap
 ---
 <div class="iframe-wrapper">
-<iframe height="450" width="735" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTn28F4SHRWFz5idqziW-Rb6jJ3CO3H3PoGqhtA2HYqjdlzmbmi2d2yWMCEmijzGQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="450" width="735" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTn28F4SHRWFz5idqziW-Rb6jJ3CO3H3PoGqhtA2HYqjdlzmbmi2d2yWMCEmijzGQ/pubembed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4>Our Goals</h4>
 <p>In Katong Convent, we believe Art is essential in equipping students for
@@ -45,7 +45,6 @@ peers and contemporary artists alike.</p>
 curation of their own portfolio of work. This body of work should come
 to represent their journey as student artists, and is both a commemoration
 and celebration of their artistic growth.</p>
-<p></p>
 <h4>Enhanced Art Programme (EAP)</h4>
 <p>The Enhanced Art Programme is an MOE-supported special Art programme which
 distinguishes the upper sec art curriculum in nine selected schools across

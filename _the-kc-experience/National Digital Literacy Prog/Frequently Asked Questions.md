@@ -141,7 +141,7 @@ that matches her financial situation, if applicable. MOE FAS do not need
 to apply for subsidy.</p>
 <p>Other Singapore Citizens, Permanent Residents and International Students
 who require financial assistance and meet the income criteria of Gross
-Household Income (GHI) $4,400 or less, or Per Capita Income (PCI) $1,100
+Household Income (GHI) $5,700 or less, or Per Capita Income (PCI) $1,375
 or less, may apply for financial assistance through the General Office.</p>
 <p>If you are recently retrenched, please produce a “Letter of Retrenchment”
 from your company. When assessing GHI and PCI of needy International Students,
@@ -253,7 +253,7 @@ on IMDA’s digital access schemes can be found at&nbsp;<a href="https://www.imd
 <br>The school will make arrangement for students to collect their devices
 in the school.</p>
 <p>17 . <strong>When will the girls get their PLD?</strong>
-<br>The PLDs are projected to be delivered in March 2025.</p>
+<br>The PLDs are projected to be delivered in March.</p>
 <p>18 .&nbsp;<strong>Will the school let the child know what to look out for when collecting the PLD?</strong>
 <br>A briefing will be conducted for all students on the PLDs. Students will
 learn more about their PLDs in this briefing.</p>
@@ -317,7 +317,9 @@ insurance (coverage against damage and loss/theft), the replacement device
 will have to be paid for by the parents/student.</p>
 <p>26 . <strong>What if the student loses the device?</strong>
 <br>The PLD is bundled with 3-year insurance and 3-year warranty, which allows
-for two repairs or one replacement.</p>
+for two repairs or one replacement.
+<br>PLDs purchased from 2026 onwards will come with an enhanced package -
+a 4-year warranty and 4-year insurance.</p>
 <p>The insurance coverage is only applicable to situations of damage and
 loss where the student has taken precautions to safeguard the device. A
 police report will have to be made for the insurance claim. Accidental

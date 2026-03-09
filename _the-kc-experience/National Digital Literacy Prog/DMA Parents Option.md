@@ -24,10 +24,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/KC Experience/NDLP/Slide1.png">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/KC Experience/NDLP/Slide2.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://go.gov.sg/kcdma"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/KC Experience/NDLP/Slide2.png"></a>
 <p></p>
 <h4><strong>Option A</strong></h4>
 <p>For Parents who have chosen&nbsp;Option A, please refer to the DMA Parent
