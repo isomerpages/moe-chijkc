@@ -253,7 +253,7 @@ on IMDA’s digital access schemes can be found at&nbsp;<a href="https://www.imd
 <br>The school will make arrangement for students to collect their devices
 in the school.</p>
 <p>17 . <strong>When will the girls get their PLD?</strong>
-<br>The PLDs are projected to be delivered in March 2025.</p>
+<br>The PLDs are projected to be delivered in March.</p>
 <p>18 .&nbsp;<strong>Will the school let the child know what to look out for when collecting the PLD?</strong>
 <br>A briefing will be conducted for all students on the PLDs. Students will
 learn more about their PLDs in this briefing.</p>
