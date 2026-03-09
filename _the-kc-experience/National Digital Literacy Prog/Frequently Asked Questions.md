@@ -141,7 +141,7 @@ that matches her financial situation, if applicable. MOE FAS do not need
 to apply for subsidy.</p>
 <p>Other Singapore Citizens, Permanent Residents and International Students
 who require financial assistance and meet the income criteria of Gross
-Household Income (GHI) $4,400 or less, or Per Capita Income (PCI) $1,100
+Household Income (GHI) $5,700 or less, or Per Capita Income (PCI) $1,375
 or less, may apply for financial assistance through the General Office.</p>
 <p>If you are recently retrenched, please produce a “Letter of Retrenchment”
 from your company. When assessing GHI and PCI of needy International Students,
