@@ -129,55 +129,54 @@ General Office for a hardcopy version and submit it to the General Office.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Students eligible for subsidy</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Income criteria</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>How to Apply for subsidy</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Students under MOE FAS</p>
+<p><strong>Students Eligible for subsidy</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>G</strong>ross&nbsp;<strong>H</strong>ousehold&nbsp;<strong>I</strong>ncome
-("<strong>GHI</strong>")
-<br>is $3,000 or less or
-<br><strong>P</strong>er&nbsp;<strong>C</strong>apit&nbsp;<strong>I</strong>ncome
-("<strong>PCI</strong>")* is $750 or less</p>
+<p><strong>Income Criteria</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>No action required.
-<br>Automatically subsidised for the PLD.</p>
+<p><strong>Subsidy provided</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Students under School-based FAS</p>
+<p>MOE Financial Assistance Scheme</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>GHI</strong>&nbsp;is $4,400 or less, or
-<br><strong>PCI</strong>&nbsp;is $1,100 or less</p>
+<p>Gross Household Income (GHI) ≤ $4,000, or
+<br>Per Capita Income (PCI) ≤ $1,000</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Approach the school's General Office to apply for a subsidy.</p>
+<p>Cash out-of-pocket is $0.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Students who are currently&nbsp;not&nbsp;under MOE FAS or School-based
-FAS</p>
+<p>School based Financial Assistance Scheme</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>GHI</strong>&nbsp;is $4,400 or less, or
-<br><strong>PCI</strong>&nbsp;is $1,100 or less</p>
+<p>$4,000 &lt; Gross Household Income (GHI) ≤ $5,500, or&nbsp;
+<br>$1,000 &lt; Per Capita Income (PCI) ≤ $1,375&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Approach the school's General Office to apply for a subsidy.</p>
+<p>Cash out-of-pocket is not more than $50.</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students not on MOE FAS or School Based FAS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gross Household Income (GHI) is below $5,500 or
+<br>Per Capita Income (PCI) is below $1,375.&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Approach our General Office to apply for a subsidy.</p>
 </td>
 </tr>
 <tr>
