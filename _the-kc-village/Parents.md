@@ -52,7 +52,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/KC Village/Parents/Letters To Parents/KC_Term_2_Letter_to_Parents_Guardians_2026_final.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 2</a>
+</p>
 </td>
 </tr>
 <tr>
