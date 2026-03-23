@@ -83,25 +83,25 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="4">
-<p><strong>Semester I </strong><em>(Updated on 02 Jan 2026)</em>
+<p><strong>Semester I </strong><em>(Updated on </em><strong><em>23 Mar 2026</em></strong><em>)</em>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/KC Village/Parents/TimeTables/Sec_1_2026_Sem1_TT.pdf" rel="noopener nofollow" target="_blank">Sec 1</a>
+<p><a href="/files/KC Village/Parents/TimeTables/Sec_1_2026_Sem_1_TT_19_Mar_1545_Class.pdf" rel="noopener nofollow" target="_blank">Sec 1</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/KC Village/Parents/TimeTables/Sec_2_2026_Sem1_TT.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
+<p><a href="/files/KC Village/Parents/TimeTables/Sec_2_2026_Sem_1_TT_19_Mar_1545_Class_2.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/KC Village/Parents/TimeTables/Sec_3_2026_Sem1_TT.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>
+<p><a href="/files/KC Village/Parents/TimeTables/Sec_3_2026_Sem_1_TT_19_Mar_1545_Class_3.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/KC Village/Parents/TimeTables/Sec_4n5_2026_Sem1_TT.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5</a>
+<p><a href="/files/KC Village/Parents/TimeTables/Sec_4_5_2026_Sem_1_TT_19_Mar_1545_Class.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5</a>
 </p>
 </td>
 </tr>
