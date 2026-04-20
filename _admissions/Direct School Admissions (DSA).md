@@ -13,21 +13,20 @@ dynamic and vibrant community at KC.
 <br>Please click on the Main DSA Category to access the respective Talent
 Area for the Criteria and Selection<strong>*</strong>.
 <br>
-<br>1 . <a href="/files/Admissions/Direct School Admissions (DSA)/Performing_Arts.pdf" rel="noopener noreferrer nofollow" target="_blank">Performing Arts</a>;
+<br>1 . <a href="/files/Admissions/Direct School Admissions (DSA)/Performing_Arts_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Performing Arts</a>;
 or
-<br>2 . <a href="/files/Admissions/Direct School Admissions (DSA)/Sports_and_Games.pdf" rel="noopener noreferrer nofollow" target="_blank">Sports and Games</a>;
+<br>2 . <a href="/files/Admissions/Direct School Admissions (DSA)/Sports_and_Games_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Sports and Games</a>;
 or
-<br>3 . <a href="/files/Admissions/Direct School Admissions (DSA)/Language_and_Humanities.pdf" rel="noopener noreferrer nofollow" target="_blank">Language and Humanities</a>;
+<br>3 . <a href="/files/Admissions/Direct School Admissions (DSA)/Language_and_Humanities_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Language and Humanities</a>;
 or
-<br>4 . <a href="/files/Admissions/Direct School Admissions (DSA)/Visual_Arts__Design_and_Media.pdf" rel="noopener noreferrer nofollow" target="_blank">Visual Arts, Design and Media</a> 
+<br>4 . <a href="/files/Admissions/Direct School Admissions (DSA)/Visual_Arts__Design_and_Media_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Visual Arts, Design and Media</a> 
 <br>
 </p>
 <p>Applicants who do not have prior experience may also apply. The school
 will assess applicants based on the selection criteria, which may include
-assessing the potential of the applicants.
-<br>
-<br><strong><em>*</em></strong><em>meeting all the criteria does not guarantee the student will be shortlisted/given an offer.</em>
-</p>
+assessing the potential of the applicants.</p>
+<p>*meeting all the criteria does not guarantee the student will be shortlisted/given
+an offer.</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -127,8 +126,9 @@ media.</p>
 </table>
 <h4>Application Procedure</h4>
 <p>Application for DSA-Sec can be submitted through the online DSA-Sec Portal.
-The application is free-of-charge and will be open from <strong>7 May 2025</strong>, <strong>11am to 3 Jun 2025, 3pm</strong>.
-For more details, please refer to MOE website – <strong><a href="http://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a></strong>.</p>
+The application is free-of-charge and will be open from 6 May 2026, 11am
+to 2 Jun 2026, 4.30pm. For more details, please refer to MOE website –
+<a href="" rel="noopener nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a>.</p>
 <p>Parents and students are encouraged to choose schools wisely based on
 the student’s aptitudes and strengths, bearing in mind the schools’ academic
 and non-academic requirements, and the programmes available to develop
@@ -136,13 +136,13 @@ the area of talent.</p>
 <p>Students who are successfully admitted to the school via DSA are required
 to honour their commitment to the school and participate in the activities
 related to the talent they are selected for throughout their years in the
-school.
-<br>
-<br>All applicants will receive their application outcomes between <strong>25 Aug and 4 Sep 2025</strong>.</p>
+school.</p>
+<p>All applicants will receive their application outcomes between <strong>17 and 28 Aug 2026</strong>.</p>
+<p></p>
 <h4>Contact Details</h4>
 <p>DSA School Co-Ordinator</p>
 <p>&nbsp;Mr Chua Soon Heng
 <br>Tel: 6448 6433
 <br>Email: <a rel="noopener noreferrer nofollow" target="_blank">chua_soon_heng@moe.edu.sg</a> 
-<br><em>(Please include in email subject as </em><strong><em>2025 DSA CHIJ KC_&lt;talent area&gt;</em></strong><em>)</em>
+<br><em>(Please include in email subject as </em><strong><em>2026 DSA CHIJ KC_&lt;talent area&gt;</em></strong><em>)</em>
 </p>
