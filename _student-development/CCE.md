@@ -153,7 +153,7 @@ through level camps:</p>
 </div>
 <p><em>Figure 2 Learning about cyber kindness through Cyberwellness Assembly Programme</em>
 </p>
-<p>You may click&nbsp;<strong><a href="https://www.moe.gov.sg/-/media/files/secondary/syllabuses/cce/2021-character-and-citizenship-education-syllabus-secondary.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong>&nbsp;for
+<p>You may click&nbsp;<strong><a href="https://www.moe.gov.sg/api/media/8d605f5c-1812-4439-827d-18033eba1356/2021-Character-and-Citizenship-Education-Syllabus-Secondary.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a></strong>&nbsp;for
 more information on MOE’s CCE syllabus.</p>
 <p>
 <br><strong>Underpinned by IJ and KC Values</strong>
