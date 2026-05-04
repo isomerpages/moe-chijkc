@@ -10,7 +10,7 @@ application (not on first-come-first-serve) to the school for consideration.</p>
 <p>As vacancies are limited, the school will contact you via phone or email
 when there is a vacancy for your daughter/ward.</p>
 <p><strong>How do I apply?</strong>
-<br>Application will be open on<strong> 24 October 2025</strong> and to be
+<br>Application will be open on<strong> 23 October 2026</strong> and to be
 done strictly via this link -&nbsp;<a href="https://go.gov.sg/transferrequest2026" rel="noopener noreferrer nofollow" target="_blank">Transfer Request</a>.
 <br>Please note that only short-listed applicants will be notified to submit
 documents (for eg. applicant's BC, parents'/guardian's NRICs etc) for verification.</p>
