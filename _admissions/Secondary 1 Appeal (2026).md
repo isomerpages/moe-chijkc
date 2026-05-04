@@ -16,4 +16,4 @@ and to be done strictly via this link -&nbsp;<a href="https://form.gov.sg/5e8ec0
 <p><strong>For clarification</strong>
 <br>Should you have any general queries, please contact the General Office
 at Tel: 6448 6433 during office hours or email to&nbsp;<a href="mailto:chijktcs@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chijktcs@moe.edu.sg</a>&nbsp;(indicate
-in the subject header “Sec 1 Appeal 2026”).</p>
+in the subject header “Sec 1 Appeal”).</p>
