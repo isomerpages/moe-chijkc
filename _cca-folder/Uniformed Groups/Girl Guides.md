@@ -74,10 +74,30 @@ Kayaking (2023), Rockclimbing (2024)</p>
 <p>World Thinking Day Celebrations</p>
 </li>
 </ul>
-<h4>Achievements (Last 5 years)</h4>
+<h4>Achievements (Last 6 years)</h4>
+<p><strong>2026</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Olave St Claire Award 2026 (Marissa-Faith Heng)</p>
+</li>
+<li>
+<p>East Division Advocacy Booth Competition (Display) - Merit</p>
+</li>
+<li>
+<p>East Division Advocacy Booth Competition (Presentation) - Gold</p>
+</li>
+</ul>
 <p><strong>2025</strong>
 </p>
 <ul data-tight="true" class="tight">
+<li>
+<p>Puan Noor Aishah Gold Award</p>
+</li>
+<li>
+<p>Uniformed Group Social Media Challenge 2025 - winning entry representing
+Girl Guides</p>
+</li>
 <li>
 <p>East Division Recycled Fashion Competition - 2nd</p>
 </li>
