@@ -7,8 +7,5 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/final_2026_DSA_MOTD_csh.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://for.edu.sg/chijkc-eopenhouse2026"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Announcements/final_2026_DSA_MOTD_csh.jpg"></a>
 <p></p>
