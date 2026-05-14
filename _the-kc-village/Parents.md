@@ -237,7 +237,8 @@ variant: tiptap
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-</p>
+<p><a href="/files/KC Village/Parents/Letters To Parents/2026_4NA_NT_Prelim_Exam_Letter_to_Parents_and_TT_STUDENT_COPY_FINAL.pdf" rel="noopener noreferrer nofollow" target="_blank">4NA &amp; 4NT</a>
+</p>
 </td>
 </tr>
 </tbody>
