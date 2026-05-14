@@ -33,11 +33,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Operations Manager</strong> 
-<br>Mr Lai Chun Hoong</p>
+<br>Mr Abdul Latiff A Majeed</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br><a href="lai_chun_hoong_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lai_chun_hoong_a@moe.edu.sg</a>
+<br><a href="mailto:abdul_latiff_a_majeed_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">abdul_latiff_a_majeed_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -107,6 +107,7 @@ variant: tiptap
 <br>Mdm Ng Ka Hoon
 <br>Mdm Nurlina May
 <br>Mr Tan Chew Seng</p>
+<p>Mr Cheong Hack Cheau</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
@@ -114,6 +115,7 @@ variant: tiptap
 <br>NA
 <br>NA
 <br>NA</p>
+<p>NA</p>
 </td>
 </tr>
 <tr>
