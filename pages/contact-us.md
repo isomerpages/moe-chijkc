@@ -10,7 +10,7 @@ locations:
       - ""
     operating_hours:
       - days: Mon - Fri
-        time: 8.30am - 6.00pm
+        time: 7.00am - 6.00pm
         description: Closed on Weekends & Public Holidays
     maps_link: https://maps.app.goo.gl/4dBMpS5ZeZhBQPSr8
     title: Office
