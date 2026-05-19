@@ -420,17 +420,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Character and Citizenship Education</strong> 
-<br>Mrs Helen Lie</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br><a href="mailto:lie_ai_lian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lie_ai_lian@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Educational Support</strong> 
 <br>Mdm Zakiah Subahan</p>
 </td>
