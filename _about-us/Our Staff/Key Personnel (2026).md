@@ -145,11 +145,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mathematics</strong>
-<br>Ms Jacey Lau</p>
+<br>Ms Annie Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br><a href="mailto:lau_soo_ping_jacey@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lau_soo_ping_jacey@moe.edu.sg</a>
+<br><a href="mailto:lim_ai_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_ai_hui@moe.edu.sg</a>
 </p>
 </td>
 </tr>
