@@ -92,31 +92,31 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="4">
-<p><strong>Semester I </strong><em>(Updated on </em><strong><em>23 Mar 2026</em></strong><em>)</em>
+<p><strong>Semester II </strong><em>(Updated on </em><strong><em>26 Jun 2026</em></strong><em>)</em>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/KC Village/Parents/TimeTables/Sec_1_2026_Sem_1_TT_19_Mar_1545_Class.pdf" rel="noopener nofollow" target="_blank">Sec 1</a>
+<p><a href="/files/KC Village/Parents/TimeTables/2026_Sem_2_TT_26_June_Sec_1.pdf" rel="noopener nofollow" target="_blank">Sec 1</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/KC Village/Parents/TimeTables/Sec_2_2026_Sem_1_TT_19_Mar_1545_Class_2.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
+<p><a href="/files/KC Village/Parents/TimeTables/2026_Sem_2_TT_26_June_Sec_2.pdf" rel="noopener nofollow" target="_blank">Sec 2</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/KC Village/Parents/TimeTables/Sec_3_2026_Sem_1_TT_19_Mar_1545_Class_3.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>
+<p><a href="/files/KC Village/Parents/TimeTables/2026_Sem_2_TT_26_June_Sec_3.pdf" rel="noopener nofollow" target="_blank">Sec 3</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/KC Village/Parents/TimeTables/Sec_4_5_2026_Sem_1_TT_19_Mar_1545_Class.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5</a>
+<p><a href="/files/KC Village/Parents/TimeTables/2026_Sem_2_TT_26_June_Sec_4_5.pdf" rel="noopener nofollow" target="_blank">Sec 4 &amp; 5</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><a href="/files/KC Village/Parents/TimeTables/2026_Semester_1_Afternoon_Lessons.pdf" rel="noopener noreferrer nofollow" target="_blank">Afternoon Lessons for Sec 3 &amp; 4</a>
+<p><a href="/files/KC Village/Parents/TimeTables/2026_Semester_2_Afternoon_Lessons.pdf" rel="noopener noreferrer nofollow" target="_blank">Afternoon Lessons for Sec 2, 3 &amp; 4</a>
 </p>
 </td>
 <td rowspan="1" colspan="2">
