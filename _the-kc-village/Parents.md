@@ -92,7 +92,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="4">
-<p><strong>Semester II </strong><em>(Updated on </em><strong><em>26 Jun 2026</em></strong><em>)</em>
+<p><strong>Semester II </strong><em>(Updated on </em><strong><em>29 Jun 2026</em></strong><em>)</em>
 </p>
 </td>
 </tr>
