@@ -116,7 +116,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><a href="/files/KC Village/Parents/TimeTables/2026_Semester_2_Afternoon_Lessons.pdf" rel="noopener noreferrer nofollow" target="_blank">Afternoon Lessons for Sec 2, 3 &amp; 4</a>
+<p><a href="/files/KC Village/Parents/TimeTables/2026_Semester_2_Afternoon_Lessons__revised_.pdf" rel="noopener noreferrer nofollow" target="_blank">Afternoon Lessons for Sec 2, 3 &amp; 4</a>
 </p>
 </td>
 <td rowspan="1" colspan="2">
