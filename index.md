@@ -14,4 +14,11 @@ sections:
   - resources:
       title: Latest Updates
       button: More
+  - infopic:
+      title: Edusave Character Award Nomination
+      id: infopic
+      button: Click to norminate
+      url: https://go.gov.sg/kc-awards2026
+      image: /images/Announcements/2026_Character_Awards.jpg
+      alt: Character Award Nomination
 ---
