@@ -21,7 +21,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Administration Manager</strong> 
+<p><strong>Administration Manager</strong>
 <br>Mr Tan Wee Hian</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -32,7 +32,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Operations Manager</strong> 
+<p><strong>Operations Manager</strong>
 <br>Mr Abdul Latiff A Majeed</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -43,7 +43,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Administrative Executive</strong> 
+<p><strong>Operations Manager</strong>
+<br>Mr Lim Tse Peng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br><a href="mailto:lim_tse_peng@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_tse_peng@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Administrative Executive</strong>
 <br>Mdm Tan Mui Suan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -54,7 +65,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Administrative Executive</strong> 
+<p><strong>Administrative Executive</strong>
 <br>Ms Jalilah Bibi Haniffa Kunju</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -65,7 +76,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Corporate Support Officer</strong> 
+<p><strong>Corporate Support Officer</strong>
 <br>Ms Audrey Ng
 <br>Mrs Rohaiyah Binte Sharif</p>
 </td>

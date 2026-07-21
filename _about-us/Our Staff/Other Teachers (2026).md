@@ -87,7 +87,8 @@ variant: tiptap
 <p>Ms Chu Shuai Wu Freyja</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p><a href="mailto:chu_shuai_wu@moe.edu.sg" rel="noopener nofollow" target="_blank">chu_shuai_wu@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -95,7 +96,8 @@ variant: tiptap
 <p>Mr Ernest Yeo Zhong Ke</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p><a href="mailto:ernest_yeo_zhong_ke_b@moe.edu.sg" rel="noopener nofollow" target="_blank">ernest_yeo_zhong_ke_b@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -204,6 +206,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sng_wan_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sng_wan_ying@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Mei Sze</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_mei_sze_b@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_mei_sze_b@moe.edu.sg</a>
 </p>
 </td>
 </tr>
