@@ -446,7 +446,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:gan_siew_cheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gan_siew_cheng@moe.edu.sg</a>
-<br><a href="mailto:tan_mei_sze_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_mei_sze_a@moe.edu.sg</a>
+<br><a href="mailto:tan_mei_sze_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_mei_sze_b@moe.edu.sg</a>
 </p>
 </td>
 </tr>
